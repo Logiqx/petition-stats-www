@@ -10,9 +10,9 @@
             "background": "It is a travesty to see uniforms of Her Majesty's Armed Forces corrupted with the flag of the EU, an anti-democratic wannabe superstate which we're thankfully leaving.\r\nMembers of the Armed Forces serve the Monarch and the democratic will of the British People and NOT Mr Juncker or EU technocrats.",
             "additional_details": "UK forces under the EU flag Sept 2018:\r\nhttps://www.youtube.com/watch?v=gZMhx0T9Tfg\r\nThis is very different to badges denoting mission, the UN or NATO - they don't have quasi-Governmental ambitions.\r\nThe EU from its foundation has had an ambition to be a union of states. It is currently a quasi government and is expanding that role.\r\nDecisions go through on a nod with a UK minister present.\r\nThe UK public was not consulted or made aware that UK forces would be wearing EU flags.\r\nWho therefore is in control?",
             "state": "open",
-            "signature_count": 18539,
+            "signature_count": 18542,
             "created_at": "2018-09-13T23:43:17.826Z",
-            "updated_at": "2019-03-26T01:38:15.471Z",
+            "updated_at": "2019-03-26T11:11:07.332Z",
             "rejected_at": null,
             "opened_at": "2018-10-01T12:02:18.581Z",
             "closed_at": null,
@@ -231,7 +231,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 18146
+                    "signature_count": 18149
                 },
                 {
                     "name": "United States",
@@ -1050,7 +1050,7 @@
                     "name": "Buckingham",
                     "ons_code": "E14000608",
                     "mp": "Rt Hon John Bercow MP",
-                    "signature_count": 33
+                    "signature_count": 34
                 },
                 {
                     "name": "Burnley",
@@ -2832,7 +2832,7 @@
                     "name": "Orpington",
                     "ons_code": "E14000872",
                     "mp": "Joseph Johnson MP",
-                    "signature_count": 37
+                    "signature_count": 38
                 },
                 {
                     "name": "Oxford East",
@@ -3804,7 +3804,7 @@
                     "name": "Waveney",
                     "ons_code": "E14001022",
                     "mp": "Peter Aldous MP",
-                    "signature_count": 41
+                    "signature_count": 42
                 },
                 {
                     "name": "Wealden",

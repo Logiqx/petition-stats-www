@@ -10,9 +10,9 @@
             "background": "The Government should implement the following improvements to workers' rights:\r\n\u2022\tA minimum wage of \u00a310 for all workers\r\n\u2022\tA minimum contract of 16 hours per week for everyone who wants it\r\n\u2022\tA contract based on an individual\u2019s normal hours of work\r\n\u2022\tA ban on zero hours contracts",
             "additional_details": "",
             "state": "open",
-            "signature_count": 26761,
+            "signature_count": 26775,
             "created_at": "2018-12-05T10:42:40.970Z",
-            "updated_at": "2019-03-26T09:24:17.889Z",
+            "updated_at": "2019-03-26T11:05:44.669Z",
             "rejected_at": null,
             "opened_at": "2018-12-10T14:32:08.793Z",
             "closed_at": null,
@@ -52,6 +52,11 @@
                     "name": "France",
                     "code": "FR",
                     "signature_count": 5
+                },
+                {
+                    "name": "Germany",
+                    "code": "DE",
+                    "signature_count": 1
                 },
                 {
                     "name": "Gibraltar",
@@ -136,7 +141,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 26699
+                    "signature_count": 26712
                 },
                 {
                     "name": "United States",
@@ -602,7 +607,7 @@
                     "name": "Bermondsey and Old Southwark",
                     "ons_code": "E14000553",
                     "mp": "Neil Coyle MP",
-                    "signature_count": 30
+                    "signature_count": 31
                 },
                 {
                     "name": "Berwick-upon-Tweed",
@@ -668,7 +673,7 @@
                     "name": "Birmingham, Ladywood",
                     "ons_code": "E14000564",
                     "mp": "Shabana Mahmood MP",
-                    "signature_count": 26
+                    "signature_count": 28
                 },
                 {
                     "name": "Birmingham, Northfield",
@@ -902,7 +907,7 @@
                     "name": "Bristol North West",
                     "ons_code": "E14000600",
                     "mp": "Darren Jones MP",
-                    "signature_count": 71
+                    "signature_count": 73
                 },
                 {
                     "name": "Bristol South",
@@ -1364,7 +1369,7 @@
                     "name": "Devizes",
                     "ons_code": "E14000665",
                     "mp": "Rt Hon Claire Perry MP",
-                    "signature_count": 37
+                    "signature_count": 38
                 },
                 {
                     "name": "Dewsbury",
@@ -2072,7 +2077,7 @@
                     "name": "Lagan Valley",
                     "ons_code": "N06000009",
                     "mp": "Rt Hon Sir Jeffrey M. Donaldson MP",
-                    "signature_count": 36
+                    "signature_count": 37
                 },
                 {
                     "name": "Lancaster and Fleetwood",
@@ -2594,7 +2599,7 @@
                     "name": "North Somerset",
                     "ons_code": "E14000850",
                     "mp": "Rt Hon Dr Liam Fox MP",
-                    "signature_count": 46
+                    "signature_count": 47
                 },
                 {
                     "name": "North Swindon",
@@ -2810,7 +2815,7 @@
                     "name": "Portsmouth South",
                     "ons_code": "E14000884",
                     "mp": "Stephen Morgan MP",
-                    "signature_count": 45
+                    "signature_count": 46
                 },
                 {
                     "name": "Preseli Pembrokeshire",
@@ -3302,7 +3307,7 @@
                     "name": "St Helens North",
                     "ons_code": "E14000962",
                     "mp": "Conor McGinn MP",
-                    "signature_count": 82
+                    "signature_count": 83
                 },
                 {
                     "name": "St Helens South and Whiston",
@@ -3344,7 +3349,7 @@
                     "name": "Stockport",
                     "ons_code": "E14000969",
                     "mp": "Ann Coffey MP",
-                    "signature_count": 41
+                    "signature_count": 42
                 },
                 {
                     "name": "Stockton North",
@@ -3686,7 +3691,7 @@
                     "name": "Warwick and Leamington",
                     "ons_code": "E14001019",
                     "mp": "Matt Western MP",
-                    "signature_count": 24
+                    "signature_count": 25
                 },
                 {
                     "name": "Washington and Sunderland West",

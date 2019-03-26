@@ -10,9 +10,9 @@
             "background": "Schools are having to make difficult choices on how to spend their limited funding as their income has not kept pace with the rise in costs since 2010. All schools are working very hard to \u201cmake ends meet\u201d but this is becoming increasingly difficult and verging on almost impossible.",
             "additional_details": "As funding has become tighter, schools have had to cut back on: \r\n\u2022 Teaching and non-teaching staff \r\n\u2022 Support for more vulnerable pupils \r\n\u2022 Small group work for children who are not thriving in school \r\n\u2022 Teaching resources (parents being asked to pay for books and materials) \r\n\u2022 Subject choices in secondary schools \r\n\u2022 Range of activities for primary pupils \r\n\u2022 Extra curricula activities provided free or subsidised \r\n\u2022 Repairs to buildings \r\n\u2022 Renewal of equipment",
             "state": "open",
-            "signature_count": 112119,
+            "signature_count": 112127,
             "created_at": "2018-11-07T14:36:22.821Z",
-            "updated_at": "2019-03-26T09:19:04.294Z",
+            "updated_at": "2019-03-26T11:07:55.739Z",
             "rejected_at": null,
             "opened_at": "2018-11-19T13:31:45.997Z",
             "closed_at": null,
@@ -252,7 +252,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 111835
+                    "signature_count": 111843
                 },
                 {
                     "name": "United States",
@@ -843,7 +843,7 @@
                     "name": "Blackpool South",
                     "ons_code": "E14000573",
                     "mp": "Gordon Marsden MP",
-                    "signature_count": 34
+                    "signature_count": 35
                 },
                 {
                     "name": "Blaenau Gwent",
@@ -1239,7 +1239,7 @@
                     "name": "Chelmsford",
                     "ons_code": "E14000628",
                     "mp": "Vicky Ford MP",
-                    "signature_count": 130
+                    "signature_count": 131
                 },
                 {
                     "name": "Chelsea and Fulham",
@@ -1305,7 +1305,7 @@
                     "name": "Cities of London and Westminster",
                     "ons_code": "E14000639",
                     "mp": "Rt Hon Mark Field MP",
-                    "signature_count": 49
+                    "signature_count": 50
                 },
                 {
                     "name": "City of Chester",
@@ -1323,7 +1323,7 @@
                     "name": "Clacton",
                     "ons_code": "E14000642",
                     "mp": "Giles Watling MP",
-                    "signature_count": 68
+                    "signature_count": 69
                 },
                 {
                     "name": "Cleethorpes",
@@ -2535,7 +2535,7 @@
                     "name": "Neath",
                     "ons_code": "W07000069",
                     "mp": "Christina Rees MP",
-                    "signature_count": 18
+                    "signature_count": 19
                 },
                 {
                     "name": "New Forest East",
@@ -2565,7 +2565,7 @@
                     "name": "Newcastle upon Tyne Central",
                     "ons_code": "E14000831",
                     "mp": "Chi Onwurah MP",
-                    "signature_count": 574
+                    "signature_count": 575
                 },
                 {
                     "name": "Newcastle upon Tyne East",
@@ -2679,7 +2679,7 @@
                     "name": "North East Hertfordshire",
                     "ons_code": "E14000845",
                     "mp": "Rt Hon Sir Oliver Heald QC MP",
-                    "signature_count": 147
+                    "signature_count": 148
                 },
                 {
                     "name": "North East Somerset",
@@ -2769,7 +2769,7 @@
                     "name": "North Wiltshire",
                     "ons_code": "E14000860",
                     "mp": "James Gray MP",
-                    "signature_count": 126
+                    "signature_count": 127
                 },
                 {
                     "name": "Northampton North",

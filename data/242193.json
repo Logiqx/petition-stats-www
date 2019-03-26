@@ -10,9 +10,9 @@
             "background": "If a Member of Parliament decides to leave the party they were elected under, then they should be required by law to call a by-election and stand as an independent or for another party if they wish to remain a sitting MP",
             "additional_details": "",
             "state": "open",
-            "signature_count": 42175,
+            "signature_count": 42181,
             "created_at": "2019-02-18T12:42:31.158Z",
-            "updated_at": "2019-03-26T09:23:37.502Z",
+            "updated_at": "2019-03-26T10:33:07.590Z",
             "rejected_at": null,
             "opened_at": "2019-02-22T12:29:24.386Z",
             "closed_at": null,
@@ -376,7 +376,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 41604
+                    "signature_count": 41610
                 },
                 {
                     "name": "United States",
@@ -524,7 +524,7 @@
                     "name": "Kirkcaldy and Cowdenbeath",
                     "ons_code": "S14000041",
                     "mp": "Lesley Laird MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "Lanark and Hamilton East",
@@ -1322,7 +1322,7 @@
                     "name": "Central Devon",
                     "ons_code": "E14000623",
                     "mp": "Rt Hon Mel Stride MP",
-                    "signature_count": 78
+                    "signature_count": 79
                 },
                 {
                     "name": "Central Suffolk and North Ipswich",
@@ -1796,7 +1796,7 @@
                     "name": "Epsom and Ewell",
                     "ons_code": "E14000694",
                     "mp": "Rt Hon Chris Grayling MP",
-                    "signature_count": 57
+                    "signature_count": 58
                 },
                 {
                     "name": "Erewash",
@@ -2282,7 +2282,7 @@
                     "name": "Kingston upon Hull East",
                     "ons_code": "E14000771",
                     "mp": "Karl Turner MP",
-                    "signature_count": 60
+                    "signature_count": 61
                 },
                 {
                     "name": "Kingston upon Hull North",
@@ -2834,7 +2834,7 @@
                     "name": "North Somerset",
                     "ons_code": "E14000850",
                     "mp": "Rt Hon Dr Liam Fox MP",
-                    "signature_count": 51
+                    "signature_count": 52
                 },
                 {
                     "name": "North Swindon",
@@ -3134,7 +3134,7 @@
                     "name": "Richmond Park",
                     "ons_code": "E14000896",
                     "mp": "Zac Goldsmith MP",
-                    "signature_count": 63
+                    "signature_count": 64
                 },
                 {
                     "name": "Rochdale",

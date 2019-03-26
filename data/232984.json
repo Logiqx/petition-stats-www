@@ -10,9 +10,9 @@
             "background": "The Prime Minister has negotiated an EU withdrawal agreement. However, it is clear from resignations and interviews that the deal will not pass Parliament. As no credible alternative has been proposed, the public must be allowed to vote on whether to accept this deal or to remain in the EU.",
             "additional_details": "Dominic Raab's resignation is perhaps the strongest indication that this withdrawal agreement will not be approved by Parliament. However, he is responsible for this deal as former Brexit Secretary, which suggests that a better deal is not possible. The only better deal is to remain in the EU on similar terms to what we have now - not in Schengen, not in the Euro, deciding on EU legislation.",
             "state": "open",
-            "signature_count": 142357,
+            "signature_count": 142377,
             "created_at": "2018-11-15T11:10:20.169Z",
-            "updated_at": "2019-03-26T09:19:14.426Z",
+            "updated_at": "2019-03-26T11:10:57.259Z",
             "rejected_at": null,
             "opened_at": "2018-11-26T13:28:37.981Z",
             "closed_at": null,
@@ -232,7 +232,7 @@
                 {
                     "name": "Germany",
                     "code": "DE",
-                    "signature_count": 508
+                    "signature_count": 509
                 },
                 {
                     "name": "Gibraltar",
@@ -597,7 +597,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 136405
+                    "signature_count": 136424
                 },
                 {
                     "name": "United States",
@@ -711,7 +711,7 @@
                     "name": "Glasgow North West",
                     "ons_code": "S14000033",
                     "mp": "Carol Monaghan MP",
-                    "signature_count": 219
+                    "signature_count": 221
                 },
                 {
                     "name": "Glasgow South",
@@ -759,7 +759,7 @@
                     "name": "Kilmarnock and Loudoun",
                     "ons_code": "S14000040",
                     "mp": "Alan Brown MP",
-                    "signature_count": 105
+                    "signature_count": 106
                 },
                 {
                     "name": "Kirkcaldy and Cowdenbeath",
@@ -957,7 +957,7 @@
                     "name": "Ashford",
                     "ons_code": "E14000536",
                     "mp": "Rt Hon Damian Green MP",
-                    "signature_count": 210
+                    "signature_count": 211
                 },
                 {
                     "name": "Ashton-under-Lyne",
@@ -1197,7 +1197,7 @@
                     "name": "Blackpool North and Cleveleys",
                     "ons_code": "E14000572",
                     "mp": "Paul Maynard MP",
-                    "signature_count": 63
+                    "signature_count": 64
                 },
                 {
                     "name": "Blackpool South",
@@ -1629,7 +1629,7 @@
                     "name": "Chichester",
                     "ons_code": "E14000633",
                     "mp": "Gillian Keegan MP",
-                    "signature_count": 287
+                    "signature_count": 288
                 },
                 {
                     "name": "Chingford and Woodford Green",
@@ -1761,7 +1761,7 @@
                     "name": "Crewe and Nantwich",
                     "ons_code": "E14000653",
                     "mp": "Laura Smith MP",
-                    "signature_count": 167
+                    "signature_count": 168
                 },
                 {
                     "name": "Croydon Central",
@@ -2139,7 +2139,7 @@
                     "name": "Gateshead",
                     "ons_code": "E14000709",
                     "mp": "Ian Mearns MP",
-                    "signature_count": 154
+                    "signature_count": 155
                 },
                 {
                     "name": "Gedling",
@@ -2343,7 +2343,7 @@
                     "name": "Henley",
                     "ons_code": "E14000742",
                     "mp": "John Howell MP",
-                    "signature_count": 380
+                    "signature_count": 381
                 },
                 {
                     "name": "Hereford and South Herefordshire",
@@ -2451,7 +2451,7 @@
                     "name": "Ilford South",
                     "ons_code": "E14000760",
                     "mp": "Mike Gapes MP",
-                    "signature_count": 83
+                    "signature_count": 84
                 },
                 {
                     "name": "Ipswich",
@@ -2601,7 +2601,7 @@
                     "name": "Leicester South",
                     "ons_code": "E14000783",
                     "mp": "Jonathan Ashworth MP",
-                    "signature_count": 216
+                    "signature_count": 217
                 },
                 {
                     "name": "Leicester West",
@@ -2811,7 +2811,7 @@
                     "name": "Mid Dorset and North Poole",
                     "ons_code": "E14000815",
                     "mp": "Michael Tomlinson MP",
-                    "signature_count": 189
+                    "signature_count": 190
                 },
                 {
                     "name": "Mid Norfolk",
@@ -3465,7 +3465,7 @@
                     "name": "Salford and Eccles",
                     "ons_code": "E14000911",
                     "mp": "Rebecca Long Bailey MP",
-                    "signature_count": 255
+                    "signature_count": 256
                 },
                 {
                     "name": "Salisbury",
@@ -3747,7 +3747,7 @@
                     "name": "Southampton, Test",
                     "ons_code": "E14000956",
                     "mp": "Dr Alan Whitehead MP",
-                    "signature_count": 277
+                    "signature_count": 278
                 },
                 {
                     "name": "Southend West",
@@ -4047,7 +4047,7 @@
                     "name": "Tottenham",
                     "ons_code": "E14001002",
                     "mp": "Rt Hon David Lammy MP",
-                    "signature_count": 359
+                    "signature_count": 360
                 },
                 {
                     "name": "Truro and Falmouth",
@@ -4209,7 +4209,7 @@
                     "name": "Wells",
                     "ons_code": "E14001026",
                     "mp": "James Heappey MP",
-                    "signature_count": 292
+                    "signature_count": 293
                 },
                 {
                     "name": "Welwyn Hatfield",
@@ -4269,7 +4269,7 @@
                     "name": "West Worcestershire",
                     "ons_code": "E14001035",
                     "mp": "Harriett Baldwin MP",
-                    "signature_count": 272
+                    "signature_count": 273
                 },
                 {
                     "name": "Westminster North",
@@ -4287,7 +4287,7 @@
                     "name": "Weston-super-Mare",
                     "ons_code": "E14001038",
                     "mp": "John Penrose MP",
-                    "signature_count": 228
+                    "signature_count": 229
                 },
                 {
                     "name": "Wigan",
@@ -4311,7 +4311,7 @@
                     "name": "Windsor",
                     "ons_code": "E14001042",
                     "mp": "Adam Afriyie MP",
-                    "signature_count": 302
+                    "signature_count": 303
                 },
                 {
                     "name": "Wirral South",

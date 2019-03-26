@@ -10,9 +10,9 @@
             "background": "In 1986 the UK government ratified the UN Convention on the Elimination of all Forms of Discrimination against Women (CEDAW). It gives rights to UK women & obligates government to advance women's lives, recognising past inequalities & remedying them. Its provisions must become part of domestic law.",
             "additional_details": "CEDAW: https://www.ohchr.org/Documents/ProfessionalInterest/cedaw.pdf \r\nVideo and other materials: https://www.engender.org.uk/content/cedaw/ \r\nCEDAW Committee: https://www.ohchr.org/en/hrbodies/cedaw/pages/cedawindex.aspx",
             "state": "open",
-            "signature_count": 17881,
+            "signature_count": 17906,
             "created_at": "2018-10-15T12:10:11.217Z",
-            "updated_at": "2019-03-26T09:26:18.935Z",
+            "updated_at": "2019-03-26T11:09:06.331Z",
             "rejected_at": null,
             "opened_at": "2018-10-23T09:26:07.237Z",
             "closed_at": null,
@@ -191,7 +191,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 17602
+                    "signature_count": 17627
                 },
                 {
                     "name": "United States",
@@ -381,7 +381,7 @@
                     "name": "Motherwell and Wishaw",
                     "ons_code": "S14000047",
                     "mp": "Marion Fellows MP",
-                    "signature_count": 43
+                    "signature_count": 44
                 },
                 {
                     "name": "Na h-Eileanan an Iar",
@@ -573,7 +573,7 @@
                     "name": "Barrow and Furness",
                     "ons_code": "E14000543",
                     "mp": "John Woodcock MP",
-                    "signature_count": 52
+                    "signature_count": 53
                 },
                 {
                     "name": "Basildon and Billericay",
@@ -639,7 +639,7 @@
                     "name": "Belfast North",
                     "ons_code": "N06000002",
                     "mp": "Rt Hon Nigel Dodds MP",
-                    "signature_count": 16
+                    "signature_count": 17
                 },
                 {
                     "name": "Belfast South",
@@ -789,13 +789,13 @@
                     "name": "Blaydon",
                     "ons_code": "E14000574",
                     "mp": "Liz Twist MP",
-                    "signature_count": 36
+                    "signature_count": 37
                 },
                 {
                     "name": "Blyth Valley",
                     "ons_code": "E14000575",
                     "mp": "Mr Ronnie Campbell MP",
-                    "signature_count": 40
+                    "signature_count": 41
                 },
                 {
                     "name": "Bognor Regis and Littlehampton",
@@ -849,7 +849,7 @@
                     "name": "Bournemouth East",
                     "ons_code": "E14000584",
                     "mp": "Rt Hon Tobias Ellwood MP",
-                    "signature_count": 20
+                    "signature_count": 21
                 },
                 {
                     "name": "Bournemouth West",
@@ -1113,7 +1113,7 @@
                     "name": "Carmarthen East and Dinefwr",
                     "ons_code": "W07000067",
                     "mp": "Jonathan Edwards MP",
-                    "signature_count": 38
+                    "signature_count": 39
                 },
                 {
                     "name": "Carmarthen West and South Pembrokeshire",
@@ -1149,7 +1149,7 @@
                     "name": "Ceredigion",
                     "ons_code": "W07000064",
                     "mp": "Ben Lake MP",
-                    "signature_count": 42
+                    "signature_count": 43
                 },
                 {
                     "name": "Charnwood",
@@ -1299,7 +1299,7 @@
                     "name": "Copeland",
                     "ons_code": "E14000647",
                     "mp": "Trudy Harrison MP",
-                    "signature_count": 19
+                    "signature_count": 20
                 },
                 {
                     "name": "Corby",
@@ -1431,7 +1431,7 @@
                     "name": "Don Valley",
                     "ons_code": "E14000667",
                     "mp": "Rt Hon Caroline Flint MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "Doncaster Central",
@@ -1467,7 +1467,7 @@
                     "name": "Dulwich and West Norwood",
                     "ons_code": "E14000673",
                     "mp": "Helen Hayes MP",
-                    "signature_count": 14
+                    "signature_count": 15
                 },
                 {
                     "name": "Dwyfor Meirionnydd",
@@ -1647,7 +1647,7 @@
                     "name": "Faversham and Mid Kent",
                     "ons_code": "E14000700",
                     "mp": "Helen Whately MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "Feltham and Heston",
@@ -1809,7 +1809,7 @@
                     "name": "Haltemprice and Howden",
                     "ons_code": "E14000724",
                     "mp": "Rt Hon David Davis MP",
-                    "signature_count": 31
+                    "signature_count": 32
                 },
                 {
                     "name": "Halton",
@@ -1863,7 +1863,7 @@
                     "name": "Hartlepool",
                     "ons_code": "E14000733",
                     "mp": "Mike Hill MP",
-                    "signature_count": 44
+                    "signature_count": 45
                 },
                 {
                     "name": "Harwich and North Essex",
@@ -2067,7 +2067,7 @@
                     "name": "Keighley",
                     "ons_code": "E14000766",
                     "mp": "John Grogan MP",
-                    "signature_count": 29
+                    "signature_count": 30
                 },
                 {
                     "name": "Kenilworth and Southam",
@@ -2109,7 +2109,7 @@
                     "name": "Kingston upon Hull West and Hessle",
                     "ons_code": "E14000773",
                     "mp": "Emma Hardy MP",
-                    "signature_count": 24
+                    "signature_count": 25
                 },
                 {
                     "name": "Kingswood",
@@ -2133,7 +2133,7 @@
                     "name": "Lancaster and Fleetwood",
                     "ons_code": "E14000776",
                     "mp": "Cat Smith MP",
-                    "signature_count": 24
+                    "signature_count": 25
                 },
                 {
                     "name": "Leeds Central",
@@ -2307,7 +2307,7 @@
                     "name": "Maidstone and The Weald",
                     "ons_code": "E14000804",
                     "mp": "Mrs Helen Grant MP",
-                    "signature_count": 25
+                    "signature_count": 26
                 },
                 {
                     "name": "Makerfield",
@@ -2409,7 +2409,7 @@
                     "name": "Mid Worcestershire",
                     "ons_code": "E14000818",
                     "mp": "Nigel Huddleston MP",
-                    "signature_count": 28
+                    "signature_count": 29
                 },
                 {
                     "name": "Middlesbrough",
@@ -2457,13 +2457,13 @@
                     "name": "Montgomeryshire",
                     "ons_code": "W07000063",
                     "mp": "Glyn Davies MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "Morecambe and Lunesdale",
                     "ons_code": "E14000825",
                     "mp": "David Morris MP",
-                    "signature_count": 54
+                    "signature_count": 55
                 },
                 {
                     "name": "Morley and Outwood",
@@ -2481,7 +2481,7 @@
                     "name": "New Forest East",
                     "ons_code": "E14000827",
                     "mp": "Rt Hon Dr Julian Lewis MP",
-                    "signature_count": 24
+                    "signature_count": 25
                 },
                 {
                     "name": "New Forest West",
@@ -3471,7 +3471,7 @@
                     "name": "Stroud",
                     "ons_code": "E14000980",
                     "mp": "Dr David Drew MP",
-                    "signature_count": 46
+                    "signature_count": 47
                 },
                 {
                     "name": "Suffolk Coastal",
@@ -3867,7 +3867,7 @@
                     "name": "Wigan",
                     "ons_code": "E14001039",
                     "mp": "Lisa Nandy MP",
-                    "signature_count": 42
+                    "signature_count": 43
                 },
                 {
                     "name": "Wimbledon",

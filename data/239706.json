@@ -10,9 +10,9 @@
             "background": "On the 25th of November both the UK Government and the European Union came to an agreement on the proposed departure from the EU. After an historic defeat in the House of Commons on the 15th of January, 2019 by a majority of 230 votes the PM has now decided to go back to the EU over the backstop.",
             "additional_details": "Under section 5 (ii) of the Belfast argeement, 1998, there is agreement to \" to use best endeavours to reach agreement on the adoption of common policies, in areas where there is a mutual cross-border and allisland benefit\"\r\nThe Government's own economic analysis published in November 2018, shows that a no deal scenario will have roughly a 10% decrease in GDP.  \r\nThe issue is that EU have firmly stated that they will not re-open negotiations with the UK over the agreement and remove the backstop.",
             "state": "open",
-            "signature_count": 149613,
+            "signature_count": 149639,
             "created_at": "2019-01-29T13:53:56.492Z",
-            "updated_at": "2019-03-26T09:19:24.702Z",
+            "updated_at": "2019-03-26T11:10:37.107Z",
             "rejected_at": null,
             "opened_at": "2019-02-11T17:08:20.928Z",
             "closed_at": null,
@@ -52,7 +52,7 @@
                 {
                     "name": "Australia",
                     "code": "AU",
-                    "signature_count": 249
+                    "signature_count": 250
                 },
                 {
                     "name": "Austria",
@@ -627,7 +627,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 141222
+                    "signature_count": 141247
                 },
                 {
                     "name": "United States",
@@ -699,7 +699,7 @@
                     "name": "Edinburgh West",
                     "ons_code": "S14000026",
                     "mp": "Christine Jardine MP",
-                    "signature_count": 367
+                    "signature_count": 368
                 },
                 {
                     "name": "Banff and Buchan",
@@ -741,7 +741,7 @@
                     "name": "Glasgow North West",
                     "ons_code": "S14000033",
                     "mp": "Carol Monaghan MP",
-                    "signature_count": 270
+                    "signature_count": 271
                 },
                 {
                     "name": "Glasgow South",
@@ -885,7 +885,7 @@
                     "name": "Paisley and Renfrewshire South",
                     "ons_code": "S14000053",
                     "mp": "Mhairi Black MP",
-                    "signature_count": 173
+                    "signature_count": 174
                 },
                 {
                     "name": "Perth and North Perthshire",
@@ -1311,7 +1311,7 @@
                     "name": "Bournemouth West",
                     "ons_code": "E14000585",
                     "mp": "Conor Burns MP",
-                    "signature_count": 232
+                    "signature_count": 233
                 },
                 {
                     "name": "Bracknell",
@@ -1401,7 +1401,7 @@
                     "name": "Brighton, Pavilion",
                     "ons_code": "E14000598",
                     "mp": "Caroline Lucas MP",
-                    "signature_count": 890
+                    "signature_count": 892
                 },
                 {
                     "name": "Bristol East",
@@ -1491,7 +1491,7 @@
                     "name": "Bury St Edmunds",
                     "ons_code": "E14000613",
                     "mp": "Jo Churchill MP",
-                    "signature_count": 260
+                    "signature_count": 261
                 },
                 {
                     "name": "Caerphilly",
@@ -1935,7 +1935,7 @@
                     "name": "Ealing Central and Acton",
                     "ons_code": "E14000674",
                     "mp": "Dr Rupa Huq MP",
-                    "signature_count": 552
+                    "signature_count": 554
                 },
                 {
                     "name": "Ealing North",
@@ -2127,7 +2127,7 @@
                     "name": "Finchley and Golders Green",
                     "ons_code": "E14000703",
                     "mp": "Mike Freer MP",
-                    "signature_count": 436
+                    "signature_count": 437
                 },
                 {
                     "name": "Folkestone and Hythe",
@@ -2355,7 +2355,7 @@
                     "name": "Hemel Hempstead",
                     "ons_code": "E14000739",
                     "mp": "Rt Hon Sir Mike Penning MP",
-                    "signature_count": 198
+                    "signature_count": 199
                 },
                 {
                     "name": "Hemsworth",
@@ -2583,7 +2583,7 @@
                     "name": "Lagan Valley",
                     "ons_code": "N06000009",
                     "mp": "Rt Hon Sir Jeffrey M. Donaldson MP",
-                    "signature_count": 113
+                    "signature_count": 114
                 },
                 {
                     "name": "Lancaster and Fleetwood",
@@ -2829,7 +2829,7 @@
                     "name": "Mid Bedfordshire",
                     "ons_code": "E14000813",
                     "mp": "Ms Nadine Dorries MP",
-                    "signature_count": 210
+                    "signature_count": 211
                 },
                 {
                     "name": "Mid Derbyshire",
@@ -2853,7 +2853,7 @@
                     "name": "Mid Sussex",
                     "ons_code": "E14000817",
                     "mp": "Rt Hon Sir Nicholas Soames MP",
-                    "signature_count": 313
+                    "signature_count": 314
                 },
                 {
                     "name": "Mid Ulster",
@@ -2979,7 +2979,7 @@
                     "name": "Newcastle-under-Lyme",
                     "ons_code": "E14000834",
                     "mp": "Paul Farrelly MP",
-                    "signature_count": 140
+                    "signature_count": 141
                 },
                 {
                     "name": "Newport East",
@@ -3267,7 +3267,7 @@
                     "name": "Penistone and Stocksbridge",
                     "ons_code": "E14000876",
                     "mp": "Angela Smith MP",
-                    "signature_count": 142
+                    "signature_count": 143
                 },
                 {
                     "name": "Penrith and The Border",
@@ -3381,7 +3381,7 @@
                     "name": "Reigate",
                     "ons_code": "E14000893",
                     "mp": "Crispin Blunt MP",
-                    "signature_count": 282
+                    "signature_count": 283
                 },
                 {
                     "name": "Rhondda",
@@ -3405,7 +3405,7 @@
                     "name": "Richmond Park",
                     "ons_code": "E14000896",
                     "mp": "Zac Goldsmith MP",
-                    "signature_count": 636
+                    "signature_count": 637
                 },
                 {
                     "name": "Rochdale",
@@ -3495,7 +3495,7 @@
                     "name": "Salford and Eccles",
                     "ons_code": "E14000911",
                     "mp": "Rebecca Long Bailey MP",
-                    "signature_count": 256
+                    "signature_count": 257
                 },
                 {
                     "name": "Salisbury",
@@ -3603,7 +3603,7 @@
                     "name": "Sleaford and North Hykeham",
                     "ons_code": "E14000929",
                     "mp": "Dr Caroline Johnson MP",
-                    "signature_count": 196
+                    "signature_count": 197
                 },
                 {
                     "name": "Slough",
@@ -3765,7 +3765,7 @@
                     "name": "South West Wiltshire",
                     "ons_code": "E14000954",
                     "mp": "Dr Andrew Murrison MP",
-                    "signature_count": 237
+                    "signature_count": 238
                 },
                 {
                     "name": "Southampton, Itchen",
@@ -4017,7 +4017,7 @@
                     "name": "Thirsk and Malton",
                     "ons_code": "E14000993",
                     "mp": "Kevin Hollinrake MP",
-                    "signature_count": 193
+                    "signature_count": 194
                 },
                 {
                     "name": "Thornbury and Yate",
@@ -4077,7 +4077,7 @@
                     "name": "Tottenham",
                     "ons_code": "E14001002",
                     "mp": "Rt Hon David Lammy MP",
-                    "signature_count": 377
+                    "signature_count": 378
                 },
                 {
                     "name": "Truro and Falmouth",
@@ -4179,7 +4179,7 @@
                     "name": "Warley",
                     "ons_code": "E14001016",
                     "mp": "Rt Hon John Spellar MP",
-                    "signature_count": 84
+                    "signature_count": 85
                 },
                 {
                     "name": "Warrington North",
@@ -4269,7 +4269,7 @@
                     "name": "West Dorset",
                     "ons_code": "E14001031",
                     "mp": "Rt Hon Sir Oliver Letwin MP",
-                    "signature_count": 354
+                    "signature_count": 355
                 },
                 {
                     "name": "West Ham",

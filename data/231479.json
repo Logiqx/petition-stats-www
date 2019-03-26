@@ -10,9 +10,9 @@
             "background": "Train Operating Companies across London and the rest of the country are beginning to introduce DOO (Driver Only Operation) on their trains. Some companies want to keep a second person on the trains but their role is revenue protection and is not safety critical. This cannot be allowed!",
             "additional_details": "\r\nIn October 2018 a disabled man was left on a Scotrail train which was driver only operated. He needed a ramp in order to get on and off of the train. His home station was not staffed when his train arrived and the driver was not allowed to leave the cab leaving him stuck on the train until the next staffed station, 11 miles away. If we do not do something and stop our railways from becoming unmanned, more stories like this will emerge. Please help us with this cause",
             "state": "open",
-            "signature_count": 29190,
+            "signature_count": 29192,
             "created_at": "2018-10-29T19:13:48.537Z",
-            "updated_at": "2019-03-26T08:56:27.480Z",
+            "updated_at": "2019-03-26T10:52:47.159Z",
             "rejected_at": null,
             "opened_at": "2018-11-06T11:14:02.568Z",
             "closed_at": null,
@@ -186,7 +186,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 29047
+                    "signature_count": 29049
                 },
                 {
                     "name": "United States",
@@ -2607,7 +2607,7 @@
                     "name": "North East Hertfordshire",
                     "ons_code": "E14000845",
                     "mp": "Rt Hon Sir Oliver Heald QC MP",
-                    "signature_count": 28
+                    "signature_count": 29
                 },
                 {
                     "name": "North East Somerset",
@@ -3027,7 +3027,7 @@
                     "name": "Salford and Eccles",
                     "ons_code": "E14000911",
                     "mp": "Rebecca Long Bailey MP",
-                    "signature_count": 63
+                    "signature_count": 64
                 },
                 {
                     "name": "Salisbury",

@@ -10,9 +10,9 @@
             "background": "As the United Kingdom approaches the date set for leaving the European Union, we must show the world that we are capable of defending our sovereign borders. Under EU & international law an asylum seeker should claim asylum in the first safe country they enter. ",
             "additional_details": "In order to reach Calais, these asylum seekers probably passed through at least two safe nations. Home Secretary, Sajid Javid said 230 migrants had tried to cross the Channel in December, with just under half prevented from leaving the country by the French authorities.",
             "state": "open",
-            "signature_count": 17630,
+            "signature_count": 17636,
             "created_at": "2019-01-02T12:11:01.987Z",
-            "updated_at": "2019-03-26T08:50:21.395Z",
+            "updated_at": "2019-03-26T10:28:43.361Z",
             "rejected_at": null,
             "opened_at": "2019-01-28T10:03:41.666Z",
             "closed_at": null,
@@ -211,7 +211,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 17372
+                    "signature_count": 17378
                 },
                 {
                     "name": "United States",
@@ -786,7 +786,7 @@
                     "name": "Blackpool North and Cleveleys",
                     "ons_code": "E14000572",
                     "mp": "Paul Maynard MP",
-                    "signature_count": 28
+                    "signature_count": 29
                 },
                 {
                     "name": "Blackpool South",
@@ -1524,7 +1524,7 @@
                     "name": "East Devon",
                     "ons_code": "E14000678",
                     "mp": "Rt Hon Sir Hugo Swire MP",
-                    "signature_count": 25
+                    "signature_count": 26
                 },
                 {
                     "name": "East Ham",
@@ -1602,7 +1602,7 @@
                     "name": "Eltham",
                     "ons_code": "E14000690",
                     "mp": "Clive Efford MP",
-                    "signature_count": 30
+                    "signature_count": 31
                 },
                 {
                     "name": "Enfield North",
@@ -3630,7 +3630,7 @@
                     "name": "Totnes",
                     "ons_code": "E14001001",
                     "mp": "Dr Sarah Wollaston MP",
-                    "signature_count": 33
+                    "signature_count": 34
                 },
                 {
                     "name": "Tottenham",
@@ -3660,7 +3660,7 @@
                     "name": "Tynemouth",
                     "ons_code": "E14001006",
                     "mp": "Sir Alan Campbell MP",
-                    "signature_count": 29
+                    "signature_count": 30
                 },
                 {
                     "name": "Upper Bann",
@@ -4062,7 +4062,7 @@
                     "name": "Coatbridge, Chryston and Bellshill",
                     "ons_code": "S14000011",
                     "mp": "Hugh Gaffney MP",
-                    "signature_count": 11
+                    "signature_count": 12
                 },
                 {
                     "name": "Cumbernauld, Kilsyth and Kirkintilloch East",

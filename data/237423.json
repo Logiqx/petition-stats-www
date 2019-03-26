@@ -10,9 +10,9 @@
             "background": "An MP is calling for the practice of saying prayers at the beginning of parliamentary business in the Commons to be abolished.",
             "additional_details": "The main prayer asks for God's guidance that MPs \"never lead the nation wrongly through love of power, desire to please, or unworthy ideals\".",
             "state": "open",
-            "signature_count": 25632,
+            "signature_count": 25637,
             "created_at": "2019-01-16T14:10:57.961Z",
-            "updated_at": "2019-03-26T07:42:11.028Z",
+            "updated_at": "2019-03-26T11:01:52.718Z",
             "rejected_at": null,
             "opened_at": "2019-01-28T17:28:06.079Z",
             "closed_at": null,
@@ -261,7 +261,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 25413
+                    "signature_count": 25418
                 },
                 {
                     "name": "United States",
@@ -1116,7 +1116,7 @@
                     "name": "Caerphilly",
                     "ons_code": "W07000076",
                     "mp": "Wayne David MP",
-                    "signature_count": 15
+                    "signature_count": 16
                 },
                 {
                     "name": "Calder Valley",
@@ -1662,7 +1662,7 @@
                     "name": "Eltham",
                     "ons_code": "E14000690",
                     "mp": "Clive Efford MP",
-                    "signature_count": 54
+                    "signature_count": 55
                 },
                 {
                     "name": "Enfield North",
@@ -3594,7 +3594,7 @@
                     "name": "Tamworth",
                     "ons_code": "E14000986",
                     "mp": "Rt Hon Christopher Pincher MP",
-                    "signature_count": 37
+                    "signature_count": 38
                 },
                 {
                     "name": "Tatton",
@@ -3720,7 +3720,7 @@
                     "name": "Tynemouth",
                     "ons_code": "E14001006",
                     "mp": "Sir Alan Campbell MP",
-                    "signature_count": 49
+                    "signature_count": 50
                 },
                 {
                     "name": "Upper Bann",
@@ -4056,7 +4056,7 @@
                     "name": "Wyre and Preston North",
                     "ons_code": "E14001057",
                     "mp": "Rt Hon Ben Wallace MP",
-                    "signature_count": 60
+                    "signature_count": 61
                 },
                 {
                     "name": "Wyre Forest",
