@@ -10,9 +10,9 @@
             "background": "An MP is calling for the practice of saying prayers at the beginning of parliamentary business in the Commons to be abolished.",
             "additional_details": "The main prayer asks for God's guidance that MPs \"never lead the nation wrongly through love of power, desire to please, or unworthy ideals\".",
             "state": "open",
-            "signature_count": 25734,
+            "signature_count": 25760,
             "created_at": "2019-01-16T14:10:57.961Z",
-            "updated_at": "2019-03-27T13:16:09.475Z",
+            "updated_at": "2019-03-28T08:18:42.490Z",
             "rejected_at": null,
             "opened_at": "2019-01-28T17:28:06.079Z",
             "closed_at": null,
@@ -261,7 +261,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 25512
+                    "signature_count": 25538
                 },
                 {
                     "name": "United States",
@@ -324,7 +324,7 @@
                     "name": "Banff and Buchan",
                     "ons_code": "S14000007",
                     "mp": "David Duguid MP",
-                    "signature_count": 82
+                    "signature_count": 83
                 },
                 {
                     "name": "Falkirk",
@@ -666,7 +666,7 @@
                     "name": "Bassetlaw",
                     "ons_code": "E14000546",
                     "mp": "John Mann MP",
-                    "signature_count": 60
+                    "signature_count": 64
                 },
                 {
                     "name": "Bath",
@@ -930,7 +930,7 @@
                     "name": "Bournemouth West",
                     "ons_code": "E14000585",
                     "mp": "Conor Burns MP",
-                    "signature_count": 67
+                    "signature_count": 68
                 },
                 {
                     "name": "Bracknell",
@@ -1020,7 +1020,7 @@
                     "name": "Brighton, Pavilion",
                     "ons_code": "E14000598",
                     "mp": "Caroline Lucas MP",
-                    "signature_count": 25
+                    "signature_count": 26
                 },
                 {
                     "name": "Bristol East",
@@ -1278,7 +1278,7 @@
                     "name": "Chichester",
                     "ons_code": "E14000633",
                     "mp": "Gillian Keegan MP",
-                    "signature_count": 132
+                    "signature_count": 133
                 },
                 {
                     "name": "Chingford and Woodford Green",
@@ -1596,7 +1596,7 @@
                     "name": "East Hampshire",
                     "ons_code": "E14000680",
                     "mp": "Rt Hon Damian Hinds MP",
-                    "signature_count": 89
+                    "signature_count": 90
                 },
                 {
                     "name": "East Londonderry",
@@ -1674,7 +1674,7 @@
                     "name": "Enfield, Southgate",
                     "ons_code": "E14000692",
                     "mp": "Bambos Charalambous MP",
-                    "signature_count": 51
+                    "signature_count": 52
                 },
                 {
                     "name": "Epping Forest",
@@ -1746,7 +1746,7 @@
                     "name": "Finchley and Golders Green",
                     "ons_code": "E14000703",
                     "mp": "Mike Freer MP",
-                    "signature_count": 70
+                    "signature_count": 71
                 },
                 {
                     "name": "Folkestone and Hythe",
@@ -2004,7 +2004,7 @@
                     "name": "Hertford and Stortford",
                     "ons_code": "E14000744",
                     "mp": "Mr Mark Prisk MP",
-                    "signature_count": 33
+                    "signature_count": 34
                 },
                 {
                     "name": "Hertsmere",
@@ -2028,7 +2028,7 @@
                     "name": "High Peak",
                     "ons_code": "E14000748",
                     "mp": "Ruth George MP",
-                    "signature_count": 28
+                    "signature_count": 29
                 },
                 {
                     "name": "Hitchin and Harpenden",
@@ -2292,7 +2292,7 @@
                     "name": "Leyton and Wanstead",
                     "ons_code": "E14000790",
                     "mp": "John Cryer MP",
-                    "signature_count": 34
+                    "signature_count": 35
                 },
                 {
                     "name": "Lichfield",
@@ -2304,7 +2304,7 @@
                     "name": "Lincoln",
                     "ons_code": "E14000792",
                     "mp": "Karen Lee MP",
-                    "signature_count": 36
+                    "signature_count": 37
                 },
                 {
                     "name": "Liverpool, Riverside",
@@ -2472,7 +2472,7 @@
                     "name": "Mid Sussex",
                     "ons_code": "E14000817",
                     "mp": "Rt Hon Sir Nicholas Soames MP",
-                    "signature_count": 69
+                    "signature_count": 70
                 },
                 {
                     "name": "Mid Ulster",
@@ -2658,7 +2658,7 @@
                     "name": "North Down",
                     "ons_code": "N06000013",
                     "mp": "Lady Hermon MP",
-                    "signature_count": 56
+                    "signature_count": 57
                 },
                 {
                     "name": "North Durham",
@@ -2676,7 +2676,7 @@
                     "name": "North East Cambridgeshire",
                     "ons_code": "E14000842",
                     "mp": "Rt Hon Stephen Barclay MP",
-                    "signature_count": 32
+                    "signature_count": 33
                 },
                 {
                     "name": "North East Derbyshire",
@@ -2784,7 +2784,7 @@
                     "name": "North Wiltshire",
                     "ons_code": "E14000860",
                     "mp": "James Gray MP",
-                    "signature_count": 42
+                    "signature_count": 43
                 },
                 {
                     "name": "Northampton North",
@@ -2880,7 +2880,7 @@
                     "name": "Pendle",
                     "ons_code": "E14000875",
                     "mp": "Andrew Stephenson MP",
-                    "signature_count": 27
+                    "signature_count": 28
                 },
                 {
                     "name": "Penistone and Stocksbridge",
@@ -3546,7 +3546,7 @@
                     "name": "Stroud",
                     "ons_code": "E14000980",
                     "mp": "Dr David Drew MP",
-                    "signature_count": 32
+                    "signature_count": 34
                 },
                 {
                     "name": "Suffolk Coastal",
@@ -3660,7 +3660,7 @@
                     "name": "Tonbridge and Malling",
                     "ons_code": "E14000997",
                     "mp": "Tom Tugendhat MP",
-                    "signature_count": 111
+                    "signature_count": 112
                 },
                 {
                     "name": "Tooting",
@@ -3762,7 +3762,7 @@
                     "name": "Wallasey",
                     "ons_code": "E14001010",
                     "mp": "Ms Angela Eagle MP",
-                    "signature_count": 18
+                    "signature_count": 19
                 },
                 {
                     "name": "Walsall North",
@@ -3888,7 +3888,7 @@
                     "name": "West Dorset",
                     "ons_code": "E14001031",
                     "mp": "Rt Hon Sir Oliver Letwin MP",
-                    "signature_count": 62
+                    "signature_count": 63
                 },
                 {
                     "name": "West Ham",
@@ -4164,7 +4164,7 @@
                     "name": "East Dunbartonshire",
                     "ons_code": "S14000018",
                     "mp": "Jo Swinson MP",
-                    "signature_count": 51
+                    "signature_count": 52
                 },
                 {
                     "name": "East Kilbride, Strathaven and Lesmahagow",

@@ -10,9 +10,9 @@
             "background": "Train Operating Companies across London and the rest of the country are beginning to introduce DOO (Driver Only Operation) on their trains. Some companies want to keep a second person on the trains but their role is revenue protection and is not safety critical. This cannot be allowed!",
             "additional_details": "\r\nIn October 2018 a disabled man was left on a Scotrail train which was driver only operated. He needed a ramp in order to get on and off of the train. His home station was not staffed when his train arrived and the driver was not allowed to leave the cab leaving him stuck on the train until the next staffed station, 11 miles away. If we do not do something and stop our railways from becoming unmanned, more stories like this will emerge. Please help us with this cause",
             "state": "open",
-            "signature_count": 29217,
+            "signature_count": 29231,
             "created_at": "2018-10-29T19:13:48.537Z",
-            "updated_at": "2019-03-27T13:47:43.441Z",
+            "updated_at": "2019-03-28T07:30:32.083Z",
             "rejected_at": null,
             "opened_at": "2018-11-06T11:14:02.568Z",
             "closed_at": null,
@@ -186,7 +186,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 29071
+                    "signature_count": 29085
                 },
                 {
                     "name": "United States",
@@ -507,7 +507,7 @@
                     "name": "Amber Valley",
                     "ons_code": "E14000533",
                     "mp": "Nigel Mills MP",
-                    "signature_count": 32
+                    "signature_count": 33
                 },
                 {
                     "name": "Arfon",
@@ -693,7 +693,7 @@
                     "name": "Birkenhead",
                     "ons_code": "E14000559",
                     "mp": "Rt Hon Frank Field MP",
-                    "signature_count": 95
+                    "signature_count": 96
                 },
                 {
                     "name": "Birmingham, Edgbaston",
@@ -1233,7 +1233,7 @@
                     "name": "Christchurch",
                     "ons_code": "E14000638",
                     "mp": "Sir Christopher Chope MP",
-                    "signature_count": 47
+                    "signature_count": 48
                 },
                 {
                     "name": "Cities of London and Westminster",
@@ -1575,7 +1575,7 @@
                     "name": "Ellesmere Port and Neston",
                     "ons_code": "E14000688",
                     "mp": "Justin Madders MP",
-                    "signature_count": 41
+                    "signature_count": 42
                 },
                 {
                     "name": "Elmet and Rothwell",
@@ -1707,7 +1707,7 @@
                     "name": "Garston and Halewood",
                     "ons_code": "E14000708",
                     "mp": "Maria Eagle MP",
-                    "signature_count": 161
+                    "signature_count": 162
                 },
                 {
                     "name": "Gateshead",
@@ -2067,7 +2067,7 @@
                     "name": "Keighley",
                     "ons_code": "E14000766",
                     "mp": "John Grogan MP",
-                    "signature_count": 149
+                    "signature_count": 150
                 },
                 {
                     "name": "Kenilworth and Southam",
@@ -2259,7 +2259,7 @@
                     "name": "Loughborough",
                     "ons_code": "E14000797",
                     "mp": "Rt Hon Nicky Morgan MP",
-                    "signature_count": 27
+                    "signature_count": 28
                 },
                 {
                     "name": "Louth and Horncastle",
@@ -2433,7 +2433,7 @@
                     "name": "Mitcham and Morden",
                     "ons_code": "E14000823",
                     "mp": "Siobhain McDonagh MP",
-                    "signature_count": 44
+                    "signature_count": 45
                 },
                 {
                     "name": "Mole Valley",
@@ -2535,7 +2535,7 @@
                     "name": "Newton Abbot",
                     "ons_code": "E14000835",
                     "mp": "Anne Marie Morris MP",
-                    "signature_count": 69
+                    "signature_count": 70
                 },
                 {
                     "name": "Normanton, Pontefract and Castleford",
@@ -2889,7 +2889,7 @@
                     "name": "Reading East",
                     "ons_code": "E14000889",
                     "mp": "Matt Rodda MP",
-                    "signature_count": 64
+                    "signature_count": 65
                 },
                 {
                     "name": "Reading West",
@@ -3075,7 +3075,7 @@
                     "name": "Sheffield Central",
                     "ons_code": "E14000919",
                     "mp": "Paul Blomfield MP",
-                    "signature_count": 62
+                    "signature_count": 63
                 },
                 {
                     "name": "Sheffield South East",
@@ -3375,7 +3375,7 @@
                     "name": "Stalybridge and Hyde",
                     "ons_code": "E14000967",
                     "mp": "Jonathan Reynolds MP",
-                    "signature_count": 78
+                    "signature_count": 79
                 },
                 {
                     "name": "Stevenage",
@@ -3585,7 +3585,7 @@
                     "name": "Torbay",
                     "ons_code": "E14000999",
                     "mp": "Kevin Foster MP",
-                    "signature_count": 54
+                    "signature_count": 55
                 },
                 {
                     "name": "Torfaen",
@@ -3945,7 +3945,7 @@
                     "name": "Worsley and Eccles South",
                     "ons_code": "E14001054",
                     "mp": "Barbara Keeley MP",
-                    "signature_count": 51
+                    "signature_count": 52
                 },
                 {
                     "name": "Worthing West",

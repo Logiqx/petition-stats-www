@@ -10,9 +10,9 @@
             "background": "It is a travesty to see uniforms of Her Majesty's Armed Forces corrupted with the flag of the EU, an anti-democratic wannabe superstate which we're thankfully leaving.\r\nMembers of the Armed Forces serve the Monarch and the democratic will of the British People and NOT Mr Juncker or EU technocrats.",
             "additional_details": "UK forces under the EU flag Sept 2018:\r\nhttps://www.youtube.com/watch?v=gZMhx0T9Tfg\r\nThis is very different to badges denoting mission, the UN or NATO - they don't have quasi-Governmental ambitions.\r\nThe EU from its foundation has had an ambition to be a union of states. It is currently a quasi government and is expanding that role.\r\nDecisions go through on a nod with a UK minister present.\r\nThe UK public was not consulted or made aware that UK forces would be wearing EU flags.\r\nWho therefore is in control?",
             "state": "open",
-            "signature_count": 18571,
+            "signature_count": 18576,
             "created_at": "2018-09-13T23:43:17.826Z",
-            "updated_at": "2019-03-27T12:58:37.778Z",
+            "updated_at": "2019-03-28T07:23:29.450Z",
             "rejected_at": null,
             "opened_at": "2018-10-01T12:02:18.581Z",
             "closed_at": null,
@@ -111,7 +111,7 @@
                 {
                     "name": "Isle of Man",
                     "code": "IM",
-                    "signature_count": 10
+                    "signature_count": 11
                 },
                 {
                     "name": "Italy",
@@ -231,7 +231,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 18178
+                    "signature_count": 18182
                 },
                 {
                     "name": "United States",
@@ -846,7 +846,7 @@
                     "name": "Bognor Regis and Littlehampton",
                     "ons_code": "E14000576",
                     "mp": "Rt Hon Nick Gibb MP",
-                    "signature_count": 51
+                    "signature_count": 52
                 },
                 {
                     "name": "Bolsover",
@@ -2262,7 +2262,7 @@
                     "name": "Leyton and Wanstead",
                     "ons_code": "E14000790",
                     "mp": "John Cryer MP",
-                    "signature_count": 9
+                    "signature_count": 10
                 },
                 {
                     "name": "Lichfield",
@@ -2736,7 +2736,7 @@
                     "name": "North West Hampshire",
                     "ons_code": "E14000857",
                     "mp": "Kit Malthouse MP",
-                    "signature_count": 36
+                    "signature_count": 37
                 },
                 {
                     "name": "North West Leicestershire",
@@ -3180,7 +3180,7 @@
                     "name": "Sittingbourne and Sheppey",
                     "ons_code": "E14000927",
                     "mp": "Gordon Henderson MP",
-                    "signature_count": 57
+                    "signature_count": 58
                 },
                 {
                     "name": "Skipton and Ripon",

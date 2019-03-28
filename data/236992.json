@@ -10,9 +10,9 @@
             "background": "A \u00a31-BILLION contract could be lost from the UK because an EU directive forces the UK to accept international competition. \r\nThousands of jobs are at stake.\r\nIf Govt departs EU defence directives, it could use the WTO defence exemption to keep the work in the UK just like many other non-EU nations.",
             "additional_details": "http://www.veteransforbritain.uk/procurement/\r\n\r\nhttps://en.wikipedia.org/wiki/Fleet_Solid_Support_Ship\r\n\r\nhttps://www.telegraph.co.uk/business/2018/04/19/fears-grow-new-ships-support-royal-navy-will-built-overseas/\r\n\r\nhttp://www.veteransforbritain.uk/briefing/",
             "state": "open",
-            "signature_count": 20019,
+            "signature_count": 20038,
             "created_at": "2019-01-10T19:00:28.860Z",
-            "updated_at": "2019-03-27T13:01:39.461Z",
+            "updated_at": "2019-03-28T08:11:08.552Z",
             "rejected_at": null,
             "opened_at": "2019-01-11T10:45:09.383Z",
             "closed_at": null,
@@ -236,7 +236,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 19643
+                    "signature_count": 19662
                 },
                 {
                     "name": "United States",
@@ -505,7 +505,7 @@
                     "name": "West Dunbartonshire",
                     "ons_code": "S14000059",
                     "mp": "Martin Docherty-Hughes MP",
-                    "signature_count": 17
+                    "signature_count": 18
                 },
                 {
                     "name": "Aberavon",
@@ -769,7 +769,7 @@
                     "name": "Birmingham, Northfield",
                     "ons_code": "E14000565",
                     "mp": "Richard Burden MP",
-                    "signature_count": 29
+                    "signature_count": 30
                 },
                 {
                     "name": "Birmingham, Perry Barr",
@@ -967,7 +967,7 @@
                     "name": "Bridgwater and West Somerset",
                     "ons_code": "E14000595",
                     "mp": "Mr Ian Liddell-Grainger MP",
-                    "signature_count": 47
+                    "signature_count": 48
                 },
                 {
                     "name": "Brigg and Goole",
@@ -1273,7 +1273,7 @@
                     "name": "Christchurch",
                     "ons_code": "E14000638",
                     "mp": "Sir Christopher Chope MP",
-                    "signature_count": 53
+                    "signature_count": 54
                 },
                 {
                     "name": "Cities of London and Westminster",
@@ -2113,7 +2113,7 @@
                     "name": "Kenilworth and Southam",
                     "ons_code": "E14000767",
                     "mp": "Rt Hon Jeremy Wright QC MP",
-                    "signature_count": 28
+                    "signature_count": 29
                 },
                 {
                     "name": "Kensington",
@@ -2203,7 +2203,7 @@
                     "name": "Leeds West",
                     "ons_code": "E14000781",
                     "mp": "Rachel Reeves MP",
-                    "signature_count": 38
+                    "signature_count": 39
                 },
                 {
                     "name": "Leicester East",
@@ -2269,7 +2269,7 @@
                     "name": "Lincoln",
                     "ons_code": "E14000792",
                     "mp": "Karen Lee MP",
-                    "signature_count": 46
+                    "signature_count": 47
                 },
                 {
                     "name": "Liverpool, Riverside",
@@ -2371,7 +2371,7 @@
                     "name": "Manchester, Gorton",
                     "ons_code": "E14000808",
                     "mp": "Afzal Khan MP",
-                    "signature_count": 13
+                    "signature_count": 14
                 },
                 {
                     "name": "Manchester, Withington",
@@ -2425,7 +2425,7 @@
                     "name": "Mid Dorset and North Poole",
                     "ons_code": "E14000815",
                     "mp": "Michael Tomlinson MP",
-                    "signature_count": 37
+                    "signature_count": 38
                 },
                 {
                     "name": "Mid Norfolk",
@@ -2539,7 +2539,7 @@
                     "name": "Newbury",
                     "ons_code": "E14000830",
                     "mp": "Rt Hon Richard Benyon MP",
-                    "signature_count": 41
+                    "signature_count": 42
                 },
                 {
                     "name": "Newcastle upon Tyne Central",
@@ -2605,7 +2605,7 @@
                     "name": "North Cornwall",
                     "ons_code": "E14000837",
                     "mp": "Scott Mann MP",
-                    "signature_count": 30
+                    "signature_count": 31
                 },
                 {
                     "name": "North Devon",
@@ -2869,7 +2869,7 @@
                     "name": "Plymouth, Moor View",
                     "ons_code": "E14000879",
                     "mp": "Johnny Mercer MP",
-                    "signature_count": 63
+                    "signature_count": 64
                 },
                 {
                     "name": "Plymouth, Sutton and Devonport",
@@ -3067,7 +3067,7 @@
                     "name": "Rutland and Melton",
                     "ons_code": "E14000909",
                     "mp": "Rt Hon Sir Alan Duncan MP",
-                    "signature_count": 35
+                    "signature_count": 36
                 },
                 {
                     "name": "Saffron Walden",
@@ -3259,7 +3259,7 @@
                     "name": "South Holland and The Deepings",
                     "ons_code": "E14000939",
                     "mp": "Sir John Hayes MP",
-                    "signature_count": 45
+                    "signature_count": 46
                 },
                 {
                     "name": "South Leicestershire",
@@ -3289,7 +3289,7 @@
                     "name": "South Shields",
                     "ons_code": "E14000944",
                     "mp": "Mrs Emma Lewell-Buck MP",
-                    "signature_count": 62
+                    "signature_count": 63
                 },
                 {
                     "name": "South Staffordshire",
@@ -3421,7 +3421,7 @@
                     "name": "Staffordshire Moorlands",
                     "ons_code": "E14000966",
                     "mp": "Rt Hon Karen Bradley MP",
-                    "signature_count": 42
+                    "signature_count": 45
                 },
                 {
                     "name": "Stalybridge and Hyde",
@@ -3991,7 +3991,7 @@
                     "name": "Workington",
                     "ons_code": "E14001053",
                     "mp": "Sue Hayman MP",
-                    "signature_count": 36
+                    "signature_count": 37
                 },
                 {
                     "name": "Worsley and Eccles South",

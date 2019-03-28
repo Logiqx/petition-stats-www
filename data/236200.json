@@ -10,9 +10,9 @@
             "background": "EU citizens resident in the UK will have to apply for \"settled status\" costing \u00a365 per adult or \u00a332.50 per child, even if they've lived & worked in the UK for decades. \r\n\r\nEU citizens resident in the UK should automatically be given indefinite leave to remain, without having to pay.",
             "additional_details": "During the referendum, it was promised that \"These EU citizens will automatically be granted indefinite leave to remain in the UK and will be treated no less favourably than they are at present\" (Statement by Michael Gove, Boris Johnson, Priti Patel and Gisela Stuart, 1 June 2016).\r\n\r\nEU nationals, even those who have lived and worked in the UK for decades, were denied a vote in the 2016 referendum. They have had no say in this decision, and now shouldn't be charged to keep something they already have, due to a decision that they had no say in.",
             "state": "open",
-            "signature_count": 20637,
+            "signature_count": 20654,
             "created_at": "2018-12-29T23:05:27.471Z",
-            "updated_at": "2019-03-27T13:53:37.577Z",
+            "updated_at": "2019-03-28T00:50:53.513Z",
             "rejected_at": null,
             "opened_at": "2019-01-14T14:18:51.436Z",
             "closed_at": null,
@@ -91,7 +91,7 @@
                 {
                     "name": "Germany",
                     "code": "DE",
-                    "signature_count": 28
+                    "signature_count": 29
                 },
                 {
                     "name": "Greece",
@@ -226,7 +226,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 20329
+                    "signature_count": 20345
                 },
                 {
                     "name": "United States",
@@ -616,7 +616,7 @@
                     "name": "Bassetlaw",
                     "ons_code": "E14000546",
                     "mp": "John Mann MP",
-                    "signature_count": 11
+                    "signature_count": 12
                 },
                 {
                     "name": "Bath",
@@ -724,7 +724,7 @@
                     "name": "Birmingham, Edgbaston",
                     "ons_code": "E14000560",
                     "mp": "Preet Kaur Gill MP",
-                    "signature_count": 33
+                    "signature_count": 34
                 },
                 {
                     "name": "Birmingham, Erdington",
@@ -964,7 +964,7 @@
                     "name": "Brighton, Kemptown",
                     "ons_code": "E14000597",
                     "mp": "Lloyd Russell-Moyle MP",
-                    "signature_count": 31
+                    "signature_count": 32
                 },
                 {
                     "name": "Brighton, Pavilion",
@@ -1258,7 +1258,7 @@
                     "name": "Christchurch",
                     "ons_code": "E14000638",
                     "mp": "Sir Christopher Chope MP",
-                    "signature_count": 13
+                    "signature_count": 14
                 },
                 {
                     "name": "Cities of London and Westminster",
@@ -1624,7 +1624,7 @@
                     "name": "Enfield, Southgate",
                     "ons_code": "E14000692",
                     "mp": "Bambos Charalambous MP",
-                    "signature_count": 28
+                    "signature_count": 29
                 },
                 {
                     "name": "Epping Forest",
@@ -1702,7 +1702,7 @@
                     "name": "Folkestone and Hythe",
                     "ons_code": "E14000704",
                     "mp": "Damian Collins MP",
-                    "signature_count": 12
+                    "signature_count": 13
                 },
                 {
                     "name": "Forest of Dean",
@@ -1720,7 +1720,7 @@
                     "name": "Fylde",
                     "ons_code": "E14000706",
                     "mp": "Mark Menzies MP",
-                    "signature_count": 10
+                    "signature_count": 11
                 },
                 {
                     "name": "Gainsborough",
@@ -1972,7 +1972,7 @@
                     "name": "High Peak",
                     "ons_code": "E14000748",
                     "mp": "Ruth George MP",
-                    "signature_count": 12
+                    "signature_count": 13
                 },
                 {
                     "name": "Hitchin and Harpenden",
@@ -2134,7 +2134,7 @@
                     "name": "Kingswood",
                     "ons_code": "E14000774",
                     "mp": "Chris Skidmore MP",
-                    "signature_count": 10
+                    "signature_count": 11
                 },
                 {
                     "name": "Knowsley",
@@ -2176,7 +2176,7 @@
                     "name": "Leeds North West",
                     "ons_code": "E14000780",
                     "mp": "Alex Sobel MP",
-                    "signature_count": 19
+                    "signature_count": 20
                 },
                 {
                     "name": "Leeds West",
@@ -2284,7 +2284,7 @@
                     "name": "Loughborough",
                     "ons_code": "E14000797",
                     "mp": "Rt Hon Nicky Morgan MP",
-                    "signature_count": 34
+                    "signature_count": 35
                 },
                 {
                     "name": "Louth and Horncastle",
@@ -2836,7 +2836,7 @@
                     "name": "Penrith and The Border",
                     "ons_code": "E14000877",
                     "mp": "Rory Stewart MP",
-                    "signature_count": 9
+                    "signature_count": 10
                 },
                 {
                     "name": "Peterborough",
@@ -2992,7 +2992,7 @@
                     "name": "Romford",
                     "ons_code": "E14000900",
                     "mp": "Andrew Rosindell MP",
-                    "signature_count": 46
+                    "signature_count": 47
                 },
                 {
                     "name": "Romsey and Southampton North",
@@ -3550,7 +3550,7 @@
                     "name": "Taunton Deane",
                     "ons_code": "E14000988",
                     "mp": "Rebecca Pow MP",
-                    "signature_count": 17
+                    "signature_count": 18
                 },
                 {
                     "name": "Telford",
@@ -3694,7 +3694,7 @@
                     "name": "Vauxhall",
                     "ons_code": "E14001008",
                     "mp": "Kate Hoey MP",
-                    "signature_count": 44
+                    "signature_count": 45
                 },
                 {
                     "name": "Wakefield",
@@ -3706,7 +3706,7 @@
                     "name": "Wallasey",
                     "ons_code": "E14001010",
                     "mp": "Ms Angela Eagle MP",
-                    "signature_count": 18
+                    "signature_count": 19
                 },
                 {
                     "name": "Walsall North",

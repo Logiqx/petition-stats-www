@@ -10,9 +10,9 @@
             "background": "The overnight closure of Princess Royal Hospital\u2019s A&E is avoidable and a solution is there if those responsible higher up nationally choose to intervene. \r\n\r\nGovernment and those at the top in the NHS have the power to resolve this and stop it happening.",
             "additional_details": "I have persistently since 2016 raised with the Secretary of State for Health the issue of the possible closure of PRH\u2019s A&E yet nothing has been done. Now the closure is due to happen in November, Government can no longer wash their hands of this issue. \r\n\r\nOther hospital trusts have received extra help recruiting middle grade A&E doctors and nurses that SaTH so desperately needs yet Telford and Shropshire appears to have been ignored.",
             "state": "open",
-            "signature_count": 32648,
+            "signature_count": 32652,
             "created_at": "2018-10-01T10:35:40.633Z",
-            "updated_at": "2019-03-27T11:47:59.298Z",
+            "updated_at": "2019-03-27T22:50:31.384Z",
             "rejected_at": null,
             "opened_at": "2018-10-04T14:04:30.003Z",
             "closed_at": null,
@@ -126,7 +126,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 32579
+                    "signature_count": 32583
                 },
                 {
                     "name": "United States",
@@ -1470,7 +1470,7 @@
                     "name": "Great Yarmouth",
                     "ons_code": "E14000717",
                     "mp": "Rt Hon Brandon Lewis MP",
-                    "signature_count": 1
+                    "signature_count": 2
                 },
                 {
                     "name": "Greenwich and Woolwich",
@@ -2910,7 +2910,7 @@
                     "name": "Stalybridge and Hyde",
                     "ons_code": "E14000967",
                     "mp": "Jonathan Reynolds MP",
-                    "signature_count": 1
+                    "signature_count": 2
                 },
                 {
                     "name": "Stevenage",
@@ -3066,7 +3066,7 @@
                     "name": "The Wrekin",
                     "ons_code": "E14000992",
                     "mp": "Mark Pritchard MP",
-                    "signature_count": 11927
+                    "signature_count": 11928
                 },
                 {
                     "name": "Thirsk and Malton",
@@ -3337,6 +3337,12 @@
                     "ons_code": "E14001035",
                     "mp": "Harriett Baldwin MP",
                     "signature_count": 13
+                },
+                {
+                    "name": "Westminster North",
+                    "ons_code": "E14001036",
+                    "mp": "Ms Karen Buck MP",
+                    "signature_count": 1
                 },
                 {
                     "name": "Westmorland and Lonsdale",
