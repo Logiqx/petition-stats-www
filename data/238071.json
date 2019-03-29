@@ -10,9 +10,9 @@
             "background": "Millions are trapped in this antiquated draconian leasehold system. \r\n \r\nThis is a \u201cfeudal\u201d form of land ownership.\r\n\r\nIt is about time we Abolished Leasehold once and for all.",
             "additional_details": "Professor Hopkins (law commissioner for England & Wales for property) recently gave evidence at the Leasehold Select Committee Inquiry stating \u201cLooking at the landscape of leasehold legislation, I would have to say it is not fit for purpose as it is.\"\r\n \r\nThe leasehold system is a form of financial servitude where the leaseholder is forever compensating the freeholder for living on \u2018their land\u2019. \r\n\r\nCommonhold exists and should be compulsory.\r\n\r\nAim of National Leasehold Campaign : ABOLISH LEASEHOLD",
             "state": "open",
-            "signature_count": 23207,
+            "signature_count": 23359,
             "created_at": "2019-01-23T12:33:15.448Z",
-            "updated_at": "2019-03-28T08:45:40.914Z",
+            "updated_at": "2019-03-29T12:24:21.708Z",
             "rejected_at": null,
             "opened_at": "2019-02-01T15:39:22.647Z",
             "closed_at": null,
@@ -46,6 +46,11 @@
                 {
                     "name": "Belgium",
                     "code": "BE",
+                    "signature_count": 2
+                },
+                {
+                    "name": "Bermuda",
+                    "code": "BM",
                     "signature_count": 2
                 },
                 {
@@ -106,7 +111,7 @@
                 {
                     "name": "Italy",
                     "code": "IT",
-                    "signature_count": 2
+                    "signature_count": 3
                 },
                 {
                     "name": "Jersey",
@@ -176,7 +181,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 23104
+                    "signature_count": 23253
                 },
                 {
                     "name": "United States",
@@ -439,13 +444,13 @@
                     "name": "Aldershot",
                     "ons_code": "E14000530",
                     "mp": "Leo Docherty MP",
-                    "signature_count": 32
+                    "signature_count": 33
                 },
                 {
                     "name": "Aldridge-Brownhills",
                     "ons_code": "E14000531",
                     "mp": "Wendy Morton MP",
-                    "signature_count": 9
+                    "signature_count": 10
                 },
                 {
                     "name": "Altrincham and Sale West",
@@ -493,7 +498,7 @@
                     "name": "Ashton-under-Lyne",
                     "ons_code": "E14000537",
                     "mp": "Angela Rayner MP",
-                    "signature_count": 35
+                    "signature_count": 36
                 },
                 {
                     "name": "Aylesbury",
@@ -523,7 +528,7 @@
                     "name": "Barnsley East",
                     "ons_code": "E14000542",
                     "mp": "Stephanie Peacock MP",
-                    "signature_count": 10
+                    "signature_count": 11
                 },
                 {
                     "name": "Barrow and Furness",
@@ -565,7 +570,7 @@
                     "name": "Battersea",
                     "ons_code": "E14000549",
                     "mp": "Marsha De Cordova MP",
-                    "signature_count": 79
+                    "signature_count": 81
                 },
                 {
                     "name": "Beaconsfield",
@@ -577,7 +582,7 @@
                     "name": "Beckenham",
                     "ons_code": "E14000551",
                     "mp": "Bob Stewart MP",
-                    "signature_count": 35
+                    "signature_count": 37
                 },
                 {
                     "name": "Bedford",
@@ -613,7 +618,7 @@
                     "name": "Bermondsey and Old Southwark",
                     "ons_code": "E14000553",
                     "mp": "Neil Coyle MP",
-                    "signature_count": 103
+                    "signature_count": 105
                 },
                 {
                     "name": "Berwick-upon-Tweed",
@@ -625,7 +630,7 @@
                     "name": "Bethnal Green and Bow",
                     "ons_code": "E14000555",
                     "mp": "Rushanara Ali MP",
-                    "signature_count": 131
+                    "signature_count": 133
                 },
                 {
                     "name": "Beverley and Holderness",
@@ -667,7 +672,7 @@
                     "name": "Birmingham, Hall Green",
                     "ons_code": "E14000562",
                     "mp": "Mr Roger Godsiff MP",
-                    "signature_count": 16
+                    "signature_count": 17
                 },
                 {
                     "name": "Birmingham, Hodge Hill",
@@ -811,7 +816,7 @@
                     "name": "Bournemouth West",
                     "ons_code": "E14000585",
                     "mp": "Conor Burns MP",
-                    "signature_count": 39
+                    "signature_count": 40
                 },
                 {
                     "name": "Bracknell",
@@ -847,13 +852,13 @@
                     "name": "Brecon and Radnorshire",
                     "ons_code": "W07000068",
                     "mp": "Chris Davies MP",
-                    "signature_count": 4
+                    "signature_count": 5
                 },
                 {
                     "name": "Brent Central",
                     "ons_code": "E14000591",
                     "mp": "Dawn Butler MP",
-                    "signature_count": 105
+                    "signature_count": 106
                 },
                 {
                     "name": "Brent North",
@@ -877,7 +882,7 @@
                     "name": "Bridgend",
                     "ons_code": "W07000073",
                     "mp": "Mrs Madeleine Moon MP",
-                    "signature_count": 5
+                    "signature_count": 6
                 },
                 {
                     "name": "Bridgwater and West Somerset",
@@ -889,7 +894,7 @@
                     "name": "Brigg and Goole",
                     "ons_code": "E14000596",
                     "mp": "Andrew Percy MP",
-                    "signature_count": 14
+                    "signature_count": 15
                 },
                 {
                     "name": "Brighton, Kemptown",
@@ -913,7 +918,7 @@
                     "name": "Bristol North West",
                     "ons_code": "E14000600",
                     "mp": "Darren Jones MP",
-                    "signature_count": 24
+                    "signature_count": 25
                 },
                 {
                     "name": "Bristol South",
@@ -979,7 +984,7 @@
                     "name": "Bury North",
                     "ons_code": "E14000611",
                     "mp": "James Frith MP",
-                    "signature_count": 73
+                    "signature_count": 74
                 },
                 {
                     "name": "Bury South",
@@ -1009,7 +1014,7 @@
                     "name": "Camberwell and Peckham",
                     "ons_code": "E14000615",
                     "mp": "Rt Hon Harriet Harman QC MP",
-                    "signature_count": 53
+                    "signature_count": 54
                 },
                 {
                     "name": "Camborne and Redruth",
@@ -1021,7 +1026,7 @@
                     "name": "Cambridge",
                     "ons_code": "E14000617",
                     "mp": "Daniel Zeichner MP",
-                    "signature_count": 18
+                    "signature_count": 19
                 },
                 {
                     "name": "Cannock Chase",
@@ -1135,7 +1140,7 @@
                     "name": "Cheltenham",
                     "ons_code": "E14000630",
                     "mp": "Alex Chalk MP",
-                    "signature_count": 17
+                    "signature_count": 19
                 },
                 {
                     "name": "Chesham and Amersham",
@@ -1153,13 +1158,13 @@
                     "name": "Chichester",
                     "ons_code": "E14000633",
                     "mp": "Gillian Keegan MP",
-                    "signature_count": 19
+                    "signature_count": 20
                 },
                 {
                     "name": "Chingford and Woodford Green",
                     "ons_code": "E14000634",
                     "mp": "Rt Hon Iain Duncan Smith MP",
-                    "signature_count": 17
+                    "signature_count": 18
                 },
                 {
                     "name": "Chippenham",
@@ -1177,7 +1182,7 @@
                     "name": "Chorley",
                     "ons_code": "E14000637",
                     "mp": "Rt Hon Sir Lindsay Hoyle MP",
-                    "signature_count": 274
+                    "signature_count": 275
                 },
                 {
                     "name": "Christchurch",
@@ -1195,7 +1200,7 @@
                     "name": "City of Chester",
                     "ons_code": "E14000640",
                     "mp": "Christian Matheson MP",
-                    "signature_count": 60
+                    "signature_count": 61
                 },
                 {
                     "name": "City of Durham",
@@ -1243,7 +1248,7 @@
                     "name": "Congleton",
                     "ons_code": "E14000646",
                     "mp": "Fiona Bruce MP",
-                    "signature_count": 237
+                    "signature_count": 240
                 },
                 {
                     "name": "Copeland",
@@ -1261,13 +1266,13 @@
                     "name": "Coventry North East",
                     "ons_code": "E14000649",
                     "mp": "Colleen Fletcher MP",
-                    "signature_count": 12
+                    "signature_count": 13
                 },
                 {
                     "name": "Coventry North West",
                     "ons_code": "E14000650",
                     "mp": "Mr Geoffrey Robinson MP",
-                    "signature_count": 8
+                    "signature_count": 9
                 },
                 {
                     "name": "Coventry South",
@@ -1291,13 +1296,13 @@
                     "name": "Croydon Central",
                     "ons_code": "E14000654",
                     "mp": "Sarah Jones MP",
-                    "signature_count": 48
+                    "signature_count": 49
                 },
                 {
                     "name": "Croydon North",
                     "ons_code": "E14000655",
                     "mp": "Mr Steve Reed MP",
-                    "signature_count": 59
+                    "signature_count": 60
                 },
                 {
                     "name": "Croydon South",
@@ -1399,7 +1404,7 @@
                     "name": "Dover",
                     "ons_code": "E14000670",
                     "mp": "Charlie Elphicke MP",
-                    "signature_count": 20
+                    "signature_count": 21
                 },
                 {
                     "name": "Dudley North",
@@ -1465,7 +1470,7 @@
                     "name": "East Ham",
                     "ons_code": "E14000679",
                     "mp": "Rt Hon Stephen Timms MP",
-                    "signature_count": 65
+                    "signature_count": 66
                 },
                 {
                     "name": "East Hampshire",
@@ -1495,7 +1500,7 @@
                     "name": "East Yorkshire",
                     "ons_code": "E14000683",
                     "mp": "Rt Hon Sir Greg Knight MP",
-                    "signature_count": 18
+                    "signature_count": 19
                 },
                 {
                     "name": "Eastbourne",
@@ -1537,7 +1542,7 @@
                     "name": "Eltham",
                     "ons_code": "E14000690",
                     "mp": "Clive Efford MP",
-                    "signature_count": 37
+                    "signature_count": 38
                 },
                 {
                     "name": "Enfield North",
@@ -1573,7 +1578,7 @@
                     "name": "Erith and Thamesmead",
                     "ons_code": "E14000696",
                     "mp": "Teresa Pearce MP",
-                    "signature_count": 58
+                    "signature_count": 59
                 },
                 {
                     "name": "Esher and Walton",
@@ -1639,13 +1644,13 @@
                     "name": "Fylde",
                     "ons_code": "E14000706",
                     "mp": "Mark Menzies MP",
-                    "signature_count": 85
+                    "signature_count": 86
                 },
                 {
                     "name": "Gainsborough",
                     "ons_code": "E14000707",
                     "mp": "Rt Hon Sir Edward Leigh MP",
-                    "signature_count": 12
+                    "signature_count": 13
                 },
                 {
                     "name": "Garston and Halewood",
@@ -1669,13 +1674,13 @@
                     "name": "Gillingham and Rainham",
                     "ons_code": "E14000711",
                     "mp": "Rehman Chishti MP",
-                    "signature_count": 8
+                    "signature_count": 9
                 },
                 {
                     "name": "Gloucester",
                     "ons_code": "E14000712",
                     "mp": "Richard Graham MP",
-                    "signature_count": 19
+                    "signature_count": 20
                 },
                 {
                     "name": "Gosport",
@@ -1717,7 +1722,7 @@
                     "name": "Greenwich and Woolwich",
                     "ons_code": "E14000718",
                     "mp": "Matthew Pennycook MP",
-                    "signature_count": 103
+                    "signature_count": 104
                 },
                 {
                     "name": "Guildford",
@@ -1735,7 +1740,7 @@
                     "name": "Hackney South and Shoreditch",
                     "ons_code": "E14000721",
                     "mp": "Meg Hillier MP",
-                    "signature_count": 63
+                    "signature_count": 65
                 },
                 {
                     "name": "Halesowen and Rowley Regis",
@@ -1759,7 +1764,7 @@
                     "name": "Halton",
                     "ons_code": "E14000725",
                     "mp": "Derek Twigg MP",
-                    "signature_count": 181
+                    "signature_count": 182
                 },
                 {
                     "name": "Hammersmith",
@@ -1849,13 +1854,13 @@
                     "name": "Hendon",
                     "ons_code": "E14000741",
                     "mp": "Dr Matthew Offord MP",
-                    "signature_count": 172
+                    "signature_count": 176
                 },
                 {
                     "name": "Henley",
                     "ons_code": "E14000742",
                     "mp": "John Howell MP",
-                    "signature_count": 19
+                    "signature_count": 20
                 },
                 {
                     "name": "Hereford and South Herefordshire",
@@ -1921,7 +1926,7 @@
                     "name": "Horsham",
                     "ons_code": "E14000753",
                     "mp": "Jeremy Quin MP",
-                    "signature_count": 24
+                    "signature_count": 25
                 },
                 {
                     "name": "Houghton and Sunderland South",
@@ -1957,7 +1962,7 @@
                     "name": "Ilford North",
                     "ons_code": "E14000759",
                     "mp": "Wes Streeting MP",
-                    "signature_count": 33
+                    "signature_count": 34
                 },
                 {
                     "name": "Ilford South",
@@ -1999,7 +2004,7 @@
                     "name": "Jarrow",
                     "ons_code": "E14000765",
                     "mp": "Mr Stephen Hepburn MP",
-                    "signature_count": 40
+                    "signature_count": 41
                 },
                 {
                     "name": "Keighley",
@@ -2131,25 +2136,25 @@
                     "name": "Lewisham East",
                     "ons_code": "E14000787",
                     "mp": "Janet Daby MP",
-                    "signature_count": 45
+                    "signature_count": 46
                 },
                 {
                     "name": "Lewisham West and Penge",
                     "ons_code": "E14000788",
                     "mp": "Ellie Reeves MP",
-                    "signature_count": 66
+                    "signature_count": 74
                 },
                 {
                     "name": "Lewisham, Deptford",
                     "ons_code": "E14000789",
                     "mp": "Vicky Foxcroft MP",
-                    "signature_count": 119
+                    "signature_count": 120
                 },
                 {
                     "name": "Leyton and Wanstead",
                     "ons_code": "E14000790",
                     "mp": "John Cryer MP",
-                    "signature_count": 52
+                    "signature_count": 53
                 },
                 {
                     "name": "Lichfield",
@@ -2173,7 +2178,7 @@
                     "name": "Liverpool, Walton",
                     "ons_code": "E14000794",
                     "mp": "Dan Carden MP",
-                    "signature_count": 83
+                    "signature_count": 84
                 },
                 {
                     "name": "Liverpool, Wavertree",
@@ -2185,7 +2190,7 @@
                     "name": "Liverpool, West Derby",
                     "ons_code": "E14000796",
                     "mp": "Stephen Twigg MP",
-                    "signature_count": 211
+                    "signature_count": 212
                 },
                 {
                     "name": "Llanelli",
@@ -2197,7 +2202,7 @@
                     "name": "Loughborough",
                     "ons_code": "E14000797",
                     "mp": "Rt Hon Nicky Morgan MP",
-                    "signature_count": 13
+                    "signature_count": 14
                 },
                 {
                     "name": "Louth and Horncastle",
@@ -2227,7 +2232,7 @@
                     "name": "Macclesfield",
                     "ons_code": "E14000802",
                     "mp": "David Rutley MP",
-                    "signature_count": 55
+                    "signature_count": 56
                 },
                 {
                     "name": "Maidenhead",
@@ -2305,7 +2310,7 @@
                     "name": "Mid Bedfordshire",
                     "ons_code": "E14000813",
                     "mp": "Ms Nadine Dorries MP",
-                    "signature_count": 27
+                    "signature_count": 28
                 },
                 {
                     "name": "Mid Derbyshire",
@@ -2317,7 +2322,7 @@
                     "name": "Mid Dorset and North Poole",
                     "ons_code": "E14000815",
                     "mp": "Michael Tomlinson MP",
-                    "signature_count": 12
+                    "signature_count": 13
                 },
                 {
                     "name": "Mid Norfolk",
@@ -2341,7 +2346,7 @@
                     "name": "Mid Worcestershire",
                     "ons_code": "E14000818",
                     "mp": "Nigel Huddleston MP",
-                    "signature_count": 11
+                    "signature_count": 12
                 },
                 {
                     "name": "Middlesbrough",
@@ -2425,7 +2430,7 @@
                     "name": "Newark",
                     "ons_code": "E14000829",
                     "mp": "Robert Jenrick MP",
-                    "signature_count": 11
+                    "signature_count": 16
                 },
                 {
                     "name": "Newbury",
@@ -2575,7 +2580,7 @@
                     "name": "North Somerset",
                     "ons_code": "E14000850",
                     "mp": "Rt Hon Dr Liam Fox MP",
-                    "signature_count": 25
+                    "signature_count": 26
                 },
                 {
                     "name": "North Swindon",
@@ -2587,7 +2592,7 @@
                     "name": "North Thanet",
                     "ons_code": "E14000852",
                     "mp": "Rt Hon Sir Roger Gale MP",
-                    "signature_count": 13
+                    "signature_count": 14
                 },
                 {
                     "name": "North Tyneside",
@@ -2647,7 +2652,7 @@
                     "name": "Northampton South",
                     "ons_code": "E14000862",
                     "mp": "Andrew Lewer MP",
-                    "signature_count": 17
+                    "signature_count": 18
                 },
                 {
                     "name": "Norwich North",
@@ -2659,7 +2664,7 @@
                     "name": "Norwich South",
                     "ons_code": "E14000864",
                     "mp": "Clive Lewis MP",
-                    "signature_count": 24
+                    "signature_count": 25
                 },
                 {
                     "name": "Nottingham East",
@@ -2755,7 +2760,7 @@
                     "name": "Plymouth, Moor View",
                     "ons_code": "E14000879",
                     "mp": "Johnny Mercer MP",
-                    "signature_count": 39
+                    "signature_count": 40
                 },
                 {
                     "name": "Plymouth, Sutton and Devonport",
@@ -2779,7 +2784,7 @@
                     "name": "Poplar and Limehouse",
                     "ons_code": "E14000882",
                     "mp": "Jim Fitzpatrick MP",
-                    "signature_count": 451
+                    "signature_count": 461
                 },
                 {
                     "name": "Portsmouth North",
@@ -2941,7 +2946,7 @@
                     "name": "Runnymede and Weybridge",
                     "ons_code": "E14000907",
                     "mp": "Rt Hon Philip Hammond MP",
-                    "signature_count": 48
+                    "signature_count": 51
                 },
                 {
                     "name": "Rushcliffe",
@@ -2977,7 +2982,7 @@
                     "name": "Scarborough and Whitby",
                     "ons_code": "E14000913",
                     "mp": "Rt Hon Robert Goodwill MP",
-                    "signature_count": 10
+                    "signature_count": 11
                 },
                 {
                     "name": "Scunthorpe",
@@ -3001,7 +3006,7 @@
                     "name": "Selby and Ainsty",
                     "ons_code": "E14000917",
                     "mp": "Nigel Adams MP",
-                    "signature_count": 29
+                    "signature_count": 30
                 },
                 {
                     "name": "Sevenoaks",
@@ -3073,7 +3078,7 @@
                     "name": "Sleaford and North Hykeham",
                     "ons_code": "E14000929",
                     "mp": "Dr Caroline Johnson MP",
-                    "signature_count": 95
+                    "signature_count": 96
                 },
                 {
                     "name": "Slough",
@@ -3169,7 +3174,7 @@
                     "name": "South Shields",
                     "ons_code": "E14000944",
                     "mp": "Mrs Emma Lewell-Buck MP",
-                    "signature_count": 18
+                    "signature_count": 19
                 },
                 {
                     "name": "South Staffordshire",
@@ -3211,7 +3216,7 @@
                     "name": "South West Hertfordshire",
                     "ons_code": "E14000951",
                     "mp": "Rt Hon David Gauke MP",
-                    "signature_count": 62
+                    "signature_count": 63
                 },
                 {
                     "name": "South West Norfolk",
@@ -3223,7 +3228,7 @@
                     "name": "South West Surrey",
                     "ons_code": "E14000953",
                     "mp": "Rt Hon Jeremy Hunt MP",
-                    "signature_count": 24
+                    "signature_count": 25
                 },
                 {
                     "name": "South West Wiltshire",
@@ -3277,13 +3282,13 @@
                     "name": "St Helens North",
                     "ons_code": "E14000962",
                     "mp": "Conor McGinn MP",
-                    "signature_count": 153
+                    "signature_count": 154
                 },
                 {
                     "name": "St Helens South and Whiston",
                     "ons_code": "E14000963",
                     "mp": "Ms Marie Rimmer MP",
-                    "signature_count": 347
+                    "signature_count": 349
                 },
                 {
                     "name": "St Ives",
@@ -3355,7 +3360,7 @@
                     "name": "Stone",
                     "ons_code": "E14000975",
                     "mp": "Sir William Cash MP",
-                    "signature_count": 11
+                    "signature_count": 12
                 },
                 {
                     "name": "Stourbridge",
@@ -3415,7 +3420,7 @@
                     "name": "Sutton and Cheam",
                     "ons_code": "E14000984",
                     "mp": "Paul Scully MP",
-                    "signature_count": 30
+                    "signature_count": 31
                 },
                 {
                     "name": "Sutton Coldfield",
@@ -3487,13 +3492,13 @@
                     "name": "Thornbury and Yate",
                     "ons_code": "E14000994",
                     "mp": "Luke Hall MP",
-                    "signature_count": 19
+                    "signature_count": 20
                 },
                 {
                     "name": "Thurrock",
                     "ons_code": "E14000995",
                     "mp": "Jackie Doyle-Price MP",
-                    "signature_count": 47
+                    "signature_count": 48
                 },
                 {
                     "name": "Tiverton and Honiton",
@@ -3511,7 +3516,7 @@
                     "name": "Tooting",
                     "ons_code": "E14000998",
                     "mp": "Dr Rosena Allin-Khan MP",
-                    "signature_count": 49
+                    "signature_count": 51
                 },
                 {
                     "name": "Torbay",
@@ -3523,7 +3528,7 @@
                     "name": "Torfaen",
                     "ons_code": "W07000053",
                     "mp": "Nick Thomas-Symonds MP",
-                    "signature_count": 5
+                    "signature_count": 6
                 },
                 {
                     "name": "Torridge and West Devon",
@@ -3589,13 +3594,13 @@
                     "name": "Vale of Glamorgan",
                     "ons_code": "W07000078",
                     "mp": "Rt Hon Alun Cairns MP",
-                    "signature_count": 7
+                    "signature_count": 9
                 },
                 {
                     "name": "Vauxhall",
                     "ons_code": "E14001008",
                     "mp": "Kate Hoey MP",
-                    "signature_count": 78
+                    "signature_count": 79
                 },
                 {
                     "name": "Wakefield",
@@ -3625,7 +3630,7 @@
                     "name": "Walthamstow",
                     "ons_code": "E14001013",
                     "mp": "Stella Creasy MP",
-                    "signature_count": 76
+                    "signature_count": 84
                 },
                 {
                     "name": "Wansbeck",
@@ -3649,19 +3654,19 @@
                     "name": "Warrington North",
                     "ons_code": "E14001017",
                     "mp": "Helen Jones MP",
-                    "signature_count": 178
+                    "signature_count": 181
                 },
                 {
                     "name": "Warrington South",
                     "ons_code": "E14001018",
                     "mp": "Faisal Rashid MP",
-                    "signature_count": 390
+                    "signature_count": 392
                 },
                 {
                     "name": "Warwick and Leamington",
                     "ons_code": "E14001019",
                     "mp": "Matt Western MP",
-                    "signature_count": 17
+                    "signature_count": 18
                 },
                 {
                     "name": "Washington and Sunderland West",
@@ -3673,7 +3678,7 @@
                     "name": "Watford",
                     "ons_code": "E14001021",
                     "mp": "Richard Harrington MP",
-                    "signature_count": 52
+                    "signature_count": 53
                 },
                 {
                     "name": "Waveney",
@@ -3703,7 +3708,7 @@
                     "name": "Wells",
                     "ons_code": "E14001026",
                     "mp": "James Heappey MP",
-                    "signature_count": 8
+                    "signature_count": 9
                 },
                 {
                     "name": "Welwyn Hatfield",
@@ -3799,7 +3804,7 @@
                     "name": "Windsor",
                     "ons_code": "E14001042",
                     "mp": "Adam Afriyie MP",
-                    "signature_count": 19
+                    "signature_count": 21
                 },
                 {
                     "name": "Wirral South",
@@ -3859,13 +3864,13 @@
                     "name": "Worcester",
                     "ons_code": "E14001052",
                     "mp": "Mr Robin Walker MP",
-                    "signature_count": 9
+                    "signature_count": 10
                 },
                 {
                     "name": "Workington",
                     "ons_code": "E14001053",
                     "mp": "Sue Hayman MP",
-                    "signature_count": 10
+                    "signature_count": 11
                 },
                 {
                     "name": "Worsley and Eccles South",

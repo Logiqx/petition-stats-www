@@ -10,9 +10,9 @@
             "background": "The overnight closure of Princess Royal Hospital\u2019s A&E is avoidable and a solution is there if those responsible higher up nationally choose to intervene. \r\n\r\nGovernment and those at the top in the NHS have the power to resolve this and stop it happening.",
             "additional_details": "I have persistently since 2016 raised with the Secretary of State for Health the issue of the possible closure of PRH\u2019s A&E yet nothing has been done. Now the closure is due to happen in November, Government can no longer wash their hands of this issue. \r\n\r\nOther hospital trusts have received extra help recruiting middle grade A&E doctors and nurses that SaTH so desperately needs yet Telford and Shropshire appears to have been ignored.",
             "state": "open",
-            "signature_count": 32652,
+            "signature_count": 32654,
             "created_at": "2018-10-01T10:35:40.633Z",
-            "updated_at": "2019-03-27T22:50:31.384Z",
+            "updated_at": "2019-03-28T17:52:49.017Z",
             "rejected_at": null,
             "opened_at": "2018-10-04T14:04:30.003Z",
             "closed_at": null,
@@ -126,7 +126,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 32583
+                    "signature_count": 32585
                 },
                 {
                     "name": "United States",
@@ -1494,7 +1494,7 @@
                     "name": "Hackney South and Shoreditch",
                     "ons_code": "E14000721",
                     "mp": "Meg Hillier MP",
-                    "signature_count": 5
+                    "signature_count": 6
                 },
                 {
                     "name": "Halesowen and Rowley Regis",
@@ -1812,7 +1812,7 @@
                     "name": "Leeds North East",
                     "ons_code": "E14000779",
                     "mp": "Fabian Hamilton MP",
-                    "signature_count": 3
+                    "signature_count": 4
                 },
                 {
                     "name": "Leeds North West",

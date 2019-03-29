@@ -10,9 +10,9 @@
             "background": "The loss of a van and/or tools can severely impact on a tradesperson. Even if they are insured, sourcing replacements, organising van repairs and rebooking appointments means significant time out of work. For those who cannot find affordable insurance, this can lead to the loss of livelihood.",
             "additional_details": "While tradespeople can take preventative measures to protect their vans and tools, this only goes so far in deterring thieves. We are, therefore, calling on the Government to consider what more can be done to tackle this problem, whether it be introducing new legislation, additional sentencing guidelines or regulations on the reselling of tools. Ultimately, thieves must understand that such a crime is not profitable and that stealing a livelihood carries with it commensurate penalties.",
             "state": "open",
-            "signature_count": 39796,
+            "signature_count": 39823,
             "created_at": "2018-10-25T11:28:35.903Z",
-            "updated_at": "2019-03-28T08:31:33.160Z",
+            "updated_at": "2019-03-29T11:16:36.629Z",
             "rejected_at": null,
             "opened_at": "2018-11-01T09:51:33.954Z",
             "closed_at": null,
@@ -201,7 +201,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 39678
+                    "signature_count": 39705
                 },
                 {
                     "name": "United States",
@@ -362,7 +362,7 @@
                     "name": "Livingston",
                     "ons_code": "S14000044",
                     "mp": "Hannah Bardell MP",
-                    "signature_count": 44
+                    "signature_count": 45
                 },
                 {
                     "name": "Midlothian",
@@ -410,7 +410,7 @@
                     "name": "Berwickshire, Roxburgh and Selkirk",
                     "ons_code": "S14000008",
                     "mp": "John Lamont MP",
-                    "signature_count": 122
+                    "signature_count": 128
                 },
                 {
                     "name": "Ochil and South Perthshire",
@@ -428,7 +428,7 @@
                     "name": "Paisley and Renfrewshire North",
                     "ons_code": "S14000052",
                     "mp": "Gavin Newlands MP",
-                    "signature_count": 28
+                    "signature_count": 29
                 },
                 {
                     "name": "Paisley and Renfrewshire South",
@@ -668,7 +668,7 @@
                     "name": "Berwick-upon-Tweed",
                     "ons_code": "E14000554",
                     "mp": "Anne-Marie Trevelyan MP",
-                    "signature_count": 34
+                    "signature_count": 35
                 },
                 {
                     "name": "Bethnal Green and Bow",
@@ -1022,7 +1022,7 @@
                     "name": "Burton",
                     "ons_code": "E14000610",
                     "mp": "Andrew Griffiths MP",
-                    "signature_count": 55
+                    "signature_count": 56
                 },
                 {
                     "name": "Bury North",
@@ -1160,7 +1160,7 @@
                     "name": "Charnwood",
                     "ons_code": "E14000625",
                     "mp": "Edward Argar MP",
-                    "signature_count": 131
+                    "signature_count": 132
                 },
                 {
                     "name": "Chatham and Aylesford",
@@ -1196,7 +1196,7 @@
                     "name": "Chesham and Amersham",
                     "ons_code": "E14000631",
                     "mp": "Rt Hon Dame Cheryl Gillan MP",
-                    "signature_count": 90
+                    "signature_count": 91
                 },
                 {
                     "name": "Chesterfield",
@@ -1652,7 +1652,7 @@
                     "name": "Faversham and Mid Kent",
                     "ons_code": "E14000700",
                     "mp": "Helen Whately MP",
-                    "signature_count": 70
+                    "signature_count": 72
                 },
                 {
                     "name": "Feltham and Heston",
@@ -1736,7 +1736,7 @@
                     "name": "Gloucester",
                     "ons_code": "E14000712",
                     "mp": "Richard Graham MP",
-                    "signature_count": 74
+                    "signature_count": 75
                 },
                 {
                     "name": "Gosport",
@@ -1808,7 +1808,7 @@
                     "name": "Halifax",
                     "ons_code": "E14000723",
                     "mp": "Holly Lynch MP",
-                    "signature_count": 65
+                    "signature_count": 66
                 },
                 {
                     "name": "Haltemprice and Howden",
@@ -1862,7 +1862,7 @@
                     "name": "Harrow West",
                     "ons_code": "E14000732",
                     "mp": "Gareth Thomas MP",
-                    "signature_count": 32
+                    "signature_count": 33
                 },
                 {
                     "name": "Hartlepool",
@@ -1898,7 +1898,7 @@
                     "name": "Hazel Grove",
                     "ons_code": "E14000738",
                     "mp": "Mr William Wragg MP",
-                    "signature_count": 57
+                    "signature_count": 58
                 },
                 {
                     "name": "Hemel Hempstead",
@@ -2228,7 +2228,7 @@
                     "name": "Lichfield",
                     "ons_code": "E14000791",
                     "mp": "Michael Fabricant MP",
-                    "signature_count": 72
+                    "signature_count": 73
                 },
                 {
                     "name": "Lincoln",
@@ -2516,7 +2516,7 @@
                     "name": "Newcastle upon Tyne East",
                     "ons_code": "E14000832",
                     "mp": "Rt Hon Nicholas Brown MP",
-                    "signature_count": 13
+                    "signature_count": 14
                 },
                 {
                     "name": "Newcastle upon Tyne North",
@@ -3620,7 +3620,7 @@
                     "name": "Totnes",
                     "ons_code": "E14001001",
                     "mp": "Dr Sarah Wollaston MP",
-                    "signature_count": 44
+                    "signature_count": 45
                 },
                 {
                     "name": "Tottenham",
@@ -3872,7 +3872,7 @@
                     "name": "Wigan",
                     "ons_code": "E14001039",
                     "mp": "Lisa Nandy MP",
-                    "signature_count": 50
+                    "signature_count": 51
                 },
                 {
                     "name": "Wimbledon",
@@ -3884,7 +3884,7 @@
                     "name": "Winchester",
                     "ons_code": "E14001041",
                     "mp": "Steve Brine MP",
-                    "signature_count": 33
+                    "signature_count": 34
                 },
                 {
                     "name": "Windsor",
@@ -3938,7 +3938,7 @@
                     "name": "Wolverhampton South East",
                     "ons_code": "E14001050",
                     "mp": "Rt Hon Pat McFadden MP",
-                    "signature_count": 57
+                    "signature_count": 58
                 },
                 {
                     "name": "Wolverhampton South West",
@@ -4076,7 +4076,7 @@
                     "name": "Dundee East",
                     "ons_code": "S14000015",
                     "mp": "Stewart Hosie MP",
-                    "signature_count": 25
+                    "signature_count": 26
                 },
                 {
                     "name": "Dundee West",

@@ -10,9 +10,9 @@
             "background": "It is a travesty to see uniforms of Her Majesty's Armed Forces corrupted with the flag of the EU, an anti-democratic wannabe superstate which we're thankfully leaving.\r\nMembers of the Armed Forces serve the Monarch and the democratic will of the British People and NOT Mr Juncker or EU technocrats.",
             "additional_details": "UK forces under the EU flag Sept 2018:\r\nhttps://www.youtube.com/watch?v=gZMhx0T9Tfg\r\nThis is very different to badges denoting mission, the UN or NATO - they don't have quasi-Governmental ambitions.\r\nThe EU from its foundation has had an ambition to be a union of states. It is currently a quasi government and is expanding that role.\r\nDecisions go through on a nod with a UK minister present.\r\nThe UK public was not consulted or made aware that UK forces would be wearing EU flags.\r\nWho therefore is in control?",
             "state": "open",
-            "signature_count": 18576,
+            "signature_count": 18591,
             "created_at": "2018-09-13T23:43:17.826Z",
-            "updated_at": "2019-03-28T07:23:29.450Z",
+            "updated_at": "2019-03-29T10:27:57.311Z",
             "rejected_at": null,
             "opened_at": "2018-10-01T12:02:18.581Z",
             "closed_at": null,
@@ -86,7 +86,7 @@
                 {
                     "name": "Greece",
                     "code": "GR",
-                    "signature_count": 1
+                    "signature_count": 2
                 },
                 {
                     "name": "Guernsey",
@@ -131,6 +131,11 @@
                 {
                     "name": "Kenya",
                     "code": "KE",
+                    "signature_count": 1
+                },
+                {
+                    "name": "Kuwait",
+                    "code": "KW",
                     "signature_count": 1
                 },
                 {
@@ -231,7 +236,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 18182
+                    "signature_count": 18195
                 },
                 {
                     "name": "United States",
@@ -798,7 +803,7 @@
                     "name": "Bishop Auckland",
                     "ons_code": "E14000569",
                     "mp": "Helen Goodman MP",
-                    "signature_count": 32
+                    "signature_count": 33
                 },
                 {
                     "name": "Blackburn",
@@ -1284,7 +1289,7 @@
                     "name": "Cities of London and Westminster",
                     "ons_code": "E14000639",
                     "mp": "Rt Hon Mark Field MP",
-                    "signature_count": 24
+                    "signature_count": 25
                 },
                 {
                     "name": "City of Chester",
@@ -1458,7 +1463,7 @@
                     "name": "Derbyshire Dales",
                     "ons_code": "E14000664",
                     "mp": "Rt Hon Sir Patrick McLoughlin MP",
-                    "signature_count": 21
+                    "signature_count": 22
                 },
                 {
                     "name": "Devizes",
@@ -1638,7 +1643,7 @@
                     "name": "Enfield North",
                     "ons_code": "E14000691",
                     "mp": "Rt Hon Joan Ryan MP",
-                    "signature_count": 8
+                    "signature_count": 9
                 },
                 {
                     "name": "Enfield, Southgate",
@@ -1926,7 +1931,7 @@
                     "name": "Havant",
                     "ons_code": "E14000736",
                     "mp": "Alan Mak MP",
-                    "signature_count": 38
+                    "signature_count": 39
                 },
                 {
                     "name": "Hayes and Harlington",
@@ -2556,7 +2561,7 @@
                     "name": "Newcastle upon Tyne East",
                     "ons_code": "E14000832",
                     "mp": "Rt Hon Nicholas Brown MP",
-                    "signature_count": 24
+                    "signature_count": 25
                 },
                 {
                     "name": "Newcastle upon Tyne North",
@@ -2880,7 +2885,7 @@
                     "name": "Plymouth, Sutton and Devonport",
                     "ons_code": "E14000880",
                     "mp": "Luke Pollard MP",
-                    "signature_count": 50
+                    "signature_count": 51
                 },
                 {
                     "name": "Pontypridd",
@@ -3276,7 +3281,7 @@
                     "name": "South Norfolk",
                     "ons_code": "E14000941",
                     "mp": "Mr Richard Bacon MP",
-                    "signature_count": 27
+                    "signature_count": 28
                 },
                 {
                     "name": "South Northamptonshire",
@@ -3318,7 +3323,7 @@
                     "name": "South Thanet",
                     "ons_code": "E14000948",
                     "mp": "Craig Mackinlay MP",
-                    "signature_count": 42
+                    "signature_count": 43
                 },
                 {
                     "name": "South West Bedfordshire",
@@ -3354,7 +3359,7 @@
                     "name": "South West Wiltshire",
                     "ons_code": "E14000954",
                     "mp": "Dr Andrew Murrison MP",
-                    "signature_count": 50
+                    "signature_count": 51
                 },
                 {
                     "name": "Southampton, Itchen",
@@ -3690,7 +3695,7 @@
                     "name": "Tynemouth",
                     "ons_code": "E14001006",
                     "mp": "Sir Alan Campbell MP",
-                    "signature_count": 34
+                    "signature_count": 35
                 },
                 {
                     "name": "Upper Bann",
@@ -3762,7 +3767,7 @@
                     "name": "Wantage",
                     "ons_code": "E14001015",
                     "mp": "Rt Hon Edward Vaizey MP",
-                    "signature_count": 43
+                    "signature_count": 44
                 },
                 {
                     "name": "Warley",
@@ -4146,7 +4151,7 @@
                     "name": "Ayr, Carrick and Cumnock",
                     "ons_code": "S14000006",
                     "mp": "Bill Grant MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "East Lothian",
