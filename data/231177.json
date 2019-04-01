@@ -10,9 +10,9 @@
             "background": "The loss of a van and/or tools can severely impact on a tradesperson. Even if they are insured, sourcing replacements, organising van repairs and rebooking appointments means significant time out of work. For those who cannot find affordable insurance, this can lead to the loss of livelihood.",
             "additional_details": "While tradespeople can take preventative measures to protect their vans and tools, this only goes so far in deterring thieves. We are, therefore, calling on the Government to consider what more can be done to tackle this problem, whether it be introducing new legislation, additional sentencing guidelines or regulations on the reselling of tools. Ultimately, thieves must understand that such a crime is not profitable and that stealing a livelihood carries with it commensurate penalties.",
             "state": "open",
-            "signature_count": 39823,
+            "signature_count": 39850,
             "created_at": "2018-10-25T11:28:35.903Z",
-            "updated_at": "2019-03-29T11:16:36.629Z",
+            "updated_at": "2019-04-01T07:04:18.997Z",
             "rejected_at": null,
             "opened_at": "2018-11-01T09:51:33.954Z",
             "closed_at": null,
@@ -201,7 +201,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 39705
+                    "signature_count": 39732
                 },
                 {
                     "name": "United States",
@@ -956,7 +956,7 @@
                     "name": "Bristol East",
                     "ons_code": "E14000599",
                     "mp": "Kerry McCarthy MP",
-                    "signature_count": 93
+                    "signature_count": 94
                 },
                 {
                     "name": "Bristol North West",
@@ -968,7 +968,7 @@
                     "name": "Bristol South",
                     "ons_code": "E14000601",
                     "mp": "Karin Smyth MP",
-                    "signature_count": 88
+                    "signature_count": 101
                 },
                 {
                     "name": "Bristol West",
@@ -1388,7 +1388,7 @@
                     "name": "Daventry",
                     "ons_code": "E14000660",
                     "mp": "Chris Heaton-Harris MP",
-                    "signature_count": 105
+                    "signature_count": 106
                 },
                 {
                     "name": "Delyn",
@@ -1556,7 +1556,7 @@
                     "name": "Eastbourne",
                     "ons_code": "E14000684",
                     "mp": "Stephen Lloyd MP",
-                    "signature_count": 67
+                    "signature_count": 68
                 },
                 {
                     "name": "Eastleigh",
@@ -1682,7 +1682,7 @@
                     "name": "Folkestone and Hythe",
                     "ons_code": "E14000704",
                     "mp": "Damian Collins MP",
-                    "signature_count": 64
+                    "signature_count": 65
                 },
                 {
                     "name": "Forest of Dean",
@@ -2192,7 +2192,7 @@
                     "name": "Leigh",
                     "ons_code": "E14000785",
                     "mp": "Jo Platt MP",
-                    "signature_count": 80
+                    "signature_count": 81
                 },
                 {
                     "name": "Lewes",
@@ -2216,7 +2216,7 @@
                     "name": "Lewisham, Deptford",
                     "ons_code": "E14000789",
                     "mp": "Vicky Foxcroft MP",
-                    "signature_count": 37
+                    "signature_count": 38
                 },
                 {
                     "name": "Leyton and Wanstead",
@@ -2300,7 +2300,7 @@
                     "name": "Macclesfield",
                     "ons_code": "E14000802",
                     "mp": "David Rutley MP",
-                    "signature_count": 62
+                    "signature_count": 63
                 },
                 {
                     "name": "Maidenhead",
@@ -2432,7 +2432,7 @@
                     "name": "Milton Keynes North",
                     "ons_code": "E14000821",
                     "mp": "Rt Hon Mark Lancaster MP",
-                    "signature_count": 334
+                    "signature_count": 335
                 },
                 {
                     "name": "Milton Keynes South",
@@ -2540,7 +2540,7 @@
                     "name": "Newport West",
                     "ons_code": "W07000056",
                     "mp": null,
-                    "signature_count": 45
+                    "signature_count": 46
                 },
                 {
                     "name": "Newry and Armagh",
@@ -2960,7 +2960,7 @@
                     "name": "Rochdale",
                     "ons_code": "E14000897",
                     "mp": "Tony Lloyd MP",
-                    "signature_count": 56
+                    "signature_count": 57
                 },
                 {
                     "name": "Rochester and Strood",
@@ -3038,7 +3038,7 @@
                     "name": "Saffron Walden",
                     "ons_code": "E14000910",
                     "mp": "Mrs Kemi Badenoch MP",
-                    "signature_count": 116
+                    "signature_count": 117
                 },
                 {
                     "name": "Salford and Eccles",
@@ -3110,7 +3110,7 @@
                     "name": "Sheffield, Hallam",
                     "ons_code": "E14000922",
                     "mp": "Jared O'Mara MP",
-                    "signature_count": 120
+                    "signature_count": 121
                 },
                 {
                     "name": "Sheffield, Heeley",
@@ -3500,7 +3500,7 @@
                     "name": "Sutton and Cheam",
                     "ons_code": "E14000984",
                     "mp": "Paul Scully MP",
-                    "signature_count": 96
+                    "signature_count": 97
                 },
                 {
                     "name": "Sutton Coldfield",
@@ -3650,7 +3650,7 @@
                     "name": "Tynemouth",
                     "ons_code": "E14001006",
                     "mp": "Sir Alan Campbell MP",
-                    "signature_count": 32
+                    "signature_count": 33
                 },
                 {
                     "name": "Upper Bann",
@@ -3668,7 +3668,7 @@
                     "name": "Vale of Clwyd",
                     "ons_code": "W07000060",
                     "mp": "Chris Ruane MP",
-                    "signature_count": 41
+                    "signature_count": 40
                 },
                 {
                     "name": "Vale of Glamorgan",
@@ -3830,7 +3830,7 @@
                     "name": "West Lancashire",
                     "ons_code": "E14001033",
                     "mp": "Rosie Cooper MP",
-                    "signature_count": 34
+                    "signature_count": 35
                 },
                 {
                     "name": "West Suffolk",
