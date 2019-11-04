@@ -10,9 +10,9 @@
             "background": "Non-stun slaughter is cruel. Many consumers do not want to eat meat killed by non-stun slaughter. On leaving the EU, specific UK legislation must replace the EU slaughter directive, explicitly precluding the religious exemption from pre-stunning requirement. Stun to kill must be mandatory.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 13917,
+            "signature_count": 13919,
             "created_at": "2019-05-25T12:08:53.852Z",
-            "updated_at": "2019-11-04T16:16:42.000Z",
+            "updated_at": "2019-11-04T16:28:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-16T11:24:16.242Z",
             "closed_at": null,
@@ -209,7 +209,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 13707
+                    "signature_count": 13709
                 },
                 {
                     "name": "United States",
@@ -874,7 +874,7 @@
                     "name": "Bracknell",
                     "ons_code": "E14000586",
                     "mp": "Dr Phillip Lee MP",
-                    "signature_count": 33
+                    "signature_count": 34
                 },
                 {
                     "name": "Bradford East",
@@ -1540,7 +1540,7 @@
                     "name": "East Londonderry",
                     "ons_code": "N06000006",
                     "mp": "Mr Gregory Campbell MP",
-                    "signature_count": 12
+                    "signature_count": 13
                 },
                 {
                     "name": "East Surrey",
