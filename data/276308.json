@@ -10,9 +10,9 @@
             "background": "Margiris, the second largest trawler in the world, was spotted off the coast of the Isle of Wight at the end of September.\r\n \r\nThe UK Government should work internationally to ban these trawlers and remove them from UK waters.",
             "additional_details": "Weighing close to 9,500 tonnes, the mammoth commercial fishing vessel is designed to operate fishing trawls, which involves pulling a fishing net through a large body of water. It is thought to process 250 tonnes of fish a day.\r\n \r\nHeavily regulated in some nations, trawling is widely criticised for its lack of selectivity, and the physical damage the trawl inflicts on the seabed. Australia has banned Margiris from operating in its waters.",
             "state": "open",
-            "signature_count": 25395,
+            "signature_count": 25400,
             "created_at": "2019-10-03T17:30:32.582Z",
-            "updated_at": "2019-11-04T16:35:12.000Z",
+            "updated_at": "2019-11-04T17:10:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-10-11T09:07:29.319Z",
             "closed_at": null,
@@ -279,7 +279,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 25061
+                    "signature_count": 25066
                 },
                 {
                     "name": "United States",
@@ -1564,7 +1564,7 @@
                     "name": "Dudley South",
                     "ons_code": "E14000672",
                     "mp": "Mike Wood MP",
-                    "signature_count": 18
+                    "signature_count": 19
                 },
                 {
                     "name": "Dulwich and West Norwood",
@@ -1900,7 +1900,7 @@
                     "name": "Halesowen and Rowley Regis",
                     "ons_code": "E14000722",
                     "mp": "James Morris MP",
-                    "signature_count": 20
+                    "signature_count": 21
                 },
                 {
                     "name": "Halifax",
@@ -2668,7 +2668,7 @@
                     "name": "North Cornwall",
                     "ons_code": "E14000837",
                     "mp": "Scott Mann MP",
-                    "signature_count": 140
+                    "signature_count": 141
                 },
                 {
                     "name": "North Devon",
@@ -3166,7 +3166,7 @@
                     "name": "Sedgefield",
                     "ons_code": "E14000915",
                     "mp": "Phil Wilson MP",
-                    "signature_count": 29
+                    "signature_count": 30
                 },
                 {
                     "name": "Sefton Central",
@@ -3730,7 +3730,7 @@
                     "name": "Truro and Falmouth",
                     "ons_code": "E14001003",
                     "mp": "Sarah Newton MP",
-                    "signature_count": 162
+                    "signature_count": 163
                 },
                 {
                     "name": "Tunbridge Wells",

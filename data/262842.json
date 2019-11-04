@@ -10,9 +10,9 @@
             "background": "This is an appeal to postpone the rollout of 5G in the UK, pending the outcome of an independent investigation. 5G will increase exposure to radiofrequency electromagnetic fields RF-EMF, that has been proven to be harmful for humans and the environment.",
             "additional_details": "More than 230 scientists and doctors worldwide have emphasised the potential health risks to the EU:\r\n\r\nhttp://www.5gappeal.eu\r\n\r\nThe Brussels region has already postponed the rollout of 5G due to the associated health risks.\r\n",
             "state": "open",
-            "signature_count": 26921,
+            "signature_count": 26925,
             "created_at": "2019-05-28T12:29:02.007Z",
-            "updated_at": "2019-11-04T16:44:22.000Z",
+            "updated_at": "2019-11-04T17:09:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-06-28T14:12:24.714Z",
             "closed_at": null,
@@ -279,7 +279,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 26640
+                    "signature_count": 26644
                 },
                 {
                     "name": "United States",
@@ -534,7 +534,7 @@
                     "name": "Ross, Skye and Lochaber",
                     "ons_code": "S14000055",
                     "mp": "Rt Hon Ian Blackford MP",
-                    "signature_count": 46
+                    "signature_count": 47
                 },
                 {
                     "name": "Rutherglen and Hamilton West",
@@ -1002,7 +1002,7 @@
                     "name": "Brentford and Isleworth",
                     "ons_code": "E14000593",
                     "mp": "Ruth Cadbury MP",
-                    "signature_count": 58
+                    "signature_count": 59
                 },
                 {
                     "name": "Brentwood and Ongar",
@@ -1056,7 +1056,7 @@
                     "name": "Bristol South",
                     "ons_code": "E14000601",
                     "mp": "Karin Smyth MP",
-                    "signature_count": 127
+                    "signature_count": 128
                 },
                 {
                     "name": "Bristol West",
@@ -3360,7 +3360,7 @@
                     "name": "South Swindon",
                     "ons_code": "E14000947",
                     "mp": "Rt Hon Robert Buckland MP",
-                    "signature_count": 36
+                    "signature_count": 37
                 },
                 {
                     "name": "South Thanet",

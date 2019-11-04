@@ -10,9 +10,9 @@
             "background": "Despite scientific evidence that the badger cull may actually be INCREASING instances of bovine tuberculosis, the government has announced a geographical extension of the cull in autumn 2019. Please listen to the scientists, stop the cull & adopt alternative humane options to culling.",
             "additional_details": "https://networkforanimals.org/observer/",
             "state": "open",
-            "signature_count": 12617,
+            "signature_count": 12618,
             "created_at": "2019-09-13T07:29:52.366Z",
-            "updated_at": "2019-11-04T16:08:22.000Z",
+            "updated_at": "2019-11-04T17:11:22.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-19T16:05:34.296Z",
             "closed_at": null,
@@ -209,7 +209,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 12463
+                    "signature_count": 12464
                 },
                 {
                     "name": "United States",
@@ -3294,7 +3294,7 @@
                     "name": "South West Norfolk",
                     "ons_code": "E14000952",
                     "mp": "Rt Hon Elizabeth Truss MP",
-                    "signature_count": 25
+                    "signature_count": 26
                 },
                 {
                     "name": "South West Surrey",
