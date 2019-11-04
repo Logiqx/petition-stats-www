@@ -4,57 +4,57 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](python/Petition%20Reports.ipynb)
 
-Last refreshed 2019-04-01 08:42:46
+Last refreshed 2019-11-04 16:22:34
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Revoke Article 50 and remain in the EU.](reports/241584.md) | 6,029,715 | 5,777,318 | 252,402 | -5 | 95.81 | 4.19 | -0.00 |
-| [Leave the EU without a deal in March 2019.](reports/229963.md) | 600,332 | 592,156 | 8,176 | 0 | 98.64 | 1.36 | 0.00 |
-| [Ban all ISIS members from returning to UK](reports/231521.md) | 594,711 | 588,306 | 6,405 | 0 | 98.92 | 1.08 | 0.00 |
-| [Ban the sale of fireworks to the public. Displays for licenced venues only.](reports/231147.md) | 306,664 | 305,546 | 1,118 | 0 | 99.64 | 0.36 | 0.00 |
-| [Make 'netting' hedgerows to prevent birds from nesting a criminal offence.](reports/244233.md) | 191,369 | 188,219 | 3,150 | 0 | 98.35 | 1.65 | 0.00 |
-| [School should start at 10am as teenagers are too tired](reports/229178.md) | 187,735 | 187,092 | 643 | 0 | 99.66 | 0.34 | 0.00 |
-| [Hold a second referendum on EU membership.](reports/235138.md) | 184,108 | 173,605 | 10,503 | 0 | 94.30 | 5.70 | 0.00 |
-| [Ban the use of all non-recyclable and unsustainable food packaging](reports/232684.md) | 177,779 | 175,790 | 1,989 | 0 | 98.88 | 1.12 | 0.00 |
-| [Parliament must honour the Referendum result. Leave deal or no deal 29/03/19](reports/243319.md) | 174,617 | 172,714 | 1,903 | 0 | 98.91 | 1.09 | 0.00 |
-| [Violet-Grace’s Law - Life sentences for Death by Dangerous Driving](reports/236952.md) | 159,166 | 157,941 | 1,225 | 0 | 99.23 | 0.77 | 0.00 |
-| [Revoke Art.50 if there is no Brexit plan by the 25 of February](reports/239706.md) | 150,172 | 141,759 | 8,413 | 0 | 94.40 | 5.60 | 0.00 |
-| [Grant a People's Vote if Parliament rejects the EU Withdrawal Agreement](reports/232984.md) | 143,829 | 137,816 | 6,013 | 0 | 95.82 | 4.18 | 0.00 |
-| [Leave the EU Without a deal on April 12th.](reports/248281.md) | 137,777 | 136,062 | 1,715 | 0 | 98.76 | 1.24 | 0.00 |
-| [Immunity for soldiers who worked in Northern Ireland. ](reports/243947.md) | 136,838 | 133,228 | 3,610 | 0 | 97.36 | 2.64 | 0.00 |
-| [The UK should not agree the UN's Global Compact for Migration](reports/232698.md) | 131,379 | 128,371 | 3,008 | 0 | 97.71 | 2.29 | 0.00 |
-| [Give parents the right to opt their child out of Relationship and Sex Education](reports/235053.md) | 115,684 | 115,049 | 635 | 0 | 99.45 | 0.55 | 0.00 |
-| [Increase funding for schools](reports/232220.md) | 112,719 | 112,429 | 290 | 0 | 99.74 | 0.26 | 0.00 |
-| [People found with a knife to get 10 years and using a knife 25 years in prison.](reports/233926.md) | 108,578 | 107,997 | 581 | 0 | 99.46 | 0.54 | 0.00 |
-| [NEW LAW THAT CATS KILLED/INJURED BY A VEHICLE ARE CHECKED FOR A CHIP: ROUND 3](reports/229004.md) | 106,951 | 106,307 | 644 | 0 | 99.40 | 0.60 | 0.00 |
-| [The Prime Minister should advise Her Majesty the Queen to prorogue Parliament.](reports/237487.md) | 98,445 | 96,545 | 1,900 | 0 | 98.07 | 1.93 | 0.00 |
-| [NHS supply new lifesaving drugs for Cystic Fibrosis like 11 other EU countries](reports/231602.md) | 89,611 | 88,705 | 906 | 0 | 98.99 | 1.01 | 0.00 |
-| [Increase college funding to sustainable levels - all students deserve equality!](reports/229744.md) | 72,132 | 71,905 | 227 | 0 | 99.69 | 0.31 | 0.00 |
-| [End the Cage Age: ban cages for all farmed animals.](reports/243448.md) | 67,714 | 66,711 | 1,003 | 0 | 98.52 | 1.48 | 0.00 |
-| [Recognise animal sentience & require that animal welfare has full regard in law](reports/242239.md) | 67,030 | 66,226 | 804 | 0 | 98.80 | 1.20 | 0.00 |
-| [Public inquiry into the bias in the BBC](reports/234797.md) | 55,799 | 54,874 | 925 | 0 | 98.34 | 1.66 | 0.00 |
-| [Make grey squirrel rescue exempt from Invasive Alien Species Order 2019](reports/235425.md) | 53,490 | 52,862 | 628 | 0 | 98.83 | 1.17 | 0.00 |
-| [Automatic by-election if an MP resigns membership of their political party](reports/242193.md) | 42,717 | 42,139 | 578 | 0 | 98.65 | 1.35 | 0.00 |
-| [Walk away now! We voted for a No Deal Brexit](reports/235185.md) | 42,383 | 41,853 | 530 | 0 | 98.75 | 1.25 | 0.00 |
-| [Investigate what more can be done to tackle van theft and van tool theft.](reports/231177.md) | 39,850 | 39,732 | 118 | 0 | 99.70 | 0.30 | 0.00 |
-| [Stop the detention of people with autism & learning disabilities in ATU’s   ](reports/231406.md) | 33,987 | 33,730 | 257 | 0 | 99.24 | 0.76 | 0.00 |
-| [Give voting rights to EU citizens in the UK and Brits abroad in a People's Vote](reports/235954.md) | 33,620 | 28,647 | 4,973 | 0 | 85.21 | 14.79 | 0.00 |
-| [Organise a rescue plan to prevent the avoidable overnight closure of PRH’s A&E](reports/229602.md) | 32,657 | 32,588 | 69 | 0 | 99.79 | 0.21 | 0.00 |
-| [Stop Brexit if parliament rejects the deal](reports/236261.md) | 32,321 | 30,481 | 1,840 | 0 | 94.31 | 5.69 | 0.00 |
-| [Halt Brexit For A Public Inquiry](reports/241848.md) | 32,189 | 30,167 | 2,022 | 0 | 93.72 | 6.28 | 0.00 |
-| [Allow parents to take children out of school for 1 week a year during term time](reports/231928.md) | 31,775 | 31,728 | 47 | 0 | 99.85 | 0.15 | 0.00 |
-| [Pet Theft Reform: Amend animal welfare law to make pet theft a specific offence.](reports/244530.md) | 31,028 | 30,692 | 336 | 0 | 98.92 | 1.08 | 0.00 |
-| [Make it a legal requirement to have a second safety critical person on trains](reports/231479.md) | 29,269 | 29,123 | 146 | 0 | 99.50 | 0.50 | 0.00 |
-| [Allow students to register at two GPs](reports/229573.md) | 28,986 | 28,921 | 65 | 0 | 99.78 | 0.22 | 0.00 |
-| [Strengthen workers' rights to tackle in-work poverty.](reports/234531.md) | 27,384 | 27,319 | 65 | 0 | 99.76 | 0.24 | 0.00 |
-| [Abolish the 0.7% Foreign Aid Target and spend OUR money at home](reports/230416.md) | 26,504 | 26,138 | 366 | 0 | 98.62 | 1.38 | 0.00 |
-| [Leave EU by April 12th 2019 with deal or no deal.](reports/250967.md) | 26,407 | 26,152 | 255 | 0 | 99.03 | 0.97 | 0.00 |
-| [To keep daily prayers in House of Commons, as UK was built on Christian values.](reports/237423.md) | 25,868 | 25,642 | 226 | 0 | 99.13 | 0.87 | 0.00 |
-| [Justice for Jodey Whiting. Independent inquiry into deaths linked to the DWP ](reports/243337.md) | 24,446 | 24,188 | 258 | 0 | 98.94 | 1.06 | 0.00 |
-| [Raise the Rate: increase the national funding rate for sixth form students](reports/230140.md) | 23,704 | 23,654 | 50 | 0 | 99.79 | 0.21 | 0.00 |
-| [Abolish leasehold](reports/238071.md) | 23,540 | 23,433 | 107 | 0 | 99.55 | 0.45 | 0.00 |
-| [Save Our Parks](reports/229894.md) | 22,299 | 22,226 | 73 | 0 | 99.67 | 0.33 | 0.00 |
-| [Automatically grant EU citizens in the UK indefinite leave to remain for free](reports/236200.md) | 20,705 | 20,395 | 310 | 0 | 98.50 | 1.50 | 0.00 |
-| [Freeze the £1bn RFA ship tender till we leave EU directives, to ensure UK build.](reports/236992.md) | 20,108 | 19,729 | 379 | 0 | 98.12 | 1.88 | 0.00 |
-| [Stop MLA’s Salary until Stormont has a sitting Assembly](reports/239208.md) | 19,854 | 19,708 | 146 | 0 | 99.26 | 0.74 | 0.00 |
-| [Abolish TV Licence](reports/231342.md) | 19,317 | 19,226 | 91 | 0 | 99.53 | 0.47 | 0.00 |
+| [Do not prorogue Parliament](reports/269157.md) | 1,725,479 | 1,657,351 | 68,128 | 0 | 96.05 | 3.95 | 0.00 |
+| [Ban fireworks for general sale to the public.](reports/276425.md) | 183,783 | 183,090 | 693 | 0 | 99.62 | 0.38 | 0.00 |
+| [The Air Ambulances to be government funded](reports/259892.md) | 133,853 | 132,487 | 1,366 | 0 | 98.98 | 1.02 | 0.00 |
+| [Hold online trolls accountable for their online abuse via their IP address ](reports/272087.md) | 133,233 | 132,307 | 926 | 0 | 99.30 | 0.70 | 0.00 |
+| [Demand the EU & UN sanction Brazil to halt increased deforestation of the Amazon](reports/266638.md) | 123,161 | 120,100 | 3,062 | -1 | 97.51 | 2.49 | -0.00 |
+| [Ban Driven Grouse Shooting Wilful blindness is no longer an option](reports/266770.md) | 111,774 | 110,079 | 1,696 | -1 | 98.48 | 1.52 | -0.00 |
+| [I  request a full public inquiry into death of my son, Matthew Leahy. (20 yrs.)](reports/255823.md) | 73,318 | 72,728 | 590 | 0 | 99.20 | 0.80 | 0.00 |
+| [Introduce a minimum sentence for carrying a knife, equal to carrying a firearm  ](reports/268766.md) | 71,788 | 71,393 | 395 | 0 | 99.45 | 0.55 | 0.00 |
+| [Hold a referendum on whether to leave with the deal offered or remain in the EU](reports/276978.md) | 60,671 | 56,491 | 4,180 | 0 | 93.11 | 6.89 | 0.00 |
+| [Recall Parliament immediately to urgently debate no-deal Brexit.](reports/269140.md) | 53,741 | 51,170 | 2,571 | 0 | 95.22 | 4.78 | 0.00 |
+| [Ban energy-wasting open fridges and freezers in all retail outlets](reports/261092.md) | 49,189 | 48,974 | 215 | 0 | 99.56 | 0.44 | 0.00 |
+| [All venues that hold firework displays to be licenced](reports/278293.md) | 46,734 | 46,469 | 265 | 0 | 99.43 | 0.57 | 0.00 |
+| [Halt all efforts to introduce ID checks at polling stations](reports/277121.md) | 43,075 | 42,300 | 775 | 0 | 98.20 | 1.80 | 0.00 |
+| [Stop Brexit](reports/270385.md) | 39,299 | 36,465 | 2,834 | 0 | 92.79 | 7.21 | 0.00 |
+| [Defend the Kurds and stop the Turkish military invasion of northern Syria!](reports/276661.md) | 38,840 | 36,583 | 2,257 | 0 | 94.19 | 5.81 | 0.00 |
+| [Link the state pension to the adult minimum wage  £328.40p per week.](reports/269486.md) | 38,372 | 37,335 | 1,037 | 0 | 97.30 | 2.70 | 0.00 |
+| [Fund research for childhood cancers with the worst survival rates](reports/269637.md) | 37,556 | 37,179 | 377 | 0 | 99.00 | 1.00 | 0.00 |
+| [Politicians who changes parties should have to go through a new By Election.](reports/269912.md) | 35,903 | 35,437 | 466 | 0 | 98.70 | 1.30 | 0.00 |
+| [Rule out any prospect of granting an amnesty on illegal immigration](reports/266925.md) | 35,427 | 34,819 | 610 | -2 | 98.28 | 1.72 | -0.01 |
+| [Stamp Out Tool Theft with the introduction of tighter regulation & greater fines](reports/273892.md) | 31,755 | 31,626 | 129 | 0 | 99.59 | 0.41 | 0.00 |
+| [Bring the date for the post-study work visa closer to help current students](reports/273801.md) | 30,008 | 29,553 | 455 | 0 | 98.48 | 1.52 | 0.00 |
+| [Revoke article 50 if the EU does not grant an extension past 31 October](reports/275680.md) | 29,680 | 27,300 | 2,380 | 0 | 91.98 | 8.02 | 0.00 |
+| [Repeal IR35 legislation in Public Sector and proposed Private Sector rollout.](reports/262354.md) | 29,668 | 29,568 | 102 | -2 | 99.66 | 0.34 | -0.01 |
+| [Improve maternal care for black British women](reports/259256.md) | 29,256 | 28,896 | 360 | 0 | 98.77 | 1.23 | 0.00 |
+| [Anonymity for those accused of sexual offences until charge.](reports/247912.md) | 28,419 | 27,657 | 762 | 0 | 97.32 | 2.68 | 0.00 |
+| [Postpone the rollout of 5G in the UK, pending further independent investigation.](reports/262842.md) | 26,917 | 26,636 | 283 | -2 | 98.96 | 1.05 | -0.01 |
+| [Ban super trawlers from fishing in UK waters.](reports/276308.md) | 25,393 | 25,059 | 334 | 0 | 98.68 | 1.32 | 0.00 |
+| [Stop Postal Votes except for the elderly and disabled](reports/258370.md) | 22,361 | 22,089 | 272 | 0 | 98.78 | 1.22 | 0.00 |
+| [Make ECOCIDE a UK criminal offence](reports/263605.md) | 21,756 | 21,378 | 380 | -2 | 98.26 | 1.75 | -0.01 |
+| [Ensure any Brexit deal protects the Touring Industry for Musicians and Crew.](reports/277346.md) | 20,899 | 20,562 | 337 | 0 | 98.39 | 1.61 | 0.00 |
+| [Introduce voter id for all elections](reports/263860.md) | 20,635 | 20,367 | 269 | -1 | 98.70 | 1.30 | -0.00 |
+| [Lower the cost of British Citizenship applications to £372.](reports/276697.md) | 20,616 | 20,440 | 176 | 0 | 99.15 | 0.85 | 0.00 |
+| [Scrap the pension annual allowance taper](reports/268161.md) | 19,914 | 19,860 | 54 | 0 | 99.73 | 0.27 | 0.00 |
+| [Compensation for women born in 1950s, due to state pension age change](reports/263615.md) | 17,507 | 17,131 | 378 | -2 | 97.85 | 2.16 | -0.01 |
+| [Extend the HM Forces Railcard scheme to include all UK Veterans](reports/266193.md) | 17,163 | 16,830 | 334 | -1 | 98.06 | 1.95 | -0.01 |
+| [To halt any future increases to the retirement age for the uk State Pension.](reports/265262.md) | 17,129 | 16,986 | 145 | -2 | 99.17 | 0.85 | -0.01 |
+| [Make qualified Dental Nurse wage a minimum of £12 per hour.](reports/264694.md) | 17,071 | 17,035 | 37 | -1 | 99.79 | 0.22 | -0.01 |
+| [Change Settlement Status from Application to Registration.](reports/257397.md) | 16,748 | 16,073 | 675 | 0 | 95.97 | 4.03 | 0.00 |
+| [Stop the passing of the Abortion Law in Northern Ireland](reports/267231.md) | 15,978 | 15,777 | 202 | -1 | 98.74 | 1.26 | -0.01 |
+| [Stop IR35 roll-out in 2020 in private sector - due to uncertainty around Brexit](reports/261149.md) | 15,373 | 15,345 | 28 | 0 | 99.82 | 0.18 | 0.00 |
+| [Stop increases in road tax for motorhomes. ](reports/268246.md) | 14,667 | 14,589 | 78 | 0 | 99.47 | 0.53 | 0.00 |
+| [Cease all new developments on Greenbelt and Greenfield sites across the country.](reports/267197.md) | 14,516 | 14,455 | 62 | -1 | 99.58 | 0.43 | -0.01 |
+| [Ban non-stun slaughter. Animal welfare must take priority over faith tradition.](reports/262607.md) | 13,917 | 13,707 | 212 | -2 | 98.49 | 1.52 | -0.01 |
+| [To grant a section 30 order to allow a 2nd referendum on Scottish Independence.](reports/259359.md) | 13,303 | 13,035 | 268 | 0 | 97.99 | 2.01 | 0.00 |
+| [Public areas & Food places to have Epi Pens for food allergies](reports/258291.md) | 12,994 | 12,923 | 71 | 0 | 99.45 | 0.55 | 0.00 |
+| [Ban peat compost.](reports/263362.md) | 12,764 | 12,597 | 168 | -1 | 98.69 | 1.32 | -0.01 |
+| [Abolish imprisonment as a penalty for non-payment of Council Tax.](reports/257681.md) | 12,689 | 12,555 | 134 | 0 | 98.94 | 1.06 | 0.00 |
+| [Halt the badger cull & investigate alternative, humane options for bTB control.](reports/273999.md) | 12,617 | 12,463 | 154 | 0 | 98.78 | 1.22 | 0.00 |
+| [Do not reduce the voting age to 16, it must remain 18 years of age](reports/278182.md) | 12,531 | 12,373 | 158 | 0 | 98.74 | 1.26 | 0.00 |
+| [Stop the increase to 20% VAT for the installation of renewable energy sources](reports/260903.md) | 12,437 | 12,306 | 131 | 0 | 98.95 | 1.05 | 0.00 |
