@@ -10,9 +10,9 @@
             "background": "Despite scientific evidence that the badger cull may actually be INCREASING instances of bovine tuberculosis, the government has announced a geographical extension of the cull in autumn 2019. Please listen to the scientists, stop the cull & adopt alternative humane options to culling.",
             "additional_details": "https://networkforanimals.org/observer/",
             "state": "open",
-            "signature_count": 12621,
+            "signature_count": 12622,
             "created_at": "2019-09-13T07:29:52.366Z",
-            "updated_at": "2019-11-04T18:13:42.000Z",
+            "updated_at": "2019-11-04T18:41:02.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-19T16:05:34.296Z",
             "closed_at": null,
@@ -209,7 +209,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 12467
+                    "signature_count": 12468
                 },
                 {
                     "name": "United States",
@@ -2400,7 +2400,7 @@
                     "name": "Mid Ulster",
                     "ons_code": "N06000010",
                     "mp": "Francie Molloy MP",
-                    "signature_count": 7
+                    "signature_count": 8
                 },
                 {
                     "name": "Mid Worcestershire",

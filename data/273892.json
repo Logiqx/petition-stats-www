@@ -10,9 +10,9 @@
             "background": "Tool theft is ruining the livelihoods of UK tradespeople, and the problem\u2019s getting worse.\r\n\r\nTo combat the issue, we are calling for the introduction of tighter regulation when it comes to the selling of secondhand tools, and greater minimum fines for those convicted of tool theft.",
             "additional_details": "For a tradesperson, tool theft removes your ability to earn an income. Latest research suggests that more than 1 in 3 have had their tools stolen and that it costs victims over \u00a33k on average.\r\n\r\nPreventative measures are crucial, but will never be enough. The peel and steal technique and the rise of keyless entry thefts show that thieves are becoming increasingly sophisticated.\r\n\r\nGreater deterrents and taking away the incentive to steal tools in the first place will help to Stamp Out Tool Theft.",
             "state": "open",
-            "signature_count": 31780,
+            "signature_count": 31804,
             "created_at": "2019-09-12T10:03:07.124Z",
-            "updated_at": "2019-11-04T18:17:02.000Z",
+            "updated_at": "2019-11-04T19:15:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-18T07:14:56.255Z",
             "closed_at": null,
@@ -194,7 +194,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 31651
+                    "signature_count": 31675
                 },
                 {
                     "name": "United States",
@@ -533,7 +533,7 @@
                     "name": "Ashfield",
                     "ons_code": "E14000535",
                     "mp": "Gloria De Piero MP",
-                    "signature_count": 61
+                    "signature_count": 62
                 },
                 {
                     "name": "Ashford",
@@ -545,7 +545,7 @@
                     "name": "Ashton-under-Lyne",
                     "ons_code": "E14000537",
                     "mp": "Angela Rayner MP",
-                    "signature_count": 50
+                    "signature_count": 51
                 },
                 {
                     "name": "Aylesbury",
@@ -629,7 +629,7 @@
                     "name": "Beckenham",
                     "ons_code": "E14000551",
                     "mp": "Bob Stewart MP",
-                    "signature_count": 66
+                    "signature_count": 67
                 },
                 {
                     "name": "Bedford",
@@ -959,7 +959,7 @@
                     "name": "Bristol East",
                     "ons_code": "E14000599",
                     "mp": "Kerry McCarthy MP",
-                    "signature_count": 58
+                    "signature_count": 59
                 },
                 {
                     "name": "Bristol North West",
@@ -995,7 +995,7 @@
                     "name": "Bromsgrove",
                     "ons_code": "E14000605",
                     "mp": "Rt Hon Sajid Javid MP",
-                    "signature_count": 41
+                    "signature_count": 42
                 },
                 {
                     "name": "Broxbourne",
@@ -1025,7 +1025,7 @@
                     "name": "Burton",
                     "ons_code": "E14000610",
                     "mp": "Andrew Griffiths MP",
-                    "signature_count": 80
+                    "signature_count": 81
                 },
                 {
                     "name": "Bury North",
@@ -1049,7 +1049,7 @@
                     "name": "Caerphilly",
                     "ons_code": "W07000076",
                     "mp": "Wayne David MP",
-                    "signature_count": 43
+                    "signature_count": 45
                 },
                 {
                     "name": "Calder Valley",
@@ -1565,7 +1565,7 @@
                     "name": "Eastleigh",
                     "ons_code": "E14000685",
                     "mp": "Mims Davies MP",
-                    "signature_count": 95
+                    "signature_count": 96
                 },
                 {
                     "name": "Eddisbury",
@@ -1961,7 +1961,7 @@
                     "name": "High Peak",
                     "ons_code": "E14000748",
                     "mp": "Ruth George MP",
-                    "signature_count": 50
+                    "signature_count": 51
                 },
                 {
                     "name": "Hitchin and Harpenden",
@@ -2021,7 +2021,7 @@
                     "name": "Hyndburn",
                     "ons_code": "E14000758",
                     "mp": "Graham P Jones MP",
-                    "signature_count": 44
+                    "signature_count": 45
                 },
                 {
                     "name": "Ilford North",
@@ -2471,7 +2471,7 @@
                     "name": "Morecambe and Lunesdale",
                     "ons_code": "E14000825",
                     "mp": "David Morris MP",
-                    "signature_count": 37
+                    "signature_count": 38
                 },
                 {
                     "name": "Morley and Outwood",
@@ -2573,7 +2573,7 @@
                     "name": "North Cornwall",
                     "ons_code": "E14000837",
                     "mp": "Scott Mann MP",
-                    "signature_count": 35
+                    "signature_count": 36
                 },
                 {
                     "name": "North Devon",
@@ -2639,7 +2639,7 @@
                     "name": "North Herefordshire",
                     "ons_code": "E14000847",
                     "mp": "Bill Wiggin MP",
-                    "signature_count": 30
+                    "signature_count": 31
                 },
                 {
                     "name": "North Norfolk",
@@ -2711,7 +2711,7 @@
                     "name": "North West Norfolk",
                     "ons_code": "E14000859",
                     "mp": "Sir Henry Bellingham MP",
-                    "signature_count": 37
+                    "signature_count": 38
                 },
                 {
                     "name": "North Wiltshire",
@@ -2789,7 +2789,7 @@
                     "name": "Oldham West and Royton",
                     "ons_code": "E14000871",
                     "mp": "Jim McMahon MP",
-                    "signature_count": 63
+                    "signature_count": 64
                 },
                 {
                     "name": "Orpington",
@@ -2855,7 +2855,7 @@
                     "name": "Poole",
                     "ons_code": "E14000881",
                     "mp": "Sir Robert Syms MP",
-                    "signature_count": 44
+                    "signature_count": 45
                 },
                 {
                     "name": "Poplar and Limehouse",
@@ -3143,7 +3143,7 @@
                     "name": "Sittingbourne and Sheppey",
                     "ons_code": "E14000927",
                     "mp": "Gordon Henderson MP",
-                    "signature_count": 65
+                    "signature_count": 66
                 },
                 {
                     "name": "Skipton and Ripon",
@@ -3203,7 +3203,7 @@
                     "name": "South Dorset",
                     "ons_code": "E14000936",
                     "mp": "Richard Drax MP",
-                    "signature_count": 31
+                    "signature_count": 32
                 },
                 {
                     "name": "South Down",
@@ -3281,7 +3281,7 @@
                     "name": "South Thanet",
                     "ons_code": "E14000948",
                     "mp": "Craig Mackinlay MP",
-                    "signature_count": 56
+                    "signature_count": 57
                 },
                 {
                     "name": "South West Bedfordshire",
@@ -3407,7 +3407,7 @@
                     "name": "Stockport",
                     "ons_code": "E14000969",
                     "mp": "Ann Coffey MP",
-                    "signature_count": 60
+                    "signature_count": 61
                 },
                 {
                     "name": "Stockton North",
@@ -3899,7 +3899,7 @@
                     "name": "Wirral South",
                     "ons_code": "E14001043",
                     "mp": "Alison McGovern MP",
-                    "signature_count": 21
+                    "signature_count": 22
                 },
                 {
                     "name": "Wirral West",
@@ -3995,7 +3995,7 @@
                     "name": "Wyre Forest",
                     "ons_code": "E14001058",
                     "mp": "Mark Garnier MP",
-                    "signature_count": 63
+                    "signature_count": 64
                 },
                 {
                     "name": "Wythenshawe and Sale East",
@@ -4103,7 +4103,7 @@
                     "name": "East Kilbride, Strathaven and Lesmahagow",
                     "ons_code": "S14000019",
                     "mp": "Dr Lisa Cameron MP",
-                    "signature_count": 34
+                    "signature_count": 35
                 },
                 {
                     "name": "Ayr, Carrick and Cumnock",

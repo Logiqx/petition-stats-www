@@ -10,9 +10,9 @@
             "background": "Margiris, the second largest trawler in the world, was spotted off the coast of the Isle of Wight at the end of September.\r\n \r\nThe UK Government should work internationally to ban these trawlers and remove them from UK waters.",
             "additional_details": "Weighing close to 9,500 tonnes, the mammoth commercial fishing vessel is designed to operate fishing trawls, which involves pulling a fishing net through a large body of water. It is thought to process 250 tonnes of fish a day.\r\n \r\nHeavily regulated in some nations, trawling is widely criticised for its lack of selectivity, and the physical damage the trawl inflicts on the seabed. Australia has banned Margiris from operating in its waters.",
             "state": "open",
-            "signature_count": 25415,
+            "signature_count": 25430,
             "created_at": "2019-10-03T17:30:32.582Z",
-            "updated_at": "2019-11-04T18:11:22.000Z",
+            "updated_at": "2019-11-04T19:16:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-10-11T09:07:29.319Z",
             "closed_at": null,
@@ -279,7 +279,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 25081
+                    "signature_count": 25096
                 },
                 {
                     "name": "United States",
@@ -574,7 +574,7 @@
                     "name": "Aberavon",
                     "ons_code": "W07000049",
                     "mp": "Stephen Kinnock MP",
-                    "signature_count": 26
+                    "signature_count": 27
                 },
                 {
                     "name": "Aberconwy",
@@ -718,7 +718,7 @@
                     "name": "Beaconsfield",
                     "ons_code": "E14000550",
                     "mp": "Rt Hon Dominic Grieve QC MP",
-                    "signature_count": 26
+                    "signature_count": 27
                 },
                 {
                     "name": "Beckenham",
@@ -1306,7 +1306,7 @@
                     "name": "Chichester",
                     "ons_code": "E14000633",
                     "mp": "Gillian Keegan MP",
-                    "signature_count": 369
+                    "signature_count": 370
                 },
                 {
                     "name": "Chingford and Woodford Green",
@@ -1558,7 +1558,7 @@
                     "name": "Dudley North",
                     "ons_code": "E14000671",
                     "mp": "Ian Austin MP",
-                    "signature_count": 11
+                    "signature_count": 12
                 },
                 {
                     "name": "Dudley South",
@@ -2236,7 +2236,7 @@
                     "name": "Lancaster and Fleetwood",
                     "ons_code": "E14000776",
                     "mp": "Cat Smith MP",
-                    "signature_count": 53
+                    "signature_count": 54
                 },
                 {
                     "name": "Leeds Central",
@@ -2362,7 +2362,7 @@
                     "name": "Llanelli",
                     "ons_code": "W07000045",
                     "mp": "Nia Griffith MP",
-                    "signature_count": 45
+                    "signature_count": 46
                 },
                 {
                     "name": "Loughborough",
@@ -2608,7 +2608,7 @@
                     "name": "Newcastle upon Tyne Central",
                     "ons_code": "E14000831",
                     "mp": "Chi Onwurah MP",
-                    "signature_count": 11
+                    "signature_count": 12
                 },
                 {
                     "name": "Newcastle upon Tyne East",
@@ -2674,7 +2674,7 @@
                     "name": "North Devon",
                     "ons_code": "E14000838",
                     "mp": "Peter Heaton-Jones MP",
-                    "signature_count": 142
+                    "signature_count": 144
                 },
                 {
                     "name": "North Dorset",
@@ -2998,7 +2998,7 @@
                     "name": "Rayleigh and Wickford",
                     "ons_code": "E14000888",
                     "mp": "Rt Hon Mark Francois MP",
-                    "signature_count": 58
+                    "signature_count": 59
                 },
                 {
                     "name": "Reading East",
@@ -3022,7 +3022,7 @@
                     "name": "Redditch",
                     "ons_code": "E14000892",
                     "mp": "Rachel Maclean MP",
-                    "signature_count": 28
+                    "signature_count": 29
                 },
                 {
                     "name": "Reigate",
@@ -3472,7 +3472,7 @@
                     "name": "St Ives",
                     "ons_code": "E14000964",
                     "mp": "Derek Thomas MP",
-                    "signature_count": 223
+                    "signature_count": 224
                 },
                 {
                     "name": "Stafford",
@@ -3712,13 +3712,13 @@
                     "name": "Torridge and West Devon",
                     "ons_code": "E14001000",
                     "mp": "Rt Hon Geoffrey Cox QC MP",
-                    "signature_count": 151
+                    "signature_count": 152
                 },
                 {
                     "name": "Totnes",
                     "ons_code": "E14001001",
                     "mp": "Dr Sarah Wollaston MP",
-                    "signature_count": 283
+                    "signature_count": 284
                 },
                 {
                     "name": "Tottenham",
@@ -3886,7 +3886,7 @@
                     "name": "Wells",
                     "ons_code": "E14001026",
                     "mp": "James Heappey MP",
-                    "signature_count": 71
+                    "signature_count": 72
                 },
                 {
                     "name": "Welwyn Hatfield",

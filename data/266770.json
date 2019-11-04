@@ -10,9 +10,9 @@
             "background": "Chris Packham, Ruth Tingay and Mark Avery (Wild Justice) believe that intensive grouse shooting is bad for people, the environment and wildlife. People; grouse shooting is economically insignificant when contrasted with other real and potential uses of the UK\u2019s uplands.",
             "additional_details": "Environment; muirburn impacts negatively upon climate change and drainage leads to flooding and erosion. Wildlife; the wholesale culling of all predators and Mountain Hares has a disastrous effect on the ecology of these areas and the industry is underpinned by a criminal tradition of raptor persecution which shows no signs of abating. It\u2019s time to provide an opportunity to implement immediate , legislative and meaningful measures to address this abhorrently destructive practice.",
             "state": "open",
-            "signature_count": 111791,
+            "signature_count": 111802,
             "created_at": "2019-07-04T21:22:54.456Z",
-            "updated_at": "2019-11-04T18:06:52.000Z",
+            "updated_at": "2019-11-04T19:16:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-13T15:24:03.152Z",
             "closed_at": null,
@@ -389,7 +389,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 110095
+                    "signature_count": 110106
                 },
                 {
                     "name": "United States",
@@ -540,7 +540,7 @@
                     "name": "Inverness, Nairn, Badenoch and Strathspey",
                     "ons_code": "S14000039",
                     "mp": "Drew Hendry MP",
-                    "signature_count": 506
+                    "signature_count": 507
                 },
                 {
                     "name": "Kilmarnock and Loudoun",
@@ -786,7 +786,7 @@
                     "name": "Barrow and Furness",
                     "ons_code": "E14000543",
                     "mp": "John Woodcock MP",
-                    "signature_count": 183
+                    "signature_count": 184
                 },
                 {
                     "name": "Basildon and Billericay",
@@ -1230,7 +1230,7 @@
                     "name": "Burton",
                     "ons_code": "E14000610",
                     "mp": "Andrew Griffiths MP",
-                    "signature_count": 143
+                    "signature_count": 144
                 },
                 {
                     "name": "Bury North",
@@ -1362,7 +1362,7 @@
                     "name": "Ceredigion",
                     "ons_code": "W07000064",
                     "mp": "Ben Lake MP",
-                    "signature_count": 262
+                    "signature_count": 263
                 },
                 {
                     "name": "Charnwood",
@@ -2616,7 +2616,7 @@
                     "name": "Mid Ulster",
                     "ons_code": "N06000010",
                     "mp": "Francie Molloy MP",
-                    "signature_count": 22
+                    "signature_count": 23
                 },
                 {
                     "name": "Mid Worcestershire",
@@ -2814,7 +2814,7 @@
                     "name": "North East Cambridgeshire",
                     "ons_code": "E14000842",
                     "mp": "Rt Hon Stephen Barclay MP",
-                    "signature_count": 170
+                    "signature_count": 171
                 },
                 {
                     "name": "North East Derbyshire",
@@ -3060,7 +3060,7 @@
                     "name": "Poole",
                     "ons_code": "E14000881",
                     "mp": "Sir Robert Syms MP",
-                    "signature_count": 196
+                    "signature_count": 197
                 },
                 {
                     "name": "Poplar and Limehouse",
@@ -3426,7 +3426,7 @@
                     "name": "South East Cornwall",
                     "ons_code": "E14000938",
                     "mp": "Mrs Sheryll Murray MP",
-                    "signature_count": 259
+                    "signature_count": 260
                 },
                 {
                     "name": "South Holland and The Deepings",
@@ -3504,7 +3504,7 @@
                     "name": "South West Hertfordshire",
                     "ons_code": "E14000951",
                     "mp": "Rt Hon David Gauke MP",
-                    "signature_count": 194
+                    "signature_count": 195
                 },
                 {
                     "name": "South West Norfolk",
@@ -3822,7 +3822,7 @@
                     "name": "Torridge and West Devon",
                     "ons_code": "E14001000",
                     "mp": "Rt Hon Geoffrey Cox QC MP",
-                    "signature_count": 311
+                    "signature_count": 312
                 },
                 {
                     "name": "Totnes",
@@ -4002,7 +4002,7 @@
                     "name": "Welwyn Hatfield",
                     "ons_code": "E14001027",
                     "mp": "Rt Hon Grant Shapps MP",
-                    "signature_count": 152
+                    "signature_count": 153
                 },
                 {
                     "name": "Wentworth and Dearne",

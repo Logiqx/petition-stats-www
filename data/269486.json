@@ -10,9 +10,9 @@
             "background": "Our pensioners are paid a pittance compared to pensioners from other countries. Make parliament increase the state pension to the same rate as the minimum wage based on a forty hour week.\r\n\u00a38.21p x 40 = \u00a3328.40p per week. If we can spend sixty six billion on Brexit we can afford to pay pensions",
             "additional_details": "We pay the lowest state pensions in the western world.\r\nLet\u2019s link the state pension to the minimum wage. \r\n\u00a38.21p x 40 hours = \u00a3328.40p.\r\nOur government had spent sixty six billion pounds on Brexit todate.\r\nWe can afford to pay, value and respect our pensioners for fifty years of working and contributing to Britain\u2019s economy.",
             "state": "open",
-            "signature_count": 38376,
+            "signature_count": 38379,
             "created_at": "2019-08-10T13:35:48.149Z",
-            "updated_at": "2019-11-04T17:40:42.000Z",
+            "updated_at": "2019-11-04T19:02:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-20T14:15:16.928Z",
             "closed_at": null,
@@ -319,7 +319,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 37339
+                    "signature_count": 37342
                 },
                 {
                     "name": "United States",
@@ -962,7 +962,7 @@
                     "name": "Bolton South East",
                     "ons_code": "E14000579",
                     "mp": "Yasmin Qureshi MP",
-                    "signature_count": 60
+                    "signature_count": 61
                 },
                 {
                     "name": "Bolton West",
@@ -3986,7 +3986,7 @@
                     "name": "West Worcestershire",
                     "ons_code": "E14001035",
                     "mp": "Harriett Baldwin MP",
-                    "signature_count": 56
+                    "signature_count": 57
                 },
                 {
                     "name": "Westminster North",
@@ -4256,7 +4256,7 @@
                     "name": "East Renfrewshire",
                     "ons_code": "S14000021",
                     "mp": "Paul Masterton MP",
-                    "signature_count": 33
+                    "signature_count": 34
                 }
             ]
         }

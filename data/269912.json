@@ -10,9 +10,9 @@
             "background": "I think that changes as per the above should be dealt with by the Government",
             "additional_details": "",
             "state": "open",
-            "signature_count": 35909,
+            "signature_count": 35916,
             "created_at": "2019-08-16T12:22:28.588Z",
-            "updated_at": "2019-11-04T18:10:02.000Z",
+            "updated_at": "2019-11-04T19:04:22.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-23T16:44:54.803Z",
             "closed_at": null,
@@ -304,7 +304,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 35443
+                    "signature_count": 35450
                 },
                 {
                     "name": "United States",
@@ -728,7 +728,7 @@
                     "name": "Beaconsfield",
                     "ons_code": "E14000550",
                     "mp": "Rt Hon Dominic Grieve QC MP",
-                    "signature_count": 61
+                    "signature_count": 62
                 },
                 {
                     "name": "Beckenham",
@@ -920,7 +920,7 @@
                     "name": "Bolsover",
                     "ons_code": "E14000577",
                     "mp": "Mr Dennis Skinner MP",
-                    "signature_count": 90
+                    "signature_count": 91
                 },
                 {
                     "name": "Bolton North East",
@@ -1088,7 +1088,7 @@
                     "name": "Broadland",
                     "ons_code": "E14000603",
                     "mp": "Rt Hon Keith Simpson MP",
-                    "signature_count": 61
+                    "signature_count": 62
                 },
                 {
                     "name": "Bromley and Chislehurst",
@@ -2516,7 +2516,7 @@
                     "name": "Mid Ulster",
                     "ons_code": "N06000010",
                     "mp": "Francie Molloy MP",
-                    "signature_count": 10
+                    "signature_count": 11
                 },
                 {
                     "name": "Mid Worcestershire",
@@ -3032,7 +3032,7 @@
                     "name": "Redditch",
                     "ons_code": "E14000892",
                     "mp": "Rachel Maclean MP",
-                    "signature_count": 75
+                    "signature_count": 76
                 },
                 {
                     "name": "Reigate",
@@ -3566,7 +3566,7 @@
                     "name": "Stratford-on-Avon",
                     "ons_code": "E14000977",
                     "mp": "Nadhim Zahawi MP",
-                    "signature_count": 58
+                    "signature_count": 59
                 },
                 {
                     "name": "Streatham",
@@ -3908,7 +3908,7 @@
                     "name": "Wentworth and Dearne",
                     "ons_code": "E14001028",
                     "mp": "Rt Hon John Healey MP",
-                    "signature_count": 100
+                    "signature_count": 101
                 },
                 {
                     "name": "West Bromwich East",

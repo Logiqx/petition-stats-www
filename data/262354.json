@@ -10,9 +10,9 @@
             "background": "Freelance workers and contractors have been treated unfairly by this ill conceived legislation since it's conception.  It has been incorrectly used to investigate and prosecute many hardworking self employed business owners striving to be successful in today's world.  IR35 is anti-business!",
             "additional_details": "This is legislation that encourages envy because of supposed benefits to being self employed by some who are not self-employed themselves.  Why should a self-employed person working under IR35 be treated the same as an employee regarding taxation?  The self-employed under IR35 are not entitled to paid holiday or sickness and by implication have no job security.  The HMRC make more money from VAT, Corporation Tax, Income Tax and Dividend Tax than from PAYE.  IR35 is about discouraging strivers!",
             "state": "open",
-            "signature_count": 29674,
+            "signature_count": 29676,
             "created_at": "2019-05-23T17:46:39.392Z",
-            "updated_at": "2019-11-04T18:13:02.000Z",
+            "updated_at": "2019-11-04T19:17:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-06-20T15:39:09.579Z",
             "closed_at": null,
@@ -194,7 +194,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 29574
+                    "signature_count": 29576
                 },
                 {
                     "name": "United States",
@@ -1052,7 +1052,7 @@
                     "name": "Camborne and Redruth",
                     "ons_code": "E14000616",
                     "mp": "George Eustice MP",
-                    "signature_count": 4
+                    "signature_count": 5
                 },
                 {
                     "name": "Cambridge",
@@ -1376,7 +1376,7 @@
                     "name": "Daventry",
                     "ons_code": "E14000660",
                     "mp": "Chris Heaton-Harris MP",
-                    "signature_count": 43
+                    "signature_count": 44
                 },
                 {
                     "name": "Delyn",
