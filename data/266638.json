@@ -10,9 +10,9 @@
             "background": "The government of Brazil led by Bolsonaro favour the development of the Amazon rainforest over conservation, escalating deforestation.  Deforestation threatens indigenous populations who live in the forest, loss of a precious and complex ecosystem and a vital carbon store that slows global warming.",
             "additional_details": "Indigenous people have called for the EU to impose trade sanctions on Brazil to halt the deforestation because they fear genocide. Also, the UK parliament has recognised a climate emergency. Since the Amazon rainforest is an important carbon store, absorbing huge volumes of CO2 each year, it's deforestation is of global significance. The intrinsic value of the rainforest should also be recognised.\r\nTrade sanctions are used elsewhere for important issues as an effective means to force action.",
             "state": "open",
-            "signature_count": 123171,
+            "signature_count": 123174,
             "created_at": "2019-07-03T07:11:16.257Z",
-            "updated_at": "2019-11-04T20:14:02.000Z",
+            "updated_at": "2019-11-04T21:09:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-24T11:55:58.628Z",
             "closed_at": null,
@@ -555,7 +555,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 120110
+                    "signature_count": 120113
                 },
                 {
                     "name": "United States",
@@ -717,7 +717,7 @@
                     "name": "Kilmarnock and Loudoun",
                     "ons_code": "S14000040",
                     "mp": "Alan Brown MP",
-                    "signature_count": 59
+                    "signature_count": 60
                 },
                 {
                     "name": "Kirkcaldy and Cowdenbeath",
@@ -2133,7 +2133,7 @@
                     "name": "Grantham and Stamford",
                     "ons_code": "E14000714",
                     "mp": "Nick Boles MP",
-                    "signature_count": 142
+                    "signature_count": 143
                 },
                 {
                     "name": "Gravesham",
@@ -3279,7 +3279,7 @@
                     "name": "Rayleigh and Wickford",
                     "ons_code": "E14000888",
                     "mp": "Rt Hon Mark Francois MP",
-                    "signature_count": 182
+                    "signature_count": 183
                 },
                 {
                     "name": "Reading East",

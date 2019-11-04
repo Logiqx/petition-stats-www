@@ -10,9 +10,9 @@
             "background": "The air ambulances that operate around the UK cost around \u00a312,000 per day to run and maintain, and are mainly funded through charity organisations. This petition is to ask the Government to fully fund the air ambulances through the emergency services.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 133882,
+            "signature_count": 133892,
             "created_at": "2019-05-01T10:42:46.604Z",
-            "updated_at": "2019-11-04T20:17:32.000Z",
+            "updated_at": "2019-11-04T21:15:02.000Z",
             "rejected_at": null,
             "opened_at": "2019-06-04T17:46:01.722Z",
             "closed_at": null,
@@ -394,7 +394,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 132516
+                    "signature_count": 132526
                 },
                 {
                     "name": "United States",
@@ -2037,13 +2037,13 @@
                     "name": "Haltemprice and Howden",
                     "ons_code": "E14000724",
                     "mp": "Rt Hon David Davis MP",
-                    "signature_count": 686
+                    "signature_count": 687
                 },
                 {
                     "name": "Halton",
                     "ons_code": "E14000725",
                     "mp": "Derek Twigg MP",
-                    "signature_count": 211
+                    "signature_count": 212
                 },
                 {
                     "name": "Hammersmith",
@@ -2151,13 +2151,13 @@
                     "name": "Hereford and South Herefordshire",
                     "ons_code": "E14000743",
                     "mp": "Jesse Norman MP",
-                    "signature_count": 224
+                    "signature_count": 225
                 },
                 {
                     "name": "Hertford and Stortford",
                     "ons_code": "E14000744",
                     "mp": "Mr Mark Prisk MP",
-                    "signature_count": 265
+                    "signature_count": 266
                 },
                 {
                     "name": "Hertsmere",
@@ -2187,7 +2187,7 @@
                     "name": "Hitchin and Harpenden",
                     "ons_code": "E14000749",
                     "mp": "Bim Afolami MP",
-                    "signature_count": 162
+                    "signature_count": 163
                 },
                 {
                     "name": "Holborn and St Pancras",
@@ -2199,7 +2199,7 @@
                     "name": "Hornchurch and Upminster",
                     "ons_code": "E14000751",
                     "mp": "Julia Lopez MP",
-                    "signature_count": 118
+                    "signature_count": 119
                 },
                 {
                     "name": "Hornsey and Wood Green",
@@ -3123,7 +3123,7 @@
                     "name": "Rayleigh and Wickford",
                     "ons_code": "E14000888",
                     "mp": "Rt Hon Mark Francois MP",
-                    "signature_count": 220
+                    "signature_count": 221
                 },
                 {
                     "name": "Reading East",
@@ -3273,13 +3273,13 @@
                     "name": "Salisbury",
                     "ons_code": "E14000912",
                     "mp": "John Glen MP",
-                    "signature_count": 188
+                    "signature_count": 189
                 },
                 {
                     "name": "Scarborough and Whitby",
                     "ons_code": "E14000913",
                     "mp": "Rt Hon Robert Goodwill MP",
-                    "signature_count": 750
+                    "signature_count": 751
                 },
                 {
                     "name": "Scunthorpe",
@@ -3957,7 +3957,7 @@
                     "name": "Warrington North",
                     "ons_code": "E14001017",
                     "mp": "Helen Jones MP",
-                    "signature_count": 190
+                    "signature_count": 191
                 },
                 {
                     "name": "Warrington South",

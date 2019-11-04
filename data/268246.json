@@ -10,9 +10,9 @@
             "background": "Road tax is due to rise by over 700% with the governments new plans to classify motorhomes differently. The purpose of this petition is to keep it as it is to protect this industry and local tourism",
             "additional_details": "",
             "state": "open",
-            "signature_count": 14671,
+            "signature_count": 14674,
             "created_at": "2019-07-25T06:49:25.513Z",
-            "updated_at": "2019-11-04T19:41:22.000Z",
+            "updated_at": "2019-11-04T20:45:32.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-06T17:04:16.867Z",
             "closed_at": null,
@@ -134,7 +134,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 14593
+                    "signature_count": 14596
                 },
                 {
                     "name": "United States",
@@ -270,7 +270,7 @@
                     "name": "Inverness, Nairn, Badenoch and Strathspey",
                     "ons_code": "S14000039",
                     "mp": "Drew Hendry MP",
-                    "signature_count": 57
+                    "signature_count": 58
                 },
                 {
                     "name": "Kilmarnock and Loudoun",
@@ -2646,7 +2646,7 @@
                     "name": "Nottingham North",
                     "ons_code": "E14000866",
                     "mp": "Alex Norris MP",
-                    "signature_count": 3
+                    "signature_count": 4
                 },
                 {
                     "name": "Nottingham South",
@@ -3528,7 +3528,7 @@
                     "name": "Truro and Falmouth",
                     "ons_code": "E14001003",
                     "mp": "Sarah Newton MP",
-                    "signature_count": 27
+                    "signature_count": 28
                 },
                 {
                     "name": "Tunbridge Wells",

@@ -10,9 +10,9 @@
             "background": "Requirements for multiple work visas, driving permits, customs checks on equipment and merch etc. may make touring Europe financially unviable for smaller artists.  It may also affect European artists decision to include the UK on their tours.",
             "additional_details": "This article contains a summary of how the Touring Industry stands to be affected by Brexit.  https://www.theguardian.com/politics/2019/oct/03/no-deal-brexit-may-make-touring-europe-simply-unviable-for-uk-artists\r\n\r\nWe'd like to see any Brexit Deal contain mutual, temporary exceptions on work permits, driving permits and customs allowances, covering the duration of tours in order to guarantee the survival of the touring industry, protecting both jobs and the UK's reputation for exporting talent.",
             "state": "open",
-            "signature_count": 20908,
+            "signature_count": 20913,
             "created_at": "2019-10-16T00:42:35.444Z",
-            "updated_at": "2019-11-04T19:44:42.000Z",
+            "updated_at": "2019-11-04T20:51:02.000Z",
             "rejected_at": null,
             "opened_at": "2019-10-18T11:41:03.746Z",
             "closed_at": null,
@@ -253,7 +253,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 20571
+                    "signature_count": 20576
                 },
                 {
                     "name": "United States",
@@ -325,7 +325,7 @@
                     "name": "Glasgow North",
                     "ons_code": "S14000031",
                     "mp": "Patrick Grady MP",
-                    "signature_count": 96
+                    "signature_count": 97
                 },
                 {
                     "name": "Glasgow North East",
@@ -1327,7 +1327,7 @@
                     "name": "Clwyd West",
                     "ons_code": "W07000059",
                     "mp": "Rt Hon David Jones MP",
-                    "signature_count": 10
+                    "signature_count": 11
                 },
                 {
                     "name": "Colchester",
@@ -2305,7 +2305,7 @@
                     "name": "Liverpool, West Derby",
                     "ons_code": "E14000796",
                     "mp": "Stephen Twigg MP",
-                    "signature_count": 18
+                    "signature_count": 19
                 },
                 {
                     "name": "Llanelli",
@@ -3793,7 +3793,7 @@
                     "name": "Warwick and Leamington",
                     "ons_code": "E14001019",
                     "mp": "Matt Western MP",
-                    "signature_count": 27
+                    "signature_count": 28
                 },
                 {
                     "name": "Washington and Sunderland West",
@@ -4141,7 +4141,7 @@
                     "name": "East Dunbartonshire",
                     "ons_code": "S14000018",
                     "mp": "Jo Swinson MP",
-                    "signature_count": 25
+                    "signature_count": 26
                 },
                 {
                     "name": "East Kilbride, Strathaven and Lesmahagow",

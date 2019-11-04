@@ -10,9 +10,9 @@
             "background": "This is an appeal to postpone the rollout of 5G in the UK, pending the outcome of an independent investigation. 5G will increase exposure to radiofrequency electromagnetic fields RF-EMF, that has been proven to be harmful for humans and the environment.",
             "additional_details": "More than 230 scientists and doctors worldwide have emphasised the potential health risks to the EU:\r\n\r\nhttp://www.5gappeal.eu\r\n\r\nThe Brussels region has already postponed the rollout of 5G due to the associated health risks.\r\n",
             "state": "open",
-            "signature_count": 26957,
+            "signature_count": 26971,
             "created_at": "2019-05-28T12:29:02.007Z",
-            "updated_at": "2019-11-04T20:15:02.000Z",
+            "updated_at": "2019-11-04T21:11:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-06-28T14:12:24.714Z",
             "closed_at": null,
@@ -279,7 +279,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 26675
+                    "signature_count": 26689
                 },
                 {
                     "name": "United States",
@@ -426,7 +426,7 @@
                     "name": "Kilmarnock and Loudoun",
                     "ons_code": "S14000040",
                     "mp": "Alan Brown MP",
-                    "signature_count": 20
+                    "signature_count": 21
                 },
                 {
                     "name": "Kirkcaldy and Cowdenbeath",
@@ -606,7 +606,7 @@
                     "name": "Arfon",
                     "ons_code": "W07000057",
                     "mp": "Hywel Williams MP",
-                    "signature_count": 48
+                    "signature_count": 49
                 },
                 {
                     "name": "Arundel and South Downs",
@@ -942,7 +942,7 @@
                     "name": "Bournemouth East",
                     "ons_code": "E14000584",
                     "mp": "Rt Hon Tobias Ellwood MP",
-                    "signature_count": 175
+                    "signature_count": 176
                 },
                 {
                     "name": "Bournemouth West",
@@ -1056,7 +1056,7 @@
                     "name": "Bristol South",
                     "ons_code": "E14000601",
                     "mp": "Karin Smyth MP",
-                    "signature_count": 128
+                    "signature_count": 129
                 },
                 {
                     "name": "Bristol West",
@@ -1176,7 +1176,7 @@
                     "name": "Cardiff Central",
                     "ons_code": "W07000050",
                     "mp": "Jo Stevens MP",
-                    "signature_count": 27
+                    "signature_count": 28
                 },
                 {
                     "name": "Cardiff North",
@@ -1188,13 +1188,13 @@
                     "name": "Cardiff South and Penarth",
                     "ons_code": "W07000080",
                     "mp": "Stephen Doughty MP",
-                    "signature_count": 32
+                    "signature_count": 34
                 },
                 {
                     "name": "Cardiff West",
                     "ons_code": "W07000079",
                     "mp": "Kevin Brennan MP",
-                    "signature_count": 27
+                    "signature_count": 28
                 },
                 {
                     "name": "Carlisle",
@@ -1206,7 +1206,7 @@
                     "name": "Carmarthen East and Dinefwr",
                     "ons_code": "W07000067",
                     "mp": "Jonathan Edwards MP",
-                    "signature_count": 43
+                    "signature_count": 44
                 },
                 {
                     "name": "Carmarthen West and South Pembrokeshire",
@@ -1248,7 +1248,7 @@
                     "name": "Charnwood",
                     "ons_code": "E14000625",
                     "mp": "Edward Argar MP",
-                    "signature_count": 22
+                    "signature_count": 23
                 },
                 {
                     "name": "Chatham and Aylesford",
@@ -1314,7 +1314,7 @@
                     "name": "Chipping Barnet",
                     "ons_code": "E14000636",
                     "mp": "Rt Hon Theresa Villiers MP",
-                    "signature_count": 68
+                    "signature_count": 69
                 },
                 {
                     "name": "Chorley",
@@ -1770,7 +1770,7 @@
                     "name": "Folkestone and Hythe",
                     "ons_code": "E14000704",
                     "mp": "Damian Collins MP",
-                    "signature_count": 54
+                    "signature_count": 55
                 },
                 {
                     "name": "Forest of Dean",
@@ -1800,7 +1800,7 @@
                     "name": "Garston and Halewood",
                     "ons_code": "E14000708",
                     "mp": "Maria Eagle MP",
-                    "signature_count": 51
+                    "signature_count": 52
                 },
                 {
                     "name": "Gateshead",
@@ -2130,7 +2130,7 @@
                     "name": "Isle of Wight",
                     "ons_code": "E14000762",
                     "mp": "Mr Bob Seely MP",
-                    "signature_count": 123
+                    "signature_count": 124
                 },
                 {
                     "name": "Islington North",

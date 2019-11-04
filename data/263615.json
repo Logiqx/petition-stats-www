@@ -10,9 +10,9 @@
             "background": "Have worked since I was 16 and planned for my retirement at 60. Due to unfair government changes I will not get state pension until I am 66.",
             "additional_details": "Born in England 1955. Have worked hard all my life not knowing another 6 years would be added to pensionable age.",
             "state": "open",
-            "signature_count": 17510,
+            "signature_count": 17512,
             "created_at": "2019-06-05T12:39:24.454Z",
-            "updated_at": "2019-11-04T19:45:02.000Z",
+            "updated_at": "2019-11-04T21:06:52.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-10T09:51:20.946Z",
             "closed_at": null,
@@ -184,7 +184,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 17134
+                    "signature_count": 17136
                 },
                 {
                     "name": "United States",
@@ -961,7 +961,7 @@
                     "name": "Bristol South",
                     "ons_code": "E14000601",
                     "mp": "Karin Smyth MP",
-                    "signature_count": 22
+                    "signature_count": 23
                 },
                 {
                     "name": "Bristol West",
@@ -3115,7 +3115,7 @@
                     "name": "Sherwood",
                     "ons_code": "E14000924",
                     "mp": "Rt Hon Mark  Spencer MP",
-                    "signature_count": 29
+                    "signature_count": 30
                 },
                 {
                     "name": "Shipley",

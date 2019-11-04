@@ -10,9 +10,9 @@
             "background": "There should be a statutory minimum sentence for those found carrying a knife, the same as if carrying a firearm. With the reported 33% increase in knife crime since 2011 it is clear that there needs to be serious consideration for the punishment for those carrying offensive weapons. ",
             "additional_details": "The cycle needs to stop and the only way positive results will become evident and we will see a reduction in young murders is if we tighten up on sentencing for those carrying a knife. \r\nIf a young person is caught with a knife and it is their first offence they potentially have no further punishment with the current policy\u2019s around knife crime in place. Unlike those caught with a firearm. How many of those have been let off lightly for knife crimes have then gone on to re offend and use a knife?",
             "state": "open",
-            "signature_count": 71819,
+            "signature_count": 71837,
             "created_at": "2019-07-31T09:01:55.611Z",
-            "updated_at": "2019-11-04T20:17:22.000Z",
+            "updated_at": "2019-11-04T21:13:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-08T09:16:05.754Z",
             "closed_at": null,
@@ -279,7 +279,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 71424
+                    "signature_count": 71442
                 },
                 {
                     "name": "United States",
@@ -587,7 +587,7 @@
                     "name": "Aldridge-Brownhills",
                     "ons_code": "E14000531",
                     "mp": "Wendy Morton MP",
-                    "signature_count": 104
+                    "signature_count": 105
                 },
                 {
                     "name": "Altrincham and Sale West",
@@ -605,7 +605,7 @@
                     "name": "Amber Valley",
                     "ons_code": "E14000533",
                     "mp": "Nigel Mills MP",
-                    "signature_count": 33
+                    "signature_count": 34
                 },
                 {
                     "name": "Arfon",
@@ -995,7 +995,7 @@
                     "name": "Brent Central",
                     "ons_code": "E14000591",
                     "mp": "Dawn Butler MP",
-                    "signature_count": 142
+                    "signature_count": 143
                 },
                 {
                     "name": "Brent North",
@@ -1691,7 +1691,7 @@
                     "name": "Enfield North",
                     "ons_code": "E14000691",
                     "mp": "Rt Hon Joan Ryan MP",
-                    "signature_count": 140
+                    "signature_count": 141
                 },
                 {
                     "name": "Enfield, Southgate",
@@ -1907,7 +1907,7 @@
                     "name": "Haltemprice and Howden",
                     "ons_code": "E14000724",
                     "mp": "Rt Hon David Davis MP",
-                    "signature_count": 22
+                    "signature_count": 23
                 },
                 {
                     "name": "Halton",
@@ -2057,7 +2057,7 @@
                     "name": "Hitchin and Harpenden",
                     "ons_code": "E14000749",
                     "mp": "Bim Afolami MP",
-                    "signature_count": 93
+                    "signature_count": 94
                 },
                 {
                     "name": "Holborn and St Pancras",
@@ -2069,7 +2069,7 @@
                     "name": "Hornchurch and Upminster",
                     "ons_code": "E14000751",
                     "mp": "Julia Lopez MP",
-                    "signature_count": 150
+                    "signature_count": 151
                 },
                 {
                     "name": "Hornsey and Wood Green",
@@ -2141,7 +2141,7 @@
                     "name": "Islington North",
                     "ons_code": "E14000763",
                     "mp": "Rt Hon Jeremy Corbyn MP",
-                    "signature_count": 98
+                    "signature_count": 99
                 },
                 {
                     "name": "Islington South and Finsbury",
@@ -2333,7 +2333,7 @@
                     "name": "Liverpool, Riverside",
                     "ons_code": "E14000793",
                     "mp": "Dame Louise Ellman MP",
-                    "signature_count": 115
+                    "signature_count": 116
                 },
                 {
                     "name": "Liverpool, Walton",
@@ -2453,7 +2453,7 @@
                     "name": "Meon Valley",
                     "ons_code": "E14000811",
                     "mp": "Sir George Hollingbery MP",
-                    "signature_count": 30
+                    "signature_count": 31
                 },
                 {
                     "name": "Meriden",
@@ -2525,7 +2525,7 @@
                     "name": "Milton Keynes North",
                     "ons_code": "E14000821",
                     "mp": "Rt Hon Mark Lancaster MP",
-                    "signature_count": 1022
+                    "signature_count": 1023
                 },
                 {
                     "name": "Milton Keynes South",
@@ -2795,7 +2795,7 @@
                     "name": "North West Leicestershire",
                     "ons_code": "E14000858",
                     "mp": "Andrew Bridgen MP",
-                    "signature_count": 94
+                    "signature_count": 95
                 },
                 {
                     "name": "North West Norfolk",
@@ -3101,7 +3101,7 @@
                     "name": "Rugby",
                     "ons_code": "E14000905",
                     "mp": "Mark Pawsey MP",
-                    "signature_count": 152
+                    "signature_count": 153
                 },
                 {
                     "name": "Ruislip, Northwood and Pinner",
@@ -3377,7 +3377,7 @@
                     "name": "South West Bedfordshire",
                     "ons_code": "E14000949",
                     "mp": "Andrew Selous MP",
-                    "signature_count": 250
+                    "signature_count": 251
                 },
                 {
                     "name": "South West Devon",
@@ -3455,7 +3455,7 @@
                     "name": "St Helens North",
                     "ons_code": "E14000962",
                     "mp": "Conor McGinn MP",
-                    "signature_count": 533
+                    "signature_count": 534
                 },
                 {
                     "name": "St Helens South and Whiston",
@@ -3485,7 +3485,7 @@
                     "name": "Stalybridge and Hyde",
                     "ons_code": "E14000967",
                     "mp": "Jonathan Reynolds MP",
-                    "signature_count": 33
+                    "signature_count": 34
                 },
                 {
                     "name": "Stevenage",
@@ -3929,7 +3929,7 @@
                     "name": "West Suffolk",
                     "ons_code": "E14001034",
                     "mp": "Rt Hon Matt Hancock MP",
-                    "signature_count": 41
+                    "signature_count": 42
                 },
                 {
                     "name": "West Tyrone",
