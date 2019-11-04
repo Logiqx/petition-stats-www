@@ -10,9 +10,9 @@
             "background": "This is an appeal to postpone the rollout of 5G in the UK, pending the outcome of an independent investigation. 5G will increase exposure to radiofrequency electromagnetic fields RF-EMF, that has been proven to be harmful for humans and the environment.",
             "additional_details": "More than 230 scientists and doctors worldwide have emphasised the potential health risks to the EU:\r\n\r\nhttp://www.5gappeal.eu\r\n\r\nThe Brussels region has already postponed the rollout of 5G due to the associated health risks.\r\n",
             "state": "open",
-            "signature_count": 26971,
+            "signature_count": 26993,
             "created_at": "2019-05-28T12:29:02.007Z",
-            "updated_at": "2019-11-04T21:11:42.000Z",
+            "updated_at": "2019-11-04T22:17:52.000Z",
             "rejected_at": null,
             "opened_at": "2019-06-28T14:12:24.714Z",
             "closed_at": null,
@@ -279,7 +279,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 26689
+                    "signature_count": 26711
                 },
                 {
                     "name": "United States",
@@ -978,7 +978,7 @@
                     "name": "Braintree",
                     "ons_code": "E14000590",
                     "mp": "Rt Hon James Cleverly MP",
-                    "signature_count": 30
+                    "signature_count": 31
                 },
                 {
                     "name": "Brecon and Radnorshire",
@@ -1014,7 +1014,7 @@
                     "name": "Bridgend",
                     "ons_code": "W07000073",
                     "mp": "Mrs Madeleine Moon MP",
-                    "signature_count": 51
+                    "signature_count": 52
                 },
                 {
                     "name": "Bridgwater and West Somerset",
@@ -1182,19 +1182,19 @@
                     "name": "Cardiff North",
                     "ons_code": "W07000051",
                     "mp": "Anna McMorrin MP",
-                    "signature_count": 15
+                    "signature_count": 16
                 },
                 {
                     "name": "Cardiff South and Penarth",
                     "ons_code": "W07000080",
                     "mp": "Stephen Doughty MP",
-                    "signature_count": 34
+                    "signature_count": 35
                 },
                 {
                     "name": "Cardiff West",
                     "ons_code": "W07000079",
                     "mp": "Kevin Brennan MP",
-                    "signature_count": 28
+                    "signature_count": 29
                 },
                 {
                     "name": "Carlisle",
@@ -1278,7 +1278,7 @@
                     "name": "Cheltenham",
                     "ons_code": "E14000630",
                     "mp": "Alex Chalk MP",
-                    "signature_count": 47
+                    "signature_count": 48
                 },
                 {
                     "name": "Chesham and Amersham",
@@ -1308,7 +1308,7 @@
                     "name": "Chippenham",
                     "ons_code": "E14000635",
                     "mp": "Michelle Donelan MP",
-                    "signature_count": 58
+                    "signature_count": 59
                 },
                 {
                     "name": "Chipping Barnet",
@@ -1524,7 +1524,7 @@
                     "name": "Don Valley",
                     "ons_code": "E14000667",
                     "mp": "Rt Hon Caroline Flint MP",
-                    "signature_count": 16
+                    "signature_count": 17
                 },
                 {
                     "name": "Doncaster Central",
@@ -2076,7 +2076,7 @@
                     "name": "Horsham",
                     "ons_code": "E14000753",
                     "mp": "Jeremy Quin MP",
-                    "signature_count": 68
+                    "signature_count": 70
                 },
                 {
                     "name": "Houghton and Sunderland South",
@@ -2148,7 +2148,7 @@
                     "name": "Islwyn",
                     "ons_code": "W07000077",
                     "mp": "Chris Evans MP",
-                    "signature_count": 19
+                    "signature_count": 20
                 },
                 {
                     "name": "Jarrow",
@@ -2292,7 +2292,7 @@
                     "name": "Lewisham East",
                     "ons_code": "E14000787",
                     "mp": "Janet Daby MP",
-                    "signature_count": 41
+                    "signature_count": 42
                 },
                 {
                     "name": "Lewisham West and Penge",
@@ -2658,7 +2658,7 @@
                     "name": "North Cornwall",
                     "ons_code": "E14000837",
                     "mp": "Scott Mann MP",
-                    "signature_count": 113
+                    "signature_count": 114
                 },
                 {
                     "name": "North Devon",
@@ -2700,7 +2700,7 @@
                     "name": "North East Derbyshire",
                     "ons_code": "E14000843",
                     "mp": "Lee Rowley MP",
-                    "signature_count": 16
+                    "signature_count": 17
                 },
                 {
                     "name": "North East Hampshire",
@@ -2724,7 +2724,7 @@
                     "name": "North Herefordshire",
                     "ons_code": "E14000847",
                     "mp": "Bill Wiggin MP",
-                    "signature_count": 56
+                    "signature_count": 57
                 },
                 {
                     "name": "North Norfolk",
@@ -2988,7 +2988,7 @@
                     "name": "Rayleigh and Wickford",
                     "ons_code": "E14000888",
                     "mp": "Rt Hon Mark Francois MP",
-                    "signature_count": 43
+                    "signature_count": 44
                 },
                 {
                     "name": "Reading East",
@@ -3336,7 +3336,7 @@
                     "name": "South Ribble",
                     "ons_code": "E14000943",
                     "mp": "Seema Kennedy MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "South Shields",
@@ -3600,7 +3600,7 @@
                     "name": "Swansea East",
                     "ons_code": "W07000048",
                     "mp": "Carolyn Harris MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "Swansea West",
@@ -3636,7 +3636,7 @@
                     "name": "Tewkesbury",
                     "ons_code": "E14000990",
                     "mp": "Mr Laurence Robertson MP",
-                    "signature_count": 36
+                    "signature_count": 37
                 },
                 {
                     "name": "The Cotswolds",
@@ -3762,7 +3762,7 @@
                     "name": "Vale of Glamorgan",
                     "ons_code": "W07000078",
                     "mp": "Rt Hon Alun Cairns MP",
-                    "signature_count": 28
+                    "signature_count": 30
                 },
                 {
                     "name": "Vauxhall",

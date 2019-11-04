@@ -10,9 +10,9 @@
             "background": "Black women in the UK are five times more likely to die from complications surrounding pregnancy and childbirth than white women. We need an urgent review of care with recommendations on how to ensure it is no more dangerous for black women to give birth in the UK than white women. ",
             "additional_details": "The Government must commit to funding the changes necessary to ensure it is safe to give birth while black in the UK. The chance of death is 1 in 2,500 for black women according to the UK Confidential Enquiry into Maternal Deaths . But the rate was five times smaller for white women between 2014 and 2016. This requires urgent explanation and action.\r\n\r\nhttps://ichef.bbci.co.uk/news/695/cpsprodpb/DB31/production/_105631165_maternaldeaths-nc.png",
             "state": "open",
-            "signature_count": 29267,
+            "signature_count": 29269,
             "created_at": "2019-04-25T17:58:31.221Z",
-            "updated_at": "2019-11-04T21:16:52.000Z",
+            "updated_at": "2019-11-04T22:04:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-05-30T16:37:08.253Z",
             "closed_at": null,
@@ -259,7 +259,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 28907
+                    "signature_count": 28909
                 },
                 {
                     "name": "United States",
@@ -1679,7 +1679,7 @@
                     "name": "Epsom and Ewell",
                     "ons_code": "E14000694",
                     "mp": "Rt Hon Chris Grayling MP",
-                    "signature_count": 62
+                    "signature_count": 63
                 },
                 {
                     "name": "Erewash",
@@ -2243,7 +2243,7 @@
                     "name": "Leicester South",
                     "ons_code": "E14000783",
                     "mp": "Jonathan Ashworth MP",
-                    "signature_count": 36
+                    "signature_count": 37
                 },
                 {
                     "name": "Leicester West",

@@ -10,9 +10,9 @@
             "background": "Freelance workers and contractors have been treated unfairly by this ill conceived legislation since it's conception.  It has been incorrectly used to investigate and prosecute many hardworking self employed business owners striving to be successful in today's world.  IR35 is anti-business!",
             "additional_details": "This is legislation that encourages envy because of supposed benefits to being self employed by some who are not self-employed themselves.  Why should a self-employed person working under IR35 be treated the same as an employee regarding taxation?  The self-employed under IR35 are not entitled to paid holiday or sickness and by implication have no job security.  The HMRC make more money from VAT, Corporation Tax, Income Tax and Dividend Tax than from PAYE.  IR35 is about discouraging strivers!",
             "state": "open",
-            "signature_count": 29681,
+            "signature_count": 29686,
             "created_at": "2019-05-23T17:46:39.392Z",
-            "updated_at": "2019-11-04T21:15:22.000Z",
+            "updated_at": "2019-11-04T22:11:32.000Z",
             "rejected_at": null,
             "opened_at": "2019-06-20T15:39:09.579Z",
             "closed_at": null,
@@ -194,7 +194,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 29581
+                    "signature_count": 29586
                 },
                 {
                     "name": "United States",
@@ -236,7 +236,7 @@
                     "name": "Edinburgh West",
                     "ons_code": "S14000026",
                     "mp": "Christine Jardine MP",
-                    "signature_count": 117
+                    "signature_count": 118
                 },
                 {
                     "name": "Banff and Buchan",
@@ -332,7 +332,7 @@
                     "name": "Kirkcaldy and Cowdenbeath",
                     "ons_code": "S14000041",
                     "mp": "Lesley Laird MP",
-                    "signature_count": 26
+                    "signature_count": 27
                 },
                 {
                     "name": "Lanark and Hamilton East",
@@ -1328,7 +1328,7 @@
                     "name": "Crewe and Nantwich",
                     "ons_code": "E14000653",
                     "mp": "Laura Smith MP",
-                    "signature_count": 35
+                    "signature_count": 36
                 },
                 {
                     "name": "Croydon Central",
@@ -2054,7 +2054,7 @@
                     "name": "Jarrow",
                     "ons_code": "E14000765",
                     "mp": "Mr Stephen Hepburn MP",
-                    "signature_count": 24
+                    "signature_count": 25
                 },
                 {
                     "name": "Keighley",
@@ -2378,7 +2378,7 @@
                     "name": "Mid Dorset and North Poole",
                     "ons_code": "E14000815",
                     "mp": "Michael Tomlinson MP",
-                    "signature_count": 20
+                    "signature_count": 21
                 },
                 {
                     "name": "Mid Norfolk",

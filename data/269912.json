@@ -10,9 +10,9 @@
             "background": "I think that changes as per the above should be dealt with by the Government",
             "additional_details": "",
             "state": "open",
-            "signature_count": 35921,
+            "signature_count": 35923,
             "created_at": "2019-08-16T12:22:28.588Z",
-            "updated_at": "2019-11-04T20:30:12.000Z",
+            "updated_at": "2019-11-04T22:09:02.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-23T16:44:54.803Z",
             "closed_at": null,
@@ -304,7 +304,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 35455
+                    "signature_count": 35457
                 },
                 {
                     "name": "United States",
@@ -3146,7 +3146,7 @@
                     "name": "Saffron Walden",
                     "ons_code": "E14000910",
                     "mp": "Mrs Kemi Badenoch MP",
-                    "signature_count": 69
+                    "signature_count": 70
                 },
                 {
                     "name": "Salford and Eccles",
@@ -3806,7 +3806,7 @@
                     "name": "Walsall North",
                     "ons_code": "E14001011",
                     "mp": "Eddie Hughes MP",
-                    "signature_count": 53
+                    "signature_count": 54
                 },
                 {
                     "name": "Walsall South",

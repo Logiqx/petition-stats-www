@@ -10,9 +10,9 @@
             "background": "Margiris, the second largest trawler in the world, was spotted off the coast of the Isle of Wight at the end of September.\r\n \r\nThe UK Government should work internationally to ban these trawlers and remove them from UK waters.",
             "additional_details": "Weighing close to 9,500 tonnes, the mammoth commercial fishing vessel is designed to operate fishing trawls, which involves pulling a fishing net through a large body of water. It is thought to process 250 tonnes of fish a day.\r\n \r\nHeavily regulated in some nations, trawling is widely criticised for its lack of selectivity, and the physical damage the trawl inflicts on the seabed. Australia has banned Margiris from operating in its waters.",
             "state": "open",
-            "signature_count": 25460,
+            "signature_count": 25470,
             "created_at": "2019-10-03T17:30:32.582Z",
-            "updated_at": "2019-11-04T21:14:52.000Z",
+            "updated_at": "2019-11-04T22:12:22.000Z",
             "rejected_at": null,
             "opened_at": "2019-10-11T09:07:29.319Z",
             "closed_at": null,
@@ -279,7 +279,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 25126
+                    "signature_count": 25136
                 },
                 {
                     "name": "United States",
@@ -436,7 +436,7 @@
                     "name": "Kilmarnock and Loudoun",
                     "ons_code": "S14000040",
                     "mp": "Alan Brown MP",
-                    "signature_count": 12
+                    "signature_count": 13
                 },
                 {
                     "name": "Kirkcaldy and Cowdenbeath",
@@ -1342,13 +1342,13 @@
                     "name": "Cities of London and Westminster",
                     "ons_code": "E14000639",
                     "mp": "Rt Hon Mark Field MP",
-                    "signature_count": 15
+                    "signature_count": 16
                 },
                 {
                     "name": "City of Chester",
                     "ons_code": "E14000640",
                     "mp": "Christian Matheson MP",
-                    "signature_count": 15
+                    "signature_count": 16
                 },
                 {
                     "name": "City of Durham",
@@ -1738,7 +1738,7 @@
                     "name": "Exeter",
                     "ons_code": "E14000698",
                     "mp": "Rt Hon Ben Bradshaw MP",
-                    "signature_count": 49
+                    "signature_count": 50
                 },
                 {
                     "name": "Fareham",
@@ -3166,7 +3166,7 @@
                     "name": "Sedgefield",
                     "ons_code": "E14000915",
                     "mp": "Phil Wilson MP",
-                    "signature_count": 30
+                    "signature_count": 31
                 },
                 {
                     "name": "Sefton Central",
@@ -3388,7 +3388,7 @@
                     "name": "South West Devon",
                     "ons_code": "E14000950",
                     "mp": "Sir Gary Streeter MP",
-                    "signature_count": 131
+                    "signature_count": 132
                 },
                 {
                     "name": "South West Hertfordshire",
@@ -3550,7 +3550,7 @@
                     "name": "Strangford",
                     "ons_code": "N06000016",
                     "mp": "Jim Shannon MP",
-                    "signature_count": 19
+                    "signature_count": 20
                 },
                 {
                     "name": "Stratford-on-Avon",
@@ -3616,7 +3616,7 @@
                     "name": "Swansea West",
                     "ons_code": "W07000047",
                     "mp": "Geraint Davies MP",
-                    "signature_count": 45
+                    "signature_count": 46
                 },
                 {
                     "name": "Tamworth",
@@ -3712,7 +3712,7 @@
                     "name": "Torridge and West Devon",
                     "ons_code": "E14001000",
                     "mp": "Rt Hon Geoffrey Cox QC MP",
-                    "signature_count": 152
+                    "signature_count": 153
                 },
                 {
                     "name": "Totnes",
@@ -3994,7 +3994,7 @@
                     "name": "Wirral South",
                     "ons_code": "E14001043",
                     "mp": "Alison McGovern MP",
-                    "signature_count": 17
+                    "signature_count": 18
                 },
                 {
                     "name": "Wirral West",

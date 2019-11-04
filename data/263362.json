@@ -10,9 +10,9 @@
             "background": "Peat is vital in the fight against climate breakdown as it stores vast amounts of carbon. It also provides habitat for a diverse range of wildlife. Therefore we should not be using peat compost to improve the soil in our gardens. Other organic matter is available and is effective for growers.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 12810,
+            "signature_count": 12820,
             "created_at": "2019-06-03T08:44:15.768Z",
-            "updated_at": "2019-11-04T21:13:32.000Z",
+            "updated_at": "2019-11-04T22:15:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-01T14:40:15.315Z",
             "closed_at": null,
@@ -194,7 +194,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 12643
+                    "signature_count": 12653
                 },
                 {
                     "name": "United States",
@@ -308,7 +308,7 @@
                     "name": "Aberdeen North",
                     "ons_code": "S14000001",
                     "mp": "Kirsty Blackman MP",
-                    "signature_count": 12
+                    "signature_count": 13
                 },
                 {
                     "name": "Inverclyde",
@@ -494,13 +494,13 @@
                     "name": "Alyn and Deeside",
                     "ons_code": "W07000043",
                     "mp": "Rt Hon Mark Tami MP",
-                    "signature_count": 10
+                    "signature_count": 11
                 },
                 {
                     "name": "Amber Valley",
                     "ons_code": "E14000533",
                     "mp": "Nigel Mills MP",
-                    "signature_count": 13
+                    "signature_count": 14
                 },
                 {
                     "name": "Arfon",
@@ -1286,7 +1286,7 @@
                     "name": "Congleton",
                     "ons_code": "E14000646",
                     "mp": "Fiona Bruce MP",
-                    "signature_count": 15
+                    "signature_count": 16
                 },
                 {
                     "name": "Copeland",
@@ -1862,7 +1862,7 @@
                     "name": "Harwich and North Essex",
                     "ons_code": "E14000734",
                     "mp": "Sir Bernard Jenkin MP",
-                    "signature_count": 24
+                    "signature_count": 25
                 },
                 {
                     "name": "Hastings and Rye",
@@ -1946,7 +1946,7 @@
                     "name": "High Peak",
                     "ons_code": "E14000748",
                     "mp": "Ruth George MP",
-                    "signature_count": 57
+                    "signature_count": 58
                 },
                 {
                     "name": "Hitchin and Harpenden",
@@ -2786,7 +2786,7 @@
                     "name": "Oxford West and Abingdon",
                     "ons_code": "E14000874",
                     "mp": "Layla Moran MP",
-                    "signature_count": 52
+                    "signature_count": 53
                 },
                 {
                     "name": "Pendle",
@@ -3032,7 +3032,7 @@
                     "name": "Salisbury",
                     "ons_code": "E14000912",
                     "mp": "John Glen MP",
-                    "signature_count": 38
+                    "signature_count": 39
                 },
                 {
                     "name": "Scarborough and Whitby",
@@ -3836,7 +3836,7 @@
                     "name": "Westmorland and Lonsdale",
                     "ons_code": "E14001037",
                     "mp": "Tim Farron MP",
-                    "signature_count": 43
+                    "signature_count": 44
                 },
                 {
                     "name": "Weston-super-Mare",
@@ -3884,7 +3884,7 @@
                     "name": "Witham",
                     "ons_code": "E14001045",
                     "mp": "Rt Hon Priti Patel MP",
-                    "signature_count": 13
+                    "signature_count": 14
                 },
                 {
                     "name": "Witney",

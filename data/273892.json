@@ -10,9 +10,9 @@
             "background": "Tool theft is ruining the livelihoods of UK tradespeople, and the problem\u2019s getting worse.\r\n\r\nTo combat the issue, we are calling for the introduction of tighter regulation when it comes to the selling of secondhand tools, and greater minimum fines for those convicted of tool theft.",
             "additional_details": "For a tradesperson, tool theft removes your ability to earn an income. Latest research suggests that more than 1 in 3 have had their tools stolen and that it costs victims over \u00a33k on average.\r\n\r\nPreventative measures are crucial, but will never be enough. The peel and steal technique and the rise of keyless entry thefts show that thieves are becoming increasingly sophisticated.\r\n\r\nGreater deterrents and taking away the incentive to steal tools in the first place will help to Stamp Out Tool Theft.",
             "state": "open",
-            "signature_count": 31839,
+            "signature_count": 31860,
             "created_at": "2019-09-12T10:03:07.124Z",
-            "updated_at": "2019-11-04T21:16:32.000Z",
+            "updated_at": "2019-11-04T22:10:52.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-18T07:14:56.255Z",
             "closed_at": null,
@@ -194,7 +194,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 31710
+                    "signature_count": 31731
                 },
                 {
                     "name": "United States",
@@ -479,7 +479,7 @@
                     "name": "Aberavon",
                     "ons_code": "W07000049",
                     "mp": "Stephen Kinnock MP",
-                    "signature_count": 16
+                    "signature_count": 17
                 },
                 {
                     "name": "Aberconwy",
@@ -605,7 +605,7 @@
                     "name": "Bath",
                     "ons_code": "E14000547",
                     "mp": "Wera Hobhouse MP",
-                    "signature_count": 43
+                    "signature_count": 44
                 },
                 {
                     "name": "Batley and Spen",
@@ -1169,7 +1169,7 @@
                     "name": "Chatham and Aylesford",
                     "ons_code": "E14000626",
                     "mp": "Tracey Crouch MP",
-                    "signature_count": 85
+                    "signature_count": 86
                 },
                 {
                     "name": "Cheadle",
@@ -1259,7 +1259,7 @@
                     "name": "City of Durham",
                     "ons_code": "E14000641",
                     "mp": "Dr Roberta Blackman-Woods MP",
-                    "signature_count": 21
+                    "signature_count": 22
                 },
                 {
                     "name": "Clacton",
@@ -1805,7 +1805,7 @@
                     "name": "Halesowen and Rowley Regis",
                     "ons_code": "E14000722",
                     "mp": "James Morris MP",
-                    "signature_count": 32
+                    "signature_count": 33
                 },
                 {
                     "name": "Halifax",
@@ -1895,7 +1895,7 @@
                     "name": "Hayes and Harlington",
                     "ons_code": "E14000737",
                     "mp": "Rt Hon John McDonnell MP",
-                    "signature_count": 45
+                    "signature_count": 46
                 },
                 {
                     "name": "Hazel Grove",
@@ -1907,7 +1907,7 @@
                     "name": "Hemel Hempstead",
                     "ons_code": "E14000739",
                     "mp": "Rt Hon Sir Mike Penning MP",
-                    "signature_count": 115
+                    "signature_count": 116
                 },
                 {
                     "name": "Hemsworth",
@@ -2141,7 +2141,7 @@
                     "name": "Lancaster and Fleetwood",
                     "ons_code": "E14000776",
                     "mp": "Cat Smith MP",
-                    "signature_count": 35
+                    "signature_count": 36
                 },
                 {
                     "name": "Leeds Central",
@@ -2315,13 +2315,13 @@
                     "name": "Maidstone and The Weald",
                     "ons_code": "E14000804",
                     "mp": "Mrs Helen Grant MP",
-                    "signature_count": 70
+                    "signature_count": 71
                 },
                 {
                     "name": "Makerfield",
                     "ons_code": "E14000805",
                     "mp": "Yvonne Fovargue MP",
-                    "signature_count": 88
+                    "signature_count": 89
                 },
                 {
                     "name": "Maldon",
@@ -2381,7 +2381,7 @@
                     "name": "Mid Bedfordshire",
                     "ons_code": "E14000813",
                     "mp": "Ms Nadine Dorries MP",
-                    "signature_count": 89
+                    "signature_count": 90
                 },
                 {
                     "name": "Mid Derbyshire",
@@ -2531,13 +2531,13 @@
                     "name": "Newcastle-under-Lyme",
                     "ons_code": "E14000834",
                     "mp": "Paul Farrelly MP",
-                    "signature_count": 42
+                    "signature_count": 43
                 },
                 {
                     "name": "Newport East",
                     "ons_code": "W07000055",
                     "mp": "Jessica Morden MP",
-                    "signature_count": 26
+                    "signature_count": 27
                 },
                 {
                     "name": "Newport West",
@@ -2615,7 +2615,7 @@
                     "name": "North East Derbyshire",
                     "ons_code": "E14000843",
                     "mp": "Lee Rowley MP",
-                    "signature_count": 41
+                    "signature_count": 42
                 },
                 {
                     "name": "North East Hampshire",
@@ -3011,7 +3011,7 @@
                     "name": "Rugby",
                     "ons_code": "E14000905",
                     "mp": "Mark Pawsey MP",
-                    "signature_count": 71
+                    "signature_count": 72
                 },
                 {
                     "name": "Ruislip, Northwood and Pinner",
@@ -3107,7 +3107,7 @@
                     "name": "Sheffield, Brightside and Hillsborough",
                     "ons_code": "E14000921",
                     "mp": "Gill Furniss MP",
-                    "signature_count": 50
+                    "signature_count": 51
                 },
                 {
                     "name": "Sheffield, Hallam",
@@ -3263,13 +3263,13 @@
                     "name": "South Staffordshire",
                     "ons_code": "E14000945",
                     "mp": "Rt Hon Gavin Williamson MP",
-                    "signature_count": 74
+                    "signature_count": 75
                 },
                 {
                     "name": "South Suffolk",
                     "ons_code": "E14000946",
                     "mp": "James Cartlidge MP",
-                    "signature_count": 64
+                    "signature_count": 65
                 },
                 {
                     "name": "South Swindon",
@@ -3287,7 +3287,7 @@
                     "name": "South West Bedfordshire",
                     "ons_code": "E14000949",
                     "mp": "Andrew Selous MP",
-                    "signature_count": 204
+                    "signature_count": 205
                 },
                 {
                     "name": "South West Devon",
@@ -3437,7 +3437,7 @@
                     "name": "Stoke-on-Trent South",
                     "ons_code": "E14000974",
                     "mp": "Jack Brereton MP",
-                    "signature_count": 38
+                    "signature_count": 39
                 },
                 {
                     "name": "Stone",
@@ -3971,7 +3971,7 @@
                     "name": "Worthing West",
                     "ons_code": "E14001055",
                     "mp": "Sir Peter Bottomley MP",
-                    "signature_count": 51
+                    "signature_count": 52
                 },
                 {
                     "name": "Wrexham",

@@ -10,9 +10,9 @@
             "background": "The government of Brazil led by Bolsonaro favour the development of the Amazon rainforest over conservation, escalating deforestation.  Deforestation threatens indigenous populations who live in the forest, loss of a precious and complex ecosystem and a vital carbon store that slows global warming.",
             "additional_details": "Indigenous people have called for the EU to impose trade sanctions on Brazil to halt the deforestation because they fear genocide. Also, the UK parliament has recognised a climate emergency. Since the Amazon rainforest is an important carbon store, absorbing huge volumes of CO2 each year, it's deforestation is of global significance. The intrinsic value of the rainforest should also be recognised.\r\nTrade sanctions are used elsewhere for important issues as an effective means to force action.",
             "state": "open",
-            "signature_count": 123174,
+            "signature_count": 123177,
             "created_at": "2019-07-03T07:11:16.257Z",
-            "updated_at": "2019-11-04T21:09:42.000Z",
+            "updated_at": "2019-11-04T22:04:52.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-24T11:55:58.628Z",
             "closed_at": null,
@@ -555,7 +555,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 120113
+                    "signature_count": 120116
                 },
                 {
                     "name": "United States",
@@ -2991,7 +2991,7 @@
                     "name": "North East Derbyshire",
                     "ons_code": "E14000843",
                     "mp": "Lee Rowley MP",
-                    "signature_count": 88
+                    "signature_count": 89
                 },
                 {
                     "name": "North East Hampshire",
@@ -3555,7 +3555,7 @@
                     "name": "South Antrim",
                     "ons_code": "N06000014",
                     "mp": "Paul Girvan MP",
-                    "signature_count": 70
+                    "signature_count": 71
                 },
                 {
                     "name": "South Basildon and East Thurrock",
@@ -3885,7 +3885,7 @@
                     "name": "Sutton Coldfield",
                     "ons_code": "E14000985",
                     "mp": "Rt Hon Andrew Mitchell MP",
-                    "signature_count": 119
+                    "signature_count": 120
                 },
                 {
                     "name": "Swansea East",

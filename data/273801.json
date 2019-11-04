@@ -10,9 +10,9 @@
             "background": "I would like to request the government to bring the date for the 2-year post-study work visa closer to help current international students (i.e. students graduating before 2021) benefit from this too. It would be unfair to current international students otherwise.",
             "additional_details": "It is a big achievement to be reintroducing the 2-year post-study work visa after it was removed by Theresa May in 2012 \u2014 I am so glad to see such a progressive step towards building a stronger global community here in the UK. \r\n\r\nStories of a few current international students that could benefit from this are available here: https://bbc.in/2Q4WXKi\r\n\r\nFurther details on the new visa can be found here: http://bit.ly/2PZFCSL",
             "state": "open",
-            "signature_count": 30041,
+            "signature_count": 30046,
             "created_at": "2019-09-11T16:43:44.043Z",
-            "updated_at": "2019-11-04T21:00:42.000Z",
+            "updated_at": "2019-11-04T22:14:52.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-17T13:02:12.984Z",
             "closed_at": null,
@@ -324,7 +324,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 29586
+                    "signature_count": 29591
                 },
                 {
                     "name": "United States",
@@ -1329,7 +1329,7 @@
                     "name": "Cities of London and Westminster",
                     "ons_code": "E14000639",
                     "mp": "Rt Hon Mark Field MP",
-                    "signature_count": 509
+                    "signature_count": 510
                 },
                 {
                     "name": "City of Chester",
@@ -2007,7 +2007,7 @@
                     "name": "Holborn and St Pancras",
                     "ons_code": "E14000750",
                     "mp": "Rt Hon Keir Starmer MP",
-                    "signature_count": 805
+                    "signature_count": 806
                 },
                 {
                     "name": "Hornchurch and Upminster",
@@ -2367,7 +2367,7 @@
                     "name": "Manchester, Gorton",
                     "ons_code": "E14000808",
                     "mp": "Afzal Khan MP",
-                    "signature_count": 142
+                    "signature_count": 143
                 },
                 {
                     "name": "Manchester, Withington",
@@ -3327,7 +3327,7 @@
                     "name": "Spelthorne",
                     "ons_code": "E14000959",
                     "mp": "Rt Hon Kwasi  Kwarteng MP",
-                    "signature_count": 25
+                    "signature_count": 26
                 },
                 {
                     "name": "St Albans",
