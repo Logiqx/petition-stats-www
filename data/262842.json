@@ -10,9 +10,9 @@
             "background": "This is an appeal to postpone the rollout of 5G in the UK, pending the outcome of an independent investigation. 5G will increase exposure to radiofrequency electromagnetic fields RF-EMF, that has been proven to be harmful for humans and the environment.",
             "additional_details": "More than 230 scientists and doctors worldwide have emphasised the potential health risks to the EU:\r\n\r\nhttp://www.5gappeal.eu\r\n\r\nThe Brussels region has already postponed the rollout of 5G due to the associated health risks.\r\n",
             "state": "open",
-            "signature_count": 26925,
+            "signature_count": 26934,
             "created_at": "2019-05-28T12:29:02.007Z",
-            "updated_at": "2019-11-04T17:09:12.000Z",
+            "updated_at": "2019-11-04T18:12:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-06-28T14:12:24.714Z",
             "closed_at": null,
@@ -244,7 +244,7 @@
                 {
                     "name": "Spain",
                     "code": "ES",
-                    "signature_count": 41
+                    "signature_count": 42
                 },
                 {
                     "name": "Sweden",
@@ -279,7 +279,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 26644
+                    "signature_count": 26652
                 },
                 {
                     "name": "United States",
@@ -1158,7 +1158,7 @@
                     "name": "Cambridge",
                     "ons_code": "E14000617",
                     "mp": "Daniel Zeichner MP",
-                    "signature_count": 56
+                    "signature_count": 57
                 },
                 {
                     "name": "Cannock Chase",
@@ -1584,7 +1584,7 @@
                     "name": "Ealing, Southall",
                     "ons_code": "E14000676",
                     "mp": "Mr Virendra Sharma MP",
-                    "signature_count": 32
+                    "signature_count": 33
                 },
                 {
                     "name": "Easington",
@@ -1698,7 +1698,7 @@
                     "name": "Epping Forest",
                     "ons_code": "E14000693",
                     "mp": "Rt Hon Dame Eleanor Laing MP",
-                    "signature_count": 46
+                    "signature_count": 47
                 },
                 {
                     "name": "Epsom and Ewell",
@@ -2046,7 +2046,7 @@
                     "name": "High Peak",
                     "ons_code": "E14000748",
                     "mp": "Ruth George MP",
-                    "signature_count": 36
+                    "signature_count": 37
                 },
                 {
                     "name": "Hitchin and Harpenden",
@@ -2328,7 +2328,7 @@
                     "name": "Liverpool, Riverside",
                     "ons_code": "E14000793",
                     "mp": "Dame Louise Ellman MP",
-                    "signature_count": 90
+                    "signature_count": 91
                 },
                 {
                     "name": "Liverpool, Walton",
@@ -2820,7 +2820,7 @@
                     "name": "Norwich North",
                     "ons_code": "E14000863",
                     "mp": "Chloe Smith MP",
-                    "signature_count": 42
+                    "signature_count": 43
                 },
                 {
                     "name": "Norwich South",
@@ -3144,7 +3144,7 @@
                     "name": "Scarborough and Whitby",
                     "ons_code": "E14000913",
                     "mp": "Rt Hon Robert Goodwill MP",
-                    "signature_count": 69
+                    "signature_count": 70
                 },
                 {
                     "name": "Scunthorpe",
@@ -3690,7 +3690,7 @@
                     "name": "Torbay",
                     "ons_code": "E14000999",
                     "mp": "Kevin Foster MP",
-                    "signature_count": 101
+                    "signature_count": 102
                 },
                 {
                     "name": "Torfaen",

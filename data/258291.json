@@ -10,9 +10,9 @@
             "background": "My son was diagnosed with a Nut allergy after he had a reaction in 2018. This can lead to Anaphylaxis & it is life threatening. An Epi Pen is an adrenaline injection which is vital after a reaction. I think public places should have epi pens available.",
             "additional_details": "Anaphylaxis is led by an allergic reaction. This can lead to fatalities as we sadly know following recent stories in the media. As an anxious mum of a nut allergy sufferer, I would feel more comfortable knowing that all public food places had an Epi Pen in house in case of an emergency situation. This can treat symptoms until emergency services arrive & can save lives if injected ASAP. They should be at least as widely available in public places as defibrillators now are.",
             "state": "open",
-            "signature_count": 12994,
+            "signature_count": 12995,
             "created_at": "2019-04-18T16:14:21.331Z",
-            "updated_at": "2019-11-04T13:21:02.000Z",
+            "updated_at": "2019-11-04T17:21:52.000Z",
             "rejected_at": null,
             "opened_at": "2019-05-21T15:59:42.861Z",
             "closed_at": null,
@@ -154,7 +154,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 12923
+                    "signature_count": 12924
                 },
                 {
                     "name": "United States",
@@ -1913,7 +1913,7 @@
                     "name": "Hornchurch and Upminster",
                     "ons_code": "E14000751",
                     "mp": "Julia Lopez MP",
-                    "signature_count": 18
+                    "signature_count": 19
                 },
                 {
                     "name": "Hornsey and Wood Green",

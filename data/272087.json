@@ -10,9 +10,9 @@
             "background": "It\u2019s far too easy for online trolls to just create another email address and another social media account if they have their accounts suspended. ",
             "additional_details": "However if their internet service providers were required to block their access to social media, and social media companies blocked their IP addresses, it would be far harder for them to get another account and continue their abuse. \r\n \r\n",
             "state": "open",
-            "signature_count": 133253,
+            "signature_count": 133279,
             "created_at": "2019-09-02T18:22:10.908Z",
-            "updated_at": "2019-11-04T17:17:32.000Z",
+            "updated_at": "2019-11-04T18:15:02.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-10T16:19:49.877Z",
             "closed_at": null,
@@ -384,7 +384,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 132327
+                    "signature_count": 132353
                 },
                 {
                     "name": "United States",
@@ -742,7 +742,7 @@
                     "name": "Banbury",
                     "ons_code": "E14000539",
                     "mp": "Victoria Prentis MP",
-                    "signature_count": 267
+                    "signature_count": 269
                 },
                 {
                     "name": "Barking",
@@ -1144,7 +1144,7 @@
                     "name": "Bristol East",
                     "ons_code": "E14000599",
                     "mp": "Kerry McCarthy MP",
-                    "signature_count": 174
+                    "signature_count": 175
                 },
                 {
                     "name": "Bristol North West",
@@ -1372,7 +1372,7 @@
                     "name": "Chelsea and Fulham",
                     "ons_code": "E14000629",
                     "mp": "Rt Hon Greg Hands MP",
-                    "signature_count": 140
+                    "signature_count": 141
                 },
                 {
                     "name": "Cheltenham",
@@ -1456,7 +1456,7 @@
                     "name": "Cleethorpes",
                     "ons_code": "E14000643",
                     "mp": "Martin Vickers MP",
-                    "signature_count": 197
+                    "signature_count": 198
                 },
                 {
                     "name": "Clwyd South",
@@ -1492,7 +1492,7 @@
                     "name": "Copeland",
                     "ons_code": "E14000647",
                     "mp": "Trudy Harrison MP",
-                    "signature_count": 171
+                    "signature_count": 172
                 },
                 {
                     "name": "Corby",
@@ -1534,7 +1534,7 @@
                     "name": "Croydon Central",
                     "ons_code": "E14000654",
                     "mp": "Sarah Jones MP",
-                    "signature_count": 178
+                    "signature_count": 179
                 },
                 {
                     "name": "Croydon North",
@@ -1588,7 +1588,7 @@
                     "name": "Denton and Reddish",
                     "ons_code": "E14000661",
                     "mp": "Andrew Gwynne MP",
-                    "signature_count": 211
+                    "signature_count": 212
                 },
                 {
                     "name": "Derby North",
@@ -1720,7 +1720,7 @@
                     "name": "East Londonderry",
                     "ons_code": "N06000006",
                     "mp": "Mr Gregory Campbell MP",
-                    "signature_count": 168
+                    "signature_count": 169
                 },
                 {
                     "name": "East Surrey",
@@ -1786,7 +1786,7 @@
                     "name": "Enfield North",
                     "ons_code": "E14000691",
                     "mp": "Rt Hon Joan Ryan MP",
-                    "signature_count": 191
+                    "signature_count": 192
                 },
                 {
                     "name": "Enfield, Southgate",
@@ -1834,7 +1834,7 @@
                     "name": "Fareham",
                     "ons_code": "E14000699",
                     "mp": "Suella Braverman MP",
-                    "signature_count": 230
+                    "signature_count": 231
                 },
                 {
                     "name": "Faversham and Mid Kent",
@@ -1918,13 +1918,13 @@
                     "name": "Gillingham and Rainham",
                     "ons_code": "E14000711",
                     "mp": "Rehman Chishti MP",
-                    "signature_count": 229
+                    "signature_count": 230
                 },
                 {
                     "name": "Gloucester",
                     "ons_code": "E14000712",
                     "mp": "Richard Graham MP",
-                    "signature_count": 244
+                    "signature_count": 245
                 },
                 {
                     "name": "Gosport",
@@ -2092,7 +2092,7 @@
                     "name": "Hemel Hempstead",
                     "ons_code": "E14000739",
                     "mp": "Rt Hon Sir Mike Penning MP",
-                    "signature_count": 286
+                    "signature_count": 287
                 },
                 {
                     "name": "Hemsworth",
@@ -2146,7 +2146,7 @@
                     "name": "High Peak",
                     "ons_code": "E14000748",
                     "mp": "Ruth George MP",
-                    "signature_count": 174
+                    "signature_count": 175
                 },
                 {
                     "name": "Hitchin and Harpenden",
@@ -2218,7 +2218,7 @@
                     "name": "Ilford South",
                     "ons_code": "E14000760",
                     "mp": "Mike Gapes MP",
-                    "signature_count": 95
+                    "signature_count": 96
                 },
                 {
                     "name": "Ipswich",
@@ -2506,13 +2506,13 @@
                     "name": "Makerfield",
                     "ons_code": "E14000805",
                     "mp": "Yvonne Fovargue MP",
-                    "signature_count": 244
+                    "signature_count": 245
                 },
                 {
                     "name": "Maldon",
                     "ons_code": "E14000806",
                     "mp": "Rt Hon John Whittingdale MP",
-                    "signature_count": 297
+                    "signature_count": 298
                 },
                 {
                     "name": "Manchester Central",
@@ -2662,7 +2662,7 @@
                     "name": "Morley and Outwood",
                     "ons_code": "E14000826",
                     "mp": "Andrea Jenkyns MP",
-                    "signature_count": 283
+                    "signature_count": 284
                 },
                 {
                     "name": "Neath",
@@ -2986,7 +2986,7 @@
                     "name": "Oxford East",
                     "ons_code": "E14000873",
                     "mp": "Anneliese Dodds MP",
-                    "signature_count": 140
+                    "signature_count": 141
                 },
                 {
                     "name": "Oxford West and Abingdon",
@@ -3136,7 +3136,7 @@
                     "name": "Richmond (Yorks)",
                     "ons_code": "E14000895",
                     "mp": "Rt Hon Rishi Sunak MP",
-                    "signature_count": 182
+                    "signature_count": 183
                 },
                 {
                     "name": "Richmond Park",
@@ -3550,7 +3550,7 @@
                     "name": "St Helens North",
                     "ons_code": "E14000962",
                     "mp": "Conor McGinn MP",
-                    "signature_count": 247
+                    "signature_count": 248
                 },
                 {
                     "name": "St Helens South and Whiston",
@@ -3616,7 +3616,7 @@
                     "name": "Stoke-on-Trent North",
                     "ons_code": "E14000973",
                     "mp": "Ruth Smeeth MP",
-                    "signature_count": 200
+                    "signature_count": 201
                 },
                 {
                     "name": "Stoke-on-Trent South",
@@ -3718,7 +3718,7 @@
                     "name": "Tatton",
                     "ons_code": "E14000987",
                     "mp": "Rt Hon Esther McVey MP",
-                    "signature_count": 147
+                    "signature_count": 148
                 },
                 {
                     "name": "Taunton Deane",
@@ -4048,7 +4048,7 @@
                     "name": "Westmorland and Lonsdale",
                     "ons_code": "E14001037",
                     "mp": "Tim Farron MP",
-                    "signature_count": 149
+                    "signature_count": 150
                 },
                 {
                     "name": "Weston-super-Mare",
@@ -4096,7 +4096,7 @@
                     "name": "Witham",
                     "ons_code": "E14001045",
                     "mp": "Rt Hon Priti Patel MP",
-                    "signature_count": 303
+                    "signature_count": 304
                 },
                 {
                     "name": "Witney",

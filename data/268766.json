@@ -10,9 +10,9 @@
             "background": "There should be a statutory minimum sentence for those found carrying a knife, the same as if carrying a firearm. With the reported 33% increase in knife crime since 2011 it is clear that there needs to be serious consideration for the punishment for those carrying offensive weapons. ",
             "additional_details": "The cycle needs to stop and the only way positive results will become evident and we will see a reduction in young murders is if we tighten up on sentencing for those carrying a knife. \r\nIf a young person is caught with a knife and it is their first offence they potentially have no further punishment with the current policy\u2019s around knife crime in place. Unlike those caught with a firearm. How many of those have been let off lightly for knife crimes have then gone on to re offend and use a knife?",
             "state": "open",
-            "signature_count": 71790,
+            "signature_count": 71801,
             "created_at": "2019-07-31T09:01:55.611Z",
-            "updated_at": "2019-11-04T17:11:12.000Z",
+            "updated_at": "2019-11-04T18:03:52.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-08T09:16:05.754Z",
             "closed_at": null,
@@ -279,7 +279,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 71395
+                    "signature_count": 71406
                 },
                 {
                     "name": "United States",
@@ -1121,7 +1121,7 @@
                     "name": "Bury North",
                     "ons_code": "E14000611",
                     "mp": "James Frith MP",
-                    "signature_count": 88
+                    "signature_count": 89
                 },
                 {
                     "name": "Bury South",
@@ -1451,7 +1451,7 @@
                     "name": "Croydon South",
                     "ons_code": "E14000656",
                     "mp": "Chris Philp MP",
-                    "signature_count": 205
+                    "signature_count": 206
                 },
                 {
                     "name": "Cynon Valley",
@@ -1463,7 +1463,7 @@
                     "name": "Dagenham and Rainham",
                     "ons_code": "E14000657",
                     "mp": "Jon Cruddas MP",
-                    "signature_count": 140
+                    "signature_count": 141
                 },
                 {
                     "name": "Darlington",
@@ -1985,7 +1985,7 @@
                     "name": "Hayes and Harlington",
                     "ons_code": "E14000737",
                     "mp": "Rt Hon John McDonnell MP",
-                    "signature_count": 1818
+                    "signature_count": 1820
                 },
                 {
                     "name": "Hazel Grove",
@@ -2693,7 +2693,7 @@
                     "name": "North East Bedfordshire",
                     "ons_code": "E14000841",
                     "mp": "Rt Hon Alistair Burt MP",
-                    "signature_count": 110
+                    "signature_count": 111
                 },
                 {
                     "name": "North East Cambridgeshire",
@@ -2963,7 +2963,7 @@
                     "name": "Portsmouth South",
                     "ons_code": "E14000884",
                     "mp": "Stephen Morgan MP",
-                    "signature_count": 53
+                    "signature_count": 54
                 },
                 {
                     "name": "Preseli Pembrokeshire",
@@ -3455,7 +3455,7 @@
                     "name": "St Helens North",
                     "ons_code": "E14000962",
                     "mp": "Conor McGinn MP",
-                    "signature_count": 531
+                    "signature_count": 532
                 },
                 {
                     "name": "St Helens South and Whiston",

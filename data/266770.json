@@ -10,9 +10,9 @@
             "background": "Chris Packham, Ruth Tingay and Mark Avery (Wild Justice) believe that intensive grouse shooting is bad for people, the environment and wildlife. People; grouse shooting is economically insignificant when contrasted with other real and potential uses of the UK\u2019s uplands.",
             "additional_details": "Environment; muirburn impacts negatively upon climate change and drainage leads to flooding and erosion. Wildlife; the wholesale culling of all predators and Mountain Hares has a disastrous effect on the ecology of these areas and the industry is underpinned by a criminal tradition of raptor persecution which shows no signs of abating. It\u2019s time to provide an opportunity to implement immediate , legislative and meaningful measures to address this abhorrently destructive practice.",
             "state": "open",
-            "signature_count": 111782,
+            "signature_count": 111791,
             "created_at": "2019-07-04T21:22:54.456Z",
-            "updated_at": "2019-11-04T17:02:32.000Z",
+            "updated_at": "2019-11-04T18:06:52.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-13T15:24:03.152Z",
             "closed_at": null,
@@ -334,7 +334,7 @@
                 {
                     "name": "Spain",
                     "code": "ES",
-                    "signature_count": 149
+                    "signature_count": 150
                 },
                 {
                     "name": "Sweden",
@@ -389,7 +389,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 110087
+                    "signature_count": 110095
                 },
                 {
                     "name": "United States",
@@ -726,7 +726,7 @@
                     "name": "Arfon",
                     "ons_code": "W07000057",
                     "mp": "Hywel Williams MP",
-                    "signature_count": 188
+                    "signature_count": 189
                 },
                 {
                     "name": "Arundel and South Downs",
@@ -1980,7 +1980,7 @@
                     "name": "Great Yarmouth",
                     "ons_code": "E14000717",
                     "mp": "Rt Hon Brandon Lewis MP",
-                    "signature_count": 158
+                    "signature_count": 159
                 },
                 {
                     "name": "Greenwich and Woolwich",
@@ -2118,7 +2118,7 @@
                     "name": "Hemsworth",
                     "ons_code": "E14000740",
                     "mp": "Jon Trickett MP",
-                    "signature_count": 140
+                    "signature_count": 141
                 },
                 {
                     "name": "Hendon",
@@ -2256,7 +2256,7 @@
                     "name": "Islington North",
                     "ons_code": "E14000763",
                     "mp": "Rt Hon Jeremy Corbyn MP",
-                    "signature_count": 190
+                    "signature_count": 191
                 },
                 {
                     "name": "Islington South and Finsbury",
@@ -3618,7 +3618,7 @@
                     "name": "Stockton North",
                     "ons_code": "E14000970",
                     "mp": "Alex Cunningham MP",
-                    "signature_count": 88
+                    "signature_count": 89
                 },
                 {
                     "name": "Stockton South",
@@ -3648,7 +3648,7 @@
                     "name": "Stone",
                     "ons_code": "E14000975",
                     "mp": "Sir William Cash MP",
-                    "signature_count": 178
+                    "signature_count": 179
                 },
                 {
                     "name": "Stourbridge",
@@ -4092,7 +4092,7 @@
                     "name": "Winchester",
                     "ons_code": "E14001041",
                     "mp": "Steve Brine MP",
-                    "signature_count": 201
+                    "signature_count": 202
                 },
                 {
                     "name": "Windsor",

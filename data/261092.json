@@ -10,9 +10,9 @@
             "background": "Retailers in the United Kingdom unnecessarily waste huge amounts of energy on open fridges and freezers. Climate change threatens our planet. If all supermarkets had doors on their fridges and freezers it would save energy the equivalent of the entire residential population of Poland",
             "additional_details": "https://www.coolproducts.eu/news/why-dont-supermarket-fridges-have-doors\r\n\r\nBio Intelligence Service, 2007, Preparatory Studies for Eco-design Requirements of EuPs - Lot 12 : Commercial refrigerators and freezers",
             "state": "open",
-            "signature_count": 49193,
+            "signature_count": 49196,
             "created_at": "2019-05-12T14:49:11.227Z",
-            "updated_at": "2019-11-04T16:43:12.000Z",
+            "updated_at": "2019-11-04T18:10:32.000Z",
             "rejected_at": null,
             "opened_at": "2019-06-14T11:07:27.880Z",
             "closed_at": null,
@@ -239,7 +239,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 48978
+                    "signature_count": 48981
                 },
                 {
                     "name": "United States",
@@ -1674,7 +1674,7 @@
                     "name": "Fareham",
                     "ons_code": "E14000699",
                     "mp": "Suella Braverman MP",
-                    "signature_count": 81
+                    "signature_count": 82
                 },
                 {
                     "name": "Faversham and Mid Kent",
@@ -1800,7 +1800,7 @@
                     "name": "Great Yarmouth",
                     "ons_code": "E14000717",
                     "mp": "Rt Hon Brandon Lewis MP",
-                    "signature_count": 57
+                    "signature_count": 58
                 },
                 {
                     "name": "Greenwich and Woolwich",
@@ -3012,7 +3012,7 @@
                     "name": "Romsey and Southampton North",
                     "ons_code": "E14000901",
                     "mp": "Rt Hon Caroline Nokes MP",
-                    "signature_count": 145
+                    "signature_count": 146
                 },
                 {
                     "name": "Rossendale and Darwen",

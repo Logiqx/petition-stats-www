@@ -10,9 +10,9 @@
             "background": "Tool theft is ruining the livelihoods of UK tradespeople, and the problem\u2019s getting worse.\r\n\r\nTo combat the issue, we are calling for the introduction of tighter regulation when it comes to the selling of secondhand tools, and greater minimum fines for those convicted of tool theft.",
             "additional_details": "For a tradesperson, tool theft removes your ability to earn an income. Latest research suggests that more than 1 in 3 have had their tools stolen and that it costs victims over \u00a33k on average.\r\n\r\nPreventative measures are crucial, but will never be enough. The peel and steal technique and the rise of keyless entry thefts show that thieves are becoming increasingly sophisticated.\r\n\r\nGreater deterrents and taking away the incentive to steal tools in the first place will help to Stamp Out Tool Theft.",
             "state": "open",
-            "signature_count": 31759,
+            "signature_count": 31780,
             "created_at": "2019-09-12T10:03:07.124Z",
-            "updated_at": "2019-11-04T16:56:42.000Z",
+            "updated_at": "2019-11-04T18:17:02.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-18T07:14:56.255Z",
             "closed_at": null,
@@ -194,7 +194,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 31630
+                    "signature_count": 31651
                 },
                 {
                     "name": "United States",
@@ -311,7 +311,7 @@
                     "name": "Glenrothes",
                     "ons_code": "S14000036",
                     "mp": "Peter Grant MP",
-                    "signature_count": 28
+                    "signature_count": 29
                 },
                 {
                     "name": "Gordon",
@@ -485,7 +485,7 @@
                     "name": "Aberconwy",
                     "ons_code": "W07000058",
                     "mp": "Guto Bebb MP",
-                    "signature_count": 20
+                    "signature_count": 21
                 },
                 {
                     "name": "Aldershot",
@@ -635,7 +635,7 @@
                     "name": "Bedford",
                     "ons_code": "E14000552",
                     "mp": "Mohammad Yasin MP",
-                    "signature_count": 58
+                    "signature_count": 59
                 },
                 {
                     "name": "Belfast East",
@@ -671,7 +671,7 @@
                     "name": "Berwick-upon-Tweed",
                     "ons_code": "E14000554",
                     "mp": "Anne-Marie Trevelyan MP",
-                    "signature_count": 32
+                    "signature_count": 33
                 },
                 {
                     "name": "Bethnal Green and Bow",
@@ -695,7 +695,7 @@
                     "name": "Bexleyheath and Crayford",
                     "ons_code": "E14000558",
                     "mp": "Rt Hon Sir David Evennett MP",
-                    "signature_count": 51
+                    "signature_count": 52
                 },
                 {
                     "name": "Birkenhead",
@@ -1175,7 +1175,7 @@
                     "name": "Cheadle",
                     "ons_code": "E14000627",
                     "mp": "Mary Robinson MP",
-                    "signature_count": 39
+                    "signature_count": 40
                 },
                 {
                     "name": "Chelmsford",
@@ -1295,7 +1295,7 @@
                     "name": "Colne Valley",
                     "ons_code": "E14000645",
                     "mp": "Thelma Walker MP",
-                    "signature_count": 54
+                    "signature_count": 55
                 },
                 {
                     "name": "Congleton",
@@ -1331,7 +1331,7 @@
                     "name": "Coventry South",
                     "ons_code": "E14000651",
                     "mp": "Mr Jim Cunningham MP",
-                    "signature_count": 43
+                    "signature_count": 44
                 },
                 {
                     "name": "Crawley",
@@ -1361,7 +1361,7 @@
                     "name": "Croydon South",
                     "ons_code": "E14000656",
                     "mp": "Chris Philp MP",
-                    "signature_count": 78
+                    "signature_count": 79
                 },
                 {
                     "name": "Cynon Valley",
@@ -1415,7 +1415,7 @@
                     "name": "Derby South",
                     "ons_code": "E14000663",
                     "mp": "Rt Hon Margaret Beckett MP",
-                    "signature_count": 59
+                    "signature_count": 60
                 },
                 {
                     "name": "Derbyshire Dales",
@@ -1745,7 +1745,7 @@
                     "name": "Gosport",
                     "ons_code": "E14000713",
                     "mp": "Caroline Dinenage MP",
-                    "signature_count": 63
+                    "signature_count": 64
                 },
                 {
                     "name": "Gower",
@@ -1775,7 +1775,7 @@
                     "name": "Great Yarmouth",
                     "ons_code": "E14000717",
                     "mp": "Rt Hon Brandon Lewis MP",
-                    "signature_count": 29
+                    "signature_count": 30
                 },
                 {
                     "name": "Greenwich and Woolwich",
@@ -1847,7 +1847,7 @@
                     "name": "Harlow",
                     "ons_code": "E14000729",
                     "mp": "Rt Hon Robert Halfon MP",
-                    "signature_count": 92
+                    "signature_count": 93
                 },
                 {
                     "name": "Harrogate and Knaresborough",
@@ -2543,7 +2543,7 @@
                     "name": "Newport West",
                     "ons_code": "W07000056",
                     "mp": "Ruth Jones MP",
-                    "signature_count": 21
+                    "signature_count": 22
                 },
                 {
                     "name": "Newry and Armagh",
@@ -2603,7 +2603,7 @@
                     "name": "North East Bedfordshire",
                     "ons_code": "E14000841",
                     "mp": "Rt Hon Alistair Burt MP",
-                    "signature_count": 114
+                    "signature_count": 115
                 },
                 {
                     "name": "North East Cambridgeshire",
@@ -2783,7 +2783,7 @@
                     "name": "Oldham East and Saddleworth",
                     "ons_code": "E14000870",
                     "mp": "Debbie Abrahams MP",
-                    "signature_count": 65
+                    "signature_count": 66
                 },
                 {
                     "name": "Oldham West and Royton",
@@ -2795,7 +2795,7 @@
                     "name": "Orpington",
                     "ons_code": "E14000872",
                     "mp": "Rt Hon Joseph  Johnson MP",
-                    "signature_count": 64
+                    "signature_count": 65
                 },
                 {
                     "name": "Oxford East",
@@ -3287,7 +3287,7 @@
                     "name": "South West Bedfordshire",
                     "ons_code": "E14000949",
                     "mp": "Andrew Selous MP",
-                    "signature_count": 203
+                    "signature_count": 204
                 },
                 {
                     "name": "South West Devon",
@@ -3593,7 +3593,7 @@
                     "name": "Tonbridge and Malling",
                     "ons_code": "E14000997",
                     "mp": "Tom Tugendhat MP",
-                    "signature_count": 79
+                    "signature_count": 80
                 },
                 {
                     "name": "Tooting",
@@ -3809,7 +3809,7 @@
                     "name": "West Bromwich East",
                     "ons_code": "E14001029",
                     "mp": "Tom Watson MP",
-                    "signature_count": 33
+                    "signature_count": 34
                 },
                 {
                     "name": "West Bromwich West",
@@ -3995,7 +3995,7 @@
                     "name": "Wyre Forest",
                     "ons_code": "E14001058",
                     "mp": "Mark Garnier MP",
-                    "signature_count": 62
+                    "signature_count": 63
                 },
                 {
                     "name": "Wythenshawe and Sale East",

@@ -10,9 +10,9 @@
             "background": "I think that changes as per the above should be dealt with by the Government",
             "additional_details": "",
             "state": "open",
-            "signature_count": 35904,
+            "signature_count": 35909,
             "created_at": "2019-08-16T12:22:28.588Z",
-            "updated_at": "2019-11-04T16:42:12.000Z",
+            "updated_at": "2019-11-04T18:10:02.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-23T16:44:54.803Z",
             "closed_at": null,
@@ -304,7 +304,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 35438
+                    "signature_count": 35443
                 },
                 {
                     "name": "United States",
@@ -2282,7 +2282,7 @@
                     "name": "Leicester East",
                     "ons_code": "E14000782",
                     "mp": "Rt Hon Keith Vaz MP",
-                    "signature_count": 30
+                    "signature_count": 31
                 },
                 {
                     "name": "Leicester South",
@@ -2678,7 +2678,7 @@
                     "name": "North Cornwall",
                     "ons_code": "E14000837",
                     "mp": "Scott Mann MP",
-                    "signature_count": 88
+                    "signature_count": 89
                 },
                 {
                     "name": "North Devon",
@@ -2780,7 +2780,7 @@
                     "name": "North Tyneside",
                     "ons_code": "E14000853",
                     "mp": "Mary Glindon MP",
-                    "signature_count": 82
+                    "signature_count": 84
                 },
                 {
                     "name": "North Warwickshire",

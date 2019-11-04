@@ -10,9 +10,9 @@
             "background": "Non-stun slaughter is cruel. Many consumers do not want to eat meat killed by non-stun slaughter. On leaving the EU, specific UK legislation must replace the EU slaughter directive, explicitly precluding the religious exemption from pre-stunning requirement. Stun to kill must be mandatory.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 13919,
+            "signature_count": 13922,
             "created_at": "2019-05-25T12:08:53.852Z",
-            "updated_at": "2019-11-04T16:28:42.000Z",
+            "updated_at": "2019-11-04T17:58:02.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-16T11:24:16.242Z",
             "closed_at": null,
@@ -209,7 +209,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 13709
+                    "signature_count": 13712
                 },
                 {
                     "name": "United States",
@@ -994,7 +994,7 @@
                     "name": "Bromley and Chislehurst",
                     "ons_code": "E14000604",
                     "mp": "Robert Neill MP",
-                    "signature_count": 14
+                    "signature_count": 15
                 },
                 {
                     "name": "Bromsgrove",
@@ -1966,7 +1966,7 @@
                     "name": "High Peak",
                     "ons_code": "E14000748",
                     "mp": "Ruth George MP",
-                    "signature_count": 22
+                    "signature_count": 23
                 },
                 {
                     "name": "Hitchin and Harpenden",
@@ -4102,7 +4102,7 @@
                     "name": "East Dunbartonshire",
                     "ons_code": "S14000018",
                     "mp": "Jo Swinson MP",
-                    "signature_count": 4
+                    "signature_count": 5
                 },
                 {
                     "name": "East Kilbride, Strathaven and Lesmahagow",
