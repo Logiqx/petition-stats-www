@@ -10,9 +10,9 @@
             "background": "This is an appeal to postpone the rollout of 5G in the UK, pending the outcome of an independent investigation. 5G will increase exposure to radiofrequency electromagnetic fields RF-EMF, that has been proven to be harmful for humans and the environment.",
             "additional_details": "More than 230 scientists and doctors worldwide have emphasised the potential health risks to the EU:\r\n\r\nhttp://www.5gappeal.eu\r\n\r\nThe Brussels region has already postponed the rollout of 5G due to the associated health risks.\r\n",
             "state": "open",
-            "signature_count": 26993,
+            "signature_count": 27005,
             "created_at": "2019-05-28T12:29:02.007Z",
-            "updated_at": "2019-11-04T22:17:52.000Z",
+            "updated_at": "2019-11-04T23:05:52.000Z",
             "rejected_at": null,
             "opened_at": "2019-06-28T14:12:24.714Z",
             "closed_at": null,
@@ -279,7 +279,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 26711
+                    "signature_count": 26723
                 },
                 {
                     "name": "United States",
@@ -330,7 +330,7 @@
                     "name": "Edinburgh South West",
                     "ons_code": "S14000025",
                     "mp": "Joanna Cherry QC MP",
-                    "signature_count": 25
+                    "signature_count": 26
                 },
                 {
                     "name": "Edinburgh West",
@@ -1014,7 +1014,7 @@
                     "name": "Bridgend",
                     "ons_code": "W07000073",
                     "mp": "Mrs Madeleine Moon MP",
-                    "signature_count": 52
+                    "signature_count": 54
                 },
                 {
                     "name": "Bridgwater and West Somerset",
@@ -1638,7 +1638,7 @@
                     "name": "East Yorkshire",
                     "ons_code": "E14000683",
                     "mp": "Rt Hon Sir Greg Knight MP",
-                    "signature_count": 39
+                    "signature_count": 40
                 },
                 {
                     "name": "Eastbourne",
@@ -1932,7 +1932,7 @@
                     "name": "Harlow",
                     "ons_code": "E14000729",
                     "mp": "Rt Hon Robert Halfon MP",
-                    "signature_count": 36
+                    "signature_count": 37
                 },
                 {
                     "name": "Harrogate and Knaresborough",
@@ -2016,7 +2016,7 @@
                     "name": "Hereford and South Herefordshire",
                     "ons_code": "E14000743",
                     "mp": "Jesse Norman MP",
-                    "signature_count": 90
+                    "signature_count": 91
                 },
                 {
                     "name": "Hertford and Stortford",
@@ -2598,7 +2598,7 @@
                     "name": "Newcastle upon Tyne Central",
                     "ons_code": "E14000831",
                     "mp": "Chi Onwurah MP",
-                    "signature_count": 16
+                    "signature_count": 17
                 },
                 {
                     "name": "Newcastle upon Tyne East",
@@ -2964,7 +2964,7 @@
                     "name": "Preseli Pembrokeshire",
                     "ons_code": "W07000065",
                     "mp": "Rt Hon Stephen Crabb MP",
-                    "signature_count": 73
+                    "signature_count": 74
                 },
                 {
                     "name": "Preston",
@@ -3120,7 +3120,7 @@
                     "name": "Rutland and Melton",
                     "ons_code": "E14000909",
                     "mp": "Rt Hon Sir Alan Duncan MP",
-                    "signature_count": 17
+                    "signature_count": 18
                 },
                 {
                     "name": "Saffron Walden",
@@ -3600,7 +3600,7 @@
                     "name": "Swansea East",
                     "ons_code": "W07000048",
                     "mp": "Carolyn Harris MP",
-                    "signature_count": 24
+                    "signature_count": 25
                 },
                 {
                     "name": "Swansea West",
@@ -3762,7 +3762,7 @@
                     "name": "Vale of Glamorgan",
                     "ons_code": "W07000078",
                     "mp": "Rt Hon Alun Cairns MP",
-                    "signature_count": 30
+                    "signature_count": 31
                 },
                 {
                     "name": "Vauxhall",
@@ -4158,7 +4158,7 @@
                     "name": "Dumfriesshire, Clydesdale and Tweeddale",
                     "ons_code": "S14000014",
                     "mp": "Rt Hon David Mundell MP",
-                    "signature_count": 22
+                    "signature_count": 23
                 },
                 {
                     "name": "Dundee East",

@@ -10,9 +10,9 @@
             "background": "Our pensioners are paid a pittance compared to pensioners from other countries. Make parliament increase the state pension to the same rate as the minimum wage based on a forty hour week.\r\n\u00a38.21p x 40 = \u00a3328.40p per week. If we can spend sixty six billion on Brexit we can afford to pay pensions",
             "additional_details": "We pay the lowest state pensions in the western world.\r\nLet\u2019s link the state pension to the minimum wage. \r\n\u00a38.21p x 40 hours = \u00a3328.40p.\r\nOur government had spent sixty six billion pounds on Brexit todate.\r\nWe can afford to pay, value and respect our pensioners for fifty years of working and contributing to Britain\u2019s economy.",
             "state": "open",
-            "signature_count": 38407,
+            "signature_count": 38411,
             "created_at": "2019-08-10T13:35:48.149Z",
-            "updated_at": "2019-11-04T22:14:52.000Z",
+            "updated_at": "2019-11-04T22:59:02.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-20T14:15:16.928Z",
             "closed_at": null,
@@ -319,7 +319,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 37370
+                    "signature_count": 37374
                 },
                 {
                     "name": "United States",
@@ -1328,7 +1328,7 @@
                     "name": "Cheltenham",
                     "ons_code": "E14000630",
                     "mp": "Alex Chalk MP",
-                    "signature_count": 39
+                    "signature_count": 40
                 },
                 {
                     "name": "Chesham and Amersham",
@@ -1706,7 +1706,7 @@
                     "name": "Eddisbury",
                     "ons_code": "E14000686",
                     "mp": "Antoinette Sandbach MP",
-                    "signature_count": 62
+                    "signature_count": 63
                 },
                 {
                     "name": "Edmonton",
@@ -3254,7 +3254,7 @@
                     "name": "Sheffield, Heeley",
                     "ons_code": "E14000923",
                     "mp": "Louise Haigh MP",
-                    "signature_count": 36
+                    "signature_count": 37
                 },
                 {
                     "name": "Sherwood",
@@ -3626,7 +3626,7 @@
                     "name": "Sunderland Central",
                     "ons_code": "E14000982",
                     "mp": "Julie Elliott MP",
-                    "signature_count": 97
+                    "signature_count": 98
                 },
                 {
                     "name": "Surrey Heath",

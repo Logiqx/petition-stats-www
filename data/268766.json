@@ -10,9 +10,9 @@
             "background": "There should be a statutory minimum sentence for those found carrying a knife, the same as if carrying a firearm. With the reported 33% increase in knife crime since 2011 it is clear that there needs to be serious consideration for the punishment for those carrying offensive weapons. ",
             "additional_details": "The cycle needs to stop and the only way positive results will become evident and we will see a reduction in young murders is if we tighten up on sentencing for those carrying a knife. \r\nIf a young person is caught with a knife and it is their first offence they potentially have no further punishment with the current policy\u2019s around knife crime in place. Unlike those caught with a firearm. How many of those have been let off lightly for knife crimes have then gone on to re offend and use a knife?",
             "state": "open",
-            "signature_count": 71848,
+            "signature_count": 71864,
             "created_at": "2019-07-31T09:01:55.611Z",
-            "updated_at": "2019-11-04T22:00:52.000Z",
+            "updated_at": "2019-11-04T23:11:22.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-08T09:16:05.754Z",
             "closed_at": null,
@@ -279,7 +279,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 71453
+                    "signature_count": 71469
                 },
                 {
                     "name": "United States",
@@ -1013,7 +1013,7 @@
                     "name": "Brentwood and Ongar",
                     "ons_code": "E14000594",
                     "mp": "Alex Burghart MP",
-                    "signature_count": 185
+                    "signature_count": 186
                 },
                 {
                     "name": "Bridgend",
@@ -1223,7 +1223,7 @@
                     "name": "Carshalton and Wallington",
                     "ons_code": "E14000621",
                     "mp": "Rt Hon Tom Brake MP",
-                    "signature_count": 186
+                    "signature_count": 187
                 },
                 {
                     "name": "Castle Point",
@@ -1451,7 +1451,7 @@
                     "name": "Croydon South",
                     "ons_code": "E14000656",
                     "mp": "Chris Philp MP",
-                    "signature_count": 206
+                    "signature_count": 207
                 },
                 {
                     "name": "Cynon Valley",
@@ -1559,7 +1559,7 @@
                     "name": "Dudley South",
                     "ons_code": "E14000672",
                     "mp": "Mike Wood MP",
-                    "signature_count": 71
+                    "signature_count": 72
                 },
                 {
                     "name": "Dulwich and West Norwood",
@@ -1583,7 +1583,7 @@
                     "name": "Ealing North",
                     "ons_code": "E14000675",
                     "mp": "Stephen Pound MP",
-                    "signature_count": 685
+                    "signature_count": 686
                 },
                 {
                     "name": "Ealing, Southall",
@@ -1727,7 +1727,7 @@
                     "name": "Esher and Walton",
                     "ons_code": "E14000697",
                     "mp": "Rt Hon Dominic Raab MP",
-                    "signature_count": 79
+                    "signature_count": 81
                 },
                 {
                     "name": "Exeter",
@@ -2495,7 +2495,7 @@
                     "name": "Mid Sussex",
                     "ons_code": "E14000817",
                     "mp": "Rt Hon Sir Nicholas Soames MP",
-                    "signature_count": 50
+                    "signature_count": 51
                 },
                 {
                     "name": "Mid Ulster",
@@ -2813,7 +2813,7 @@
                     "name": "Northampton North",
                     "ons_code": "E14000861",
                     "mp": "Rt Hon Michael Ellis MP",
-                    "signature_count": 174
+                    "signature_count": 175
                 },
                 {
                     "name": "Northampton South",
@@ -3101,7 +3101,7 @@
                     "name": "Rugby",
                     "ons_code": "E14000905",
                     "mp": "Mark Pawsey MP",
-                    "signature_count": 155
+                    "signature_count": 156
                 },
                 {
                     "name": "Ruislip, Northwood and Pinner",
@@ -3245,7 +3245,7 @@
                     "name": "Sleaford and North Hykeham",
                     "ons_code": "E14000929",
                     "mp": "Dr Caroline Johnson MP",
-                    "signature_count": 40
+                    "signature_count": 41
                 },
                 {
                     "name": "Slough",
@@ -3461,7 +3461,7 @@
                     "name": "St Helens South and Whiston",
                     "ons_code": "E14000963",
                     "mp": "Ms Marie Rimmer MP",
-                    "signature_count": 1043
+                    "signature_count": 1045
                 },
                 {
                     "name": "St Ives",
@@ -3755,7 +3755,7 @@
                     "name": "Uxbridge and South Ruislip",
                     "ons_code": "E14001007",
                     "mp": "Rt Hon Boris Johnson MP",
-                    "signature_count": 3583
+                    "signature_count": 3584
                 },
                 {
                     "name": "Vale of Clwyd",
@@ -3827,7 +3827,7 @@
                     "name": "Warrington North",
                     "ons_code": "E14001017",
                     "mp": "Helen Jones MP",
-                    "signature_count": 45
+                    "signature_count": 46
                 },
                 {
                     "name": "Warrington South",
@@ -4055,7 +4055,7 @@
                     "name": "Worsley and Eccles South",
                     "ons_code": "E14001054",
                     "mp": "Barbara Keeley MP",
-                    "signature_count": 39
+                    "signature_count": 40
                 },
                 {
                     "name": "Worthing West",

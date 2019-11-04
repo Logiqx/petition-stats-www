@@ -10,9 +10,9 @@
             "background": "Non-stun slaughter is cruel. Many consumers do not want to eat meat killed by non-stun slaughter. On leaving the EU, specific UK legislation must replace the EU slaughter directive, explicitly precluding the religious exemption from pre-stunning requirement. Stun to kill must be mandatory.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 13938,
+            "signature_count": 13943,
             "created_at": "2019-05-25T12:08:53.852Z",
-            "updated_at": "2019-11-04T22:05:02.000Z",
+            "updated_at": "2019-11-04T23:10:32.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-16T11:24:16.242Z",
             "closed_at": null,
@@ -209,7 +209,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 13728
+                    "signature_count": 13733
                 },
                 {
                     "name": "United States",
@@ -1576,7 +1576,7 @@
                     "name": "Eddisbury",
                     "ons_code": "E14000686",
                     "mp": "Antoinette Sandbach MP",
-                    "signature_count": 27
+                    "signature_count": 28
                 },
                 {
                     "name": "Edmonton",
@@ -1642,7 +1642,7 @@
                     "name": "Esher and Walton",
                     "ons_code": "E14000697",
                     "mp": "Rt Hon Dominic Raab MP",
-                    "signature_count": 14
+                    "signature_count": 16
                 },
                 {
                     "name": "Exeter",
@@ -3040,7 +3040,7 @@
                     "name": "Rutland and Melton",
                     "ons_code": "E14000909",
                     "mp": "Rt Hon Sir Alan Duncan MP",
-                    "signature_count": 18
+                    "signature_count": 19
                 },
                 {
                     "name": "Saffron Walden",
@@ -3676,7 +3676,7 @@
                     "name": "Vale of Clwyd",
                     "ons_code": "W07000060",
                     "mp": "Chris Ruane MP",
-                    "signature_count": 21
+                    "signature_count": 22
                 },
                 {
                     "name": "Vale of Glamorgan",

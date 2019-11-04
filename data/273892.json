@@ -10,9 +10,9 @@
             "background": "Tool theft is ruining the livelihoods of UK tradespeople, and the problem\u2019s getting worse.\r\n\r\nTo combat the issue, we are calling for the introduction of tighter regulation when it comes to the selling of secondhand tools, and greater minimum fines for those convicted of tool theft.",
             "additional_details": "For a tradesperson, tool theft removes your ability to earn an income. Latest research suggests that more than 1 in 3 have had their tools stolen and that it costs victims over \u00a33k on average.\r\n\r\nPreventative measures are crucial, but will never be enough. The peel and steal technique and the rise of keyless entry thefts show that thieves are becoming increasingly sophisticated.\r\n\r\nGreater deterrents and taking away the incentive to steal tools in the first place will help to Stamp Out Tool Theft.",
             "state": "open",
-            "signature_count": 31860,
+            "signature_count": 31868,
             "created_at": "2019-09-12T10:03:07.124Z",
-            "updated_at": "2019-11-04T22:10:52.000Z",
+            "updated_at": "2019-11-04T22:54:52.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-18T07:14:56.255Z",
             "closed_at": null,
@@ -194,7 +194,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 31731
+                    "signature_count": 31739
                 },
                 {
                     "name": "United States",
@@ -491,7 +491,7 @@
                     "name": "Aldershot",
                     "ons_code": "E14000530",
                     "mp": "Leo Docherty MP",
-                    "signature_count": 84
+                    "signature_count": 85
                 },
                 {
                     "name": "Aldridge-Brownhills",
@@ -1235,7 +1235,7 @@
                     "name": "Chorley",
                     "ons_code": "E14000637",
                     "mp": "Rt Hon Sir Lindsay Hoyle MP",
-                    "signature_count": 56
+                    "signature_count": 57
                 },
                 {
                     "name": "Christchurch",
@@ -1271,7 +1271,7 @@
                     "name": "Cleethorpes",
                     "ons_code": "E14000643",
                     "mp": "Martin Vickers MP",
-                    "signature_count": 38
+                    "signature_count": 39
                 },
                 {
                     "name": "Clwyd South",
@@ -1325,7 +1325,7 @@
                     "name": "Coventry North West",
                     "ons_code": "E14000650",
                     "mp": "Mr Geoffrey Robinson MP",
-                    "signature_count": 115
+                    "signature_count": 116
                 },
                 {
                     "name": "Coventry South",
@@ -1637,7 +1637,7 @@
                     "name": "Esher and Walton",
                     "ons_code": "E14000697",
                     "mp": "Rt Hon Dominic Raab MP",
-                    "signature_count": 85
+                    "signature_count": 86
                 },
                 {
                     "name": "Exeter",
@@ -1709,7 +1709,7 @@
                     "name": "Gainsborough",
                     "ons_code": "E14000707",
                     "mp": "Rt Hon Sir Edward Leigh MP",
-                    "signature_count": 75
+                    "signature_count": 76
                 },
                 {
                     "name": "Garston and Halewood",
@@ -2309,7 +2309,7 @@
                     "name": "Maidenhead",
                     "ons_code": "E14000803",
                     "mp": "Rt Hon Theresa May MP",
-                    "signature_count": 42
+                    "signature_count": 43
                 },
                 {
                     "name": "Maidstone and The Weald",
@@ -3575,7 +3575,7 @@
                     "name": "Thornbury and Yate",
                     "ons_code": "E14000994",
                     "mp": "Luke Hall MP",
-                    "signature_count": 65
+                    "signature_count": 66
                 },
                 {
                     "name": "Thurrock",

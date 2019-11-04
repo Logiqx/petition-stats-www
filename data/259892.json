@@ -10,9 +10,9 @@
             "background": "The air ambulances that operate around the UK cost around \u00a312,000 per day to run and maintain, and are mainly funded through charity organisations. This petition is to ask the Government to fully fund the air ambulances through the emergency services.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 133899,
+            "signature_count": 133904,
             "created_at": "2019-05-01T10:42:46.604Z",
-            "updated_at": "2019-11-04T22:11:42.000Z",
+            "updated_at": "2019-11-04T22:45:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-06-04T17:46:01.722Z",
             "closed_at": null,
@@ -394,7 +394,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 132533
+                    "signature_count": 132538
                 },
                 {
                     "name": "United States",
@@ -1263,7 +1263,7 @@
                     "name": "Bury St Edmunds",
                     "ons_code": "E14000613",
                     "mp": "Jo Churchill MP",
-                    "signature_count": 239
+                    "signature_count": 240
                 },
                 {
                     "name": "Caerphilly",
@@ -2109,7 +2109,7 @@
                     "name": "Havant",
                     "ons_code": "E14000736",
                     "mp": "Alan Mak MP",
-                    "signature_count": 351
+                    "signature_count": 352
                 },
                 {
                     "name": "Hayes and Harlington",
@@ -3135,7 +3135,7 @@
                     "name": "Reading West",
                     "ons_code": "E14000890",
                     "mp": "Rt Hon Alok Sharma MP",
-                    "signature_count": 149
+                    "signature_count": 150
                 },
                 {
                     "name": "Redcar",
@@ -3591,7 +3591,7 @@
                     "name": "St Helens South and Whiston",
                     "ons_code": "E14000963",
                     "mp": "Ms Marie Rimmer MP",
-                    "signature_count": 175
+                    "signature_count": 176
                 },
                 {
                     "name": "St Ives",
@@ -3801,7 +3801,7 @@
                     "name": "Thurrock",
                     "ons_code": "E14000995",
                     "mp": "Jackie Doyle-Price MP",
-                    "signature_count": 177
+                    "signature_count": 178
                 },
                 {
                     "name": "Tiverton and Honiton",
