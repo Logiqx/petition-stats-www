@@ -10,9 +10,9 @@
             "background": "Non-stun slaughter is cruel. Many consumers do not want to eat meat killed by non-stun slaughter. On leaving the EU, specific UK legislation must replace the EU slaughter directive, explicitly precluding the religious exemption from pre-stunning requirement. Stun to kill must be mandatory.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 13924,
+            "signature_count": 13928,
             "created_at": "2019-05-25T12:08:53.852Z",
-            "updated_at": "2019-11-04T19:03:32.000Z",
+            "updated_at": "2019-11-04T20:07:52.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-16T11:24:16.242Z",
             "closed_at": null,
@@ -209,7 +209,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 13714
+                    "signature_count": 13718
                 },
                 {
                     "name": "United States",
@@ -1858,7 +1858,7 @@
                     "name": "Harrogate and Knaresborough",
                     "ons_code": "E14000730",
                     "mp": "Andrew Jones MP",
-                    "signature_count": 25
+                    "signature_count": 26
                 },
                 {
                     "name": "Harrow East",
@@ -3214,7 +3214,7 @@
                     "name": "South Down",
                     "ons_code": "N06000015",
                     "mp": "Chris Hazzard MP",
-                    "signature_count": 4
+                    "signature_count": 5
                 },
                 {
                     "name": "South East Cambridgeshire",
@@ -3622,7 +3622,7 @@
                     "name": "Torridge and West Devon",
                     "ons_code": "E14001000",
                     "mp": "Rt Hon Geoffrey Cox QC MP",
-                    "signature_count": 49
+                    "signature_count": 50
                 },
                 {
                     "name": "Totnes",
@@ -3646,7 +3646,7 @@
                     "name": "Tunbridge Wells",
                     "ons_code": "E14001004",
                     "mp": "Rt Hon Greg Clark MP",
-                    "signature_count": 24
+                    "signature_count": 25
                 },
                 {
                     "name": "Twickenham",

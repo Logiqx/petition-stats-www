@@ -10,9 +10,9 @@
             "background": "Over 200 polls since July 2017 provide concrete evidence that the public supports remaining in the EU and it was wrong in hindsight to vote to leave.\r\n\r\nSaying the situation is People v Parliament doesn\u2019t stand up when the public are split over Brexit - it is Half the Public v Half of Parliament.",
             "additional_details": "A YouGov analysis has shown that of 226 polls since July 2017 asking if Brexit is right or wrong, or if they would now vote Remain or Leave, 204 put Remain ahead, with just 7 for Leave, and 15 ties. So far this year just 1 poll supports Leave compared to 74 for staying.\r\n\r\nIf our political masters are truly intent on delivering on \u2018the will of the people\u2019, what is stopping them from asking \u2018the people\u2019 to confirm what their will is today?\r\n\r\nAnother vote does not mean less democracy, it means more.",
             "state": "open",
-            "signature_count": 60681,
+            "signature_count": 60688,
             "created_at": "2019-10-11T16:03:09.291Z",
-            "updated_at": "2019-11-04T18:43:12.000Z",
+            "updated_at": "2019-11-04T20:14:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-10-14T14:54:00.368Z",
             "closed_at": null,
@@ -464,7 +464,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 56501
+                    "signature_count": 56508
                 },
                 {
                     "name": "United States",
@@ -510,7 +510,7 @@
                     "name": "Edinburgh South West",
                     "ons_code": "S14000025",
                     "mp": "Joanna Cherry QC MP",
-                    "signature_count": 119
+                    "signature_count": 120
                 },
                 {
                     "name": "Edinburgh West",
@@ -918,7 +918,7 @@
                     "name": "Belfast South",
                     "ons_code": "N06000003",
                     "mp": "Emma Little Pengelly MP",
-                    "signature_count": 80
+                    "signature_count": 81
                 },
                 {
                     "name": "Belfast West",
@@ -1362,7 +1362,7 @@
                     "name": "Cardiff North",
                     "ons_code": "W07000051",
                     "mp": "Anna McMorrin MP",
-                    "signature_count": 127
+                    "signature_count": 128
                 },
                 {
                     "name": "Cardiff South and Penarth",
@@ -1770,7 +1770,7 @@
                     "name": "Easington",
                     "ons_code": "E14000677",
                     "mp": "Grahame Morris MP",
-                    "signature_count": 14
+                    "signature_count": 15
                 },
                 {
                     "name": "East Antrim",
@@ -3012,7 +3012,7 @@
                     "name": "Nottingham East",
                     "ons_code": "E14000865",
                     "mp": "Mr Chris Leslie MP",
-                    "signature_count": 98
+                    "signature_count": 99
                 },
                 {
                     "name": "Nottingham North",
@@ -3054,7 +3054,7 @@
                     "name": "Oldham West and Royton",
                     "ons_code": "E14000871",
                     "mp": "Jim McMahon MP",
-                    "signature_count": 20
+                    "signature_count": 21
                 },
                 {
                     "name": "Orpington",
@@ -3630,7 +3630,7 @@
                     "name": "St Helens North",
                     "ons_code": "E14000962",
                     "mp": "Conor McGinn MP",
-                    "signature_count": 51
+                    "signature_count": 52
                 },
                 {
                     "name": "St Helens South and Whiston",

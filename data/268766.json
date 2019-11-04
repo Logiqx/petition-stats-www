@@ -10,9 +10,9 @@
             "background": "There should be a statutory minimum sentence for those found carrying a knife, the same as if carrying a firearm. With the reported 33% increase in knife crime since 2011 it is clear that there needs to be serious consideration for the punishment for those carrying offensive weapons. ",
             "additional_details": "The cycle needs to stop and the only way positive results will become evident and we will see a reduction in young murders is if we tighten up on sentencing for those carrying a knife. \r\nIf a young person is caught with a knife and it is their first offence they potentially have no further punishment with the current policy\u2019s around knife crime in place. Unlike those caught with a firearm. How many of those have been let off lightly for knife crimes have then gone on to re offend and use a knife?",
             "state": "open",
-            "signature_count": 71806,
+            "signature_count": 71819,
             "created_at": "2019-07-31T09:01:55.611Z",
-            "updated_at": "2019-11-04T19:04:22.000Z",
+            "updated_at": "2019-11-04T20:17:22.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-08T09:16:05.754Z",
             "closed_at": null,
@@ -279,7 +279,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 71411
+                    "signature_count": 71424
                 },
                 {
                     "name": "United States",
@@ -1085,7 +1085,7 @@
                     "name": "Bromsgrove",
                     "ons_code": "E14000605",
                     "mp": "Rt Hon Sajid Javid MP",
-                    "signature_count": 182
+                    "signature_count": 183
                 },
                 {
                     "name": "Broxbourne",
@@ -1577,7 +1577,7 @@
                     "name": "Ealing Central and Acton",
                     "ons_code": "E14000674",
                     "mp": "Dr Rupa Huq MP",
-                    "signature_count": 290
+                    "signature_count": 291
                 },
                 {
                     "name": "Ealing North",
@@ -1805,7 +1805,7 @@
                     "name": "Garston and Halewood",
                     "ons_code": "E14000708",
                     "mp": "Maria Eagle MP",
-                    "signature_count": 148
+                    "signature_count": 149
                 },
                 {
                     "name": "Gateshead",
@@ -1823,7 +1823,7 @@
                     "name": "Gillingham and Rainham",
                     "ons_code": "E14000711",
                     "mp": "Rehman Chishti MP",
-                    "signature_count": 220
+                    "signature_count": 221
                 },
                 {
                     "name": "Gloucester",
@@ -2753,7 +2753,7 @@
                     "name": "North Swindon",
                     "ons_code": "E14000851",
                     "mp": "Justin Tomlinson MP",
-                    "signature_count": 45
+                    "signature_count": 46
                 },
                 {
                     "name": "North Thanet",
@@ -2879,7 +2879,7 @@
                     "name": "Oldham West and Royton",
                     "ons_code": "E14000871",
                     "mp": "Jim McMahon MP",
-                    "signature_count": 27
+                    "signature_count": 28
                 },
                 {
                     "name": "Orpington",
@@ -3221,7 +3221,7 @@
                     "name": "Shipley",
                     "ons_code": "E14000925",
                     "mp": "Philip Davies MP",
-                    "signature_count": 26
+                    "signature_count": 27
                 },
                 {
                     "name": "Shrewsbury and Atcham",
@@ -3353,7 +3353,7 @@
                     "name": "South Staffordshire",
                     "ons_code": "E14000945",
                     "mp": "Rt Hon Gavin Williamson MP",
-                    "signature_count": 55
+                    "signature_count": 56
                 },
                 {
                     "name": "South Suffolk",
@@ -3455,13 +3455,13 @@
                     "name": "St Helens North",
                     "ons_code": "E14000962",
                     "mp": "Conor McGinn MP",
-                    "signature_count": 532
+                    "signature_count": 533
                 },
                 {
                     "name": "St Helens South and Whiston",
                     "ons_code": "E14000963",
                     "mp": "Ms Marie Rimmer MP",
-                    "signature_count": 1042
+                    "signature_count": 1043
                 },
                 {
                     "name": "St Ives",
@@ -3491,7 +3491,7 @@
                     "name": "Stevenage",
                     "ons_code": "E14000968",
                     "mp": "Stephen McPartland MP",
-                    "signature_count": 85
+                    "signature_count": 86
                 },
                 {
                     "name": "Stockport",
@@ -3659,7 +3659,7 @@
                     "name": "Thirsk and Malton",
                     "ons_code": "E14000993",
                     "mp": "Kevin Hollinrake MP",
-                    "signature_count": 22
+                    "signature_count": 23
                 },
                 {
                     "name": "Thornbury and Yate",
@@ -3737,7 +3737,7 @@
                     "name": "Twickenham",
                     "ons_code": "E14001005",
                     "mp": "Rt Hon Sir Vince Cable MP",
-                    "signature_count": 175
+                    "signature_count": 176
                 },
                 {
                     "name": "Tynemouth",

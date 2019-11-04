@@ -10,9 +10,9 @@
             "background": "Black women in the UK are five times more likely to die from complications surrounding pregnancy and childbirth than white women. We need an urgent review of care with recommendations on how to ensure it is no more dangerous for black women to give birth in the UK than white women. ",
             "additional_details": "The Government must commit to funding the changes necessary to ensure it is safe to give birth while black in the UK. The chance of death is 1 in 2,500 for black women according to the UK Confidential Enquiry into Maternal Deaths . But the rate was five times smaller for white women between 2014 and 2016. This requires urgent explanation and action.\r\n\r\nhttps://ichef.bbci.co.uk/news/695/cpsprodpb/DB31/production/_105631165_maternaldeaths-nc.png",
             "state": "open",
-            "signature_count": 29262,
+            "signature_count": 29265,
             "created_at": "2019-04-25T17:58:31.221Z",
-            "updated_at": "2019-11-04T19:14:42.000Z",
+            "updated_at": "2019-11-04T20:13:22.000Z",
             "rejected_at": null,
             "opened_at": "2019-05-30T16:37:08.253Z",
             "closed_at": null,
@@ -259,7 +259,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 28902
+                    "signature_count": 28905
                 },
                 {
                     "name": "United States",
@@ -1601,7 +1601,7 @@
                     "name": "East Surrey",
                     "ons_code": "E14000681",
                     "mp": "Mr Sam Gyimah MP",
-                    "signature_count": 53
+                    "signature_count": 54
                 },
                 {
                     "name": "East Worthing and Shoreham",
@@ -3173,7 +3173,7 @@
                     "name": "Sheffield, Hallam",
                     "ons_code": "E14000922",
                     "mp": "Jared O'Mara MP",
-                    "signature_count": 70
+                    "signature_count": 71
                 },
                 {
                     "name": "Sheffield, Heeley",
@@ -3773,7 +3773,7 @@
                     "name": "Walthamstow",
                     "ons_code": "E14001013",
                     "mp": "Stella Creasy MP",
-                    "signature_count": 235
+                    "signature_count": 236
                 },
                 {
                     "name": "Wansbeck",

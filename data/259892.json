@@ -10,9 +10,9 @@
             "background": "The air ambulances that operate around the UK cost around \u00a312,000 per day to run and maintain, and are mainly funded through charity organisations. This petition is to ask the Government to fully fund the air ambulances through the emergency services.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 133874,
+            "signature_count": 133882,
             "created_at": "2019-05-01T10:42:46.604Z",
-            "updated_at": "2019-11-04T19:15:22.000Z",
+            "updated_at": "2019-11-04T20:17:32.000Z",
             "rejected_at": null,
             "opened_at": "2019-06-04T17:46:01.722Z",
             "closed_at": null,
@@ -394,7 +394,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 132508
+                    "signature_count": 132516
                 },
                 {
                     "name": "United States",
@@ -1071,7 +1071,7 @@
                     "name": "Bosworth",
                     "ons_code": "E14000583",
                     "mp": "David Tredinnick MP",
-                    "signature_count": 297
+                    "signature_count": 298
                 },
                 {
                     "name": "Bournemouth East",
@@ -1725,7 +1725,7 @@
                     "name": "Easington",
                     "ons_code": "E14000677",
                     "mp": "Grahame Morris MP",
-                    "signature_count": 569
+                    "signature_count": 570
                 },
                 {
                     "name": "East Antrim",
@@ -1953,7 +1953,7 @@
                     "name": "Gillingham and Rainham",
                     "ons_code": "E14000711",
                     "mp": "Rehman Chishti MP",
-                    "signature_count": 173
+                    "signature_count": 174
                 },
                 {
                     "name": "Gloucester",
@@ -2133,7 +2133,7 @@
                     "name": "Hemsworth",
                     "ons_code": "E14000740",
                     "mp": "Jon Trickett MP",
-                    "signature_count": 962
+                    "signature_count": 963
                 },
                 {
                     "name": "Hendon",
@@ -2805,7 +2805,7 @@
                     "name": "North Dorset",
                     "ons_code": "E14000839",
                     "mp": "Simon Hoare MP",
-                    "signature_count": 494
+                    "signature_count": 495
                 },
                 {
                     "name": "North Down",
@@ -3165,7 +3165,7 @@
                     "name": "Ribble Valley",
                     "ons_code": "E14000894",
                     "mp": "Mr Nigel Evans MP",
-                    "signature_count": 292
+                    "signature_count": 293
                 },
                 {
                     "name": "Richmond (Yorks)",
@@ -3351,7 +3351,7 @@
                     "name": "Shipley",
                     "ons_code": "E14000925",
                     "mp": "Philip Davies MP",
-                    "signature_count": 500
+                    "signature_count": 501
                 },
                 {
                     "name": "Shrewsbury and Atcham",
@@ -3477,7 +3477,7 @@
                     "name": "South Shields",
                     "ons_code": "E14000944",
                     "mp": "Mrs Emma Lewell-Buck MP",
-                    "signature_count": 319
+                    "signature_count": 320
                 },
                 {
                     "name": "South Staffordshire",

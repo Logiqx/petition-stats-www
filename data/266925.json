@@ -10,9 +10,9 @@
             "background": "Boris Johnson is reported to be \"considering an 'amnesty' for illegal immigrants who have been in Britain for more than 15 years\". It is crucial to make clear the strength of public opinion so as to head off this absurd proposal. Vote now.",
             "additional_details": "- People who wish to come here should use the legal channels.\r\n- Amnesties are manna for traffickers, rewarding illegality.\r\n- The experience of Italy and Spain suggests that they encourage more illegal immigrants.\r\n- The ex-head of immigration enforcement told a Commons committee that there are probably over 1 million illegal migrants in the UK.\r\n- The Home Office estimate for 2001 was 430,000. There could well be half a million who have already been here 15 years.\r\n- The cost could run into billions a year.",
             "state": "open",
-            "signature_count": 35429,
+            "signature_count": 35431,
             "created_at": "2019-07-07T09:28:49.389Z",
-            "updated_at": "2019-11-04T19:03:52.000Z",
+            "updated_at": "2019-11-04T20:07:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-22T14:53:38.217Z",
             "closed_at": null,
@@ -334,7 +334,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 34821
+                    "signature_count": 34823
                 },
                 {
                     "name": "United States",
@@ -2162,7 +2162,7 @@
                     "name": "Ilford North",
                     "ons_code": "E14000759",
                     "mp": "Wes Streeting MP",
-                    "signature_count": 62
+                    "signature_count": 63
                 },
                 {
                     "name": "Ilford South",
@@ -2798,7 +2798,7 @@
                     "name": "North Swindon",
                     "ons_code": "E14000851",
                     "mp": "Justin Tomlinson MP",
-                    "signature_count": 80
+                    "signature_count": 81
                 },
                 {
                     "name": "North Thanet",

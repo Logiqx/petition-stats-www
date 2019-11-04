@@ -10,9 +10,9 @@
             "background": "The country is already in a state of flux due to the uncertainty around the continued membership of the European Union (Brexit). At this time, it would be economically short sighted of the current Conservative government to make such sweeping changes to a tax legislation.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 15388,
+            "signature_count": 15398,
             "created_at": "2019-05-13T09:20:56.221Z",
-            "updated_at": "2019-11-04T18:57:12.000Z",
+            "updated_at": "2019-11-04T20:06:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-05-28T09:35:36.082Z",
             "closed_at": null,
@@ -119,7 +119,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 15360
+                    "signature_count": 15370
                 },
                 {
                     "name": "United States",
@@ -353,7 +353,7 @@
                     "name": "Rutherglen and Hamilton West",
                     "ons_code": "S14000056",
                     "mp": "Ged Killen MP",
-                    "signature_count": 16
+                    "signature_count": 17
                 },
                 {
                     "name": "Stirling",
@@ -401,7 +401,7 @@
                     "name": "Altrincham and Sale West",
                     "ons_code": "E14000532",
                     "mp": "Sir Graham Brady MP",
-                    "signature_count": 58
+                    "signature_count": 59
                 },
                 {
                     "name": "Alyn and Deeside",
@@ -659,7 +659,7 @@
                     "name": "Bishop Auckland",
                     "ons_code": "E14000569",
                     "mp": "Helen Goodman MP",
-                    "signature_count": 3
+                    "signature_count": 4
                 },
                 {
                     "name": "Blackburn",
@@ -671,7 +671,7 @@
                     "name": "Blackley and Broughton",
                     "ons_code": "E14000571",
                     "mp": "Graham Stringer MP",
-                    "signature_count": 38
+                    "signature_count": 39
                 },
                 {
                     "name": "Blackpool North and Cleveleys",
@@ -761,7 +761,7 @@
                     "name": "Bracknell",
                     "ons_code": "E14000586",
                     "mp": "Dr Phillip Lee MP",
-                    "signature_count": 50
+                    "signature_count": 51
                 },
                 {
                     "name": "Bradford East",
@@ -1349,7 +1349,7 @@
                     "name": "Dudley North",
                     "ons_code": "E14000671",
                     "mp": "Ian Austin MP",
-                    "signature_count": 5
+                    "signature_count": 6
                 },
                 {
                     "name": "Dudley South",
@@ -1475,7 +1475,7 @@
                     "name": "Elmet and Rothwell",
                     "ons_code": "E14000689",
                     "mp": "Rt Hon Alec Shelbrooke MP",
-                    "signature_count": 18
+                    "signature_count": 19
                 },
                 {
                     "name": "Eltham",
@@ -2591,7 +2591,7 @@
                     "name": "Northampton South",
                     "ons_code": "E14000862",
                     "mp": "Andrew Lewer MP",
-                    "signature_count": 40
+                    "signature_count": 41
                 },
                 {
                     "name": "Norwich North",
@@ -3155,7 +3155,7 @@
                     "name": "South West Hertfordshire",
                     "ons_code": "E14000951",
                     "mp": "Rt Hon David Gauke MP",
-                    "signature_count": 38
+                    "signature_count": 39
                 },
                 {
                     "name": "South West Norfolk",
@@ -3353,7 +3353,7 @@
                     "name": "Surrey Heath",
                     "ons_code": "E14000983",
                     "mp": "Rt Hon Michael Gove MP",
-                    "signature_count": 43
+                    "signature_count": 44
                 },
                 {
                     "name": "Sutton and Cheam",

@@ -10,9 +10,9 @@
             "background": "Requirements for multiple work visas, driving permits, customs checks on equipment and merch etc. may make touring Europe financially unviable for smaller artists.  It may also affect European artists decision to include the UK on their tours.",
             "additional_details": "This article contains a summary of how the Touring Industry stands to be affected by Brexit.  https://www.theguardian.com/politics/2019/oct/03/no-deal-brexit-may-make-touring-europe-simply-unviable-for-uk-artists\r\n\r\nWe'd like to see any Brexit Deal contain mutual, temporary exceptions on work permits, driving permits and customs allowances, covering the duration of tours in order to guarantee the survival of the touring industry, protecting both jobs and the UK's reputation for exporting talent.",
             "state": "open",
-            "signature_count": 20907,
+            "signature_count": 20908,
             "created_at": "2019-10-16T00:42:35.444Z",
-            "updated_at": "2019-11-04T19:09:12.000Z",
+            "updated_at": "2019-11-04T19:44:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-10-18T11:41:03.746Z",
             "closed_at": null,
@@ -253,7 +253,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 20570
+                    "signature_count": 20571
                 },
                 {
                     "name": "United States",
@@ -1555,7 +1555,7 @@
                     "name": "East Antrim",
                     "ons_code": "N06000005",
                     "mp": "Rt Hon Sammy Wilson MP",
-                    "signature_count": 11
+                    "signature_count": 12
                 },
                 {
                     "name": "East Devon",

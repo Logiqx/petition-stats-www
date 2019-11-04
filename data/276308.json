@@ -10,9 +10,9 @@
             "background": "Margiris, the second largest trawler in the world, was spotted off the coast of the Isle of Wight at the end of September.\r\n \r\nThe UK Government should work internationally to ban these trawlers and remove them from UK waters.",
             "additional_details": "Weighing close to 9,500 tonnes, the mammoth commercial fishing vessel is designed to operate fishing trawls, which involves pulling a fishing net through a large body of water. It is thought to process 250 tonnes of fish a day.\r\n \r\nHeavily regulated in some nations, trawling is widely criticised for its lack of selectivity, and the physical damage the trawl inflicts on the seabed. Australia has banned Margiris from operating in its waters.",
             "state": "open",
-            "signature_count": 25430,
+            "signature_count": 25443,
             "created_at": "2019-10-03T17:30:32.582Z",
-            "updated_at": "2019-11-04T19:16:12.000Z",
+            "updated_at": "2019-11-04T20:14:02.000Z",
             "rejected_at": null,
             "opened_at": "2019-10-11T09:07:29.319Z",
             "closed_at": null,
@@ -279,7 +279,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 25096
+                    "signature_count": 25109
                 },
                 {
                     "name": "United States",
@@ -694,7 +694,7 @@
                     "name": "Bassetlaw",
                     "ons_code": "E14000546",
                     "mp": null,
-                    "signature_count": 22
+                    "signature_count": 23
                 },
                 {
                     "name": "Bath",
@@ -1702,7 +1702,7 @@
                     "name": "Enfield, Southgate",
                     "ons_code": "E14000692",
                     "mp": "Bambos Charalambous MP",
-                    "signature_count": 16
+                    "signature_count": 17
                 },
                 {
                     "name": "Epping Forest",
@@ -1816,7 +1816,7 @@
                     "name": "Gateshead",
                     "ons_code": "E14000709",
                     "mp": "Ian Mearns MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "Gedling",
@@ -2752,7 +2752,7 @@
                     "name": "North Somerset",
                     "ons_code": "E14000850",
                     "mp": "Rt Hon Dr Liam Fox MP",
-                    "signature_count": 74
+                    "signature_count": 75
                 },
                 {
                     "name": "North Swindon",
@@ -2962,7 +2962,7 @@
                     "name": "Portsmouth North",
                     "ons_code": "E14000883",
                     "mp": "Rt Hon Penny Mordaunt MP",
-                    "signature_count": 106
+                    "signature_count": 107
                 },
                 {
                     "name": "Portsmouth South",
@@ -3034,7 +3034,7 @@
                     "name": "Rhondda",
                     "ons_code": "W07000052",
                     "mp": "Chris Bryant MP",
-                    "signature_count": 30
+                    "signature_count": 31
                 },
                 {
                     "name": "Ribble Valley",
@@ -3238,7 +3238,7 @@
                     "name": "Sittingbourne and Sheppey",
                     "ons_code": "E14000927",
                     "mp": "Gordon Henderson MP",
-                    "signature_count": 68
+                    "signature_count": 69
                 },
                 {
                     "name": "Skipton and Ripon",
@@ -3610,7 +3610,7 @@
                     "name": "Swansea East",
                     "ons_code": "W07000048",
                     "mp": "Carolyn Harris MP",
-                    "signature_count": 33
+                    "signature_count": 34
                 },
                 {
                     "name": "Swansea West",
@@ -3730,7 +3730,7 @@
                     "name": "Truro and Falmouth",
                     "ons_code": "E14001003",
                     "mp": "Sarah Newton MP",
-                    "signature_count": 163
+                    "signature_count": 164
                 },
                 {
                     "name": "Tunbridge Wells",
@@ -3820,7 +3820,7 @@
                     "name": "Wantage",
                     "ons_code": "E14001015",
                     "mp": "Rt Hon Edward Vaizey MP",
-                    "signature_count": 43
+                    "signature_count": 44
                 },
                 {
                     "name": "Warley",
@@ -3862,7 +3862,7 @@
                     "name": "Waveney",
                     "ons_code": "E14001022",
                     "mp": "Peter Aldous MP",
-                    "signature_count": 54
+                    "signature_count": 55
                 },
                 {
                     "name": "Wealden",
@@ -3886,7 +3886,7 @@
                     "name": "Wells",
                     "ons_code": "E14001026",
                     "mp": "James Heappey MP",
-                    "signature_count": 72
+                    "signature_count": 73
                 },
                 {
                     "name": "Welwyn Hatfield",
@@ -4036,7 +4036,7 @@
                     "name": "Wolverhampton South East",
                     "ons_code": "E14001050",
                     "mp": "Rt Hon Pat McFadden MP",
-                    "signature_count": 15
+                    "signature_count": 16
                 },
                 {
                     "name": "Wolverhampton South West",

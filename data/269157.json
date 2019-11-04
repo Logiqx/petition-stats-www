@@ -10,9 +10,9 @@
             "background": "Parliament must not be prorogued or dissolved unless and until the Article 50 period has been sufficiently extended or the UK's intention to withdraw from the EU has been cancelled.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 1725479,
+            "signature_count": 1725481,
             "created_at": "2019-08-06T08:21:33.311Z",
-            "updated_at": "2019-11-04T13:19:42.000Z",
+            "updated_at": "2019-11-04T19:48:32.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-15T16:04:23.329Z",
             "closed_at": null,
@@ -1005,7 +1005,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 1657351
+                    "signature_count": 1657353
                 },
                 {
                     "name": "United States",
@@ -1301,7 +1301,7 @@
                     "name": "Rutherglen and Hamilton West",
                     "ons_code": "S14000056",
                     "mp": "Ged Killen MP",
-                    "signature_count": 2458
+                    "signature_count": 2459
                 },
                 {
                     "name": "Stirling",
@@ -3515,7 +3515,7 @@
                     "name": "North Thanet",
                     "ons_code": "E14000852",
                     "mp": "Rt Hon Sir Roger Gale MP",
-                    "signature_count": 1742
+                    "signature_count": 1743
                 },
                 {
                     "name": "North Tyneside",
