@@ -10,9 +10,9 @@
             "background": "12 kids in the UK are diagnosed with cancer daily. 1 in 5 will die within 5 years, often of the deadliest types like DIPG (brainstem cancer) - fatal on diagnosis & other cancers on relapse. Yet there has been little, or no, funding for research into these cancers and little, or no, progress.",
             "additional_details": "The Government must state how much has been given for childhood cancers and DIPG specifically. \r\n \r\nThe Government, through the NIHR, must ringfence funds for childhood cancer research. The figures must be transparent as must the Government's answers about the lack of progress in curing these diseases.\r\n\r\nThe Government should fund awareness campaigns such as Childhood Cancer Awareness Month & Sarcoma Awareness week. Awareness + research = cure Our children keep suffering and dying.",
             "state": "open",
-            "signature_count": 37567,
+            "signature_count": 37570,
             "created_at": "2019-08-12T22:01:23.472Z",
-            "updated_at": "2019-11-05T06:11:12.000Z",
+            "updated_at": "2019-11-05T06:58:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-20T15:40:55.407Z",
             "closed_at": null,
@@ -74,7 +74,7 @@
                 {
                     "name": "Finland",
                     "code": "FI",
-                    "signature_count": 1
+                    "signature_count": 2
                 },
                 {
                     "name": "France",
@@ -259,7 +259,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 37190
+                    "signature_count": 37192
                 },
                 {
                     "name": "United States",
@@ -2189,7 +2189,7 @@
                     "name": "Knowsley",
                     "ons_code": "E14000775",
                     "mp": "Sir George Howarth MP",
-                    "signature_count": 314
+                    "signature_count": 315
                 },
                 {
                     "name": "Lagan Valley",
@@ -2765,7 +2765,7 @@
                     "name": "North West Leicestershire",
                     "ons_code": "E14000858",
                     "mp": "Andrew Bridgen MP",
-                    "signature_count": 72
+                    "signature_count": 73
                 },
                 {
                     "name": "North West Norfolk",

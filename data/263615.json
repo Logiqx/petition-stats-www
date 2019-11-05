@@ -10,9 +10,9 @@
             "background": "Have worked since I was 16 and planned for my retirement at 60. Due to unfair government changes I will not get state pension until I am 66.",
             "additional_details": "Born in England 1955. Have worked hard all my life not knowing another 6 years would be added to pensionable age.",
             "state": "open",
-            "signature_count": 17518,
+            "signature_count": 17525,
             "created_at": "2019-06-05T12:39:24.454Z",
-            "updated_at": "2019-11-05T05:58:42.000Z",
+            "updated_at": "2019-11-05T07:15:32.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-10T09:51:20.946Z",
             "closed_at": null,
@@ -184,7 +184,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 17142
+                    "signature_count": 17149
                 },
                 {
                     "name": "United States",
@@ -625,7 +625,7 @@
                     "name": "Bedford",
                     "ons_code": "E14000552",
                     "mp": "Mohammad Yasin MP",
-                    "signature_count": 12
+                    "signature_count": 13
                 },
                 {
                     "name": "Belfast East",
@@ -925,7 +925,7 @@
                     "name": "Bridgwater and West Somerset",
                     "ons_code": "E14000595",
                     "mp": "Mr Ian Liddell-Grainger MP",
-                    "signature_count": 24
+                    "signature_count": 25
                 },
                 {
                     "name": "Brigg and Goole",
@@ -2773,7 +2773,7 @@
                     "name": "Oldham East and Saddleworth",
                     "ons_code": "E14000870",
                     "mp": "Debbie Abrahams MP",
-                    "signature_count": 42
+                    "signature_count": 43
                 },
                 {
                     "name": "Oldham West and Royton",
@@ -3295,7 +3295,7 @@
                     "name": "South West Norfolk",
                     "ons_code": "E14000952",
                     "mp": "Rt Hon Elizabeth Truss MP",
-                    "signature_count": 47
+                    "signature_count": 48
                 },
                 {
                     "name": "South West Surrey",
@@ -3307,7 +3307,7 @@
                     "name": "South West Wiltshire",
                     "ons_code": "E14000954",
                     "mp": "Rt Hon Dr Andrew Murrison MP",
-                    "signature_count": 21
+                    "signature_count": 22
                 },
                 {
                     "name": "Southampton, Itchen",
@@ -3475,7 +3475,7 @@
                     "name": "Suffolk Coastal",
                     "ons_code": "E14000981",
                     "mp": "Rt Hon Dr Th\u00e9r\u00e8se  Coffey MP",
-                    "signature_count": 26
+                    "signature_count": 27
                 },
                 {
                     "name": "Sunderland Central",
@@ -3679,7 +3679,7 @@
                     "name": "Wakefield",
                     "ons_code": "E14001009",
                     "mp": "Mary Creagh MP",
-                    "signature_count": 19
+                    "signature_count": 20
                 },
                 {
                     "name": "Wallasey",

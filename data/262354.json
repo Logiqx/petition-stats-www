@@ -10,9 +10,9 @@
             "background": "Freelance workers and contractors have been treated unfairly by this ill conceived legislation since it's conception.  It has been incorrectly used to investigate and prosecute many hardworking self employed business owners striving to be successful in today's world.  IR35 is anti-business!",
             "additional_details": "This is legislation that encourages envy because of supposed benefits to being self employed by some who are not self-employed themselves.  Why should a self-employed person working under IR35 be treated the same as an employee regarding taxation?  The self-employed under IR35 are not entitled to paid holiday or sickness and by implication have no job security.  The HMRC make more money from VAT, Corporation Tax, Income Tax and Dividend Tax than from PAYE.  IR35 is about discouraging strivers!",
             "state": "open",
-            "signature_count": 29699,
+            "signature_count": 29728,
             "created_at": "2019-05-23T17:46:39.392Z",
-            "updated_at": "2019-11-05T06:13:52.000Z",
+            "updated_at": "2019-11-05T07:16:22.000Z",
             "rejected_at": null,
             "opened_at": "2019-06-20T15:39:09.579Z",
             "closed_at": null,
@@ -194,7 +194,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 29599
+                    "signature_count": 29628
                 },
                 {
                     "name": "United States",
@@ -320,7 +320,7 @@
                     "name": "Inverness, Nairn, Badenoch and Strathspey",
                     "ons_code": "S14000039",
                     "mp": "Drew Hendry MP",
-                    "signature_count": 20
+                    "signature_count": 22
                 },
                 {
                     "name": "Kilmarnock and Loudoun",
@@ -488,7 +488,7 @@
                     "name": "Altrincham and Sale West",
                     "ons_code": "E14000532",
                     "mp": "Sir Graham Brady MP",
-                    "signature_count": 94
+                    "signature_count": 95
                 },
                 {
                     "name": "Alyn and Deeside",
@@ -680,7 +680,7 @@
                     "name": "Bexleyheath and Crayford",
                     "ons_code": "E14000558",
                     "mp": "Rt Hon Sir David Evennett MP",
-                    "signature_count": 134
+                    "signature_count": 135
                 },
                 {
                     "name": "Birkenhead",
@@ -716,7 +716,7 @@
                     "name": "Birmingham, Ladywood",
                     "ons_code": "E14000564",
                     "mp": "Shabana Mahmood MP",
-                    "signature_count": 59
+                    "signature_count": 60
                 },
                 {
                     "name": "Birmingham, Northfield",
@@ -974,7 +974,7 @@
                     "name": "Bromley and Chislehurst",
                     "ons_code": "E14000604",
                     "mp": "Robert Neill MP",
-                    "signature_count": 139
+                    "signature_count": 140
                 },
                 {
                     "name": "Bromsgrove",
@@ -1358,7 +1358,7 @@
                     "name": "Dagenham and Rainham",
                     "ons_code": "E14000657",
                     "mp": "Jon Cruddas MP",
-                    "signature_count": 95
+                    "signature_count": 96
                 },
                 {
                     "name": "Darlington",
@@ -1604,7 +1604,7 @@
                     "name": "Epsom and Ewell",
                     "ons_code": "E14000694",
                     "mp": "Rt Hon Chris Grayling MP",
-                    "signature_count": 122
+                    "signature_count": 123
                 },
                 {
                     "name": "Erewash",
@@ -1724,7 +1724,7 @@
                     "name": "Gloucester",
                     "ons_code": "E14000712",
                     "mp": "Richard Graham MP",
-                    "signature_count": 32
+                    "signature_count": 34
                 },
                 {
                     "name": "Gosport",
@@ -1928,7 +1928,7 @@
                     "name": "Hertsmere",
                     "ons_code": "E14000745",
                     "mp": "Rt Hon Oliver Dowden MP",
-                    "signature_count": 110
+                    "signature_count": 112
                 },
                 {
                     "name": "Hexham",
@@ -1940,7 +1940,7 @@
                     "name": "Heywood and Middleton",
                     "ons_code": "E14000747",
                     "mp": "Liz McInnes MP",
-                    "signature_count": 32
+                    "signature_count": 33
                 },
                 {
                     "name": "High Peak",
@@ -2000,7 +2000,7 @@
                     "name": "Huntingdon",
                     "ons_code": "E14000757",
                     "mp": "Mr Jonathan Djanogly MP",
-                    "signature_count": 39
+                    "signature_count": 40
                 },
                 {
                     "name": "Hyndburn",
@@ -2498,7 +2498,7 @@
                     "name": "Newcastle upon Tyne Central",
                     "ons_code": "E14000831",
                     "mp": "Chi Onwurah MP",
-                    "signature_count": 16
+                    "signature_count": 17
                 },
                 {
                     "name": "Newcastle upon Tyne East",
@@ -2606,7 +2606,7 @@
                     "name": "North East Hampshire",
                     "ons_code": "E14000844",
                     "mp": "Mr Ranil Jayawardena MP",
-                    "signature_count": 79
+                    "signature_count": 80
                 },
                 {
                     "name": "North East Hertfordshire",
@@ -2672,7 +2672,7 @@
                     "name": "North West Cambridgeshire",
                     "ons_code": "E14000855",
                     "mp": "Mr Shailesh Vara MP",
-                    "signature_count": 51
+                    "signature_count": 52
                 },
                 {
                     "name": "North West Durham",
@@ -2762,13 +2762,13 @@
                     "name": "Old Bexley and Sidcup",
                     "ons_code": "E14000869",
                     "mp": "Rt Hon James Brokenshire MP",
-                    "signature_count": 88
+                    "signature_count": 89
                 },
                 {
                     "name": "Oldham East and Saddleworth",
                     "ons_code": "E14000870",
                     "mp": "Debbie Abrahams MP",
-                    "signature_count": 31
+                    "signature_count": 32
                 },
                 {
                     "name": "Oldham West and Royton",
@@ -2882,7 +2882,7 @@
                     "name": "Putney",
                     "ons_code": "E14000887",
                     "mp": "Rt Hon Justine Greening MP",
-                    "signature_count": 83
+                    "signature_count": 84
                 },
                 {
                     "name": "Rayleigh and Wickford",
@@ -3038,7 +3038,7 @@
                     "name": "Salisbury",
                     "ons_code": "E14000912",
                     "mp": "John Glen MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "Scarborough and Whitby",
@@ -3080,7 +3080,7 @@
                     "name": "Sheffield Central",
                     "ons_code": "E14000919",
                     "mp": "Paul Blomfield MP",
-                    "signature_count": 18
+                    "signature_count": 19
                 },
                 {
                     "name": "Sheffield South East",
@@ -3224,7 +3224,7 @@
                     "name": "South Norfolk",
                     "ons_code": "E14000941",
                     "mp": "Mr Richard Bacon MP",
-                    "signature_count": 25
+                    "signature_count": 26
                 },
                 {
                     "name": "South Northamptonshire",
@@ -3482,7 +3482,7 @@
                     "name": "Surrey Heath",
                     "ons_code": "E14000983",
                     "mp": "Rt Hon Michael Gove MP",
-                    "signature_count": 91
+                    "signature_count": 92
                 },
                 {
                     "name": "Sutton and Cheam",
@@ -3746,7 +3746,7 @@
                     "name": "Watford",
                     "ons_code": "E14001021",
                     "mp": "Richard Harrington MP",
-                    "signature_count": 171
+                    "signature_count": 172
                 },
                 {
                     "name": "Waveney",
@@ -3764,7 +3764,7 @@
                     "name": "Weaver Vale",
                     "ons_code": "E14001024",
                     "mp": "Mike Amesbury MP",
-                    "signature_count": 47
+                    "signature_count": 48
                 },
                 {
                     "name": "Wellingborough",
@@ -3950,13 +3950,13 @@
                     "name": "Worsley and Eccles South",
                     "ons_code": "E14001054",
                     "mp": "Barbara Keeley MP",
-                    "signature_count": 35
+                    "signature_count": 36
                 },
                 {
                     "name": "Worthing West",
                     "ons_code": "E14001055",
                     "mp": "Sir Peter Bottomley MP",
-                    "signature_count": 29
+                    "signature_count": 30
                 },
                 {
                     "name": "Wrexham",
@@ -4022,7 +4022,7 @@
                     "name": "Angus",
                     "ons_code": "S14000004",
                     "mp": "Kirstene Hair MP",
-                    "signature_count": 28
+                    "signature_count": 29
                 },
                 {
                     "name": "Central Ayrshire",

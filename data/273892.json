@@ -10,9 +10,9 @@
             "background": "Tool theft is ruining the livelihoods of UK tradespeople, and the problem\u2019s getting worse.\r\n\r\nTo combat the issue, we are calling for the introduction of tighter regulation when it comes to the selling of secondhand tools, and greater minimum fines for those convicted of tool theft.",
             "additional_details": "For a tradesperson, tool theft removes your ability to earn an income. Latest research suggests that more than 1 in 3 have had their tools stolen and that it costs victims over \u00a33k on average.\r\n\r\nPreventative measures are crucial, but will never be enough. The peel and steal technique and the rise of keyless entry thefts show that thieves are becoming increasingly sophisticated.\r\n\r\nGreater deterrents and taking away the incentive to steal tools in the first place will help to Stamp Out Tool Theft.",
             "state": "open",
-            "signature_count": 31888,
+            "signature_count": 31902,
             "created_at": "2019-09-12T10:03:07.124Z",
-            "updated_at": "2019-11-05T05:58:22.000Z",
+            "updated_at": "2019-11-05T07:09:02.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-18T07:14:56.255Z",
             "closed_at": null,
@@ -194,7 +194,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 31759
+                    "signature_count": 31773
                 },
                 {
                     "name": "United States",
@@ -1535,7 +1535,7 @@
                     "name": "East Londonderry",
                     "ons_code": "N06000006",
                     "mp": "Mr Gregory Campbell MP",
-                    "signature_count": 17
+                    "signature_count": 18
                 },
                 {
                     "name": "East Surrey",
@@ -1787,7 +1787,7 @@
                     "name": "Guildford",
                     "ons_code": "E14000719",
                     "mp": "Rt Hon Anne Milton MP",
-                    "signature_count": 43
+                    "signature_count": 44
                 },
                 {
                     "name": "Hackney North and Stoke Newington",
@@ -2363,7 +2363,7 @@
                     "name": "Meon Valley",
                     "ons_code": "E14000811",
                     "mp": "Sir George Hollingbery MP",
-                    "signature_count": 70
+                    "signature_count": 71
                 },
                 {
                     "name": "Meriden",
@@ -2537,7 +2537,7 @@
                     "name": "Newport East",
                     "ons_code": "W07000055",
                     "mp": "Jessica Morden MP",
-                    "signature_count": 27
+                    "signature_count": 28
                 },
                 {
                     "name": "Newport West",
@@ -2609,7 +2609,7 @@
                     "name": "North East Cambridgeshire",
                     "ons_code": "E14000842",
                     "mp": "Rt Hon Stephen Barclay MP",
-                    "signature_count": 82
+                    "signature_count": 83
                 },
                 {
                     "name": "North East Derbyshire",
@@ -2705,7 +2705,7 @@
                     "name": "North West Leicestershire",
                     "ons_code": "E14000858",
                     "mp": "Andrew Bridgen MP",
-                    "signature_count": 127
+                    "signature_count": 128
                 },
                 {
                     "name": "North West Norfolk",
@@ -2723,7 +2723,7 @@
                     "name": "Northampton North",
                     "ons_code": "E14000861",
                     "mp": "Rt Hon Michael Ellis MP",
-                    "signature_count": 97
+                    "signature_count": 99
                 },
                 {
                     "name": "Northampton South",
@@ -2837,7 +2837,7 @@
                     "name": "Plymouth, Moor View",
                     "ons_code": "E14000879",
                     "mp": "Johnny Mercer MP",
-                    "signature_count": 46
+                    "signature_count": 47
                 },
                 {
                     "name": "Plymouth, Sutton and Devonport",
@@ -3287,7 +3287,7 @@
                     "name": "South West Bedfordshire",
                     "ons_code": "E14000949",
                     "mp": "Andrew Selous MP",
-                    "signature_count": 205
+                    "signature_count": 206
                 },
                 {
                     "name": "South West Devon",
@@ -3317,7 +3317,7 @@
                     "name": "South West Wiltshire",
                     "ons_code": "E14000954",
                     "mp": "Rt Hon Dr Andrew Murrison MP",
-                    "signature_count": 65
+                    "signature_count": 66
                 },
                 {
                     "name": "Southampton, Itchen",
@@ -3575,7 +3575,7 @@
                     "name": "Thornbury and Yate",
                     "ons_code": "E14000994",
                     "mp": "Luke Hall MP",
-                    "signature_count": 66
+                    "signature_count": 67
                 },
                 {
                     "name": "Thurrock",
@@ -3689,7 +3689,7 @@
                     "name": "Wakefield",
                     "ons_code": "E14001009",
                     "mp": "Mary Creagh MP",
-                    "signature_count": 54
+                    "signature_count": 56
                 },
                 {
                     "name": "Wallasey",

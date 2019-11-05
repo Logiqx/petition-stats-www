@@ -10,9 +10,9 @@
             "background": "Non-stun slaughter is cruel. Many consumers do not want to eat meat killed by non-stun slaughter. On leaving the EU, specific UK legislation must replace the EU slaughter directive, explicitly precluding the religious exemption from pre-stunning requirement. Stun to kill must be mandatory.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 13953,
+            "signature_count": 13961,
             "created_at": "2019-05-25T12:08:53.852Z",
-            "updated_at": "2019-11-05T05:47:42.000Z",
+            "updated_at": "2019-11-05T07:15:32.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-16T11:24:16.242Z",
             "closed_at": null,
@@ -209,7 +209,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 13743
+                    "signature_count": 13751
                 },
                 {
                     "name": "United States",
@@ -496,7 +496,7 @@
                     "name": "Aldershot",
                     "ons_code": "E14000530",
                     "mp": "Leo Docherty MP",
-                    "signature_count": 24
+                    "signature_count": 25
                 },
                 {
                     "name": "Aldridge-Brownhills",
@@ -640,7 +640,7 @@
                     "name": "Bedford",
                     "ons_code": "E14000552",
                     "mp": "Mohammad Yasin MP",
-                    "signature_count": 18
+                    "signature_count": 19
                 },
                 {
                     "name": "Belfast East",
@@ -1138,7 +1138,7 @@
                     "name": "Carshalton and Wallington",
                     "ons_code": "E14000621",
                     "mp": "Rt Hon Tom Brake MP",
-                    "signature_count": 20
+                    "signature_count": 21
                 },
                 {
                     "name": "Castle Point",
@@ -2674,7 +2674,7 @@
                     "name": "North Thanet",
                     "ons_code": "E14000852",
                     "mp": "Rt Hon Sir Roger Gale MP",
-                    "signature_count": 38
+                    "signature_count": 39
                 },
                 {
                     "name": "North Tyneside",
@@ -2758,7 +2758,7 @@
                     "name": "Nottingham North",
                     "ons_code": "E14000866",
                     "mp": "Alex Norris MP",
-                    "signature_count": 26
+                    "signature_count": 27
                 },
                 {
                     "name": "Nottingham South",
@@ -2800,7 +2800,7 @@
                     "name": "Orpington",
                     "ons_code": "E14000872",
                     "mp": "Rt Hon Joseph  Johnson MP",
-                    "signature_count": 29
+                    "signature_count": 30
                 },
                 {
                     "name": "Oxford East",
@@ -3406,7 +3406,7 @@
                     "name": "Stevenage",
                     "ons_code": "E14000968",
                     "mp": "Stephen McPartland MP",
-                    "signature_count": 19
+                    "signature_count": 20
                 },
                 {
                     "name": "Stockport",
@@ -4078,7 +4078,7 @@
                     "name": "Dumfriesshire, Clydesdale and Tweeddale",
                     "ons_code": "S14000014",
                     "mp": "Rt Hon David Mundell MP",
-                    "signature_count": 13
+                    "signature_count": 14
                 },
                 {
                     "name": "Dundee East",

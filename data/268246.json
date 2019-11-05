@@ -10,9 +10,9 @@
             "background": "Road tax is due to rise by over 700% with the governments new plans to classify motorhomes differently. The purpose of this petition is to keep it as it is to protect this industry and local tourism",
             "additional_details": "",
             "state": "open",
-            "signature_count": 14682,
+            "signature_count": 14691,
             "created_at": "2019-07-25T06:49:25.513Z",
-            "updated_at": "2019-11-05T05:52:12.000Z",
+            "updated_at": "2019-11-05T07:17:52.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-06T17:04:16.867Z",
             "closed_at": null,
@@ -134,7 +134,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 14604
+                    "signature_count": 14613
                 },
                 {
                     "name": "United States",
@@ -258,7 +258,7 @@
                     "name": "Aberdeen North",
                     "ons_code": "S14000001",
                     "mp": "Kirsty Blackman MP",
-                    "signature_count": 19
+                    "signature_count": 20
                 },
                 {
                     "name": "Inverclyde",
@@ -294,7 +294,7 @@
                     "name": "Linlithgow and East Falkirk",
                     "ons_code": "S14000043",
                     "mp": "Martyn Day MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "Livingston",
@@ -306,7 +306,7 @@
                     "name": "Midlothian",
                     "ons_code": "S14000045",
                     "mp": "Danielle Rowley MP",
-                    "signature_count": 14
+                    "signature_count": 15
                 },
                 {
                     "name": "Aberdeen South",
@@ -348,7 +348,7 @@
                     "name": "Berwickshire, Roxburgh and Selkirk",
                     "ons_code": "S14000008",
                     "mp": "John Lamont MP",
-                    "signature_count": 33
+                    "signature_count": 34
                 },
                 {
                     "name": "Ochil and South Perthshire",
@@ -516,7 +516,7 @@
                     "name": "Barrow and Furness",
                     "ons_code": "E14000543",
                     "mp": "John Woodcock MP",
-                    "signature_count": 40
+                    "signature_count": 41
                 },
                 {
                     "name": "Basildon and Billericay",
@@ -1206,7 +1206,7 @@
                     "name": "Colne Valley",
                     "ons_code": "E14000645",
                     "mp": "Thelma Walker MP",
-                    "signature_count": 36
+                    "signature_count": 37
                 },
                 {
                     "name": "Congleton",
@@ -2130,7 +2130,7 @@
                     "name": "Lincoln",
                     "ons_code": "E14000792",
                     "mp": "Karen Lee MP",
-                    "signature_count": 31
+                    "signature_count": 32
                 },
                 {
                     "name": "Liverpool, Riverside",
@@ -3306,7 +3306,7 @@
                     "name": "Stockton North",
                     "ons_code": "E14000970",
                     "mp": "Alex Cunningham MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "Stockton South",
@@ -3972,7 +3972,7 @@
                     "name": "Dunfermline and West Fife",
                     "ons_code": "S14000017",
                     "mp": "Douglas Chapman MP",
-                    "signature_count": 30
+                    "signature_count": 31
                 },
                 {
                     "name": "East Dunbartonshire",

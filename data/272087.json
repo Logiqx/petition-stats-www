@@ -10,9 +10,9 @@
             "background": "It\u2019s far too easy for online trolls to just create another email address and another social media account if they have their accounts suspended. ",
             "additional_details": "However if their internet service providers were required to block their access to social media, and social media companies blocked their IP addresses, it would be far harder for them to get another account and continue their abuse. \r\n \r\n",
             "state": "open",
-            "signature_count": 133470,
+            "signature_count": 133486,
             "created_at": "2019-09-02T18:22:10.908Z",
-            "updated_at": "2019-11-05T06:16:52.000Z",
+            "updated_at": "2019-11-05T07:14:22.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-10T16:19:49.877Z",
             "closed_at": null,
@@ -384,7 +384,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 132544
+                    "signature_count": 132560
                 },
                 {
                     "name": "United States",
@@ -688,7 +688,7 @@
                     "name": "Altrincham and Sale West",
                     "ons_code": "E14000532",
                     "mp": "Sir Graham Brady MP",
-                    "signature_count": 178
+                    "signature_count": 179
                 },
                 {
                     "name": "Alyn and Deeside",
@@ -724,7 +724,7 @@
                     "name": "Ashford",
                     "ons_code": "E14000536",
                     "mp": "Rt Hon Damian Green MP",
-                    "signature_count": 300
+                    "signature_count": 301
                 },
                 {
                     "name": "Ashton-under-Lyne",
@@ -820,7 +820,7 @@
                     "name": "Bedford",
                     "ons_code": "E14000552",
                     "mp": "Mohammad Yasin MP",
-                    "signature_count": 225
+                    "signature_count": 226
                 },
                 {
                     "name": "Belfast East",
@@ -1180,7 +1180,7 @@
                     "name": "Bromsgrove",
                     "ons_code": "E14000605",
                     "mp": "Rt Hon Sajid Javid MP",
-                    "signature_count": 216
+                    "signature_count": 217
                 },
                 {
                     "name": "Broxbourne",
@@ -1900,7 +1900,7 @@
                     "name": "Garston and Halewood",
                     "ons_code": "E14000708",
                     "mp": "Maria Eagle MP",
-                    "signature_count": 293
+                    "signature_count": 294
                 },
                 {
                     "name": "Gateshead",
@@ -3016,7 +3016,7 @@
                     "name": "Peterborough",
                     "ons_code": "E14000878",
                     "mp": "Ms Lisa Forbes MP",
-                    "signature_count": 191
+                    "signature_count": 192
                 },
                 {
                     "name": "Plymouth, Moor View",
@@ -3208,7 +3208,7 @@
                     "name": "Runnymede and Weybridge",
                     "ons_code": "E14000907",
                     "mp": "Rt Hon Philip Hammond MP",
-                    "signature_count": 222
+                    "signature_count": 224
                 },
                 {
                     "name": "Rushcliffe",
@@ -3400,7 +3400,7 @@
                     "name": "South East Cambridgeshire",
                     "ons_code": "E14000937",
                     "mp": "Lucy Frazer MP",
-                    "signature_count": 206
+                    "signature_count": 207
                 },
                 {
                     "name": "South East Cornwall",
@@ -3442,7 +3442,7 @@
                     "name": "South Shields",
                     "ons_code": "E14000944",
                     "mp": "Mrs Emma Lewell-Buck MP",
-                    "signature_count": 218
+                    "signature_count": 219
                 },
                 {
                     "name": "South Staffordshire",
@@ -3562,7 +3562,7 @@
                     "name": "St Ives",
                     "ons_code": "E14000964",
                     "mp": "Derek Thomas MP",
-                    "signature_count": 99
+                    "signature_count": 100
                 },
                 {
                     "name": "Stafford",
@@ -4024,7 +4024,7 @@
                     "name": "West Suffolk",
                     "ons_code": "E14001034",
                     "mp": "Rt Hon Matt Hancock MP",
-                    "signature_count": 215
+                    "signature_count": 216
                 },
                 {
                     "name": "West Tyrone",
@@ -4234,7 +4234,7 @@
                     "name": "Argyll and Bute",
                     "ons_code": "S14000005",
                     "mp": "Brendan O'Hara MP",
-                    "signature_count": 115
+                    "signature_count": 116
                 },
                 {
                     "name": "Coatbridge, Chryston and Bellshill",
@@ -4300,7 +4300,7 @@
                     "name": "East Lothian",
                     "ons_code": "S14000020",
                     "mp": "Martin Whitfield MP",
-                    "signature_count": 205
+                    "signature_count": 206
                 },
                 {
                     "name": "East Renfrewshire",

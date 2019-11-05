@@ -10,9 +10,9 @@
             "background": "Despite scientific evidence that the badger cull may actually be INCREASING instances of bovine tuberculosis, the government has announced a geographical extension of the cull in autumn 2019. Please listen to the scientists, stop the cull & adopt alternative humane options to culling.",
             "additional_details": "https://networkforanimals.org/observer/",
             "state": "open",
-            "signature_count": 12630,
+            "signature_count": 12632,
             "created_at": "2019-09-13T07:29:52.366Z",
-            "updated_at": "2019-11-05T05:34:02.000Z",
+            "updated_at": "2019-11-05T07:12:22.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-19T16:05:34.296Z",
             "closed_at": null,
@@ -209,7 +209,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 12476
+                    "signature_count": 12478
                 },
                 {
                     "name": "United States",
@@ -1122,7 +1122,7 @@
                     "name": "Carshalton and Wallington",
                     "ons_code": "E14000621",
                     "mp": "Rt Hon Tom Brake MP",
-                    "signature_count": 11
+                    "signature_count": 12
                 },
                 {
                     "name": "Castle Point",
@@ -4062,7 +4062,7 @@
                     "name": "Dumfriesshire, Clydesdale and Tweeddale",
                     "ons_code": "S14000014",
                     "mp": "Rt Hon David Mundell MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "Dundee East",

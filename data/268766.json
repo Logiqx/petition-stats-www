@@ -10,9 +10,9 @@
             "background": "There should be a statutory minimum sentence for those found carrying a knife, the same as if carrying a firearm. With the reported 33% increase in knife crime since 2011 it is clear that there needs to be serious consideration for the punishment for those carrying offensive weapons. ",
             "additional_details": "The cycle needs to stop and the only way positive results will become evident and we will see a reduction in young murders is if we tighten up on sentencing for those carrying a knife. \r\nIf a young person is caught with a knife and it is their first offence they potentially have no further punishment with the current policy\u2019s around knife crime in place. Unlike those caught with a firearm. How many of those have been let off lightly for knife crimes have then gone on to re offend and use a knife?",
             "state": "open",
-            "signature_count": 71897,
+            "signature_count": 71911,
             "created_at": "2019-07-31T09:01:55.611Z",
-            "updated_at": "2019-11-05T06:05:12.000Z",
+            "updated_at": "2019-11-05T07:06:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-08T09:16:05.754Z",
             "closed_at": null,
@@ -279,7 +279,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 71502
+                    "signature_count": 71516
                 },
                 {
                     "name": "United States",
@@ -473,7 +473,7 @@
                     "name": "Moray",
                     "ons_code": "S14000046",
                     "mp": "Douglas Ross MP",
-                    "signature_count": 11
+                    "signature_count": 12
                 },
                 {
                     "name": "Motherwell and Wishaw",
@@ -785,7 +785,7 @@
                     "name": "Bexleyheath and Crayford",
                     "ons_code": "E14000558",
                     "mp": "Rt Hon Sir David Evennett MP",
-                    "signature_count": 590
+                    "signature_count": 592
                 },
                 {
                     "name": "Birkenhead",
@@ -929,7 +929,7 @@
                     "name": "Bootle",
                     "ons_code": "E14000581",
                     "mp": "Peter Dowd MP",
-                    "signature_count": 167
+                    "signature_count": 168
                 },
                 {
                     "name": "Boston and Skegness",
@@ -941,7 +941,7 @@
                     "name": "Bosworth",
                     "ons_code": "E14000583",
                     "mp": "David Tredinnick MP",
-                    "signature_count": 2583
+                    "signature_count": 2584
                 },
                 {
                     "name": "Bournemouth East",
@@ -1313,7 +1313,7 @@
                     "name": "Chippenham",
                     "ons_code": "E14000635",
                     "mp": "Michelle Donelan MP",
-                    "signature_count": 65
+                    "signature_count": 66
                 },
                 {
                     "name": "Chipping Barnet",
@@ -2339,7 +2339,7 @@
                     "name": "Liverpool, Walton",
                     "ons_code": "E14000794",
                     "mp": "Dan Carden MP",
-                    "signature_count": 157
+                    "signature_count": 158
                 },
                 {
                     "name": "Liverpool, Wavertree",
@@ -2387,7 +2387,7 @@
                     "name": "Luton South",
                     "ons_code": "E14000801",
                     "mp": "Mr Gavin Shuker MP",
-                    "signature_count": 105
+                    "signature_count": 106
                 },
                 {
                     "name": "Macclesfield",
@@ -2489,7 +2489,7 @@
                     "name": "Mid Norfolk",
                     "ons_code": "E14000816",
                     "mp": "George Freeman MP",
-                    "signature_count": 50
+                    "signature_count": 51
                 },
                 {
                     "name": "Mid Sussex",
@@ -3101,19 +3101,19 @@
                     "name": "Rugby",
                     "ons_code": "E14000905",
                     "mp": "Mark Pawsey MP",
-                    "signature_count": 164
+                    "signature_count": 165
                 },
                 {
                     "name": "Ruislip, Northwood and Pinner",
                     "ons_code": "E14000906",
                     "mp": "Rt Hon Nick Hurd MP",
-                    "signature_count": 1969
+                    "signature_count": 1970
                 },
                 {
                     "name": "Runnymede and Weybridge",
                     "ons_code": "E14000907",
                     "mp": "Rt Hon Philip Hammond MP",
-                    "signature_count": 147
+                    "signature_count": 148
                 },
                 {
                     "name": "Rushcliffe",
@@ -3305,7 +3305,7 @@
                     "name": "South East Cambridgeshire",
                     "ons_code": "E14000937",
                     "mp": "Lucy Frazer MP",
-                    "signature_count": 31
+                    "signature_count": 32
                 },
                 {
                     "name": "South East Cornwall",
@@ -4163,7 +4163,7 @@
                     "name": "Dumfriesshire, Clydesdale and Tweeddale",
                     "ons_code": "S14000014",
                     "mp": "Rt Hon David Mundell MP",
-                    "signature_count": 25
+                    "signature_count": 26
                 },
                 {
                     "name": "Dundee East",

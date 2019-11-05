@@ -10,9 +10,9 @@
             "background": "In view of the recent changes that will affect the future of Scotland and its ability to make decisions on what direction that future should take, the people of Scotland ask that Westminster grants an order under section 30 of the Scotland Act to hold a second referendum for Scottish Independence.",
             "additional_details": "Since the 2014 referendum there have been many significant changes that have affected Scotland including the will of the Scottish people to remain in the EU & the proposals to allow part of the UK to trade differently, which is in direct contravention of Union with England Act 1707, Section VI which states \"Regulations of Trade and the Customs and Duties on Import and Export settled in England when the Union commences shall from and after the Union take place throughout the whole United Kingdom\"",
             "state": "open",
-            "signature_count": 13307,
+            "signature_count": 13309,
             "created_at": "2019-04-26T11:53:10.108Z",
-            "updated_at": "2019-11-05T05:04:52.000Z",
+            "updated_at": "2019-11-05T06:53:32.000Z",
             "rejected_at": null,
             "opened_at": "2019-05-16T14:58:11.421Z",
             "closed_at": null,
@@ -269,7 +269,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 13039
+                    "signature_count": 13041
                 },
                 {
                     "name": "United States",
@@ -413,7 +413,7 @@
                     "name": "Lanark and Hamilton East",
                     "ons_code": "S14000042",
                     "mp": "Angela Crawley MP",
-                    "signature_count": 172
+                    "signature_count": 173
                 },
                 {
                     "name": "Linlithgow and East Falkirk",
@@ -455,7 +455,7 @@
                     "name": "Na h-Eileanan an Iar",
                     "ons_code": "S14000027",
                     "mp": "Angus Brendan MacNeil MP",
-                    "signature_count": 58
+                    "signature_count": 59
                 },
                 {
                     "name": "North Ayrshire and Arran",
