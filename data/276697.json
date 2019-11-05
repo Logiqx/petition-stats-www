@@ -10,9 +10,9 @@
             "background": "People with \u201csettled status\u201d in the UK have all the rights of a British Citizen in terms of work and benefits but cannot vote in General Elections.  Before they can vote they must pay \u00a31330 per person to apply for Citizenship even though it only costs The Home Office \u00a3372 to process the application.",
             "additional_details": "To gain settled status people need to live in the UK for at least 5 years and demonstrate sufficient knowledge of the English language and British culture. After a year of settlement, they can then apply for Citizenship. These requirements are perfectly reasonable but the cost is not. \r\nThis fee does not reduce the number of immigrants or reduce the impact on social services. It simply suppresses millions of voters who pay tax. Why are we supporting a system of taxation without representation?",
             "state": "open",
-            "signature_count": 20893,
+            "signature_count": 20914,
             "created_at": "2019-10-08T16:17:37.287Z",
-            "updated_at": "2019-11-04T23:15:42.000Z",
+            "updated_at": "2019-11-05T00:16:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-10-10T10:33:49.309Z",
             "closed_at": null,
@@ -239,7 +239,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 20716
+                    "signature_count": 20737
                 },
                 {
                     "name": "United States",
@@ -312,7 +312,7 @@
                     "name": "Glasgow North East",
                     "ons_code": "S14000032",
                     "mp": "Mr Paul Sweeney MP",
-                    "signature_count": 35
+                    "signature_count": 36
                 },
                 {
                     "name": "Glasgow North West",
@@ -588,7 +588,7 @@
                     "name": "Barking",
                     "ons_code": "E14000540",
                     "mp": "Rt Hon Dame Margaret Hodge MP",
-                    "signature_count": 147
+                    "signature_count": 148
                 },
                 {
                     "name": "Barnsley Central",
@@ -888,7 +888,7 @@
                     "name": "Bournemouth West",
                     "ons_code": "E14000585",
                     "mp": "Rt Hon Conor Burns MP",
-                    "signature_count": 69
+                    "signature_count": 70
                 },
                 {
                     "name": "Bracknell",
@@ -1002,7 +1002,7 @@
                     "name": "Bristol West",
                     "ons_code": "E14000602",
                     "mp": "Thangam Debbonaire MP",
-                    "signature_count": 66
+                    "signature_count": 68
                 },
                 {
                     "name": "Broadland",
@@ -1284,7 +1284,7 @@
                     "name": "City of Durham",
                     "ons_code": "E14000641",
                     "mp": "Dr Roberta Blackman-Woods MP",
-                    "signature_count": 13
+                    "signature_count": 14
                 },
                 {
                     "name": "Clacton",
@@ -1494,7 +1494,7 @@
                     "name": "Dudley South",
                     "ons_code": "E14000672",
                     "mp": "Mike Wood MP",
-                    "signature_count": 17
+                    "signature_count": 18
                 },
                 {
                     "name": "Dulwich and West Norwood",
@@ -1560,7 +1560,7 @@
                     "name": "East Londonderry",
                     "ons_code": "N06000006",
                     "mp": "Mr Gregory Campbell MP",
-                    "signature_count": 7
+                    "signature_count": 8
                 },
                 {
                     "name": "East Surrey",
@@ -1668,7 +1668,7 @@
                     "name": "Exeter",
                     "ons_code": "E14000698",
                     "mp": "Rt Hon Ben Bradshaw MP",
-                    "signature_count": 54
+                    "signature_count": 55
                 },
                 {
                     "name": "Fareham",
@@ -1746,7 +1746,7 @@
                     "name": "Gateshead",
                     "ons_code": "E14000709",
                     "mp": "Ian Mearns MP",
-                    "signature_count": 30
+                    "signature_count": 31
                 },
                 {
                     "name": "Gedling",
@@ -1812,7 +1812,7 @@
                     "name": "Guildford",
                     "ons_code": "E14000719",
                     "mp": "Rt Hon Anne Milton MP",
-                    "signature_count": 80
+                    "signature_count": 82
                 },
                 {
                     "name": "Hackney North and Stoke Newington",
@@ -2028,7 +2028,7 @@
                     "name": "Hove",
                     "ons_code": "E14000755",
                     "mp": "Peter Kyle MP",
-                    "signature_count": 80
+                    "signature_count": 81
                 },
                 {
                     "name": "Huddersfield",
@@ -2178,7 +2178,7 @@
                     "name": "Leeds East",
                     "ons_code": "E14000778",
                     "mp": "Richard Burgon MP",
-                    "signature_count": 43
+                    "signature_count": 44
                 },
                 {
                     "name": "Leeds North East",
@@ -2250,7 +2250,7 @@
                     "name": "Leyton and Wanstead",
                     "ons_code": "E14000790",
                     "mp": "John Cryer MP",
-                    "signature_count": 126
+                    "signature_count": 128
                 },
                 {
                     "name": "Lichfield",
@@ -3006,7 +3006,7 @@
                     "name": "Romford",
                     "ons_code": "E14000900",
                     "mp": "Andrew Rosindell MP",
-                    "signature_count": 66
+                    "signature_count": 67
                 },
                 {
                     "name": "Romsey and Southampton North",
@@ -3720,7 +3720,7 @@
                     "name": "Wallasey",
                     "ons_code": "E14001010",
                     "mp": "Ms Angela Eagle MP",
-                    "signature_count": 8
+                    "signature_count": 9
                 },
                 {
                     "name": "Walsall North",
@@ -3858,7 +3858,7 @@
                     "name": "West Lancashire",
                     "ons_code": "E14001033",
                     "mp": "Rosie Cooper MP",
-                    "signature_count": 8
+                    "signature_count": 9
                 },
                 {
                     "name": "West Suffolk",
@@ -4044,7 +4044,7 @@
                     "name": "York Central",
                     "ons_code": "E14001061",
                     "mp": "Rachael Maskell MP",
-                    "signature_count": 40
+                    "signature_count": 41
                 },
                 {
                     "name": "York Outer",
@@ -4104,7 +4104,7 @@
                     "name": "Dundee East",
                     "ons_code": "S14000015",
                     "mp": "Stewart Hosie MP",
-                    "signature_count": 22
+                    "signature_count": 23
                 },
                 {
                     "name": "Dundee West",

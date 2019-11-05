@@ -10,9 +10,9 @@
             "background": "It\u2019s far too easy for online trolls to just create another email address and another social media account if they have their accounts suspended. ",
             "additional_details": "However if their internet service providers were required to block their access to social media, and social media companies blocked their IP addresses, it would be far harder for them to get another account and continue their abuse. \r\n \r\n",
             "state": "open",
-            "signature_count": 133439,
+            "signature_count": 133452,
             "created_at": "2019-09-02T18:22:10.908Z",
-            "updated_at": "2019-11-04T23:11:42.000Z",
+            "updated_at": "2019-11-05T00:17:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-10T16:19:49.877Z",
             "closed_at": null,
@@ -384,7 +384,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 132513
+                    "signature_count": 132526
                 },
                 {
                     "name": "United States",
@@ -778,7 +778,7 @@
                     "name": "Basingstoke",
                     "ons_code": "E14000545",
                     "mp": "Rt Hon Maria Miller MP",
-                    "signature_count": 334
+                    "signature_count": 335
                 },
                 {
                     "name": "Bassetlaw",
@@ -1372,7 +1372,7 @@
                     "name": "Chelsea and Fulham",
                     "ons_code": "E14000629",
                     "mp": "Rt Hon Greg Hands MP",
-                    "signature_count": 141
+                    "signature_count": 142
                 },
                 {
                     "name": "Cheltenham",
@@ -2116,7 +2116,7 @@
                     "name": "Hereford and South Herefordshire",
                     "ons_code": "E14000743",
                     "mp": "Jesse Norman MP",
-                    "signature_count": 173
+                    "signature_count": 174
                 },
                 {
                     "name": "Hertford and Stortford",
@@ -2230,7 +2230,7 @@
                     "name": "Isle of Wight",
                     "ons_code": "E14000762",
                     "mp": "Mr Bob Seely MP",
-                    "signature_count": 191
+                    "signature_count": 192
                 },
                 {
                     "name": "Islington North",
@@ -2290,7 +2290,7 @@
                     "name": "Kingston upon Hull East",
                     "ons_code": "E14000771",
                     "mp": "Karl Turner MP",
-                    "signature_count": 234
+                    "signature_count": 235
                 },
                 {
                     "name": "Kingston upon Hull North",
@@ -2506,7 +2506,7 @@
                     "name": "Makerfield",
                     "ons_code": "E14000805",
                     "mp": "Yvonne Fovargue MP",
-                    "signature_count": 245
+                    "signature_count": 246
                 },
                 {
                     "name": "Maldon",
@@ -2770,7 +2770,7 @@
                     "name": "North Dorset",
                     "ons_code": "E14000839",
                     "mp": "Simon Hoare MP",
-                    "signature_count": 173
+                    "signature_count": 174
                 },
                 {
                     "name": "North Down",
@@ -2914,7 +2914,7 @@
                     "name": "Northampton South",
                     "ons_code": "E14000862",
                     "mp": "Andrew Lewer MP",
-                    "signature_count": 183
+                    "signature_count": 184
                 },
                 {
                     "name": "Norwich North",
@@ -3184,7 +3184,7 @@
                     "name": "Rother Valley",
                     "ons_code": "E14000903",
                     "mp": "Rt Hon Sir Kevin Barron MP",
-                    "signature_count": 226
+                    "signature_count": 227
                 },
                 {
                     "name": "Rotherham",
@@ -3514,7 +3514,7 @@
                     "name": "Southampton, Test",
                     "ons_code": "E14000956",
                     "mp": "Dr Alan Whitehead MP",
-                    "signature_count": 187
+                    "signature_count": 188
                 },
                 {
                     "name": "Southend West",
@@ -3676,7 +3676,7 @@
                     "name": "Sunderland Central",
                     "ons_code": "E14000982",
                     "mp": "Julie Elliott MP",
-                    "signature_count": 229
+                    "signature_count": 230
                 },
                 {
                     "name": "Surrey Heath",
@@ -3946,7 +3946,7 @@
                     "name": "Watford",
                     "ons_code": "E14001021",
                     "mp": "Richard Harrington MP",
-                    "signature_count": 280
+                    "signature_count": 281
                 },
                 {
                     "name": "Waveney",
@@ -4138,7 +4138,7 @@
                     "name": "Worcester",
                     "ons_code": "E14001052",
                     "mp": "Mr Robin Walker MP",
-                    "signature_count": 213
+                    "signature_count": 214
                 },
                 {
                     "name": "Workington",

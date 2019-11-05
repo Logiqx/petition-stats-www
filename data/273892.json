@@ -10,9 +10,9 @@
             "background": "Tool theft is ruining the livelihoods of UK tradespeople, and the problem\u2019s getting worse.\r\n\r\nTo combat the issue, we are calling for the introduction of tighter regulation when it comes to the selling of secondhand tools, and greater minimum fines for those convicted of tool theft.",
             "additional_details": "For a tradesperson, tool theft removes your ability to earn an income. Latest research suggests that more than 1 in 3 have had their tools stolen and that it costs victims over \u00a33k on average.\r\n\r\nPreventative measures are crucial, but will never be enough. The peel and steal technique and the rise of keyless entry thefts show that thieves are becoming increasingly sophisticated.\r\n\r\nGreater deterrents and taking away the incentive to steal tools in the first place will help to Stamp Out Tool Theft.",
             "state": "open",
-            "signature_count": 31868,
+            "signature_count": 31874,
             "created_at": "2019-09-12T10:03:07.124Z",
-            "updated_at": "2019-11-04T22:54:52.000Z",
+            "updated_at": "2019-11-05T00:02:22.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-18T07:14:56.255Z",
             "closed_at": null,
@@ -194,7 +194,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 31739
+                    "signature_count": 31745
                 },
                 {
                     "name": "United States",
@@ -821,7 +821,7 @@
                     "name": "Bolton North East",
                     "ons_code": "E14000578",
                     "mp": "Sir David Crausby MP",
-                    "signature_count": 52
+                    "signature_count": 53
                 },
                 {
                     "name": "Bolton South East",
@@ -947,7 +947,7 @@
                     "name": "Brighton, Kemptown",
                     "ons_code": "E14000597",
                     "mp": "Lloyd Russell-Moyle MP",
-                    "signature_count": 61
+                    "signature_count": 62
                 },
                 {
                     "name": "Brighton, Pavilion",
@@ -1211,7 +1211,7 @@
                     "name": "Chichester",
                     "ons_code": "E14000633",
                     "mp": "Gillian Keegan MP",
-                    "signature_count": 54
+                    "signature_count": 55
                 },
                 {
                     "name": "Chingford and Woodford Green",
@@ -1493,7 +1493,7 @@
                     "name": "Ealing North",
                     "ons_code": "E14000675",
                     "mp": "Stephen Pound MP",
-                    "signature_count": 41
+                    "signature_count": 42
                 },
                 {
                     "name": "Ealing, Southall",
@@ -1763,7 +1763,7 @@
                     "name": "Gravesham",
                     "ons_code": "E14000715",
                     "mp": "Adam Holloway MP",
-                    "signature_count": 94
+                    "signature_count": 95
                 },
                 {
                     "name": "Great Grimsby",
@@ -3263,7 +3263,7 @@
                     "name": "South Staffordshire",
                     "ons_code": "E14000945",
                     "mp": "Rt Hon Gavin Williamson MP",
-                    "signature_count": 75
+                    "signature_count": 76
                 },
                 {
                     "name": "South Suffolk",

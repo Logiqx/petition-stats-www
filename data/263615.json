@@ -10,9 +10,9 @@
             "background": "Have worked since I was 16 and planned for my retirement at 60. Due to unfair government changes I will not get state pension until I am 66.",
             "additional_details": "Born in England 1955. Have worked hard all my life not knowing another 6 years would be added to pensionable age.",
             "state": "open",
-            "signature_count": 17514,
+            "signature_count": 17515,
             "created_at": "2019-06-05T12:39:24.454Z",
-            "updated_at": "2019-11-04T22:16:22.000Z",
+            "updated_at": "2019-11-04T23:24:52.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-10T09:51:20.946Z",
             "closed_at": null,
@@ -184,7 +184,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 17138
+                    "signature_count": 17139
                 },
                 {
                     "name": "United States",
@@ -1459,7 +1459,7 @@
                     "name": "Dudley South",
                     "ons_code": "E14000672",
                     "mp": "Mike Wood MP",
-                    "signature_count": 20
+                    "signature_count": 21
                 },
                 {
                     "name": "Dulwich and West Norwood",

@@ -10,9 +10,9 @@
             "background": "Brexit is an absolute disaster, possible Medication shortages, a hard border in Ireland which puts peace at risk, job losses. This is 100% not worth it so stop it now!",
             "additional_details": "",
             "state": "open",
-            "signature_count": 39306,
+            "signature_count": 39307,
             "created_at": "2019-08-22T14:45:41.214Z",
-            "updated_at": "2019-11-04T20:09:12.000Z",
+            "updated_at": "2019-11-05T00:10:22.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-03T10:11:09.533Z",
             "closed_at": null,
@@ -384,7 +384,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 36472
+                    "signature_count": 36473
                 },
                 {
                     "name": "United States",
@@ -2534,7 +2534,7 @@
                     "name": "Manchester, Gorton",
                     "ons_code": "E14000808",
                     "mp": "Afzal Khan MP",
-                    "signature_count": 64
+                    "signature_count": 65
                 },
                 {
                     "name": "Manchester, Withington",
