@@ -10,9 +10,9 @@
             "background": "To protect the reputations of all innocent suspects, whether well-known or not, from the lasting stigma of a false sexual allegation.",
             "additional_details": "To provide balance in the criminal justice system since complainants have anonymity for life.\r\nTo prevent the suspects becoming targets of opportunist and deluded claimants.\r\nTo prevent police searches of the homes of suspects who have not been charged being publicised.",
             "state": "open",
-            "signature_count": 28427,
+            "signature_count": 28428,
             "created_at": "2019-03-22T10:05:54.899Z",
-            "updated_at": "2019-11-05T04:15:52.000Z",
+            "updated_at": "2019-11-05T05:32:22.000Z",
             "rejected_at": null,
             "opened_at": "2019-05-30T14:47:48.340Z",
             "closed_at": null,
@@ -329,7 +329,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 27665
+                    "signature_count": 27666
                 },
                 {
                     "name": "United States",
@@ -3194,7 +3194,7 @@
                     "name": "Scarborough and Whitby",
                     "ons_code": "E14000913",
                     "mp": "Rt Hon Robert Goodwill MP",
-                    "signature_count": 56
+                    "signature_count": 57
                 },
                 {
                     "name": "Scunthorpe",

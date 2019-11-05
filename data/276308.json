@@ -10,9 +10,9 @@
             "background": "Margiris, the second largest trawler in the world, was spotted off the coast of the Isle of Wight at the end of September.\r\n \r\nThe UK Government should work internationally to ban these trawlers and remove them from UK waters.",
             "additional_details": "Weighing close to 9,500 tonnes, the mammoth commercial fishing vessel is designed to operate fishing trawls, which involves pulling a fishing net through a large body of water. It is thought to process 250 tonnes of fish a day.\r\n \r\nHeavily regulated in some nations, trawling is widely criticised for its lack of selectivity, and the physical damage the trawl inflicts on the seabed. Australia has banned Margiris from operating in its waters.",
             "state": "open",
-            "signature_count": 25479,
+            "signature_count": 25483,
             "created_at": "2019-10-03T17:30:32.582Z",
-            "updated_at": "2019-11-05T04:43:12.000Z",
+            "updated_at": "2019-11-05T06:06:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-10-11T09:07:29.319Z",
             "closed_at": null,
@@ -279,7 +279,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 25145
+                    "signature_count": 25149
                 },
                 {
                     "name": "United States",
@@ -2038,7 +2038,7 @@
                     "name": "Hertsmere",
                     "ons_code": "E14000745",
                     "mp": "Rt Hon Oliver Dowden MP",
-                    "signature_count": 22
+                    "signature_count": 23
                 },
                 {
                     "name": "Hexham",
@@ -2344,7 +2344,7 @@
                     "name": "Liverpool, Walton",
                     "ons_code": "E14000794",
                     "mp": "Dan Carden MP",
-                    "signature_count": 6
+                    "signature_count": 7
                 },
                 {
                     "name": "Liverpool, Wavertree",
@@ -2476,7 +2476,7 @@
                     "name": "Mid Bedfordshire",
                     "ons_code": "E14000813",
                     "mp": "Ms Nadine Dorries MP",
-                    "signature_count": 24
+                    "signature_count": 25
                 },
                 {
                     "name": "Mid Derbyshire",
@@ -2680,7 +2680,7 @@
                     "name": "North Dorset",
                     "ons_code": "E14000839",
                     "mp": "Simon Hoare MP",
-                    "signature_count": 109
+                    "signature_count": 110
                 },
                 {
                     "name": "North Down",

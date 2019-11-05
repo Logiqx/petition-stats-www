@@ -10,9 +10,9 @@
             "background": "I think that changes as per the above should be dealt with by the Government",
             "additional_details": "",
             "state": "open",
-            "signature_count": 35937,
+            "signature_count": 35942,
             "created_at": "2019-08-16T12:22:28.588Z",
-            "updated_at": "2019-11-05T05:10:42.000Z",
+            "updated_at": "2019-11-05T06:04:22.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-23T16:44:54.803Z",
             "closed_at": null,
@@ -304,7 +304,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 35470
+                    "signature_count": 35475
                 },
                 {
                     "name": "United States",
@@ -452,7 +452,7 @@
                     "name": "Kirkcaldy and Cowdenbeath",
                     "ons_code": "S14000041",
                     "mp": "Lesley Laird MP",
-                    "signature_count": 33
+                    "signature_count": 34
                 },
                 {
                     "name": "Lanark and Hamilton East",
@@ -1664,7 +1664,7 @@
                     "name": "Eastbourne",
                     "ons_code": "E14000684",
                     "mp": "Stephen Lloyd MP",
-                    "signature_count": 96
+                    "signature_count": 97
                 },
                 {
                     "name": "Eastleigh",
@@ -2012,7 +2012,7 @@
                     "name": "Hemel Hempstead",
                     "ons_code": "E14000739",
                     "mp": "Rt Hon Sir Mike Penning MP",
-                    "signature_count": 39
+                    "signature_count": 40
                 },
                 {
                     "name": "Hemsworth",
@@ -2120,7 +2120,7 @@
                     "name": "Huntingdon",
                     "ons_code": "E14000757",
                     "mp": "Mr Jonathan Djanogly MP",
-                    "signature_count": 94
+                    "signature_count": 95
                 },
                 {
                     "name": "Hyndburn",
@@ -2936,7 +2936,7 @@
                     "name": "Peterborough",
                     "ons_code": "E14000878",
                     "mp": "Ms Lisa Forbes MP",
-                    "signature_count": 79
+                    "signature_count": 80
                 },
                 {
                     "name": "Plymouth, Moor View",

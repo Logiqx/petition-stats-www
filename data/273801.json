@@ -10,9 +10,9 @@
             "background": "I would like to request the government to bring the date for the 2-year post-study work visa closer to help current international students (i.e. students graduating before 2021) benefit from this too. It would be unfair to current international students otherwise.",
             "additional_details": "It is a big achievement to be reintroducing the 2-year post-study work visa after it was removed by Theresa May in 2012 \u2014 I am so glad to see such a progressive step towards building a stronger global community here in the UK. \r\n\r\nStories of a few current international students that could benefit from this are available here: https://bbc.in/2Q4WXKi\r\n\r\nFurther details on the new visa can be found here: http://bit.ly/2PZFCSL",
             "state": "open",
-            "signature_count": 30073,
+            "signature_count": 30079,
             "created_at": "2019-09-11T16:43:44.043Z",
-            "updated_at": "2019-11-05T05:11:02.000Z",
+            "updated_at": "2019-11-05T06:10:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-17T13:02:12.984Z",
             "closed_at": null,
@@ -324,7 +324,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 29617
+                    "signature_count": 29623
                 },
                 {
                     "name": "United States",
@@ -1077,7 +1077,7 @@
                     "name": "Bristol West",
                     "ons_code": "E14000602",
                     "mp": "Thangam Debbonaire MP",
-                    "signature_count": 349
+                    "signature_count": 350
                 },
                 {
                     "name": "Broadland",
@@ -1773,7 +1773,7 @@
                     "name": "Gedling",
                     "ons_code": "E14000710",
                     "mp": "Vernon Coaker MP",
-                    "signature_count": 12
+                    "signature_count": 13
                 },
                 {
                     "name": "Gillingham and Rainham",
@@ -2553,7 +2553,7 @@
                     "name": "Newcastle upon Tyne North",
                     "ons_code": "E14000833",
                     "mp": "Catherine McKinnell MP",
-                    "signature_count": 17
+                    "signature_count": 18
                 },
                 {
                     "name": "Newcastle-under-Lyme",
@@ -2805,7 +2805,7 @@
                     "name": "Orpington",
                     "ons_code": "E14000872",
                     "mp": "Rt Hon Joseph  Johnson MP",
-                    "signature_count": 14
+                    "signature_count": 15
                 },
                 {
                     "name": "Oxford East",
@@ -3093,7 +3093,7 @@
                     "name": "Sheffield Central",
                     "ons_code": "E14000919",
                     "mp": "Paul Blomfield MP",
-                    "signature_count": 551
+                    "signature_count": 552
                 },
                 {
                     "name": "Sheffield South East",
@@ -3627,7 +3627,7 @@
                     "name": "Uxbridge and South Ruislip",
                     "ons_code": "E14001007",
                     "mp": "Rt Hon Boris Johnson MP",
-                    "signature_count": 113
+                    "signature_count": 114
                 },
                 {
                     "name": "Vale of Clwyd",

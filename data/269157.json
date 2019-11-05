@@ -10,9 +10,9 @@
             "background": "Parliament must not be prorogued or dissolved unless and until the Article 50 period has been sufficiently extended or the UK's intention to withdraw from the EU has been cancelled.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 1725484,
+            "signature_count": 1725493,
             "created_at": "2019-08-06T08:21:33.311Z",
-            "updated_at": "2019-11-05T01:44:32.000Z",
+            "updated_at": "2019-11-05T06:13:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-15T16:04:23.329Z",
             "closed_at": null,
@@ -850,7 +850,7 @@
                 {
                     "name": "Spain",
                     "code": "ES",
-                    "signature_count": 7354
+                    "signature_count": 7355
                 },
                 {
                     "name": "Sri Lanka",
@@ -1005,7 +1005,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 1657356
+                    "signature_count": 1657364
                 },
                 {
                     "name": "United States",
@@ -1325,7 +1325,7 @@
                     "name": "Aberavon",
                     "ons_code": "W07000049",
                     "mp": "Stephen Kinnock MP",
-                    "signature_count": 795
+                    "signature_count": 796
                 },
                 {
                     "name": "Aberconwy",
@@ -2741,7 +2741,7 @@
                     "name": "Hayes and Harlington",
                     "ons_code": "E14000737",
                     "mp": "Rt Hon John McDonnell MP",
-                    "signature_count": 840
+                    "signature_count": 841
                 },
                 {
                     "name": "Hazel Grove",
@@ -3059,7 +3059,7 @@
                     "name": "Lewisham West and Penge",
                     "ons_code": "E14000788",
                     "mp": "Ellie Reeves MP",
-                    "signature_count": 6649
+                    "signature_count": 6650
                 },
                 {
                     "name": "Lewisham, Deptford",
@@ -3623,7 +3623,7 @@
                     "name": "Old Bexley and Sidcup",
                     "ons_code": "E14000869",
                     "mp": "Rt Hon James Brokenshire MP",
-                    "signature_count": 1534
+                    "signature_count": 1535
                 },
                 {
                     "name": "Oldham East and Saddleworth",
@@ -3743,7 +3743,7 @@
                     "name": "Putney",
                     "ons_code": "E14000887",
                     "mp": "Rt Hon Justine Greening MP",
-                    "signature_count": 5343
+                    "signature_count": 5344
                 },
                 {
                     "name": "Rayleigh and Wickford",
@@ -4217,7 +4217,7 @@
                     "name": "St Helens South and Whiston",
                     "ons_code": "E14000963",
                     "mp": "Ms Marie Rimmer MP",
-                    "signature_count": 1572
+                    "signature_count": 1573
                 },
                 {
                     "name": "St Ives",
@@ -4349,7 +4349,7 @@
                     "name": "Sutton and Cheam",
                     "ons_code": "E14000984",
                     "mp": "Paul Scully MP",
-                    "signature_count": 2670
+                    "signature_count": 2671
                 },
                 {
                     "name": "Sutton Coldfield",
@@ -4511,7 +4511,7 @@
                     "name": "Uxbridge and South Ruislip",
                     "ons_code": "E14001007",
                     "mp": "Rt Hon Boris Johnson MP",
-                    "signature_count": 1822
+                    "signature_count": 1823
                 },
                 {
                     "name": "Vale of Clwyd",

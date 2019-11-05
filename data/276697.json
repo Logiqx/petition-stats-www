@@ -10,9 +10,9 @@
             "background": "People with \u201csettled status\u201d in the UK have all the rights of a British Citizen in terms of work and benefits but cannot vote in General Elections.  Before they can vote they must pay \u00a31330 per person to apply for Citizenship even though it only costs The Home Office \u00a3372 to process the application.",
             "additional_details": "To gain settled status people need to live in the UK for at least 5 years and demonstrate sufficient knowledge of the English language and British culture. After a year of settlement, they can then apply for Citizenship. These requirements are perfectly reasonable but the cost is not. \r\nThis fee does not reduce the number of immigrants or reduce the impact on social services. It simply suppresses millions of voters who pay tax. Why are we supporting a system of taxation without representation?",
             "state": "open",
-            "signature_count": 20947,
+            "signature_count": 20956,
             "created_at": "2019-10-08T16:17:37.287Z",
-            "updated_at": "2019-11-05T05:03:42.000Z",
+            "updated_at": "2019-11-05T06:11:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-10-10T10:33:49.309Z",
             "closed_at": null,
@@ -239,7 +239,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 20770
+                    "signature_count": 20779
                 },
                 {
                     "name": "United States",
@@ -888,7 +888,7 @@
                     "name": "Bournemouth West",
                     "ons_code": "E14000585",
                     "mp": "Rt Hon Conor Burns MP",
-                    "signature_count": 71
+                    "signature_count": 72
                 },
                 {
                     "name": "Bracknell",
@@ -942,7 +942,7 @@
                     "name": "Brentford and Isleworth",
                     "ons_code": "E14000593",
                     "mp": "Ruth Cadbury MP",
-                    "signature_count": 125
+                    "signature_count": 126
                 },
                 {
                     "name": "Brentwood and Ongar",
@@ -1026,7 +1026,7 @@
                     "name": "Broxbourne",
                     "ons_code": "E14000606",
                     "mp": "Sir Charles Walker MP",
-                    "signature_count": 32
+                    "signature_count": 33
                 },
                 {
                     "name": "Broxtowe",
@@ -1314,7 +1314,7 @@
                     "name": "Colchester",
                     "ons_code": "E14000644",
                     "mp": "Will Quince MP",
-                    "signature_count": 85
+                    "signature_count": 86
                 },
                 {
                     "name": "Colne Valley",
@@ -1908,7 +1908,7 @@
                     "name": "Hastings and Rye",
                     "ons_code": "E14000735",
                     "mp": "Rt Hon Amber Rudd MP",
-                    "signature_count": 26
+                    "signature_count": 27
                 },
                 {
                     "name": "Havant",
@@ -2052,7 +2052,7 @@
                     "name": "Ilford North",
                     "ons_code": "E14000759",
                     "mp": "Wes Streeting MP",
-                    "signature_count": 104
+                    "signature_count": 105
                 },
                 {
                     "name": "Ilford South",
@@ -2472,7 +2472,7 @@
                     "name": "Mitcham and Morden",
                     "ons_code": "E14000823",
                     "mp": "Siobhain McDonagh MP",
-                    "signature_count": 70
+                    "signature_count": 71
                 },
                 {
                     "name": "Mole Valley",
@@ -3852,7 +3852,7 @@
                     "name": "West Ham",
                     "ons_code": "E14001032",
                     "mp": "Lyn Brown MP",
-                    "signature_count": 195
+                    "signature_count": 196
                 },
                 {
                     "name": "West Lancashire",

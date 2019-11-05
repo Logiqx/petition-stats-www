@@ -10,9 +10,9 @@
             "background": "It\u2019s far too easy for online trolls to just create another email address and another social media account if they have their accounts suspended. ",
             "additional_details": "However if their internet service providers were required to block their access to social media, and social media companies blocked their IP addresses, it would be far harder for them to get another account and continue their abuse. \r\n \r\n",
             "state": "open",
-            "signature_count": 133464,
+            "signature_count": 133470,
             "created_at": "2019-09-02T18:22:10.908Z",
-            "updated_at": "2019-11-05T05:00:32.000Z",
+            "updated_at": "2019-11-05T06:16:52.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-10T16:19:49.877Z",
             "closed_at": null,
@@ -384,7 +384,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 132538
+                    "signature_count": 132544
                 },
                 {
                     "name": "United States",
@@ -1180,7 +1180,7 @@
                     "name": "Bromsgrove",
                     "ons_code": "E14000605",
                     "mp": "Rt Hon Sajid Javid MP",
-                    "signature_count": 215
+                    "signature_count": 216
                 },
                 {
                     "name": "Broxbourne",
@@ -1264,7 +1264,7 @@
                     "name": "Cannock Chase",
                     "ons_code": "E14000618",
                     "mp": "Amanda Milling MP",
-                    "signature_count": 231
+                    "signature_count": 232
                 },
                 {
                     "name": "Canterbury",
@@ -1546,7 +1546,7 @@
                     "name": "Croydon South",
                     "ons_code": "E14000656",
                     "mp": "Chris Philp MP",
-                    "signature_count": 230
+                    "signature_count": 231
                 },
                 {
                     "name": "Cynon Valley",
@@ -2170,7 +2170,7 @@
                     "name": "Hornsey and Wood Green",
                     "ons_code": "E14000752",
                     "mp": "Catherine West MP",
-                    "signature_count": 123
+                    "signature_count": 124
                 },
                 {
                     "name": "Horsham",
@@ -2188,7 +2188,7 @@
                     "name": "Hove",
                     "ons_code": "E14000755",
                     "mp": "Peter Kyle MP",
-                    "signature_count": 195
+                    "signature_count": 196
                 },
                 {
                     "name": "Huddersfield",
@@ -3790,7 +3790,7 @@
                     "name": "Torbay",
                     "ons_code": "E14000999",
                     "mp": "Kevin Foster MP",
-                    "signature_count": 230
+                    "signature_count": 231
                 },
                 {
                     "name": "Torfaen",

@@ -10,9 +10,9 @@
             "background": "Recent changes in pension taxation have reduced the annual allowance which can be put into a pension to \u00a340,000 a year. In 2016 \u201ctapering\u201d was introduced which can further reduce the annual allowance to \u00a310,000",
             "additional_details": "The combined effect of the tapered annual allowance and inflexible public sector pension schemes is having a catastrophic effect on retention and productivity in the public sector. In particular in the NHS, where consultants are not able to afford to do extra work for fear of a punitive tax bill well in excess of any income earned.",
             "state": "open",
-            "signature_count": 19917,
+            "signature_count": 19920,
             "created_at": "2019-07-24T12:45:15.915Z",
-            "updated_at": "2019-11-04T23:51:02.000Z",
+            "updated_at": "2019-11-05T06:07:32.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-31T13:17:58.822Z",
             "closed_at": null,
@@ -144,7 +144,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 19863
+                    "signature_count": 19866
                 },
                 {
                     "name": "United States",
@@ -240,7 +240,7 @@
                     "name": "Glasgow South West",
                     "ons_code": "S14000035",
                     "mp": "Chris Stephens MP",
-                    "signature_count": 27
+                    "signature_count": 28
                 },
                 {
                     "name": "Glenrothes",
@@ -1086,7 +1086,7 @@
                     "name": "Central Suffolk and North Ipswich",
                     "ons_code": "E14000624",
                     "mp": "Dr Dan Poulter MP",
-                    "signature_count": 25
+                    "signature_count": 26
                 },
                 {
                     "name": "Ceredigion",
@@ -2652,7 +2652,7 @@
                     "name": "Northampton North",
                     "ons_code": "E14000861",
                     "mp": "Rt Hon Michael Ellis MP",
-                    "signature_count": 10
+                    "signature_count": 11
                 },
                 {
                     "name": "Northampton South",
