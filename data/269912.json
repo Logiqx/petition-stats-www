@@ -10,9 +10,9 @@
             "background": "I think that changes as per the above should be dealt with by the Government",
             "additional_details": "",
             "state": "open",
-            "signature_count": 35935,
+            "signature_count": 35937,
             "created_at": "2019-08-16T12:22:28.588Z",
-            "updated_at": "2019-11-05T04:15:22.000Z",
+            "updated_at": "2019-11-05T05:10:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-23T16:44:54.803Z",
             "closed_at": null,
@@ -304,7 +304,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 35468
+                    "signature_count": 35470
                 },
                 {
                     "name": "United States",
@@ -2696,7 +2696,7 @@
                     "name": "North Down",
                     "ons_code": "N06000013",
                     "mp": "Lady Hermon MP",
-                    "signature_count": 33
+                    "signature_count": 34
                 },
                 {
                     "name": "North Durham",
@@ -3644,7 +3644,7 @@
                     "name": "Taunton Deane",
                     "ons_code": "E14000988",
                     "mp": "Rebecca Pow MP",
-                    "signature_count": 88
+                    "signature_count": 89
                 },
                 {
                     "name": "Telford",

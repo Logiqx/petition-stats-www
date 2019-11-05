@@ -10,9 +10,9 @@
             "background": "A form of voter id needs to be introduced for all elections.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 20646,
+            "signature_count": 20647,
             "created_at": "2019-06-07T15:17:54.805Z",
-            "updated_at": "2019-11-05T03:13:32.000Z",
+            "updated_at": "2019-11-05T05:11:02.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-09T10:33:24.127Z",
             "closed_at": null,
@@ -239,7 +239,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 20378
+                    "signature_count": 20379
                 },
                 {
                     "name": "United States",
@@ -3589,7 +3589,7 @@
                     "name": "Taunton Deane",
                     "ons_code": "E14000988",
                     "mp": "Rebecca Pow MP",
-                    "signature_count": 42
+                    "signature_count": 43
                 },
                 {
                     "name": "Telford",

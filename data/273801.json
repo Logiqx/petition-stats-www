@@ -10,9 +10,9 @@
             "background": "I would like to request the government to bring the date for the 2-year post-study work visa closer to help current international students (i.e. students graduating before 2021) benefit from this too. It would be unfair to current international students otherwise.",
             "additional_details": "It is a big achievement to be reintroducing the 2-year post-study work visa after it was removed by Theresa May in 2012 \u2014 I am so glad to see such a progressive step towards building a stronger global community here in the UK. \r\n\r\nStories of a few current international students that could benefit from this are available here: https://bbc.in/2Q4WXKi\r\n\r\nFurther details on the new visa can be found here: http://bit.ly/2PZFCSL",
             "state": "open",
-            "signature_count": 30062,
+            "signature_count": 30073,
             "created_at": "2019-09-11T16:43:44.043Z",
-            "updated_at": "2019-11-05T04:13:12.000Z",
+            "updated_at": "2019-11-05T05:11:02.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-17T13:02:12.984Z",
             "closed_at": null,
@@ -64,7 +64,7 @@
                 {
                     "name": "China",
                     "code": "CN",
-                    "signature_count": 97
+                    "signature_count": 98
                 },
                 {
                     "name": "Colombia",
@@ -324,7 +324,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 29607
+                    "signature_count": 29617
                 },
                 {
                     "name": "United States",
@@ -399,7 +399,7 @@
                     "name": "Glasgow Central",
                     "ons_code": "S14000029",
                     "mp": "Alison Thewliss MP",
-                    "signature_count": 626
+                    "signature_count": 627
                 },
                 {
                     "name": "Glasgow East",
@@ -417,7 +417,7 @@
                     "name": "Glasgow North East",
                     "ons_code": "S14000032",
                     "mp": "Mr Paul Sweeney MP",
-                    "signature_count": 97
+                    "signature_count": 99
                 },
                 {
                     "name": "Glasgow North West",
@@ -939,7 +939,7 @@
                     "name": "Bolton West",
                     "ons_code": "E14000580",
                     "mp": "Chris Green MP",
-                    "signature_count": 11
+                    "signature_count": 12
                 },
                 {
                     "name": "Bootle",
@@ -1161,7 +1161,7 @@
                     "name": "Cambridge",
                     "ons_code": "E14000617",
                     "mp": "Daniel Zeichner MP",
-                    "signature_count": 411
+                    "signature_count": 412
                 },
                 {
                     "name": "Cannock Chase",
@@ -1905,7 +1905,7 @@
                     "name": "Harrow West",
                     "ons_code": "E14000732",
                     "mp": "Gareth Thomas MP",
-                    "signature_count": 96
+                    "signature_count": 97
                 },
                 {
                     "name": "Hartlepool",
@@ -1959,7 +1959,7 @@
                     "name": "Hendon",
                     "ons_code": "E14000741",
                     "mp": "Dr Matthew Offord MP",
-                    "signature_count": 128
+                    "signature_count": 129
                 },
                 {
                     "name": "Henley",
@@ -2181,7 +2181,7 @@
                     "name": "Leeds Central",
                     "ons_code": "E14000777",
                     "mp": "Rt Hon Hilary Benn MP",
-                    "signature_count": 550
+                    "signature_count": 551
                 },
                 {
                     "name": "Leeds East",
@@ -3309,7 +3309,7 @@
                     "name": "Southampton, Test",
                     "ons_code": "E14000956",
                     "mp": "Dr Alan Whitehead MP",
-                    "signature_count": 234
+                    "signature_count": 235
                 },
                 {
                     "name": "Southend West",
@@ -3399,7 +3399,7 @@
                     "name": "Stoke-on-Trent Central",
                     "ons_code": "E14000972",
                     "mp": "Gareth Snell MP",
-                    "signature_count": 32
+                    "signature_count": 33
                 },
                 {
                     "name": "Stoke-on-Trent North",

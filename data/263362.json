@@ -10,9 +10,9 @@
             "background": "Peat is vital in the fight against climate breakdown as it stores vast amounts of carbon. It also provides habitat for a diverse range of wildlife. Therefore we should not be using peat compost to improve the soil in our gardens. Other organic matter is available and is effective for growers.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 12826,
+            "signature_count": 12827,
             "created_at": "2019-06-03T08:44:15.768Z",
-            "updated_at": "2019-11-05T03:25:42.000Z",
+            "updated_at": "2019-11-05T04:59:32.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-01T14:40:15.315Z",
             "closed_at": null,
@@ -194,7 +194,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 12659
+                    "signature_count": 12660
                 },
                 {
                     "name": "United States",
@@ -2186,7 +2186,7 @@
                     "name": "Lewes",
                     "ons_code": "E14000786",
                     "mp": "Maria Caulfield MP",
-                    "signature_count": 44
+                    "signature_count": 45
                 },
                 {
                     "name": "Lewisham East",

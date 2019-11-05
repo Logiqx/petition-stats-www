@@ -10,9 +10,9 @@
             "background": "It\u2019s far too easy for online trolls to just create another email address and another social media account if they have their accounts suspended. ",
             "additional_details": "However if their internet service providers were required to block their access to social media, and social media companies blocked their IP addresses, it would be far harder for them to get another account and continue their abuse. \r\n \r\n",
             "state": "open",
-            "signature_count": 133459,
+            "signature_count": 133464,
             "created_at": "2019-09-02T18:22:10.908Z",
-            "updated_at": "2019-11-05T03:28:02.000Z",
+            "updated_at": "2019-11-05T05:00:32.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-10T16:19:49.877Z",
             "closed_at": null,
@@ -384,7 +384,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 132533
+                    "signature_count": 132538
                 },
                 {
                     "name": "United States",
@@ -1924,7 +1924,7 @@
                     "name": "Gloucester",
                     "ons_code": "E14000712",
                     "mp": "Richard Graham MP",
-                    "signature_count": 245
+                    "signature_count": 246
                 },
                 {
                     "name": "Gosport",
@@ -1972,7 +1972,7 @@
                     "name": "Guildford",
                     "ons_code": "E14000719",
                     "mp": "Rt Hon Anne Milton MP",
-                    "signature_count": 170
+                    "signature_count": 171
                 },
                 {
                     "name": "Hackney North and Stoke Newington",
@@ -2920,7 +2920,7 @@
                     "name": "Norwich North",
                     "ons_code": "E14000863",
                     "mp": "Chloe Smith MP",
-                    "signature_count": 177
+                    "signature_count": 178
                 },
                 {
                     "name": "Norwich South",
@@ -3652,7 +3652,7 @@
                     "name": "Streatham",
                     "ons_code": "E14000978",
                     "mp": "Chuka Umunna MP",
-                    "signature_count": 144
+                    "signature_count": 145
                 },
                 {
                     "name": "Stretford and Urmston",
@@ -3880,7 +3880,7 @@
                     "name": "Wallasey",
                     "ons_code": "E14001010",
                     "mp": "Ms Angela Eagle MP",
-                    "signature_count": 242
+                    "signature_count": 243
                 },
                 {
                     "name": "Walsall North",

@@ -10,9 +10,9 @@
             "background": "The government of Brazil led by Bolsonaro favour the development of the Amazon rainforest over conservation, escalating deforestation.  Deforestation threatens indigenous populations who live in the forest, loss of a precious and complex ecosystem and a vital carbon store that slows global warming.",
             "additional_details": "Indigenous people have called for the EU to impose trade sanctions on Brazil to halt the deforestation because they fear genocide. Also, the UK parliament has recognised a climate emergency. Since the Amazon rainforest is an important carbon store, absorbing huge volumes of CO2 each year, it's deforestation is of global significance. The intrinsic value of the rainforest should also be recognised.\r\nTrade sanctions are used elsewhere for important issues as an effective means to force action.",
             "state": "open",
-            "signature_count": 123191,
+            "signature_count": 123195,
             "created_at": "2019-07-03T07:11:16.257Z",
-            "updated_at": "2019-11-05T03:46:12.000Z",
+            "updated_at": "2019-11-05T05:05:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-24T11:55:58.628Z",
             "closed_at": null,
@@ -55,7 +55,7 @@
                 {
                     "name": "Australia",
                     "code": "AU",
-                    "signature_count": 217
+                    "signature_count": 218
                 },
                 {
                     "name": "Austria",
@@ -555,7 +555,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 120130
+                    "signature_count": 120133
                 },
                 {
                     "name": "United States",
@@ -603,7 +603,7 @@
                     "name": "Edinburgh East",
                     "ons_code": "S14000022",
                     "mp": "Tommy Sheppard MP",
-                    "signature_count": 344
+                    "signature_count": 345
                 },
                 {
                     "name": "Edinburgh North and Leith",
@@ -1563,7 +1563,7 @@
                     "name": "Chelsea and Fulham",
                     "ons_code": "E14000629",
                     "mp": "Rt Hon Greg Hands MP",
-                    "signature_count": 449
+                    "signature_count": 450
                 },
                 {
                     "name": "Cheltenham",
@@ -2805,7 +2805,7 @@
                     "name": "Middlesbrough South and East Cleveland",
                     "ons_code": "E14000820",
                     "mp": "Mr Simon Clarke MP",
-                    "signature_count": 121
+                    "signature_count": 122
                 },
                 {
                     "name": "Milton Keynes North",

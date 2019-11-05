@@ -10,9 +10,9 @@
             "background": "Brexit is an absolute disaster, possible Medication shortages, a hard border in Ireland which puts peace at risk, job losses. This is 100% not worth it so stop it now!",
             "additional_details": "",
             "state": "open",
-            "signature_count": 39308,
+            "signature_count": 39312,
             "created_at": "2019-08-22T14:45:41.214Z",
-            "updated_at": "2019-11-05T00:38:02.000Z",
+            "updated_at": "2019-11-05T05:01:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-03T10:11:09.533Z",
             "closed_at": null,
@@ -384,7 +384,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 36474
+                    "signature_count": 36478
                 },
                 {
                     "name": "United States",
@@ -872,7 +872,7 @@
                     "name": "Bethnal Green and Bow",
                     "ons_code": "E14000555",
                     "mp": "Rushanara Ali MP",
-                    "signature_count": 105
+                    "signature_count": 106
                 },
                 {
                     "name": "Beverley and Holderness",
@@ -1082,7 +1082,7 @@
                     "name": "Bradford West",
                     "ons_code": "E14000589",
                     "mp": "Naz Shah MP",
-                    "signature_count": 32
+                    "signature_count": 33
                 },
                 {
                     "name": "Braintree",
@@ -2630,7 +2630,7 @@
                     "name": "Milton Keynes North",
                     "ons_code": "E14000821",
                     "mp": "Rt Hon Mark Lancaster MP",
-                    "signature_count": 80
+                    "signature_count": 81
                 },
                 {
                     "name": "Milton Keynes South",
@@ -2678,7 +2678,7 @@
                     "name": "Neath",
                     "ons_code": "W07000069",
                     "mp": "Christina Rees MP",
-                    "signature_count": 30
+                    "signature_count": 31
                 },
                 {
                     "name": "New Forest East",

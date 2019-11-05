@@ -10,9 +10,9 @@
             "background": "Parliament is not due to convene again until early September. With the momentum behind HM Government's unscrutinised objective of leaving the EU on 31st October 2019 will make it effectively impossible for MPs to moderate this course of action.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 53741,
+            "signature_count": 53743,
             "created_at": "2019-08-05T21:26:55.387Z",
-            "updated_at": "2019-11-04T12:05:42.000Z",
+            "updated_at": "2019-11-05T04:46:22.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-13T10:30:31.495Z",
             "closed_at": null,
@@ -414,7 +414,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 51170
+                    "signature_count": 51172
                 },
                 {
                     "name": "United States",
@@ -2006,7 +2006,7 @@
                     "name": "Greenwich and Woolwich",
                     "ons_code": "E14000718",
                     "mp": "Matthew Pennycook MP",
-                    "signature_count": 160
+                    "signature_count": 161
                 },
                 {
                     "name": "Guildford",
@@ -2216,7 +2216,7 @@
                     "name": "Horsham",
                     "ons_code": "E14000753",
                     "mp": "Jeremy Quin MP",
-                    "signature_count": 163
+                    "signature_count": 164
                 },
                 {
                     "name": "Houghton and Sunderland South",

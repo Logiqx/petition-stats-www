@@ -10,9 +10,9 @@
             "background": "The air ambulances that operate around the UK cost around \u00a312,000 per day to run and maintain, and are mainly funded through charity organisations. This petition is to ask the Government to fully fund the air ambulances through the emergency services.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 133917,
+            "signature_count": 133920,
             "created_at": "2019-05-01T10:42:46.604Z",
-            "updated_at": "2019-11-05T02:00:52.000Z",
+            "updated_at": "2019-11-05T05:12:52.000Z",
             "rejected_at": null,
             "opened_at": "2019-06-04T17:46:01.722Z",
             "closed_at": null,
@@ -394,7 +394,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 132551
+                    "signature_count": 132554
                 },
                 {
                     "name": "United States",
@@ -2121,7 +2121,7 @@
                     "name": "Hazel Grove",
                     "ons_code": "E14000738",
                     "mp": "Mr William Wragg MP",
-                    "signature_count": 166
+                    "signature_count": 167
                 },
                 {
                     "name": "Hemel Hempstead",
@@ -2625,7 +2625,7 @@
                     "name": "Mid Sussex",
                     "ons_code": "E14000817",
                     "mp": "Rt Hon Sir Nicholas Soames MP",
-                    "signature_count": 211
+                    "signature_count": 212
                 },
                 {
                     "name": "Mid Ulster",
@@ -4179,7 +4179,7 @@
                     "name": "Workington",
                     "ons_code": "E14001053",
                     "mp": "Sue Hayman MP",
-                    "signature_count": 341
+                    "signature_count": 342
                 },
                 {
                     "name": "Worsley and Eccles South",
