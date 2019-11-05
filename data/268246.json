@@ -10,9 +10,9 @@
             "background": "Road tax is due to rise by over 700% with the governments new plans to classify motorhomes differently. The purpose of this petition is to keep it as it is to protect this industry and local tourism",
             "additional_details": "",
             "state": "open",
-            "signature_count": 14704,
+            "signature_count": 14725,
             "created_at": "2019-07-25T06:49:25.513Z",
-            "updated_at": "2019-11-05T08:13:12.000Z",
+            "updated_at": "2019-11-05T09:17:22.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-06T17:04:16.867Z",
             "closed_at": null,
@@ -134,7 +134,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 14626
+                    "signature_count": 14647
                 },
                 {
                     "name": "United States",
@@ -288,7 +288,7 @@
                     "name": "Lanark and Hamilton East",
                     "ons_code": "S14000042",
                     "mp": "Angela Crawley MP",
-                    "signature_count": 37
+                    "signature_count": 38
                 },
                 {
                     "name": "Linlithgow and East Falkirk",
@@ -378,13 +378,13 @@
                     "name": "Perth and North Perthshire",
                     "ons_code": "S14000054",
                     "mp": "Pete Wishart MP",
-                    "signature_count": 62
+                    "signature_count": 63
                 },
                 {
                     "name": "Ross, Skye and Lochaber",
                     "ons_code": "S14000055",
                     "mp": "Rt Hon Ian Blackford MP",
-                    "signature_count": 27
+                    "signature_count": 28
                 },
                 {
                     "name": "Rutherglen and Hamilton West",
@@ -426,7 +426,7 @@
                     "name": "Aldershot",
                     "ons_code": "E14000530",
                     "mp": "Leo Docherty MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "Aldridge-Brownhills",
@@ -648,7 +648,7 @@
                     "name": "Birmingham, Hall Green",
                     "ons_code": "E14000562",
                     "mp": "Mr Roger Godsiff MP",
-                    "signature_count": 2
+                    "signature_count": 3
                 },
                 {
                     "name": "Birmingham, Hodge Hill",
@@ -852,13 +852,13 @@
                     "name": "Bridgwater and West Somerset",
                     "ons_code": "E14000595",
                     "mp": "Mr Ian Liddell-Grainger MP",
-                    "signature_count": 57
+                    "signature_count": 58
                 },
                 {
                     "name": "Brigg and Goole",
                     "ons_code": "E14000596",
                     "mp": "Andrew Percy MP",
-                    "signature_count": 44
+                    "signature_count": 45
                 },
                 {
                     "name": "Brighton, Kemptown",
@@ -1452,7 +1452,7 @@
                     "name": "East Worthing and Shoreham",
                     "ons_code": "E14000682",
                     "mp": "Tim Loughton MP",
-                    "signature_count": 36
+                    "signature_count": 37
                 },
                 {
                     "name": "East Yorkshire",
@@ -1548,7 +1548,7 @@
                     "name": "Exeter",
                     "ons_code": "E14000698",
                     "mp": "Rt Hon Ben Bradshaw MP",
-                    "signature_count": 28
+                    "signature_count": 29
                 },
                 {
                     "name": "Fareham",
@@ -2046,7 +2046,7 @@
                     "name": "Leeds East",
                     "ons_code": "E14000778",
                     "mp": "Richard Burgon MP",
-                    "signature_count": 11
+                    "signature_count": 12
                 },
                 {
                     "name": "Leeds North East",
@@ -2178,7 +2178,7 @@
                     "name": "Ludlow",
                     "ons_code": "E14000799",
                     "mp": "Rt Hon Philip Dunne MP",
-                    "signature_count": 29
+                    "signature_count": 30
                 },
                 {
                     "name": "Luton North",
@@ -2748,7 +2748,7 @@
                     "name": "Poole",
                     "ons_code": "E14000881",
                     "mp": "Sir Robert Syms MP",
-                    "signature_count": 27
+                    "signature_count": 28
                 },
                 {
                     "name": "Poplar and Limehouse",
@@ -2886,7 +2886,7 @@
                     "name": "Rossendale and Darwen",
                     "ons_code": "E14000902",
                     "mp": "Rt Hon Jake Berry  MP",
-                    "signature_count": 26
+                    "signature_count": 27
                 },
                 {
                     "name": "Rother Valley",
@@ -3048,7 +3048,7 @@
                     "name": "Sleaford and North Hykeham",
                     "ons_code": "E14000929",
                     "mp": "Dr Caroline Johnson MP",
-                    "signature_count": 67
+                    "signature_count": 68
                 },
                 {
                     "name": "Slough",
@@ -3144,7 +3144,7 @@
                     "name": "South Ribble",
                     "ons_code": "E14000943",
                     "mp": "Seema Kennedy MP",
-                    "signature_count": 52
+                    "signature_count": 53
                 },
                 {
                     "name": "South Shields",
@@ -3270,13 +3270,13 @@
                     "name": "St Ives",
                     "ons_code": "E14000964",
                     "mp": "Derek Thomas MP",
-                    "signature_count": 36
+                    "signature_count": 37
                 },
                 {
                     "name": "Stafford",
                     "ons_code": "E14000965",
                     "mp": "Jeremy Lefroy MP",
-                    "signature_count": 45
+                    "signature_count": 46
                 },
                 {
                     "name": "Staffordshire Moorlands",
@@ -3426,7 +3426,7 @@
                     "name": "Tatton",
                     "ons_code": "E14000987",
                     "mp": "Rt Hon Esther McVey MP",
-                    "signature_count": 29
+                    "signature_count": 30
                 },
                 {
                     "name": "Taunton Deane",
@@ -3744,13 +3744,13 @@
                     "name": "Westmorland and Lonsdale",
                     "ons_code": "E14001037",
                     "mp": "Tim Farron MP",
-                    "signature_count": 61
+                    "signature_count": 62
                 },
                 {
                     "name": "Weston-super-Mare",
                     "ons_code": "E14001038",
                     "mp": "John Penrose MP",
-                    "signature_count": 57
+                    "signature_count": 58
                 },
                 {
                     "name": "Wigan",
@@ -3912,7 +3912,7 @@
                     "name": "Caithness, Sutherland and Easter Ross",
                     "ons_code": "S14000009",
                     "mp": "Jamie Stone MP",
-                    "signature_count": 32
+                    "signature_count": 33
                 },
                 {
                     "name": "Angus",

@@ -10,9 +10,9 @@
             "background": "Boris Johnson is reported to be \"considering an 'amnesty' for illegal immigrants who have been in Britain for more than 15 years\". It is crucial to make clear the strength of public opinion so as to head off this absurd proposal. Vote now.",
             "additional_details": "- People who wish to come here should use the legal channels.\r\n- Amnesties are manna for traffickers, rewarding illegality.\r\n- The experience of Italy and Spain suggests that they encourage more illegal immigrants.\r\n- The ex-head of immigration enforcement told a Commons committee that there are probably over 1 million illegal migrants in the UK.\r\n- The Home Office estimate for 2001 was 430,000. There could well be half a million who have already been here 15 years.\r\n- The cost could run into billions a year.",
             "state": "open",
-            "signature_count": 35461,
+            "signature_count": 35476,
             "created_at": "2019-07-07T09:28:49.389Z",
-            "updated_at": "2019-11-05T08:16:12.000Z",
+            "updated_at": "2019-11-05T09:13:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-22T14:53:38.217Z",
             "closed_at": null,
@@ -334,7 +334,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 34853
+                    "signature_count": 34868
                 },
                 {
                     "name": "United States",
@@ -548,7 +548,7 @@
                     "name": "Berwickshire, Roxburgh and Selkirk",
                     "ons_code": "S14000008",
                     "mp": "John Lamont MP",
-                    "signature_count": 29
+                    "signature_count": 30
                 },
                 {
                     "name": "Ochil and South Perthshire",
@@ -830,7 +830,7 @@
                     "name": "Bexleyheath and Crayford",
                     "ons_code": "E14000558",
                     "mp": "Rt Hon Sir David Evennett MP",
-                    "signature_count": 65
+                    "signature_count": 66
                 },
                 {
                     "name": "Birkenhead",
@@ -1076,7 +1076,7 @@
                     "name": "Brigg and Goole",
                     "ons_code": "E14000596",
                     "mp": "Andrew Percy MP",
-                    "signature_count": 69
+                    "signature_count": 70
                 },
                 {
                     "name": "Brighton, Kemptown",
@@ -1268,7 +1268,7 @@
                     "name": "Carshalton and Wallington",
                     "ons_code": "E14000621",
                     "mp": "Rt Hon Tom Brake MP",
-                    "signature_count": 69
+                    "signature_count": 70
                 },
                 {
                     "name": "Castle Point",
@@ -1400,7 +1400,7 @@
                     "name": "Clacton",
                     "ons_code": "E14000642",
                     "mp": "Giles Watling MP",
-                    "signature_count": 118
+                    "signature_count": 119
                 },
                 {
                     "name": "Cleethorpes",
@@ -1472,7 +1472,7 @@
                     "name": "Crawley",
                     "ons_code": "E14000652",
                     "mp": "Henry Smith MP",
-                    "signature_count": 61
+                    "signature_count": 62
                 },
                 {
                     "name": "Crewe and Nantwich",
@@ -1658,7 +1658,7 @@
                     "name": "East Ham",
                     "ons_code": "E14000679",
                     "mp": "Rt Hon Stephen Timms MP",
-                    "signature_count": 56
+                    "signature_count": 57
                 },
                 {
                     "name": "East Hampshire",
@@ -1724,7 +1724,7 @@
                     "name": "Elmet and Rothwell",
                     "ons_code": "E14000689",
                     "mp": "Rt Hon Alec Shelbrooke MP",
-                    "signature_count": 60
+                    "signature_count": 61
                 },
                 {
                     "name": "Eltham",
@@ -2018,7 +2018,7 @@
                     "name": "Hastings and Rye",
                     "ons_code": "E14000735",
                     "mp": "Rt Hon Amber Rudd MP",
-                    "signature_count": 101
+                    "signature_count": 102
                 },
                 {
                     "name": "Havant",
@@ -2636,7 +2636,7 @@
                     "name": "Newark",
                     "ons_code": "E14000829",
                     "mp": "Rt Hon Robert Jenrick MP",
-                    "signature_count": 63
+                    "signature_count": 64
                 },
                 {
                     "name": "Newbury",
@@ -3194,7 +3194,7 @@
                     "name": "Scarborough and Whitby",
                     "ons_code": "E14000913",
                     "mp": "Rt Hon Robert Goodwill MP",
-                    "signature_count": 75
+                    "signature_count": 77
                 },
                 {
                     "name": "Scunthorpe",
@@ -3758,7 +3758,7 @@
                     "name": "Totnes",
                     "ons_code": "E14001001",
                     "mp": "Dr Sarah Wollaston MP",
-                    "signature_count": 62
+                    "signature_count": 63
                 },
                 {
                     "name": "Tottenham",
@@ -3908,7 +3908,7 @@
                     "name": "Wealden",
                     "ons_code": "E14001023",
                     "mp": "Ms Nusrat Ghani MP",
-                    "signature_count": 69
+                    "signature_count": 70
                 },
                 {
                     "name": "Weaver Vale",
@@ -3926,7 +3926,7 @@
                     "name": "Wells",
                     "ons_code": "E14001026",
                     "mp": "James Heappey MP",
-                    "signature_count": 80
+                    "signature_count": 81
                 },
                 {
                     "name": "Welwyn Hatfield",

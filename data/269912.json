@@ -10,9 +10,9 @@
             "background": "I think that changes as per the above should be dealt with by the Government",
             "additional_details": "",
             "state": "open",
-            "signature_count": 35954,
+            "signature_count": 35964,
             "created_at": "2019-08-16T12:22:28.588Z",
-            "updated_at": "2019-11-05T07:56:22.000Z",
+            "updated_at": "2019-11-05T08:58:52.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-23T16:44:54.803Z",
             "closed_at": null,
@@ -304,7 +304,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 35487
+                    "signature_count": 35497
                 },
                 {
                     "name": "United States",
@@ -590,13 +590,13 @@
                     "name": "Aberconwy",
                     "ons_code": "W07000058",
                     "mp": "Guto Bebb MP",
-                    "signature_count": 43
+                    "signature_count": 44
                 },
                 {
                     "name": "Aldershot",
                     "ons_code": "E14000530",
                     "mp": "Leo Docherty MP",
-                    "signature_count": 58
+                    "signature_count": 59
                 },
                 {
                     "name": "Aldridge-Brownhills",
@@ -638,7 +638,7 @@
                     "name": "Ashfield",
                     "ons_code": "E14000535",
                     "mp": "Gloria De Piero MP",
-                    "signature_count": 85
+                    "signature_count": 86
                 },
                 {
                     "name": "Ashford",
@@ -1220,7 +1220,7 @@
                     "name": "Carlisle",
                     "ons_code": "E14000620",
                     "mp": "John Stevenson MP",
-                    "signature_count": 83
+                    "signature_count": 84
                 },
                 {
                     "name": "Carmarthen East and Dinefwr",
@@ -1238,7 +1238,7 @@
                     "name": "Carshalton and Wallington",
                     "ons_code": "E14000621",
                     "mp": "Rt Hon Tom Brake MP",
-                    "signature_count": 40
+                    "signature_count": 41
                 },
                 {
                     "name": "Castle Point",
@@ -1988,7 +1988,7 @@
                     "name": "Hastings and Rye",
                     "ons_code": "E14000735",
                     "mp": "Rt Hon Amber Rudd MP",
-                    "signature_count": 116
+                    "signature_count": 117
                 },
                 {
                     "name": "Havant",
@@ -2420,7 +2420,7 @@
                     "name": "Maidstone and The Weald",
                     "ons_code": "E14000804",
                     "mp": "Mrs Helen Grant MP",
-                    "signature_count": 77
+                    "signature_count": 78
                 },
                 {
                     "name": "Makerfield",
@@ -2474,7 +2474,7 @@
                     "name": "Meriden",
                     "ons_code": "E14000812",
                     "mp": "Rt Hon Dame Caroline Spelman MP",
-                    "signature_count": 71
+                    "signature_count": 72
                 },
                 {
                     "name": "Merthyr Tydfil and Rhymney",
@@ -3098,7 +3098,7 @@
                     "name": "Rossendale and Darwen",
                     "ons_code": "E14000902",
                     "mp": "Rt Hon Jake Berry  MP",
-                    "signature_count": 83
+                    "signature_count": 84
                 },
                 {
                     "name": "Rother Valley",
@@ -3974,7 +3974,7 @@
                     "name": "Weston-super-Mare",
                     "ons_code": "E14001038",
                     "mp": "John Penrose MP",
-                    "signature_count": 93
+                    "signature_count": 94
                 },
                 {
                     "name": "Wigan",

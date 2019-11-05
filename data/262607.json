@@ -10,9 +10,9 @@
             "background": "Non-stun slaughter is cruel. Many consumers do not want to eat meat killed by non-stun slaughter. On leaving the EU, specific UK legislation must replace the EU slaughter directive, explicitly precluding the religious exemption from pre-stunning requirement. Stun to kill must be mandatory.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 13968,
+            "signature_count": 13973,
             "created_at": "2019-05-25T12:08:53.852Z",
-            "updated_at": "2019-11-05T08:08:02.000Z",
+            "updated_at": "2019-11-05T09:13:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-16T11:24:16.242Z",
             "closed_at": null,
@@ -209,7 +209,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 13758
+                    "signature_count": 13763
                 },
                 {
                     "name": "United States",
@@ -1630,7 +1630,7 @@
                     "name": "Erewash",
                     "ons_code": "E14000695",
                     "mp": "Maggie Throup MP",
-                    "signature_count": 21
+                    "signature_count": 22
                 },
                 {
                     "name": "Erith and Thamesmead",
@@ -1918,7 +1918,7 @@
                     "name": "Hemsworth",
                     "ons_code": "E14000740",
                     "mp": "Jon Trickett MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "Hendon",
@@ -3118,7 +3118,7 @@
                     "name": "Sheffield, Hallam",
                     "ons_code": "E14000922",
                     "mp": "Jared O'Mara MP",
-                    "signature_count": 32
+                    "signature_count": 33
                 },
                 {
                     "name": "Sheffield, Heeley",
@@ -3580,7 +3580,7 @@
                     "name": "Thornbury and Yate",
                     "ons_code": "E14000994",
                     "mp": "Luke Hall MP",
-                    "signature_count": 16
+                    "signature_count": 17
                 },
                 {
                     "name": "Thurrock",
@@ -3694,7 +3694,7 @@
                     "name": "Wakefield",
                     "ons_code": "E14001009",
                     "mp": "Mary Creagh MP",
-                    "signature_count": 35
+                    "signature_count": 36
                 },
                 {
                     "name": "Wallasey",

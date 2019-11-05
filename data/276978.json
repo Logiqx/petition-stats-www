@@ -10,9 +10,9 @@
             "background": "Over 200 polls since July 2017 provide concrete evidence that the public supports remaining in the EU and it was wrong in hindsight to vote to leave.\r\n\r\nSaying the situation is People v Parliament doesn\u2019t stand up when the public are split over Brexit - it is Half the Public v Half of Parliament.",
             "additional_details": "A YouGov analysis has shown that of 226 polls since July 2017 asking if Brexit is right or wrong, or if they would now vote Remain or Leave, 204 put Remain ahead, with just 7 for Leave, and 15 ties. So far this year just 1 poll supports Leave compared to 74 for staying.\r\n\r\nIf our political masters are truly intent on delivering on \u2018the will of the people\u2019, what is stopping them from asking \u2018the people\u2019 to confirm what their will is today?\r\n\r\nAnother vote does not mean less democracy, it means more.",
             "state": "open",
-            "signature_count": 60727,
+            "signature_count": 60738,
             "created_at": "2019-10-11T16:03:09.291Z",
-            "updated_at": "2019-11-05T08:17:12.000Z",
+            "updated_at": "2019-11-05T09:09:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-10-14T14:54:00.368Z",
             "closed_at": null,
@@ -159,7 +159,7 @@
                 {
                     "name": "France",
                     "code": "FR",
-                    "signature_count": 1854
+                    "signature_count": 1855
                 },
                 {
                     "name": "Georgia",
@@ -464,7 +464,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 56546
+                    "signature_count": 56556
                 },
                 {
                     "name": "United States",
@@ -1410,7 +1410,7 @@
                     "name": "Central Devon",
                     "ons_code": "E14000623",
                     "mp": "Rt Hon Mel Stride MP",
-                    "signature_count": 198
+                    "signature_count": 199
                 },
                 {
                     "name": "Central Suffolk and North Ipswich",
@@ -1446,7 +1446,7 @@
                     "name": "Chelmsford",
                     "ons_code": "E14000628",
                     "mp": "Vicky Ford MP",
-                    "signature_count": 106
+                    "signature_count": 107
                 },
                 {
                     "name": "Chelsea and Fulham",
@@ -1578,7 +1578,7 @@
                     "name": "Corby",
                     "ons_code": "E14000648",
                     "mp": "Tom Pursglove MP",
-                    "signature_count": 76
+                    "signature_count": 77
                 },
                 {
                     "name": "Coventry North East",
@@ -1914,7 +1914,7 @@
                     "name": "Fareham",
                     "ons_code": "E14000699",
                     "mp": "Suella Braverman MP",
-                    "signature_count": 93
+                    "signature_count": 94
                 },
                 {
                     "name": "Faversham and Mid Kent",
@@ -2202,7 +2202,7 @@
                     "name": "Hertford and Stortford",
                     "ons_code": "E14000744",
                     "mp": "Mr Mark Prisk MP",
-                    "signature_count": 125
+                    "signature_count": 126
                 },
                 {
                     "name": "Hertsmere",
@@ -2280,7 +2280,7 @@
                     "name": "Huntingdon",
                     "ons_code": "E14000757",
                     "mp": "Mr Jonathan Djanogly MP",
-                    "signature_count": 134
+                    "signature_count": 135
                 },
                 {
                     "name": "Hyndburn",
@@ -2508,7 +2508,7 @@
                     "name": "Liverpool, Riverside",
                     "ons_code": "E14000793",
                     "mp": "Dame Louise Ellman MP",
-                    "signature_count": 130
+                    "signature_count": 131
                 },
                 {
                     "name": "Liverpool, Walton",
@@ -2742,7 +2742,7 @@
                     "name": "Morley and Outwood",
                     "ons_code": "E14000826",
                     "mp": "Andrea Jenkyns MP",
-                    "signature_count": 44
+                    "signature_count": 45
                 },
                 {
                     "name": "Neath",
@@ -3990,7 +3990,7 @@
                     "name": "Wantage",
                     "ons_code": "E14001015",
                     "mp": "Rt Hon Edward Vaizey MP",
-                    "signature_count": 227
+                    "signature_count": 228
                 },
                 {
                     "name": "Warley",

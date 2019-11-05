@@ -10,9 +10,9 @@
             "background": "Recent changes in pension taxation have reduced the annual allowance which can be put into a pension to \u00a340,000 a year. In 2016 \u201ctapering\u201d was introduced which can further reduce the annual allowance to \u00a310,000",
             "additional_details": "The combined effect of the tapered annual allowance and inflexible public sector pension schemes is having a catastrophic effect on retention and productivity in the public sector. In particular in the NHS, where consultants are not able to afford to do extra work for fear of a punitive tax bill well in excess of any income earned.",
             "state": "open",
-            "signature_count": 19927,
+            "signature_count": 19934,
             "created_at": "2019-07-24T12:45:15.915Z",
-            "updated_at": "2019-11-05T07:59:22.000Z",
+            "updated_at": "2019-11-05T09:11:22.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-31T13:17:58.822Z",
             "closed_at": null,
@@ -144,7 +144,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 19873
+                    "signature_count": 19880
                 },
                 {
                     "name": "United States",
@@ -900,7 +900,7 @@
                     "name": "Bristol North West",
                     "ons_code": "E14000600",
                     "mp": "Darren Jones MP",
-                    "signature_count": 82
+                    "signature_count": 83
                 },
                 {
                     "name": "Bristol South",
@@ -1566,7 +1566,7 @@
                     "name": "Esher and Walton",
                     "ons_code": "E14000697",
                     "mp": "Rt Hon Dominic Raab MP",
-                    "signature_count": 58
+                    "signature_count": 59
                 },
                 {
                     "name": "Exeter",
@@ -2550,7 +2550,7 @@
                     "name": "North East Hampshire",
                     "ons_code": "E14000844",
                     "mp": "Mr Ranil Jayawardena MP",
-                    "signature_count": 22
+                    "signature_count": 23
                 },
                 {
                     "name": "North East Hertfordshire",
@@ -3048,7 +3048,7 @@
                     "name": "Sheffield, Heeley",
                     "ons_code": "E14000923",
                     "mp": "Louise Haigh MP",
-                    "signature_count": 17
+                    "signature_count": 18
                 },
                 {
                     "name": "Sherwood",
@@ -3300,7 +3300,7 @@
                     "name": "St Helens South and Whiston",
                     "ons_code": "E14000963",
                     "mp": "Ms Marie Rimmer MP",
-                    "signature_count": 29
+                    "signature_count": 30
                 },
                 {
                     "name": "St Ives",
@@ -3822,7 +3822,7 @@
                     "name": "Wirral South",
                     "ons_code": "E14001043",
                     "mp": "Alison McGovern MP",
-                    "signature_count": 46
+                    "signature_count": 47
                 },
                 {
                     "name": "Wirral West",
@@ -3852,7 +3852,7 @@
                     "name": "Wokingham",
                     "ons_code": "E14001048",
                     "mp": "Rt Hon John Redwood MP",
-                    "signature_count": 19
+                    "signature_count": 20
                 },
                 {
                     "name": "Wolverhampton North East",

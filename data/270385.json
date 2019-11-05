@@ -10,9 +10,9 @@
             "background": "Brexit is an absolute disaster, possible Medication shortages, a hard border in Ireland which puts peace at risk, job losses. This is 100% not worth it so stop it now!",
             "additional_details": "",
             "state": "open",
-            "signature_count": 39327,
+            "signature_count": 39331,
             "created_at": "2019-08-22T14:45:41.214Z",
-            "updated_at": "2019-11-05T08:16:52.000Z",
+            "updated_at": "2019-11-05T09:11:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-03T10:11:09.533Z",
             "closed_at": null,
@@ -384,7 +384,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 36492
+                    "signature_count": 36496
                 },
                 {
                     "name": "United States",
@@ -428,7 +428,7 @@
                     "name": "Edinburgh North and Leith",
                     "ons_code": "S14000023",
                     "mp": "Deidre Brock MP",
-                    "signature_count": 149
+                    "signature_count": 150
                 },
                 {
                     "name": "Edinburgh South",
@@ -1124,7 +1124,7 @@
                     "name": "Bridgend",
                     "ons_code": "W07000073",
                     "mp": "Mrs Madeleine Moon MP",
-                    "signature_count": 28
+                    "signature_count": 29
                 },
                 {
                     "name": "Bridgwater and West Somerset",
@@ -1160,7 +1160,7 @@
                     "name": "Bristol North West",
                     "ons_code": "E14000600",
                     "mp": "Darren Jones MP",
-                    "signature_count": 109
+                    "signature_count": 110
                 },
                 {
                     "name": "Bristol South",
@@ -3920,7 +3920,7 @@
                     "name": "Wantage",
                     "ons_code": "E14001015",
                     "mp": "Rt Hon Edward Vaizey MP",
-                    "signature_count": 141
+                    "signature_count": 142
                 },
                 {
                     "name": "Warley",

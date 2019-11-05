@@ -10,9 +10,9 @@
             "background": "Have worked since I was 16 and planned for my retirement at 60. Due to unfair government changes I will not get state pension until I am 66.",
             "additional_details": "Born in England 1955. Have worked hard all my life not knowing another 6 years would be added to pensionable age.",
             "state": "open",
-            "signature_count": 17538,
+            "signature_count": 17553,
             "created_at": "2019-06-05T12:39:24.454Z",
-            "updated_at": "2019-11-05T08:17:52.000Z",
+            "updated_at": "2019-11-05T09:12:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-10T09:51:20.946Z",
             "closed_at": null,
@@ -184,7 +184,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 17162
+                    "signature_count": 17177
                 },
                 {
                     "name": "United States",
@@ -241,7 +241,7 @@
                     "name": "Edinburgh West",
                     "ons_code": "S14000026",
                     "mp": "Christine Jardine MP",
-                    "signature_count": 22
+                    "signature_count": 23
                 },
                 {
                     "name": "Banff and Buchan",
@@ -265,7 +265,7 @@
                     "name": "Glasgow East",
                     "ons_code": "S14000030",
                     "mp": "David Linden MP",
-                    "signature_count": 40
+                    "signature_count": 41
                 },
                 {
                     "name": "Glasgow North",
@@ -955,7 +955,7 @@
                     "name": "Bristol North West",
                     "ons_code": "E14000600",
                     "mp": "Darren Jones MP",
-                    "signature_count": 27
+                    "signature_count": 28
                 },
                 {
                     "name": "Bristol South",
@@ -1165,7 +1165,7 @@
                     "name": "Cheadle",
                     "ons_code": "E14000627",
                     "mp": "Mary Robinson MP",
-                    "signature_count": 28
+                    "signature_count": 29
                 },
                 {
                     "name": "Chelmsford",
@@ -1183,7 +1183,7 @@
                     "name": "Cheltenham",
                     "ons_code": "E14000630",
                     "mp": "Alex Chalk MP",
-                    "signature_count": 30
+                    "signature_count": 31
                 },
                 {
                     "name": "Chesham and Amersham",
@@ -1891,7 +1891,7 @@
                     "name": "Hazel Grove",
                     "ons_code": "E14000738",
                     "mp": "Mr William Wragg MP",
-                    "signature_count": 38
+                    "signature_count": 39
                 },
                 {
                     "name": "Hemel Hempstead",
@@ -2257,7 +2257,7 @@
                     "name": "Llanelli",
                     "ons_code": "W07000045",
                     "mp": "Nia Griffith MP",
-                    "signature_count": 97
+                    "signature_count": 98
                 },
                 {
                     "name": "Loughborough",
@@ -2317,13 +2317,13 @@
                     "name": "Maldon",
                     "ons_code": "E14000806",
                     "mp": "Rt Hon John Whittingdale MP",
-                    "signature_count": 42
+                    "signature_count": 43
                 },
                 {
                     "name": "Manchester Central",
                     "ons_code": "E14000807",
                     "mp": "Lucy Powell MP",
-                    "signature_count": 31
+                    "signature_count": 32
                 },
                 {
                     "name": "Manchester, Gorton",
@@ -2911,7 +2911,7 @@
                     "name": "Redcar",
                     "ons_code": "E14000891",
                     "mp": "Anna Turley MP",
-                    "signature_count": 46
+                    "signature_count": 47
                 },
                 {
                     "name": "Redditch",
@@ -2953,7 +2953,7 @@
                     "name": "Rochdale",
                     "ons_code": "E14000897",
                     "mp": "Tony Lloyd MP",
-                    "signature_count": 29
+                    "signature_count": 30
                 },
                 {
                     "name": "Rochester and Strood",
@@ -3517,7 +3517,7 @@
                     "name": "Tamworth",
                     "ons_code": "E14000986",
                     "mp": "Rt Hon Christopher Pincher MP",
-                    "signature_count": 26
+                    "signature_count": 27
                 },
                 {
                     "name": "Tatton",
@@ -3529,7 +3529,7 @@
                     "name": "Taunton Deane",
                     "ons_code": "E14000988",
                     "mp": "Rebecca Pow MP",
-                    "signature_count": 33
+                    "signature_count": 34
                 },
                 {
                     "name": "Telford",
@@ -3775,7 +3775,7 @@
                     "name": "Wellingborough",
                     "ons_code": "E14001025",
                     "mp": "Mr Peter Bone MP",
-                    "signature_count": 34
+                    "signature_count": 35
                 },
                 {
                     "name": "Wells",
@@ -4057,7 +4057,7 @@
                     "name": "Dumfries and Galloway",
                     "ons_code": "S14000013",
                     "mp": "Rt Hon Alister Jack MP",
-                    "signature_count": 60
+                    "signature_count": 61
                 },
                 {
                     "name": "Dumfriesshire, Clydesdale and Tweeddale",

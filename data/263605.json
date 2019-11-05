@@ -10,9 +10,9 @@
             "background": "Climate agreements and civil laws have failed to prevent escalating harm to the Earth. A criminal law of ECOCIDE would criminalise practices known to destroy ecosystems and/or exacerbate climate breakdown. It's the only way to force industry to change direction.",
             "additional_details": "ECOCIDE is defined as \u201cextensive loss or damage to, or destruction of ecosystem(s) of a given territory(ies), such that peaceful enjoyment by the inhabitants has been or will be severely diminished.\u201d [Submitted to UN Law Commission, 2010 by UK barrister Polly Higgins.] To establish seriousness, impact(s) must be widespread or long-term or severe. As with other atrocity crimes, those liable to prosecution will be persons of superior responsibility such as CEOs and government ministers.",
             "state": "open",
-            "signature_count": 21774,
+            "signature_count": 21780,
             "created_at": "2019-06-05T10:42:42.785Z",
-            "updated_at": "2019-11-05T08:10:02.000Z",
+            "updated_at": "2019-11-05T09:12:32.000Z",
             "rejected_at": null,
             "opened_at": "2019-06-19T16:47:41.354Z",
             "closed_at": null,
@@ -294,7 +294,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 21396
+                    "signature_count": 21402
                 },
                 {
                     "name": "United States",
@@ -996,7 +996,7 @@
                     "name": "Brent North",
                     "ons_code": "E14000592",
                     "mp": "Barry Gardiner MP",
-                    "signature_count": 10
+                    "signature_count": 11
                 },
                 {
                     "name": "Brentford and Isleworth",
@@ -1398,7 +1398,7 @@
                     "name": "Corby",
                     "ons_code": "E14000648",
                     "mp": "Tom Pursglove MP",
-                    "signature_count": 19
+                    "signature_count": 20
                 },
                 {
                     "name": "Coventry North East",
@@ -1614,7 +1614,7 @@
                     "name": "East Hampshire",
                     "ons_code": "E14000680",
                     "mp": "Rt Hon Damian Hinds MP",
-                    "signature_count": 59
+                    "signature_count": 60
                 },
                 {
                     "name": "East Londonderry",
@@ -1938,7 +1938,7 @@
                     "name": "Harrogate and Knaresborough",
                     "ons_code": "E14000730",
                     "mp": "Andrew Jones MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "Harrow East",
@@ -2664,7 +2664,7 @@
                     "name": "North Devon",
                     "ons_code": "E14000838",
                     "mp": "Peter Heaton-Jones MP",
-                    "signature_count": 115
+                    "signature_count": 116
                 },
                 {
                     "name": "North Dorset",
@@ -3384,7 +3384,7 @@
                     "name": "South West Hertfordshire",
                     "ons_code": "E14000951",
                     "mp": "Rt Hon David Gauke MP",
-                    "signature_count": 48
+                    "signature_count": 49
                 },
                 {
                     "name": "South West Norfolk",

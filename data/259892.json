@@ -10,9 +10,9 @@
             "background": "The air ambulances that operate around the UK cost around \u00a312,000 per day to run and maintain, and are mainly funded through charity organisations. This petition is to ask the Government to fully fund the air ambulances through the emergency services.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 133959,
+            "signature_count": 133982,
             "created_at": "2019-05-01T10:42:46.604Z",
-            "updated_at": "2019-11-05T08:17:42.000Z",
+            "updated_at": "2019-11-05T09:17:32.000Z",
             "rejected_at": null,
             "opened_at": "2019-06-04T17:46:01.722Z",
             "closed_at": null,
@@ -394,7 +394,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 132593
+                    "signature_count": 132616
                 },
                 {
                     "name": "United States",
@@ -639,7 +639,7 @@
                     "name": "Ochil and South Perthshire",
                     "ons_code": "S14000050",
                     "mp": "Luke Graham MP",
-                    "signature_count": 160
+                    "signature_count": 161
                 },
                 {
                     "name": "Orkney and Shetland",
@@ -915,7 +915,7 @@
                     "name": "Bexleyheath and Crayford",
                     "ons_code": "E14000558",
                     "mp": "Rt Hon Sir David Evennett MP",
-                    "signature_count": 111
+                    "signature_count": 112
                 },
                 {
                     "name": "Birkenhead",
@@ -1185,7 +1185,7 @@
                     "name": "Bristol North West",
                     "ons_code": "E14000600",
                     "mp": "Darren Jones MP",
-                    "signature_count": 108
+                    "signature_count": 109
                 },
                 {
                     "name": "Bristol South",
@@ -1677,7 +1677,7 @@
                     "name": "Dover",
                     "ons_code": "E14000670",
                     "mp": "Charlie Elphicke MP",
-                    "signature_count": 388
+                    "signature_count": 389
                 },
                 {
                     "name": "Dudley North",
@@ -1737,7 +1737,7 @@
                     "name": "East Devon",
                     "ons_code": "E14000678",
                     "mp": "Rt Hon Sir Hugo Swire MP",
-                    "signature_count": 177
+                    "signature_count": 178
                 },
                 {
                     "name": "East Ham",
@@ -1773,7 +1773,7 @@
                     "name": "East Yorkshire",
                     "ons_code": "E14000683",
                     "mp": "Rt Hon Sir Greg Knight MP",
-                    "signature_count": 1181
+                    "signature_count": 1182
                 },
                 {
                     "name": "Eastbourne",
@@ -1905,7 +1905,7 @@
                     "name": "Folkestone and Hythe",
                     "ons_code": "E14000704",
                     "mp": "Damian Collins MP",
-                    "signature_count": 205
+                    "signature_count": 206
                 },
                 {
                     "name": "Forest of Dean",
@@ -2157,7 +2157,7 @@
                     "name": "Hertford and Stortford",
                     "ons_code": "E14000744",
                     "mp": "Mr Mark Prisk MP",
-                    "signature_count": 266
+                    "signature_count": 267
                 },
                 {
                     "name": "Hertsmere",
@@ -2169,7 +2169,7 @@
                     "name": "Hexham",
                     "ons_code": "E14000746",
                     "mp": "Guy Opperman MP",
-                    "signature_count": 328
+                    "signature_count": 329
                 },
                 {
                     "name": "Heywood and Middleton",
@@ -2355,7 +2355,7 @@
                     "name": "Lagan Valley",
                     "ons_code": "N06000009",
                     "mp": "Rt Hon Sir Jeffrey M. Donaldson MP",
-                    "signature_count": 95
+                    "signature_count": 96
                 },
                 {
                     "name": "Lancaster and Fleetwood",
@@ -2385,7 +2385,7 @@
                     "name": "Leeds North West",
                     "ons_code": "E14000780",
                     "mp": "Alex Sobel MP",
-                    "signature_count": 359
+                    "signature_count": 360
                 },
                 {
                     "name": "Leeds West",
@@ -2643,7 +2643,7 @@
                     "name": "Middlesbrough",
                     "ons_code": "E14000819",
                     "mp": "Andy McDonald MP",
-                    "signature_count": 600
+                    "signature_count": 601
                 },
                 {
                     "name": "Middlesbrough South and East Cleveland",
@@ -2691,13 +2691,13 @@
                     "name": "Morecambe and Lunesdale",
                     "ons_code": "E14000825",
                     "mp": "David Morris MP",
-                    "signature_count": 299
+                    "signature_count": 300
                 },
                 {
                     "name": "Morley and Outwood",
                     "ons_code": "E14000826",
                     "mp": "Andrea Jenkyns MP",
-                    "signature_count": 979
+                    "signature_count": 980
                 },
                 {
                     "name": "Neath",
@@ -2757,7 +2757,7 @@
                     "name": "Newport East",
                     "ons_code": "W07000055",
                     "mp": "Jessica Morden MP",
-                    "signature_count": 83
+                    "signature_count": 84
                 },
                 {
                     "name": "Newport West",
@@ -2895,7 +2895,7 @@
                     "name": "North Tyneside",
                     "ons_code": "E14000853",
                     "mp": "Mary Glindon MP",
-                    "signature_count": 364
+                    "signature_count": 365
                 },
                 {
                     "name": "North Warwickshire",
@@ -2913,7 +2913,7 @@
                     "name": "North West Durham",
                     "ons_code": "E14000856",
                     "mp": "Laura Pidcock MP",
-                    "signature_count": 528
+                    "signature_count": 529
                 },
                 {
                     "name": "North West Hampshire",
@@ -3345,7 +3345,7 @@
                     "name": "Sherwood",
                     "ons_code": "E14000924",
                     "mp": "Rt Hon Mark  Spencer MP",
-                    "signature_count": 326
+                    "signature_count": 327
                 },
                 {
                     "name": "Shipley",
@@ -3777,7 +3777,7 @@
                     "name": "The Cotswolds",
                     "ons_code": "E14000991",
                     "mp": "Sir Geoffrey Clifton-Brown MP",
-                    "signature_count": 233
+                    "signature_count": 234
                 },
                 {
                     "name": "The Wrekin",
@@ -3789,7 +3789,7 @@
                     "name": "Thirsk and Malton",
                     "ons_code": "E14000993",
                     "mp": "Kevin Hollinrake MP",
-                    "signature_count": 823
+                    "signature_count": 827
                 },
                 {
                     "name": "Thornbury and Yate",

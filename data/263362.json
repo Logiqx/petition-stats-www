@@ -10,9 +10,9 @@
             "background": "Peat is vital in the fight against climate breakdown as it stores vast amounts of carbon. It also provides habitat for a diverse range of wildlife. Therefore we should not be using peat compost to improve the soil in our gardens. Other organic matter is available and is effective for growers.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 12835,
+            "signature_count": 12846,
             "created_at": "2019-06-03T08:44:15.768Z",
-            "updated_at": "2019-11-05T08:16:42.000Z",
+            "updated_at": "2019-11-05T09:07:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-01T14:40:15.315Z",
             "closed_at": null,
@@ -194,7 +194,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 12668
+                    "signature_count": 12679
                 },
                 {
                     "name": "United States",
@@ -368,7 +368,7 @@
                     "name": "Moray",
                     "ons_code": "S14000046",
                     "mp": "Douglas Ross MP",
-                    "signature_count": 10
+                    "signature_count": 11
                 },
                 {
                     "name": "Motherwell and Wishaw",
@@ -950,7 +950,7 @@
                     "name": "Bristol North West",
                     "ons_code": "E14000600",
                     "mp": "Darren Jones MP",
-                    "signature_count": 36
+                    "signature_count": 37
                 },
                 {
                     "name": "Bristol South",
@@ -1052,7 +1052,7 @@
                     "name": "Camborne and Redruth",
                     "ons_code": "E14000616",
                     "mp": "George Eustice MP",
-                    "signature_count": 22
+                    "signature_count": 23
                 },
                 {
                     "name": "Cambridge",
@@ -1298,7 +1298,7 @@
                     "name": "Corby",
                     "ons_code": "E14000648",
                     "mp": "Tom Pursglove MP",
-                    "signature_count": 18
+                    "signature_count": 19
                 },
                 {
                     "name": "Coventry North East",
@@ -1514,7 +1514,7 @@
                     "name": "East Hampshire",
                     "ons_code": "E14000680",
                     "mp": "Rt Hon Damian Hinds MP",
-                    "signature_count": 35
+                    "signature_count": 36
                 },
                 {
                     "name": "East Londonderry",
@@ -1712,7 +1712,7 @@
                     "name": "Gedling",
                     "ons_code": "E14000710",
                     "mp": "Vernon Coaker MP",
-                    "signature_count": 24
+                    "signature_count": 25
                 },
                 {
                     "name": "Gillingham and Rainham",
@@ -1952,7 +1952,7 @@
                     "name": "Hitchin and Harpenden",
                     "ons_code": "E14000749",
                     "mp": "Bim Afolami MP",
-                    "signature_count": 59
+                    "signature_count": 60
                 },
                 {
                     "name": "Holborn and St Pancras",
@@ -2468,7 +2468,7 @@
                     "name": "New Forest East",
                     "ons_code": "E14000827",
                     "mp": "Rt Hon Dr Julian Lewis MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "New Forest West",
@@ -2492,7 +2492,7 @@
                     "name": "Newcastle upon Tyne Central",
                     "ons_code": "E14000831",
                     "mp": "Chi Onwurah MP",
-                    "signature_count": 8
+                    "signature_count": 9
                 },
                 {
                     "name": "Newcastle upon Tyne East",
@@ -2966,7 +2966,7 @@
                     "name": "Romsey and Southampton North",
                     "ons_code": "E14000901",
                     "mp": "Rt Hon Caroline Nokes MP",
-                    "signature_count": 31
+                    "signature_count": 32
                 },
                 {
                     "name": "Rossendale and Darwen",
@@ -3770,7 +3770,7 @@
                     "name": "Welwyn Hatfield",
                     "ons_code": "E14001027",
                     "mp": "Rt Hon Grant Shapps MP",
-                    "signature_count": 21
+                    "signature_count": 22
                 },
                 {
                     "name": "Wentworth and Dearne",

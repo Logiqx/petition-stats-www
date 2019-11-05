@@ -10,9 +10,9 @@
             "background": "Chris Packham, Ruth Tingay and Mark Avery (Wild Justice) believe that intensive grouse shooting is bad for people, the environment and wildlife. People; grouse shooting is economically insignificant when contrasted with other real and potential uses of the UK\u2019s uplands.",
             "additional_details": "Environment; muirburn impacts negatively upon climate change and drainage leads to flooding and erosion. Wildlife; the wholesale culling of all predators and Mountain Hares has a disastrous effect on the ecology of these areas and the industry is underpinned by a criminal tradition of raptor persecution which shows no signs of abating. It\u2019s time to provide an opportunity to implement immediate , legislative and meaningful measures to address this abhorrently destructive practice.",
             "state": "open",
-            "signature_count": 111855,
+            "signature_count": 111869,
             "created_at": "2019-07-04T21:22:54.456Z",
-            "updated_at": "2019-11-05T08:17:02.000Z",
+            "updated_at": "2019-11-05T09:09:52.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-13T15:24:03.152Z",
             "closed_at": null,
@@ -389,7 +389,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 110158
+                    "signature_count": 110172
                 },
                 {
                     "name": "United States",
@@ -540,7 +540,7 @@
                     "name": "Inverness, Nairn, Badenoch and Strathspey",
                     "ons_code": "S14000039",
                     "mp": "Drew Hendry MP",
-                    "signature_count": 508
+                    "signature_count": 509
                 },
                 {
                     "name": "Kilmarnock and Loudoun",
@@ -1146,13 +1146,13 @@
                     "name": "Brigg and Goole",
                     "ons_code": "E14000596",
                     "mp": "Andrew Percy MP",
-                    "signature_count": 134
+                    "signature_count": 135
                 },
                 {
                     "name": "Brighton, Kemptown",
                     "ons_code": "E14000597",
                     "mp": "Lloyd Russell-Moyle MP",
-                    "signature_count": 272
+                    "signature_count": 273
                 },
                 {
                     "name": "Brighton, Pavilion",
@@ -1248,7 +1248,7 @@
                     "name": "Bury St Edmunds",
                     "ons_code": "E14000613",
                     "mp": "Jo Churchill MP",
-                    "signature_count": 235
+                    "signature_count": 236
                 },
                 {
                     "name": "Caerphilly",
@@ -1272,7 +1272,7 @@
                     "name": "Camborne and Redruth",
                     "ons_code": "E14000616",
                     "mp": "George Eustice MP",
-                    "signature_count": 278
+                    "signature_count": 279
                 },
                 {
                     "name": "Cambridge",
@@ -1692,7 +1692,7 @@
                     "name": "Ealing Central and Acton",
                     "ons_code": "E14000674",
                     "mp": "Dr Rupa Huq MP",
-                    "signature_count": 119
+                    "signature_count": 120
                 },
                 {
                     "name": "Ealing North",
@@ -1734,7 +1734,7 @@
                     "name": "East Hampshire",
                     "ons_code": "E14000680",
                     "mp": "Rt Hon Damian Hinds MP",
-                    "signature_count": 230
+                    "signature_count": 232
                 },
                 {
                     "name": "East Londonderry",
@@ -1812,7 +1812,7 @@
                     "name": "Enfield, Southgate",
                     "ons_code": "E14000692",
                     "mp": "Bambos Charalambous MP",
-                    "signature_count": 73
+                    "signature_count": 74
                 },
                 {
                     "name": "Epping Forest",
@@ -1842,7 +1842,7 @@
                     "name": "Esher and Walton",
                     "ons_code": "E14000697",
                     "mp": "Rt Hon Dominic Raab MP",
-                    "signature_count": 171
+                    "signature_count": 172
                 },
                 {
                     "name": "Exeter",
@@ -2964,7 +2964,7 @@
                     "name": "Nottingham South",
                     "ons_code": "E14000867",
                     "mp": "Lilian Greenwood MP",
-                    "signature_count": 113
+                    "signature_count": 114
                 },
                 {
                     "name": "Nuneaton",
@@ -3780,7 +3780,7 @@
                     "name": "Thornbury and Yate",
                     "ons_code": "E14000994",
                     "mp": "Luke Hall MP",
-                    "signature_count": 182
+                    "signature_count": 183
                 },
                 {
                     "name": "Thurrock",
@@ -4134,7 +4134,7 @@
                     "name": "Wokingham",
                     "ons_code": "E14001048",
                     "mp": "Rt Hon John Redwood MP",
-                    "signature_count": 181
+                    "signature_count": 182
                 },
                 {
                     "name": "Wolverhampton North East",
@@ -4254,7 +4254,7 @@
                     "name": "Argyll and Bute",
                     "ons_code": "S14000005",
                     "mp": "Brendan O'Hara MP",
-                    "signature_count": 371
+                    "signature_count": 372
                 },
                 {
                     "name": "Coatbridge, Chryston and Bellshill",

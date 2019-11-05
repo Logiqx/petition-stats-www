@@ -10,9 +10,9 @@
             "background": "A form of voter id needs to be introduced for all elections.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 20656,
+            "signature_count": 20661,
             "created_at": "2019-06-07T15:17:54.805Z",
-            "updated_at": "2019-11-05T08:07:42.000Z",
+            "updated_at": "2019-11-05T08:52:52.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-09T10:33:24.127Z",
             "closed_at": null,
@@ -244,7 +244,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 20387
+                    "signature_count": 20392
                 },
                 {
                     "name": "United States",
@@ -972,7 +972,7 @@
                     "name": "Brentford and Isleworth",
                     "ons_code": "E14000593",
                     "mp": "Ruth Cadbury MP",
-                    "signature_count": 33
+                    "signature_count": 34
                 },
                 {
                     "name": "Brentwood and Ongar",
@@ -1020,7 +1020,7 @@
                     "name": "Bristol North West",
                     "ons_code": "E14000600",
                     "mp": "Darren Jones MP",
-                    "signature_count": 40
+                    "signature_count": 41
                 },
                 {
                     "name": "Bristol South",
@@ -1938,7 +1938,7 @@
                     "name": "Hastings and Rye",
                     "ons_code": "E14000735",
                     "mp": "Rt Hon Amber Rudd MP",
-                    "signature_count": 71
+                    "signature_count": 72
                 },
                 {
                     "name": "Havant",
@@ -3048,7 +3048,7 @@
                     "name": "Rossendale and Darwen",
                     "ons_code": "E14000902",
                     "mp": "Rt Hon Jake Berry  MP",
-                    "signature_count": 45
+                    "signature_count": 46
                 },
                 {
                     "name": "Rother Valley",
@@ -3738,7 +3738,7 @@
                     "name": "Vauxhall",
                     "ons_code": "E14001008",
                     "mp": "Kate Hoey MP",
-                    "signature_count": 11
+                    "signature_count": 12
                 },
                 {
                     "name": "Wakefield",

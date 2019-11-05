@@ -10,9 +10,9 @@
             "background": "The government of Brazil led by Bolsonaro favour the development of the Amazon rainforest over conservation, escalating deforestation.  Deforestation threatens indigenous populations who live in the forest, loss of a precious and complex ecosystem and a vital carbon store that slows global warming.",
             "additional_details": "Indigenous people have called for the EU to impose trade sanctions on Brazil to halt the deforestation because they fear genocide. Also, the UK parliament has recognised a climate emergency. Since the Amazon rainforest is an important carbon store, absorbing huge volumes of CO2 each year, it's deforestation is of global significance. The intrinsic value of the rainforest should also be recognised.\r\nTrade sanctions are used elsewhere for important issues as an effective means to force action.",
             "state": "open",
-            "signature_count": 123210,
+            "signature_count": 123218,
             "created_at": "2019-07-03T07:11:16.257Z",
-            "updated_at": "2019-11-05T08:16:52.000Z",
+            "updated_at": "2019-11-05T09:02:32.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-24T11:55:58.628Z",
             "closed_at": null,
@@ -555,7 +555,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 120147
+                    "signature_count": 120155
                 },
                 {
                     "name": "United States",
@@ -1635,7 +1635,7 @@
                     "name": "City of Durham",
                     "ons_code": "E14000641",
                     "mp": "Dr Roberta Blackman-Woods MP",
-                    "signature_count": 161
+                    "signature_count": 162
                 },
                 {
                     "name": "Clacton",
@@ -1905,7 +1905,7 @@
                     "name": "East Hampshire",
                     "ons_code": "E14000680",
                     "mp": "Rt Hon Damian Hinds MP",
-                    "signature_count": 327
+                    "signature_count": 328
                 },
                 {
                     "name": "East Londonderry",
@@ -2001,7 +2001,7 @@
                     "name": "Erewash",
                     "ons_code": "E14000695",
                     "mp": "Maggie Throup MP",
-                    "signature_count": 125
+                    "signature_count": 126
                 },
                 {
                     "name": "Erith and Thamesmead",
@@ -2019,7 +2019,7 @@
                     "name": "Exeter",
                     "ons_code": "E14000698",
                     "mp": "Rt Hon Ben Bradshaw MP",
-                    "signature_count": 459
+                    "signature_count": 460
                 },
                 {
                     "name": "Fareham",
@@ -2199,7 +2199,7 @@
                     "name": "Halton",
                     "ons_code": "E14000725",
                     "mp": "Derek Twigg MP",
-                    "signature_count": 89
+                    "signature_count": 90
                 },
                 {
                     "name": "Hammersmith",
@@ -2421,7 +2421,7 @@
                     "name": "Isle of Wight",
                     "ons_code": "E14000762",
                     "mp": "Mr Bob Seely MP",
-                    "signature_count": 325
+                    "signature_count": 326
                 },
                 {
                     "name": "Islington North",
@@ -2865,7 +2865,7 @@
                     "name": "New Forest East",
                     "ons_code": "E14000827",
                     "mp": "Rt Hon Dr Julian Lewis MP",
-                    "signature_count": 225
+                    "signature_count": 226
                 },
                 {
                     "name": "New Forest West",
@@ -3405,7 +3405,7 @@
                     "name": "Rushcliffe",
                     "ons_code": "E14000908",
                     "mp": "Rt Hon Kenneth Clarke QC MP",
-                    "signature_count": 257
+                    "signature_count": 258
                 },
                 {
                     "name": "Rutland and Melton",

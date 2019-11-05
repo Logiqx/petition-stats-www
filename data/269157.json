@@ -10,9 +10,9 @@
             "background": "Parliament must not be prorogued or dissolved unless and until the Article 50 period has been sufficiently extended or the UK's intention to withdraw from the EU has been cancelled.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 1725523,
+            "signature_count": 1725540,
             "created_at": "2019-08-06T08:21:33.311Z",
-            "updated_at": "2019-11-05T08:08:52.000Z",
+            "updated_at": "2019-11-05T09:14:52.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-15T16:04:23.329Z",
             "closed_at": null,
@@ -90,7 +90,7 @@
                 {
                     "name": "Austria",
                     "code": "AT",
-                    "signature_count": 846
+                    "signature_count": 847
                 },
                 {
                     "name": "Azerbaijan",
@@ -325,7 +325,7 @@
                 {
                     "name": "France",
                     "code": "FR",
-                    "signature_count": 15575
+                    "signature_count": 15576
                 },
                 {
                     "name": "French Guiana",
@@ -1005,7 +1005,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 1657394
+                    "signature_count": 1657409
                 },
                 {
                     "name": "United States",
@@ -1253,7 +1253,7 @@
                     "name": "North East Fife",
                     "ons_code": "S14000049",
                     "mp": "Stephen Gethins MP",
-                    "signature_count": 3301
+                    "signature_count": 3302
                 },
                 {
                     "name": "Berwickshire, Roxburgh and Selkirk",
@@ -1691,7 +1691,7 @@
                     "name": "Boston and Skegness",
                     "ons_code": "E14000582",
                     "mp": "Matt Warman MP",
-                    "signature_count": 691
+                    "signature_count": 692
                 },
                 {
                     "name": "Bosworth",
@@ -1763,7 +1763,7 @@
                     "name": "Brentford and Isleworth",
                     "ons_code": "E14000593",
                     "mp": "Ruth Cadbury MP",
-                    "signature_count": 5252
+                    "signature_count": 5253
                 },
                 {
                     "name": "Brentwood and Ongar",
@@ -2027,7 +2027,7 @@
                     "name": "Chelmsford",
                     "ons_code": "E14000628",
                     "mp": "Vicky Ford MP",
-                    "signature_count": 2760
+                    "signature_count": 2761
                 },
                 {
                     "name": "Chelsea and Fulham",
@@ -2177,7 +2177,7 @@
                     "name": "Coventry South",
                     "ons_code": "E14000651",
                     "mp": "Mr Jim Cunningham MP",
-                    "signature_count": 2262
+                    "signature_count": 2263
                 },
                 {
                     "name": "Crawley",
@@ -2327,7 +2327,7 @@
                     "name": "Dwyfor Meirionnydd",
                     "ons_code": "W07000061",
                     "mp": "Rt Hon Liz Saville Roberts MP",
-                    "signature_count": 1544
+                    "signature_count": 1545
                 },
                 {
                     "name": "Ealing Central and Acton",
@@ -2489,7 +2489,7 @@
                     "name": "Exeter",
                     "ons_code": "E14000698",
                     "mp": "Rt Hon Ben Bradshaw MP",
-                    "signature_count": 4720
+                    "signature_count": 4721
                 },
                 {
                     "name": "Fareham",
@@ -3035,7 +3035,7 @@
                     "name": "Leicester West",
                     "ons_code": "E14000784",
                     "mp": "Liz Kendall MP",
-                    "signature_count": 1338
+                    "signature_count": 1339
                 },
                 {
                     "name": "Leigh",
@@ -3461,7 +3461,7 @@
                     "name": "North East Derbyshire",
                     "ons_code": "E14000843",
                     "mp": "Lee Rowley MP",
-                    "signature_count": 1500
+                    "signature_count": 1501
                 },
                 {
                     "name": "North East Hampshire",
@@ -3485,7 +3485,7 @@
                     "name": "North Herefordshire",
                     "ons_code": "E14000847",
                     "mp": "Bill Wiggin MP",
-                    "signature_count": 2689
+                    "signature_count": 2690
                 },
                 {
                     "name": "North Norfolk",
@@ -3509,7 +3509,7 @@
                     "name": "North Swindon",
                     "ons_code": "E14000851",
                     "mp": "Justin Tomlinson MP",
-                    "signature_count": 1723
+                    "signature_count": 1724
                 },
                 {
                     "name": "North Thanet",
@@ -3527,7 +3527,7 @@
                     "name": "North Warwickshire",
                     "ons_code": "E14000854",
                     "mp": "Craig Tracey MP",
-                    "signature_count": 967
+                    "signature_count": 968
                 },
                 {
                     "name": "North West Cambridgeshire",
@@ -4073,7 +4073,7 @@
                     "name": "South Holland and The Deepings",
                     "ons_code": "E14000939",
                     "mp": "Rt Hon Sir John Hayes MP",
-                    "signature_count": 1079
+                    "signature_count": 1080
                 },
                 {
                     "name": "South Leicestershire",
@@ -4709,7 +4709,7 @@
                     "name": "Westmorland and Lonsdale",
                     "ons_code": "E14001037",
                     "mp": "Tim Farron MP",
-                    "signature_count": 3369
+                    "signature_count": 3370
                 },
                 {
                     "name": "Weston-super-Mare",
@@ -4757,7 +4757,7 @@
                     "name": "Witham",
                     "ons_code": "E14001045",
                     "mp": "Rt Hon Priti Patel MP",
-                    "signature_count": 1711
+                    "signature_count": 1712
                 },
                 {
                     "name": "Witney",
