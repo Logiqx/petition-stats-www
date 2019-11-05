@@ -10,9 +10,9 @@
             "background": "Boris Johnson is reported to be \"considering an 'amnesty' for illegal immigrants who have been in Britain for more than 15 years\". It is crucial to make clear the strength of public opinion so as to head off this absurd proposal. Vote now.",
             "additional_details": "- People who wish to come here should use the legal channels.\r\n- Amnesties are manna for traffickers, rewarding illegality.\r\n- The experience of Italy and Spain suggests that they encourage more illegal immigrants.\r\n- The ex-head of immigration enforcement told a Commons committee that there are probably over 1 million illegal migrants in the UK.\r\n- The Home Office estimate for 2001 was 430,000. There could well be half a million who have already been here 15 years.\r\n- The cost could run into billions a year.",
             "state": "open",
-            "signature_count": 35437,
+            "signature_count": 35441,
             "created_at": "2019-07-07T09:28:49.389Z",
-            "updated_at": "2019-11-05T00:15:42.000Z",
+            "updated_at": "2019-11-05T01:05:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-22T14:53:38.217Z",
             "closed_at": null,
@@ -334,7 +334,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 34829
+                    "signature_count": 34833
                 },
                 {
                     "name": "United States",
@@ -812,7 +812,7 @@
                     "name": "Bethnal Green and Bow",
                     "ons_code": "E14000555",
                     "mp": "Rushanara Ali MP",
-                    "signature_count": 51
+                    "signature_count": 52
                 },
                 {
                     "name": "Beverley and Holderness",
@@ -1712,7 +1712,7 @@
                     "name": "Edmonton",
                     "ons_code": "E14000687",
                     "mp": "Kate Osamor MP",
-                    "signature_count": 30
+                    "signature_count": 31
                 },
                 {
                     "name": "Ellesmere Port and Neston",
@@ -1916,7 +1916,7 @@
                     "name": "Greenwich and Woolwich",
                     "ons_code": "E14000718",
                     "mp": "Matthew Pennycook MP",
-                    "signature_count": 75
+                    "signature_count": 76
                 },
                 {
                     "name": "Guildford",
@@ -3446,7 +3446,7 @@
                     "name": "South West Surrey",
                     "ons_code": "E14000953",
                     "mp": "Rt Hon Jeremy Hunt MP",
-                    "signature_count": 50
+                    "signature_count": 51
                 },
                 {
                     "name": "South West Wiltshire",
