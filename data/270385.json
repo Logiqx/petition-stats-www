@@ -10,9 +10,9 @@
             "background": "Brexit is an absolute disaster, possible Medication shortages, a hard border in Ireland which puts peace at risk, job losses. This is 100% not worth it so stop it now!",
             "additional_details": "",
             "state": "open",
-            "signature_count": 39335,
+            "signature_count": 39336,
             "created_at": "2019-08-22T14:45:41.214Z",
-            "updated_at": "2019-11-05T10:17:32.000Z",
+            "updated_at": "2019-11-05T10:43:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-03T10:11:09.533Z",
             "closed_at": null,
@@ -384,7 +384,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 36500
+                    "signature_count": 36501
                 },
                 {
                     "name": "United States",
@@ -2180,7 +2180,7 @@
                     "name": "Hornsey and Wood Green",
                     "ons_code": "E14000752",
                     "mp": "Catherine West MP",
-                    "signature_count": 139
+                    "signature_count": 140
                 },
                 {
                     "name": "Horsham",

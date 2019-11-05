@@ -10,9 +10,9 @@
             "background": "Margiris, the second largest trawler in the world, was spotted off the coast of the Isle of Wight at the end of September.\r\n \r\nThe UK Government should work internationally to ban these trawlers and remove them from UK waters.",
             "additional_details": "Weighing close to 9,500 tonnes, the mammoth commercial fishing vessel is designed to operate fishing trawls, which involves pulling a fishing net through a large body of water. It is thought to process 250 tonnes of fish a day.\r\n \r\nHeavily regulated in some nations, trawling is widely criticised for its lack of selectivity, and the physical damage the trawl inflicts on the seabed. Australia has banned Margiris from operating in its waters.",
             "state": "open",
-            "signature_count": 25524,
+            "signature_count": 25527,
             "created_at": "2019-10-03T17:30:32.582Z",
-            "updated_at": "2019-11-05T10:31:52.000Z",
+            "updated_at": "2019-11-05T10:48:02.000Z",
             "rejected_at": null,
             "opened_at": "2019-10-11T09:07:29.319Z",
             "closed_at": null,
@@ -279,7 +279,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 25190
+                    "signature_count": 25193
                 },
                 {
                     "name": "United States",
@@ -1408,7 +1408,7 @@
                     "name": "Corby",
                     "ons_code": "E14000648",
                     "mp": "Tom Pursglove MP",
-                    "signature_count": 34
+                    "signature_count": 35
                 },
                 {
                     "name": "Coventry North East",
@@ -2140,7 +2140,7 @@
                     "name": "Isle of Wight",
                     "ons_code": "E14000762",
                     "mp": "Mr Bob Seely MP",
-                    "signature_count": 1602
+                    "signature_count": 1603
                 },
                 {
                     "name": "Islington North",
@@ -2872,7 +2872,7 @@
                     "name": "Old Bexley and Sidcup",
                     "ons_code": "E14000869",
                     "mp": "Rt Hon James Brokenshire MP",
-                    "signature_count": 27
+                    "signature_count": 28
                 },
                 {
                     "name": "Oldham East and Saddleworth",

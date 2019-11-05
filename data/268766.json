@@ -10,9 +10,9 @@
             "background": "There should be a statutory minimum sentence for those found carrying a knife, the same as if carrying a firearm. With the reported 33% increase in knife crime since 2011 it is clear that there needs to be serious consideration for the punishment for those carrying offensive weapons. ",
             "additional_details": "The cycle needs to stop and the only way positive results will become evident and we will see a reduction in young murders is if we tighten up on sentencing for those carrying a knife. \r\nIf a young person is caught with a knife and it is their first offence they potentially have no further punishment with the current policy\u2019s around knife crime in place. Unlike those caught with a firearm. How many of those have been let off lightly for knife crimes have then gone on to re offend and use a knife?",
             "state": "open",
-            "signature_count": 72195,
+            "signature_count": 72219,
             "created_at": "2019-07-31T09:01:55.611Z",
-            "updated_at": "2019-11-05T10:33:42.000Z",
+            "updated_at": "2019-11-05T10:48:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-08T09:16:05.754Z",
             "closed_at": null,
@@ -279,7 +279,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 71800
+                    "signature_count": 71824
                 },
                 {
                     "name": "United States",
@@ -641,7 +641,7 @@
                     "name": "Aylesbury",
                     "ons_code": "E14000538",
                     "mp": "Rt Hon Sir David Lidington MP",
-                    "signature_count": 217
+                    "signature_count": 218
                 },
                 {
                     "name": "Banbury",
@@ -683,7 +683,7 @@
                     "name": "Basingstoke",
                     "ons_code": "E14000545",
                     "mp": "Rt Hon Maria Miller MP",
-                    "signature_count": 163
+                    "signature_count": 164
                 },
                 {
                     "name": "Bassetlaw",
@@ -713,13 +713,13 @@
                     "name": "Beaconsfield",
                     "ons_code": "E14000550",
                     "mp": "Rt Hon Dominic Grieve QC MP",
-                    "signature_count": 842
+                    "signature_count": 843
                 },
                 {
                     "name": "Beckenham",
                     "ons_code": "E14000551",
                     "mp": "Bob Stewart MP",
-                    "signature_count": 240
+                    "signature_count": 243
                 },
                 {
                     "name": "Bedford",
@@ -785,7 +785,7 @@
                     "name": "Bexleyheath and Crayford",
                     "ons_code": "E14000558",
                     "mp": "Rt Hon Sir David Evennett MP",
-                    "signature_count": 598
+                    "signature_count": 599
                 },
                 {
                     "name": "Birkenhead",
@@ -1385,7 +1385,7 @@
                     "name": "Colne Valley",
                     "ons_code": "E14000645",
                     "mp": "Thelma Walker MP",
-                    "signature_count": 57
+                    "signature_count": 58
                 },
                 {
                     "name": "Congleton",
@@ -1481,7 +1481,7 @@
                     "name": "Daventry",
                     "ons_code": "E14000660",
                     "mp": "Chris Heaton-Harris MP",
-                    "signature_count": 110
+                    "signature_count": 112
                 },
                 {
                     "name": "Delyn",
@@ -1589,7 +1589,7 @@
                     "name": "Ealing, Southall",
                     "ons_code": "E14000676",
                     "mp": "Mr Virendra Sharma MP",
-                    "signature_count": 552
+                    "signature_count": 553
                 },
                 {
                     "name": "Easington",
@@ -1685,7 +1685,7 @@
                     "name": "Eltham",
                     "ons_code": "E14000690",
                     "mp": "Clive Efford MP",
-                    "signature_count": 770
+                    "signature_count": 771
                 },
                 {
                     "name": "Enfield North",
@@ -1721,7 +1721,7 @@
                     "name": "Erith and Thamesmead",
                     "ons_code": "E14000696",
                     "mp": "Teresa Pearce MP",
-                    "signature_count": 606
+                    "signature_count": 607
                 },
                 {
                     "name": "Esher and Walton",
@@ -1985,7 +1985,7 @@
                     "name": "Hayes and Harlington",
                     "ons_code": "E14000737",
                     "mp": "Rt Hon John McDonnell MP",
-                    "signature_count": 1822
+                    "signature_count": 1823
                 },
                 {
                     "name": "Hazel Grove",
@@ -2267,7 +2267,7 @@
                     "name": "Leicester East",
                     "ons_code": "E14000782",
                     "mp": "Rt Hon Keith Vaz MP",
-                    "signature_count": 56
+                    "signature_count": 57
                 },
                 {
                     "name": "Leicester South",
@@ -2867,7 +2867,7 @@
                     "name": "Old Bexley and Sidcup",
                     "ons_code": "E14000869",
                     "mp": "Rt Hon James Brokenshire MP",
-                    "signature_count": 579
+                    "signature_count": 582
                 },
                 {
                     "name": "Oldham East and Saddleworth",
@@ -3089,7 +3089,7 @@
                     "name": "Rother Valley",
                     "ons_code": "E14000903",
                     "mp": "Rt Hon Sir Kevin Barron MP",
-                    "signature_count": 56
+                    "signature_count": 57
                 },
                 {
                     "name": "Rotherham",
@@ -3461,7 +3461,7 @@
                     "name": "St Helens South and Whiston",
                     "ons_code": "E14000963",
                     "mp": "Ms Marie Rimmer MP",
-                    "signature_count": 1048
+                    "signature_count": 1049
                 },
                 {
                     "name": "St Ives",
@@ -3755,7 +3755,7 @@
                     "name": "Uxbridge and South Ruislip",
                     "ons_code": "E14001007",
                     "mp": "Rt Hon Boris Johnson MP",
-                    "signature_count": 3597
+                    "signature_count": 3599
                 },
                 {
                     "name": "Vale of Clwyd",
@@ -4007,7 +4007,7 @@
                     "name": "Witney",
                     "ons_code": "E14001046",
                     "mp": "Robert Courts MP",
-                    "signature_count": 38
+                    "signature_count": 39
                 },
                 {
                     "name": "Woking",
@@ -4031,7 +4031,7 @@
                     "name": "Wolverhampton South East",
                     "ons_code": "E14001050",
                     "mp": "Rt Hon Pat McFadden MP",
-                    "signature_count": 72
+                    "signature_count": 73
                 },
                 {
                     "name": "Wolverhampton South West",

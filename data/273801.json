@@ -10,9 +10,9 @@
             "background": "I would like to request the government to bring the date for the 2-year post-study work visa closer to help current international students (i.e. students graduating before 2021) benefit from this too. It would be unfair to current international students otherwise.",
             "additional_details": "It is a big achievement to be reintroducing the 2-year post-study work visa after it was removed by Theresa May in 2012 \u2014 I am so glad to see such a progressive step towards building a stronger global community here in the UK. \r\n\r\nStories of a few current international students that could benefit from this are available here: https://bbc.in/2Q4WXKi\r\n\r\nFurther details on the new visa can be found here: http://bit.ly/2PZFCSL",
             "state": "open",
-            "signature_count": 30145,
+            "signature_count": 30150,
             "created_at": "2019-09-11T16:43:44.043Z",
-            "updated_at": "2019-11-05T10:30:32.000Z",
+            "updated_at": "2019-11-05T10:41:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-17T13:02:12.984Z",
             "closed_at": null,
@@ -324,7 +324,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 29686
+                    "signature_count": 29691
                 },
                 {
                     "name": "United States",
@@ -411,7 +411,7 @@
                     "name": "Glasgow North",
                     "ons_code": "S14000031",
                     "mp": "Patrick Grady MP",
-                    "signature_count": 398
+                    "signature_count": 399
                 },
                 {
                     "name": "Glasgow North East",
@@ -783,7 +783,7 @@
                     "name": "Bermondsey and Old Southwark",
                     "ons_code": "E14000553",
                     "mp": "Neil Coyle MP",
-                    "signature_count": 471
+                    "signature_count": 472
                 },
                 {
                     "name": "Berwick-upon-Tweed",
@@ -1161,7 +1161,7 @@
                     "name": "Cambridge",
                     "ons_code": "E14000617",
                     "mp": "Daniel Zeichner MP",
-                    "signature_count": 412
+                    "signature_count": 413
                 },
                 {
                     "name": "Cannock Chase",
@@ -2133,7 +2133,7 @@
                     "name": "Kingston and Surbiton",
                     "ons_code": "E14000770",
                     "mp": "Rt Hon Sir Edward Davey MP",
-                    "signature_count": 174
+                    "signature_count": 175
                 },
                 {
                     "name": "Kingston upon Hull East",
@@ -3783,7 +3783,7 @@
                     "name": "West Ham",
                     "ons_code": "E14001032",
                     "mp": "Lyn Brown MP",
-                    "signature_count": 394
+                    "signature_count": 395
                 },
                 {
                     "name": "West Lancashire",
