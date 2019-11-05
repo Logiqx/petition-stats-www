@@ -10,9 +10,9 @@
             "background": "The government is proposing to raise the retirement age to 68 years with a further proposal to increase this for future generations to 70 years of age.The government should halt any future changes and leave the retirement age at 67 or even reverse it back to 65 for men 60 for women.",
             "additional_details": "The decision made was based on the Cridland report and that are life expectancy is going to be longer when in fact its been proven that this trend is now stalling, below is a link to a government website which confirm UK life expectancy.\r\n\r\nhttps://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/bulletins/nationallifetablesunitedkingdom/2015to2017\r\n\r\nhttps://www.gov.uk/government/news/proposed-new-timetable-for-state-pension-age-increases",
             "state": "open",
-            "signature_count": 17152,
+            "signature_count": 17153,
             "created_at": "2019-06-17T08:28:33.464Z",
-            "updated_at": "2019-11-05T08:58:52.000Z",
+            "updated_at": "2019-11-05T09:31:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-15T14:36:10.770Z",
             "closed_at": null,
@@ -204,7 +204,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 17009
+                    "signature_count": 17010
                 },
                 {
                     "name": "United States",
@@ -444,7 +444,7 @@
                     "name": "Ross, Skye and Lochaber",
                     "ons_code": "S14000055",
                     "mp": "Rt Hon Ian Blackford MP",
-                    "signature_count": 47
+                    "signature_count": 48
                 },
                 {
                     "name": "Rutherglen and Hamilton West",

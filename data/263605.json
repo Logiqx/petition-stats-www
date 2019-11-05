@@ -10,9 +10,9 @@
             "background": "Climate agreements and civil laws have failed to prevent escalating harm to the Earth. A criminal law of ECOCIDE would criminalise practices known to destroy ecosystems and/or exacerbate climate breakdown. It's the only way to force industry to change direction.",
             "additional_details": "ECOCIDE is defined as \u201cextensive loss or damage to, or destruction of ecosystem(s) of a given territory(ies), such that peaceful enjoyment by the inhabitants has been or will be severely diminished.\u201d [Submitted to UN Law Commission, 2010 by UK barrister Polly Higgins.] To establish seriousness, impact(s) must be widespread or long-term or severe. As with other atrocity crimes, those liable to prosecution will be persons of superior responsibility such as CEOs and government ministers.",
             "state": "open",
-            "signature_count": 21780,
+            "signature_count": 21790,
             "created_at": "2019-06-05T10:42:42.785Z",
-            "updated_at": "2019-11-05T09:12:32.000Z",
+            "updated_at": "2019-11-05T09:52:02.000Z",
             "rejected_at": null,
             "opened_at": "2019-06-19T16:47:41.354Z",
             "closed_at": null,
@@ -119,7 +119,7 @@
                 {
                     "name": "France",
                     "code": "FR",
-                    "signature_count": 55
+                    "signature_count": 56
                 },
                 {
                     "name": "Germany",
@@ -294,7 +294,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 21402
+                    "signature_count": 21411
                 },
                 {
                     "name": "United States",
@@ -600,7 +600,7 @@
                     "name": "Amber Valley",
                     "ons_code": "E14000533",
                     "mp": "Nigel Mills MP",
-                    "signature_count": 22
+                    "signature_count": 23
                 },
                 {
                     "name": "Arfon",
@@ -756,7 +756,7 @@
                     "name": "Berwick-upon-Tweed",
                     "ons_code": "E14000554",
                     "mp": "Anne-Marie Trevelyan MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "Bethnal Green and Bow",
@@ -1038,7 +1038,7 @@
                     "name": "Brighton, Pavilion",
                     "ons_code": "E14000598",
                     "mp": "Caroline Lucas MP",
-                    "signature_count": 222
+                    "signature_count": 224
                 },
                 {
                     "name": "Bristol East",
@@ -1158,7 +1158,7 @@
                     "name": "Cambridge",
                     "ons_code": "E14000617",
                     "mp": "Daniel Zeichner MP",
-                    "signature_count": 102
+                    "signature_count": 103
                 },
                 {
                     "name": "Cannock Chase",
@@ -1308,7 +1308,7 @@
                     "name": "Chippenham",
                     "ons_code": "E14000635",
                     "mp": "Michelle Donelan MP",
-                    "signature_count": 57
+                    "signature_count": 58
                 },
                 {
                     "name": "Chipping Barnet",
@@ -2988,7 +2988,7 @@
                     "name": "Rayleigh and Wickford",
                     "ons_code": "E14000888",
                     "mp": "Rt Hon Mark Francois MP",
-                    "signature_count": 12
+                    "signature_count": 13
                 },
                 {
                     "name": "Reading East",
@@ -3390,7 +3390,7 @@
                     "name": "South West Norfolk",
                     "ons_code": "E14000952",
                     "mp": "Rt Hon Elizabeth Truss MP",
-                    "signature_count": 28
+                    "signature_count": 29
                 },
                 {
                     "name": "South West Surrey",
@@ -3600,7 +3600,7 @@
                     "name": "Swansea East",
                     "ons_code": "W07000048",
                     "mp": "Carolyn Harris MP",
-                    "signature_count": 16
+                    "signature_count": 17
                 },
                 {
                     "name": "Swansea West",

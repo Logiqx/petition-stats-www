@@ -10,9 +10,9 @@
             "background": "The air ambulances that operate around the UK cost around \u00a312,000 per day to run and maintain, and are mainly funded through charity organisations. This petition is to ask the Government to fully fund the air ambulances through the emergency services.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 133982,
+            "signature_count": 133988,
             "created_at": "2019-05-01T10:42:46.604Z",
-            "updated_at": "2019-11-05T09:17:32.000Z",
+            "updated_at": "2019-11-05T09:51:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-06-04T17:46:01.722Z",
             "closed_at": null,
@@ -394,7 +394,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 132616
+                    "signature_count": 132622
                 },
                 {
                     "name": "United States",
@@ -1023,7 +1023,7 @@
                     "name": "Blyth Valley",
                     "ons_code": "E14000575",
                     "mp": "Mr Ronnie Campbell MP",
-                    "signature_count": 301
+                    "signature_count": 302
                 },
                 {
                     "name": "Bognor Regis and Littlehampton",
@@ -1773,7 +1773,7 @@
                     "name": "East Yorkshire",
                     "ons_code": "E14000683",
                     "mp": "Rt Hon Sir Greg Knight MP",
-                    "signature_count": 1182
+                    "signature_count": 1183
                 },
                 {
                     "name": "Eastbourne",
@@ -2913,7 +2913,7 @@
                     "name": "North West Durham",
                     "ons_code": "E14000856",
                     "mp": "Laura Pidcock MP",
-                    "signature_count": 529
+                    "signature_count": 530
                 },
                 {
                     "name": "North West Hampshire",
@@ -2931,7 +2931,7 @@
                     "name": "North West Norfolk",
                     "ons_code": "E14000859",
                     "mp": "Sir Henry Bellingham MP",
-                    "signature_count": 203
+                    "signature_count": 204
                 },
                 {
                     "name": "North Wiltshire",
@@ -3681,7 +3681,7 @@
                     "name": "Stratford-on-Avon",
                     "ons_code": "E14000977",
                     "mp": "Nadhim Zahawi MP",
-                    "signature_count": 189
+                    "signature_count": 191
                 },
                 {
                     "name": "Streatham",

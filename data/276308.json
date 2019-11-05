@@ -10,9 +10,9 @@
             "background": "Margiris, the second largest trawler in the world, was spotted off the coast of the Isle of Wight at the end of September.\r\n \r\nThe UK Government should work internationally to ban these trawlers and remove them from UK waters.",
             "additional_details": "Weighing close to 9,500 tonnes, the mammoth commercial fishing vessel is designed to operate fishing trawls, which involves pulling a fishing net through a large body of water. It is thought to process 250 tonnes of fish a day.\r\n \r\nHeavily regulated in some nations, trawling is widely criticised for its lack of selectivity, and the physical damage the trawl inflicts on the seabed. Australia has banned Margiris from operating in its waters.",
             "state": "open",
-            "signature_count": 25510,
+            "signature_count": 25516,
             "created_at": "2019-10-03T17:30:32.582Z",
-            "updated_at": "2019-11-05T09:17:42.000Z",
+            "updated_at": "2019-11-05T09:48:32.000Z",
             "rejected_at": null,
             "opened_at": "2019-10-11T09:07:29.319Z",
             "closed_at": null,
@@ -279,7 +279,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 25176
+                    "signature_count": 25182
                 },
                 {
                     "name": "United States",
@@ -1684,7 +1684,7 @@
                     "name": "Elmet and Rothwell",
                     "ons_code": "E14000689",
                     "mp": "Rt Hon Alec Shelbrooke MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "Eltham",
@@ -2650,7 +2650,7 @@
                     "name": "Newton Abbot",
                     "ons_code": "E14000835",
                     "mp": "Anne Marie Morris MP",
-                    "signature_count": 143
+                    "signature_count": 144
                 },
                 {
                     "name": "Normanton, Pontefract and Castleford",
@@ -2854,7 +2854,7 @@
                     "name": "Nottingham South",
                     "ons_code": "E14000867",
                     "mp": "Lilian Greenwood MP",
-                    "signature_count": 14
+                    "signature_count": 15
                 },
                 {
                     "name": "Nuneaton",
@@ -3010,7 +3010,7 @@
                     "name": "Reading West",
                     "ons_code": "E14000890",
                     "mp": "Rt Hon Alok Sharma MP",
-                    "signature_count": 22
+                    "signature_count": 23
                 },
                 {
                     "name": "Redcar",
@@ -3334,7 +3334,7 @@
                     "name": "South Norfolk",
                     "ons_code": "E14000941",
                     "mp": "Mr Richard Bacon MP",
-                    "signature_count": 31
+                    "signature_count": 32
                 },
                 {
                     "name": "South Northamptonshire",
@@ -3712,7 +3712,7 @@
                     "name": "Torridge and West Devon",
                     "ons_code": "E14001000",
                     "mp": "Rt Hon Geoffrey Cox QC MP",
-                    "signature_count": 153
+                    "signature_count": 154
                 },
                 {
                     "name": "Totnes",

@@ -10,9 +10,9 @@
             "background": "Chris Packham, Ruth Tingay and Mark Avery (Wild Justice) believe that intensive grouse shooting is bad for people, the environment and wildlife. People; grouse shooting is economically insignificant when contrasted with other real and potential uses of the UK\u2019s uplands.",
             "additional_details": "Environment; muirburn impacts negatively upon climate change and drainage leads to flooding and erosion. Wildlife; the wholesale culling of all predators and Mountain Hares has a disastrous effect on the ecology of these areas and the industry is underpinned by a criminal tradition of raptor persecution which shows no signs of abating. It\u2019s time to provide an opportunity to implement immediate , legislative and meaningful measures to address this abhorrently destructive practice.",
             "state": "open",
-            "signature_count": 111869,
+            "signature_count": 111878,
             "created_at": "2019-07-04T21:22:54.456Z",
-            "updated_at": "2019-11-05T09:09:52.000Z",
+            "updated_at": "2019-11-05T09:43:22.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-13T15:24:03.152Z",
             "closed_at": null,
@@ -389,7 +389,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 110172
+                    "signature_count": 110181
                 },
                 {
                     "name": "United States",
@@ -432,7 +432,7 @@
                     "name": "Edinburgh East",
                     "ons_code": "S14000022",
                     "mp": "Tommy Sheppard MP",
-                    "signature_count": 339
+                    "signature_count": 341
                 },
                 {
                     "name": "Edinburgh North and Leith",
@@ -648,7 +648,7 @@
                     "name": "Perth and North Perthshire",
                     "ons_code": "S14000054",
                     "mp": "Pete Wishart MP",
-                    "signature_count": 300
+                    "signature_count": 301
                 },
                 {
                     "name": "Ross, Skye and Lochaber",
@@ -1410,7 +1410,7 @@
                     "name": "Chesterfield",
                     "ons_code": "E14000632",
                     "mp": "Toby Perkins MP",
-                    "signature_count": 191
+                    "signature_count": 192
                 },
                 {
                     "name": "Chichester",
@@ -1590,7 +1590,7 @@
                     "name": "Dartford",
                     "ons_code": "E14000659",
                     "mp": "Gareth Johnson MP",
-                    "signature_count": 124
+                    "signature_count": 125
                 },
                 {
                     "name": "Daventry",
@@ -1680,7 +1680,7 @@
                     "name": "Dulwich and West Norwood",
                     "ons_code": "E14000673",
                     "mp": "Helen Hayes MP",
-                    "signature_count": 194
+                    "signature_count": 195
                 },
                 {
                     "name": "Dwyfor Meirionnydd",
@@ -1692,7 +1692,7 @@
                     "name": "Ealing Central and Acton",
                     "ons_code": "E14000674",
                     "mp": "Dr Rupa Huq MP",
-                    "signature_count": 120
+                    "signature_count": 121
                 },
                 {
                     "name": "Ealing North",
@@ -1764,7 +1764,7 @@
                     "name": "Eastbourne",
                     "ons_code": "E14000684",
                     "mp": "Stephen Lloyd MP",
-                    "signature_count": 162
+                    "signature_count": 163
                 },
                 {
                     "name": "Eastleigh",
@@ -2484,7 +2484,7 @@
                     "name": "Louth and Horncastle",
                     "ons_code": "E14000798",
                     "mp": "Victoria Atkins MP",
-                    "signature_count": 221
+                    "signature_count": 222
                 },
                 {
                     "name": "Ludlow",

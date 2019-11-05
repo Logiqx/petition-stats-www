@@ -10,9 +10,9 @@
             "background": "It\u2019s far too easy for online trolls to just create another email address and another social media account if they have their accounts suspended. ",
             "additional_details": "However if their internet service providers were required to block their access to social media, and social media companies blocked their IP addresses, it would be far harder for them to get another account and continue their abuse. \r\n \r\n",
             "state": "open",
-            "signature_count": 133524,
+            "signature_count": 133531,
             "created_at": "2019-09-02T18:22:10.908Z",
-            "updated_at": "2019-11-05T09:13:12.000Z",
+            "updated_at": "2019-11-05T09:40:32.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-10T16:19:49.877Z",
             "closed_at": null,
@@ -384,7 +384,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 132598
+                    "signature_count": 132605
                 },
                 {
                     "name": "United States",
@@ -742,7 +742,7 @@
                     "name": "Banbury",
                     "ons_code": "E14000539",
                     "mp": "Victoria Prentis MP",
-                    "signature_count": 269
+                    "signature_count": 270
                 },
                 {
                     "name": "Barking",
@@ -1042,7 +1042,7 @@
                     "name": "Bournemouth East",
                     "ons_code": "E14000584",
                     "mp": "Rt Hon Tobias Ellwood MP",
-                    "signature_count": 249
+                    "signature_count": 250
                 },
                 {
                     "name": "Bournemouth West",
@@ -1504,7 +1504,7 @@
                     "name": "Coventry North East",
                     "ons_code": "E14000649",
                     "mp": "Colleen Fletcher MP",
-                    "signature_count": 193
+                    "signature_count": 194
                 },
                 {
                     "name": "Coventry North West",
@@ -2212,7 +2212,7 @@
                     "name": "Ilford North",
                     "ons_code": "E14000759",
                     "mp": "Wes Streeting MP",
-                    "signature_count": 171
+                    "signature_count": 172
                 },
                 {
                     "name": "Ilford South",
@@ -2896,7 +2896,7 @@
                     "name": "North West Norfolk",
                     "ons_code": "E14000859",
                     "mp": "Sir Henry Bellingham MP",
-                    "signature_count": 194
+                    "signature_count": 195
                 },
                 {
                     "name": "North Wiltshire",
@@ -2968,7 +2968,7 @@
                     "name": "Oldham East and Saddleworth",
                     "ons_code": "E14000870",
                     "mp": "Debbie Abrahams MP",
-                    "signature_count": 211
+                    "signature_count": 212
                 },
                 {
                     "name": "Oldham West and Royton",
@@ -4186,7 +4186,7 @@
                     "name": "Wythenshawe and Sale East",
                     "ons_code": "E14001059",
                     "mp": "Mike Kane MP",
-                    "signature_count": 257
+                    "signature_count": 258
                 },
                 {
                     "name": "Yeovil",

@@ -10,9 +10,9 @@
             "background": "HM Revenue and Customs (HMRC) is set to increase VAT from 5% to 20% for the installation of a number of renewable and sustainable energy sources, such as solar panels from 1st October.\r\n\r\nWith the current climate emergency, the HMRC should be encouraging renewables by removing VAT not increasing it.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 12446,
+            "signature_count": 12447,
             "created_at": "2019-05-10T07:36:39.311Z",
-            "updated_at": "2019-11-05T08:25:02.000Z",
+            "updated_at": "2019-11-05T09:26:32.000Z",
             "rejected_at": null,
             "opened_at": "2019-06-12T11:47:52.160Z",
             "closed_at": null,
@@ -219,7 +219,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 12315
+                    "signature_count": 12316
                 },
                 {
                     "name": "United States",
@@ -2577,7 +2577,7 @@
                     "name": "North Devon",
                     "ons_code": "E14000838",
                     "mp": "Peter Heaton-Jones MP",
-                    "signature_count": 42
+                    "signature_count": 43
                 },
                 {
                     "name": "North Dorset",

@@ -10,9 +10,9 @@
             "background": "Tool theft is ruining the livelihoods of UK tradespeople, and the problem\u2019s getting worse.\r\n\r\nTo combat the issue, we are calling for the introduction of tighter regulation when it comes to the selling of secondhand tools, and greater minimum fines for those convicted of tool theft.",
             "additional_details": "For a tradesperson, tool theft removes your ability to earn an income. Latest research suggests that more than 1 in 3 have had their tools stolen and that it costs victims over \u00a33k on average.\r\n\r\nPreventative measures are crucial, but will never be enough. The peel and steal technique and the rise of keyless entry thefts show that thieves are becoming increasingly sophisticated.\r\n\r\nGreater deterrents and taking away the incentive to steal tools in the first place will help to Stamp Out Tool Theft.",
             "state": "open",
-            "signature_count": 31921,
+            "signature_count": 31924,
             "created_at": "2019-09-12T10:03:07.124Z",
-            "updated_at": "2019-11-05T09:13:42.000Z",
+            "updated_at": "2019-11-05T09:52:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-18T07:14:56.255Z",
             "closed_at": null,
@@ -194,7 +194,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 31792
+                    "signature_count": 31795
                 },
                 {
                     "name": "United States",
@@ -1019,7 +1019,7 @@
                     "name": "Burnley",
                     "ons_code": "E14000609",
                     "mp": "Julie Cooper MP",
-                    "signature_count": 36
+                    "signature_count": 37
                 },
                 {
                     "name": "Burton",
@@ -2219,7 +2219,7 @@
                     "name": "Lewisham, Deptford",
                     "ons_code": "E14000789",
                     "mp": "Vicky Foxcroft MP",
-                    "signature_count": 16
+                    "signature_count": 17
                 },
                 {
                     "name": "Leyton and Wanstead",
@@ -2747,7 +2747,7 @@
                     "name": "Nottingham East",
                     "ons_code": "E14000865",
                     "mp": "Mr Chris Leslie MP",
-                    "signature_count": 21
+                    "signature_count": 22
                 },
                 {
                     "name": "Nottingham North",

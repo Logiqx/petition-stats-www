@@ -10,9 +10,9 @@
             "background": "Boris Johnson is reported to be \"considering an 'amnesty' for illegal immigrants who have been in Britain for more than 15 years\". It is crucial to make clear the strength of public opinion so as to head off this absurd proposal. Vote now.",
             "additional_details": "- People who wish to come here should use the legal channels.\r\n- Amnesties are manna for traffickers, rewarding illegality.\r\n- The experience of Italy and Spain suggests that they encourage more illegal immigrants.\r\n- The ex-head of immigration enforcement told a Commons committee that there are probably over 1 million illegal migrants in the UK.\r\n- The Home Office estimate for 2001 was 430,000. There could well be half a million who have already been here 15 years.\r\n- The cost could run into billions a year.",
             "state": "open",
-            "signature_count": 35476,
+            "signature_count": 35487,
             "created_at": "2019-07-07T09:28:49.389Z",
-            "updated_at": "2019-11-05T09:13:42.000Z",
+            "updated_at": "2019-11-05T09:47:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-22T14:53:38.217Z",
             "closed_at": null,
@@ -334,7 +334,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 34868
+                    "signature_count": 34879
                 },
                 {
                     "name": "United States",
@@ -902,7 +902,7 @@
                     "name": "Blackburn",
                     "ons_code": "E14000570",
                     "mp": "Kate Hollern MP",
-                    "signature_count": 47
+                    "signature_count": 48
                 },
                 {
                     "name": "Blackley and Broughton",
@@ -1316,7 +1316,7 @@
                     "name": "Chelmsford",
                     "ons_code": "E14000628",
                     "mp": "Vicky Ford MP",
-                    "signature_count": 55
+                    "signature_count": 56
                 },
                 {
                     "name": "Chelsea and Fulham",
@@ -1496,7 +1496,7 @@
                     "name": "Croydon South",
                     "ons_code": "E14000656",
                     "mp": "Chris Philp MP",
-                    "signature_count": 66
+                    "signature_count": 67
                 },
                 {
                     "name": "Cynon Valley",
@@ -2162,7 +2162,7 @@
                     "name": "Ilford North",
                     "ons_code": "E14000759",
                     "mp": "Wes Streeting MP",
-                    "signature_count": 63
+                    "signature_count": 65
                 },
                 {
                     "name": "Ilford South",
@@ -2252,7 +2252,7 @@
                     "name": "Kingston upon Hull West and Hessle",
                     "ons_code": "E14000773",
                     "mp": "Emma Hardy MP",
-                    "signature_count": 65
+                    "signature_count": 66
                 },
                 {
                     "name": "Kingswood",
@@ -2732,7 +2732,7 @@
                     "name": "North Durham",
                     "ons_code": "E14000840",
                     "mp": "Rt Hon Kevan Jones MP",
-                    "signature_count": 56
+                    "signature_count": 57
                 },
                 {
                     "name": "North East Bedfordshire",
@@ -3050,7 +3050,7 @@
                     "name": "Reading West",
                     "ons_code": "E14000890",
                     "mp": "Rt Hon Alok Sharma MP",
-                    "signature_count": 46
+                    "signature_count": 47
                 },
                 {
                     "name": "Redcar",
@@ -3680,7 +3680,7 @@
                     "name": "Telford",
                     "ons_code": "E14000989",
                     "mp": "Lucy Allan MP",
-                    "signature_count": 47
+                    "signature_count": 48
                 },
                 {
                     "name": "Tewkesbury",
@@ -3698,7 +3698,7 @@
                     "name": "The Wrekin",
                     "ons_code": "E14000992",
                     "mp": "Mark Pritchard MP",
-                    "signature_count": 47
+                    "signature_count": 48
                 },
                 {
                     "name": "Thirsk and Malton",
@@ -4088,7 +4088,7 @@
                     "name": "Worcester",
                     "ons_code": "E14001052",
                     "mp": "Mr Robin Walker MP",
-                    "signature_count": 45
+                    "signature_count": 46
                 },
                 {
                     "name": "Workington",

@@ -10,9 +10,9 @@
             "background": "Our pensioners are paid a pittance compared to pensioners from other countries. Make parliament increase the state pension to the same rate as the minimum wage based on a forty hour week.\r\n\u00a38.21p x 40 = \u00a3328.40p per week. If we can spend sixty six billion on Brexit we can afford to pay pensions",
             "additional_details": "We pay the lowest state pensions in the western world.\r\nLet\u2019s link the state pension to the minimum wage. \r\n\u00a38.21p x 40 hours = \u00a3328.40p.\r\nOur government had spent sixty six billion pounds on Brexit todate.\r\nWe can afford to pay, value and respect our pensioners for fifty years of working and contributing to Britain\u2019s economy.",
             "state": "open",
-            "signature_count": 38489,
+            "signature_count": 38500,
             "created_at": "2019-08-10T13:35:48.149Z",
-            "updated_at": "2019-11-05T09:14:22.000Z",
+            "updated_at": "2019-11-05T09:53:52.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-20T14:15:16.928Z",
             "closed_at": null,
@@ -319,7 +319,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 37451
+                    "signature_count": 37462
                 },
                 {
                     "name": "United States",
@@ -1370,7 +1370,7 @@
                     "name": "Chorley",
                     "ons_code": "E14000637",
                     "mp": "Rt Hon Sir Lindsay Hoyle MP",
-                    "signature_count": 95
+                    "signature_count": 96
                 },
                 {
                     "name": "Christchurch",
@@ -1820,7 +1820,7 @@
                     "name": "Folkestone and Hythe",
                     "ons_code": "E14000704",
                     "mp": "Damian Collins MP",
-                    "signature_count": 80
+                    "signature_count": 81
                 },
                 {
                     "name": "Forest of Dean",
@@ -2522,7 +2522,7 @@
                     "name": "Mid Derbyshire",
                     "ons_code": "E14000814",
                     "mp": "Mrs Pauline Latham MP",
-                    "signature_count": 61
+                    "signature_count": 62
                 },
                 {
                     "name": "Mid Dorset and North Poole",
@@ -2690,7 +2690,7 @@
                     "name": "Newton Abbot",
                     "ons_code": "E14000835",
                     "mp": "Anne Marie Morris MP",
-                    "signature_count": 74
+                    "signature_count": 75
                 },
                 {
                     "name": "Normanton, Pontefract and Castleford",
@@ -2918,7 +2918,7 @@
                     "name": "Oldham East and Saddleworth",
                     "ons_code": "E14000870",
                     "mp": "Debbie Abrahams MP",
-                    "signature_count": 122
+                    "signature_count": 123
                 },
                 {
                     "name": "Oldham West and Royton",
@@ -3008,7 +3008,7 @@
                     "name": "Portsmouth South",
                     "ons_code": "E14000884",
                     "mp": "Stephen Morgan MP",
-                    "signature_count": 57
+                    "signature_count": 58
                 },
                 {
                     "name": "Preseli Pembrokeshire",
@@ -3050,7 +3050,7 @@
                     "name": "Reading West",
                     "ons_code": "E14000890",
                     "mp": "Rt Hon Alok Sharma MP",
-                    "signature_count": 34
+                    "signature_count": 35
                 },
                 {
                     "name": "Redcar",
@@ -3572,7 +3572,7 @@
                     "name": "Stoke-on-Trent South",
                     "ons_code": "E14000974",
                     "mp": "Jack Brereton MP",
-                    "signature_count": 47
+                    "signature_count": 48
                 },
                 {
                     "name": "Stone",
@@ -3854,13 +3854,13 @@
                     "name": "Wansbeck",
                     "ons_code": "E14001014",
                     "mp": "Ian Lavery MP",
-                    "signature_count": 73
+                    "signature_count": 74
                 },
                 {
                     "name": "Wantage",
                     "ons_code": "E14001015",
                     "mp": "Rt Hon Edward Vaizey MP",
-                    "signature_count": 50
+                    "signature_count": 51
                 },
                 {
                     "name": "Warley",
@@ -4028,7 +4028,7 @@
                     "name": "Windsor",
                     "ons_code": "E14001042",
                     "mp": "Adam Afriyie MP",
-                    "signature_count": 54
+                    "signature_count": 55
                 },
                 {
                     "name": "Wirral South",

@@ -10,9 +10,9 @@
             "background": "I would like to request the government to bring the date for the 2-year post-study work visa closer to help current international students (i.e. students graduating before 2021) benefit from this too. It would be unfair to current international students otherwise.",
             "additional_details": "It is a big achievement to be reintroducing the 2-year post-study work visa after it was removed by Theresa May in 2012 \u2014 I am so glad to see such a progressive step towards building a stronger global community here in the UK. \r\n\r\nStories of a few current international students that could benefit from this are available here: https://bbc.in/2Q4WXKi\r\n\r\nFurther details on the new visa can be found here: http://bit.ly/2PZFCSL",
             "state": "open",
-            "signature_count": 30118,
+            "signature_count": 30130,
             "created_at": "2019-09-11T16:43:44.043Z",
-            "updated_at": "2019-11-05T09:14:42.000Z",
+            "updated_at": "2019-11-05T09:51:02.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-17T13:02:12.984Z",
             "closed_at": null,
@@ -324,7 +324,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 29660
+                    "signature_count": 29672
                 },
                 {
                     "name": "United States",
@@ -507,7 +507,7 @@
                     "name": "Aberdeen South",
                     "ons_code": "S14000002",
                     "mp": "Ross Thomson MP",
-                    "signature_count": 68
+                    "signature_count": 69
                 },
                 {
                     "name": "Moray",
@@ -735,7 +735,7 @@
                     "name": "Battersea",
                     "ons_code": "E14000549",
                     "mp": "Marsha De Cordova MP",
-                    "signature_count": 143
+                    "signature_count": 144
                 },
                 {
                     "name": "Beaconsfield",
@@ -1449,7 +1449,7 @@
                     "name": "Dartford",
                     "ons_code": "E14000659",
                     "mp": "Gareth Johnson MP",
-                    "signature_count": 15
+                    "signature_count": 16
                 },
                 {
                     "name": "Daventry",
@@ -1965,7 +1965,7 @@
                     "name": "Henley",
                     "ons_code": "E14000742",
                     "mp": "John Howell MP",
-                    "signature_count": 15
+                    "signature_count": 16
                 },
                 {
                     "name": "Hereford and South Herefordshire",
@@ -2253,7 +2253,7 @@
                     "name": "Lewisham, Deptford",
                     "ons_code": "E14000789",
                     "mp": "Vicky Foxcroft MP",
-                    "signature_count": 191
+                    "signature_count": 192
                 },
                 {
                     "name": "Leyton and Wanstead",
@@ -2325,7 +2325,7 @@
                     "name": "Luton South",
                     "ons_code": "E14000801",
                     "mp": "Mr Gavin Shuker MP",
-                    "signature_count": 154
+                    "signature_count": 155
                 },
                 {
                     "name": "Macclesfield",
@@ -2541,7 +2541,7 @@
                     "name": "Newcastle upon Tyne Central",
                     "ons_code": "E14000831",
                     "mp": "Chi Onwurah MP",
-                    "signature_count": 364
+                    "signature_count": 366
                 },
                 {
                     "name": "Newcastle upon Tyne East",
@@ -2733,7 +2733,7 @@
                     "name": "Northampton North",
                     "ons_code": "E14000861",
                     "mp": "Rt Hon Michael Ellis MP",
-                    "signature_count": 77
+                    "signature_count": 78
                 },
                 {
                     "name": "Northampton South",
@@ -3105,7 +3105,7 @@
                     "name": "Sheffield, Brightside and Hillsborough",
                     "ons_code": "E14000921",
                     "mp": "Gill Furniss MP",
-                    "signature_count": 18
+                    "signature_count": 19
                 },
                 {
                     "name": "Sheffield, Hallam",
@@ -3753,7 +3753,7 @@
                     "name": "Welwyn Hatfield",
                     "ons_code": "E14001027",
                     "mp": "Rt Hon Grant Shapps MP",
-                    "signature_count": 251
+                    "signature_count": 252
                 },
                 {
                     "name": "Wentworth and Dearne",

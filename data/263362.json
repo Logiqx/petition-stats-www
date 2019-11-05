@@ -10,9 +10,9 @@
             "background": "Peat is vital in the fight against climate breakdown as it stores vast amounts of carbon. It also provides habitat for a diverse range of wildlife. Therefore we should not be using peat compost to improve the soil in our gardens. Other organic matter is available and is effective for growers.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 12846,
+            "signature_count": 12849,
             "created_at": "2019-06-03T08:44:15.768Z",
-            "updated_at": "2019-11-05T09:07:42.000Z",
+            "updated_at": "2019-11-05T09:47:52.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-01T14:40:15.315Z",
             "closed_at": null,
@@ -194,7 +194,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 12679
+                    "signature_count": 12682
                 },
                 {
                     "name": "United States",
@@ -926,7 +926,7 @@
                     "name": "Brigg and Goole",
                     "ons_code": "E14000596",
                     "mp": "Andrew Percy MP",
-                    "signature_count": 15
+                    "signature_count": 16
                 },
                 {
                     "name": "Brighton, Kemptown",
@@ -1574,7 +1574,7 @@
                     "name": "Elmet and Rothwell",
                     "ons_code": "E14000689",
                     "mp": "Rt Hon Alec Shelbrooke MP",
-                    "signature_count": 24
+                    "signature_count": 25
                 },
                 {
                     "name": "Eltham",
@@ -2024,7 +2024,7 @@
                     "name": "Ipswich",
                     "ons_code": "E14000761",
                     "mp": "Sandy Martin MP",
-                    "signature_count": 17
+                    "signature_count": 18
                 },
                 {
                     "name": "Isle of Wight",

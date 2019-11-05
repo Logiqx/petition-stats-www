@@ -10,9 +10,9 @@
             "background": "Have worked since I was 16 and planned for my retirement at 60. Due to unfair government changes I will not get state pension until I am 66.",
             "additional_details": "Born in England 1955. Have worked hard all my life not knowing another 6 years would be added to pensionable age.",
             "state": "open",
-            "signature_count": 17553,
+            "signature_count": 17563,
             "created_at": "2019-06-05T12:39:24.454Z",
-            "updated_at": "2019-11-05T09:12:12.000Z",
+            "updated_at": "2019-11-05T09:51:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-10T09:51:20.946Z",
             "closed_at": null,
@@ -184,7 +184,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 17177
+                    "signature_count": 17187
                 },
                 {
                     "name": "United States",
@@ -769,7 +769,7 @@
                     "name": "Blackpool North and Cleveleys",
                     "ons_code": "E14000572",
                     "mp": "Paul Maynard MP",
-                    "signature_count": 45
+                    "signature_count": 46
                 },
                 {
                     "name": "Blackpool South",
@@ -1423,7 +1423,7 @@
                     "name": "Dewsbury",
                     "ons_code": "E14000666",
                     "mp": "Paula Sherriff MP",
-                    "signature_count": 28
+                    "signature_count": 29
                 },
                 {
                     "name": "Don Valley",
@@ -2221,7 +2221,7 @@
                     "name": "Lichfield",
                     "ons_code": "E14000791",
                     "mp": "Michael Fabricant MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "Lincoln",
@@ -2587,7 +2587,7 @@
                     "name": "North Durham",
                     "ons_code": "E14000840",
                     "mp": "Rt Hon Kevan Jones MP",
-                    "signature_count": 25
+                    "signature_count": 26
                 },
                 {
                     "name": "North East Bedfordshire",
@@ -2755,7 +2755,7 @@
                     "name": "Nuneaton",
                     "ons_code": "E14000868",
                     "mp": "Mr Marcus Jones MP",
-                    "signature_count": 29
+                    "signature_count": 30
                 },
                 {
                     "name": "Ogmore",
@@ -2959,7 +2959,7 @@
                     "name": "Rochester and Strood",
                     "ons_code": "E14000898",
                     "mp": "Kelly Tolhurst MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "Rochford and Southend East",
@@ -3217,7 +3217,7 @@
                     "name": "South Holland and The Deepings",
                     "ons_code": "E14000939",
                     "mp": "Rt Hon Sir John Hayes MP",
-                    "signature_count": 20
+                    "signature_count": 21
                 },
                 {
                     "name": "South Leicestershire",
@@ -3625,7 +3625,7 @@
                     "name": "Truro and Falmouth",
                     "ons_code": "E14001003",
                     "mp": "Sarah Newton MP",
-                    "signature_count": 19
+                    "signature_count": 20
                 },
                 {
                     "name": "Tunbridge Wells",
@@ -3937,7 +3937,7 @@
                     "name": "Wolverhampton South West",
                     "ons_code": "E14001051",
                     "mp": "Eleanor Smith MP",
-                    "signature_count": 24
+                    "signature_count": 25
                 },
                 {
                     "name": "Worcester",
@@ -4057,7 +4057,7 @@
                     "name": "Dumfries and Galloway",
                     "ons_code": "S14000013",
                     "mp": "Rt Hon Alister Jack MP",
-                    "signature_count": 61
+                    "signature_count": 62
                 },
                 {
                     "name": "Dumfriesshire, Clydesdale and Tweeddale",

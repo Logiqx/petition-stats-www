@@ -10,9 +10,9 @@
             "background": "Road tax is due to rise by over 700% with the governments new plans to classify motorhomes differently. The purpose of this petition is to keep it as it is to protect this industry and local tourism",
             "additional_details": "",
             "state": "open",
-            "signature_count": 14725,
+            "signature_count": 14731,
             "created_at": "2019-07-25T06:49:25.513Z",
-            "updated_at": "2019-11-05T09:17:22.000Z",
+            "updated_at": "2019-11-05T09:51:32.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-06T17:04:16.867Z",
             "closed_at": null,
@@ -134,7 +134,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 14647
+                    "signature_count": 14653
                 },
                 {
                     "name": "United States",
@@ -618,7 +618,7 @@
                     "name": "Bexhill and Battle",
                     "ons_code": "E14000557",
                     "mp": "Huw Merriman MP",
-                    "signature_count": 34
+                    "signature_count": 35
                 },
                 {
                     "name": "Bexleyheath and Crayford",
@@ -1704,7 +1704,7 @@
                     "name": "Hackney South and Shoreditch",
                     "ons_code": "E14000721",
                     "mp": "Meg Hillier MP",
-                    "signature_count": 4
+                    "signature_count": 5
                 },
                 {
                     "name": "Halesowen and Rowley Regis",
@@ -2406,7 +2406,7 @@
                     "name": "Newcastle upon Tyne Central",
                     "ons_code": "E14000831",
                     "mp": "Chi Onwurah MP",
-                    "signature_count": 5
+                    "signature_count": 6
                 },
                 {
                     "name": "Newcastle upon Tyne East",
@@ -3192,7 +3192,7 @@
                     "name": "South West Hertfordshire",
                     "ons_code": "E14000951",
                     "mp": "Rt Hon David Gauke MP",
-                    "signature_count": 17
+                    "signature_count": 18
                 },
                 {
                     "name": "South West Norfolk",
@@ -3924,7 +3924,7 @@
                     "name": "Central Ayrshire",
                     "ons_code": "S14000010",
                     "mp": "Dr Philippa Whitford MP",
-                    "signature_count": 16
+                    "signature_count": 18
                 },
                 {
                     "name": "Argyll and Bute",

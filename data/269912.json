@@ -10,9 +10,9 @@
             "background": "I think that changes as per the above should be dealt with by the Government",
             "additional_details": "",
             "state": "open",
-            "signature_count": 35964,
+            "signature_count": 35970,
             "created_at": "2019-08-16T12:22:28.588Z",
-            "updated_at": "2019-11-05T08:58:52.000Z",
+            "updated_at": "2019-11-05T09:49:02.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-23T16:44:54.803Z",
             "closed_at": null,
@@ -304,7 +304,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 35497
+                    "signature_count": 35503
                 },
                 {
                     "name": "United States",
@@ -920,7 +920,7 @@
                     "name": "Bolsover",
                     "ons_code": "E14000577",
                     "mp": "Mr Dennis Skinner MP",
-                    "signature_count": 91
+                    "signature_count": 92
                 },
                 {
                     "name": "Bolton North East",
@@ -1694,7 +1694,7 @@
                     "name": "Elmet and Rothwell",
                     "ons_code": "E14000689",
                     "mp": "Rt Hon Alec Shelbrooke MP",
-                    "signature_count": 72
+                    "signature_count": 73
                 },
                 {
                     "name": "Eltham",
@@ -2660,7 +2660,7 @@
                     "name": "Newton Abbot",
                     "ons_code": "E14000835",
                     "mp": "Anne Marie Morris MP",
-                    "signature_count": 95
+                    "signature_count": 96
                 },
                 {
                     "name": "Normanton, Pontefract and Castleford",
@@ -3020,7 +3020,7 @@
                     "name": "Reading West",
                     "ons_code": "E14000890",
                     "mp": "Rt Hon Alok Sharma MP",
-                    "signature_count": 55
+                    "signature_count": 56
                 },
                 {
                     "name": "Redcar",
@@ -3242,7 +3242,7 @@
                     "name": "Shrewsbury and Atcham",
                     "ons_code": "E14000926",
                     "mp": "Daniel Kawczynski MP",
-                    "signature_count": 52
+                    "signature_count": 53
                 },
                 {
                     "name": "Sittingbourne and Sheppey",
@@ -3650,7 +3650,7 @@
                     "name": "Telford",
                     "ons_code": "E14000989",
                     "mp": "Lucy Allan MP",
-                    "signature_count": 80
+                    "signature_count": 81
                 },
                 {
                     "name": "Tewkesbury",

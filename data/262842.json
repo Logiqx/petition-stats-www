@@ -10,9 +10,9 @@
             "background": "This is an appeal to postpone the rollout of 5G in the UK, pending the outcome of an independent investigation. 5G will increase exposure to radiofrequency electromagnetic fields RF-EMF, that has been proven to be harmful for humans and the environment.",
             "additional_details": "More than 230 scientists and doctors worldwide have emphasised the potential health risks to the EU:\r\n\r\nhttp://www.5gappeal.eu\r\n\r\nThe Brussels region has already postponed the rollout of 5G due to the associated health risks.\r\n",
             "state": "open",
-            "signature_count": 27091,
+            "signature_count": 27106,
             "created_at": "2019-05-28T12:29:02.007Z",
-            "updated_at": "2019-11-05T09:16:12.000Z",
+            "updated_at": "2019-11-05T09:53:02.000Z",
             "rejected_at": null,
             "opened_at": "2019-06-28T14:12:24.714Z",
             "closed_at": null,
@@ -279,7 +279,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 26809
+                    "signature_count": 26824
                 },
                 {
                     "name": "United States",
@@ -624,7 +624,7 @@
                     "name": "Ashford",
                     "ons_code": "E14000536",
                     "mp": "Rt Hon Damian Green MP",
-                    "signature_count": 42
+                    "signature_count": 43
                 },
                 {
                     "name": "Ashton-under-Lyne",
@@ -1032,7 +1032,7 @@
                     "name": "Brighton, Kemptown",
                     "ons_code": "E14000597",
                     "mp": "Lloyd Russell-Moyle MP",
-                    "signature_count": 146
+                    "signature_count": 147
                 },
                 {
                     "name": "Brighton, Pavilion",
@@ -1218,7 +1218,7 @@
                     "name": "Carshalton and Wallington",
                     "ons_code": "E14000621",
                     "mp": "Rt Hon Tom Brake MP",
-                    "signature_count": 33
+                    "signature_count": 34
                 },
                 {
                     "name": "Castle Point",
@@ -1326,7 +1326,7 @@
                     "name": "Christchurch",
                     "ons_code": "E14000638",
                     "mp": "Sir Christopher Chope MP",
-                    "signature_count": 86
+                    "signature_count": 87
                 },
                 {
                     "name": "Cities of London and Westminster",
@@ -1602,7 +1602,7 @@
                     "name": "East Devon",
                     "ons_code": "E14000678",
                     "mp": "Rt Hon Sir Hugo Swire MP",
-                    "signature_count": 148
+                    "signature_count": 149
                 },
                 {
                     "name": "East Ham",
@@ -1854,7 +1854,7 @@
                     "name": "Great Grimsby",
                     "ons_code": "E14000716",
                     "mp": "Melanie Onn MP",
-                    "signature_count": 13
+                    "signature_count": 15
                 },
                 {
                     "name": "Great Yarmouth",
@@ -2004,7 +2004,7 @@
                     "name": "Hendon",
                     "ons_code": "E14000741",
                     "mp": "Dr Matthew Offord MP",
-                    "signature_count": 37
+                    "signature_count": 38
                 },
                 {
                     "name": "Henley",
@@ -2094,7 +2094,7 @@
                     "name": "Huddersfield",
                     "ons_code": "E14000756",
                     "mp": "Mr Barry Sheerman MP",
-                    "signature_count": 39
+                    "signature_count": 41
                 },
                 {
                     "name": "Huntingdon",
@@ -3024,7 +3024,7 @@
                     "name": "Rhondda",
                     "ons_code": "W07000052",
                     "mp": "Chris Bryant MP",
-                    "signature_count": 29
+                    "signature_count": 30
                 },
                 {
                     "name": "Ribble Valley",
@@ -3408,7 +3408,7 @@
                     "name": "Southampton, Itchen",
                     "ons_code": "E14000955",
                     "mp": "Royston Smith MP",
-                    "signature_count": 46
+                    "signature_count": 47
                 },
                 {
                     "name": "Southampton, Test",
@@ -3582,7 +3582,7 @@
                     "name": "Surrey Heath",
                     "ons_code": "E14000983",
                     "mp": "Rt Hon Michael Gove MP",
-                    "signature_count": 44
+                    "signature_count": 45
                 },
                 {
                     "name": "Sutton and Cheam",
@@ -3672,7 +3672,7 @@
                     "name": "Tiverton and Honiton",
                     "ons_code": "E14000996",
                     "mp": "Neil Parish MP",
-                    "signature_count": 81
+                    "signature_count": 82
                 },
                 {
                     "name": "Tonbridge and Malling",
@@ -3750,7 +3750,7 @@
                     "name": "Uxbridge and South Ruislip",
                     "ons_code": "E14001007",
                     "mp": "Rt Hon Boris Johnson MP",
-                    "signature_count": 36
+                    "signature_count": 37
                 },
                 {
                     "name": "Vale of Clwyd",

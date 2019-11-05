@@ -10,9 +10,9 @@
             "background": "Freelance workers and contractors have been treated unfairly by this ill conceived legislation since it's conception.  It has been incorrectly used to investigate and prosecute many hardworking self employed business owners striving to be successful in today's world.  IR35 is anti-business!",
             "additional_details": "This is legislation that encourages envy because of supposed benefits to being self employed by some who are not self-employed themselves.  Why should a self-employed person working under IR35 be treated the same as an employee regarding taxation?  The self-employed under IR35 are not entitled to paid holiday or sickness and by implication have no job security.  The HMRC make more money from VAT, Corporation Tax, Income Tax and Dividend Tax than from PAYE.  IR35 is about discouraging strivers!",
             "state": "open",
-            "signature_count": 29872,
+            "signature_count": 29895,
             "created_at": "2019-05-23T17:46:39.392Z",
-            "updated_at": "2019-11-05T09:17:52.000Z",
+            "updated_at": "2019-11-05T09:54:02.000Z",
             "rejected_at": null,
             "opened_at": "2019-06-20T15:39:09.579Z",
             "closed_at": null,
@@ -194,7 +194,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 29772
+                    "signature_count": 29795
                 },
                 {
                     "name": "United States",
@@ -362,7 +362,7 @@
                     "name": "Aberdeen South",
                     "ons_code": "S14000002",
                     "mp": "Ross Thomson MP",
-                    "signature_count": 103
+                    "signature_count": 104
                 },
                 {
                     "name": "Moray",
@@ -440,7 +440,7 @@
                     "name": "Rutherglen and Hamilton West",
                     "ons_code": "S14000056",
                     "mp": "Ged Killen MP",
-                    "signature_count": 44
+                    "signature_count": 45
                 },
                 {
                     "name": "Stirling",
@@ -902,7 +902,7 @@
                     "name": "Brentford and Isleworth",
                     "ons_code": "E14000593",
                     "mp": "Ruth Cadbury MP",
-                    "signature_count": 245
+                    "signature_count": 246
                 },
                 {
                     "name": "Brentwood and Ongar",
@@ -998,7 +998,7 @@
                     "name": "Buckingham",
                     "ons_code": "E14000608",
                     "mp": null,
-                    "signature_count": 52
+                    "signature_count": 53
                 },
                 {
                     "name": "Burnley",
@@ -1202,7 +1202,7 @@
                     "name": "Chingford and Woodford Green",
                     "ons_code": "E14000634",
                     "mp": "Rt Hon Iain Duncan Smith MP",
-                    "signature_count": 81
+                    "signature_count": 82
                 },
                 {
                     "name": "Chippenham",
@@ -1220,13 +1220,13 @@
                     "name": "Chorley",
                     "ons_code": "E14000637",
                     "mp": "Rt Hon Sir Lindsay Hoyle MP",
-                    "signature_count": 30
+                    "signature_count": 31
                 },
                 {
                     "name": "Christchurch",
                     "ons_code": "E14000638",
                     "mp": "Sir Christopher Chope MP",
-                    "signature_count": 19
+                    "signature_count": 20
                 },
                 {
                     "name": "Cities of London and Westminster",
@@ -1646,7 +1646,7 @@
                     "name": "Feltham and Heston",
                     "ons_code": "E14000701",
                     "mp": "Seema Malhotra MP",
-                    "signature_count": 169
+                    "signature_count": 170
                 },
                 {
                     "name": "Fermanagh and South Tyrone",
@@ -1760,7 +1760,7 @@
                     "name": "Great Yarmouth",
                     "ons_code": "E14000717",
                     "mp": "Rt Hon Brandon Lewis MP",
-                    "signature_count": 25
+                    "signature_count": 26
                 },
                 {
                     "name": "Greenwich and Woolwich",
@@ -1934,7 +1934,7 @@
                     "name": "Hexham",
                     "ons_code": "E14000746",
                     "mp": "Guy Opperman MP",
-                    "signature_count": 18
+                    "signature_count": 19
                 },
                 {
                     "name": "Heywood and Middleton",
@@ -2204,7 +2204,7 @@
                     "name": "Lewisham, Deptford",
                     "ons_code": "E14000789",
                     "mp": "Vicky Foxcroft MP",
-                    "signature_count": 107
+                    "signature_count": 108
                 },
                 {
                     "name": "Leyton and Wanstead",
@@ -2348,7 +2348,7 @@
                     "name": "Meon Valley",
                     "ons_code": "E14000811",
                     "mp": "Sir George Hollingbery MP",
-                    "signature_count": 45
+                    "signature_count": 46
                 },
                 {
                     "name": "Meriden",
@@ -2390,7 +2390,7 @@
                     "name": "Mid Sussex",
                     "ons_code": "E14000817",
                     "mp": "Rt Hon Sir Nicholas Soames MP",
-                    "signature_count": 64
+                    "signature_count": 65
                 },
                 {
                     "name": "Mid Ulster",
@@ -2414,7 +2414,7 @@
                     "name": "Middlesbrough South and East Cleveland",
                     "ons_code": "E14000820",
                     "mp": "Mr Simon Clarke MP",
-                    "signature_count": 35
+                    "signature_count": 36
                 },
                 {
                     "name": "Milton Keynes North",
@@ -2714,7 +2714,7 @@
                     "name": "Northampton South",
                     "ons_code": "E14000862",
                     "mp": "Andrew Lewer MP",
-                    "signature_count": 82
+                    "signature_count": 83
                 },
                 {
                     "name": "Norwich North",
@@ -2918,7 +2918,7 @@
                     "name": "Reigate",
                     "ons_code": "E14000893",
                     "mp": "Crispin Blunt MP",
-                    "signature_count": 93
+                    "signature_count": 94
                 },
                 {
                     "name": "Rhondda",
@@ -3242,7 +3242,7 @@
                     "name": "South Shields",
                     "ons_code": "E14000944",
                     "mp": "Mrs Emma Lewell-Buck MP",
-                    "signature_count": 22
+                    "signature_count": 23
                 },
                 {
                     "name": "South Staffordshire",
@@ -3404,7 +3404,7 @@
                     "name": "Stockton South",
                     "ons_code": "E14000971",
                     "mp": "Dr Paul Williams MP",
-                    "signature_count": 61
+                    "signature_count": 62
                 },
                 {
                     "name": "Stoke-on-Trent Central",
@@ -3476,7 +3476,7 @@
                     "name": "Sunderland Central",
                     "ons_code": "E14000982",
                     "mp": "Julie Elliott MP",
-                    "signature_count": 18
+                    "signature_count": 19
                 },
                 {
                     "name": "Surrey Heath",
@@ -3638,7 +3638,7 @@
                     "name": "Tynemouth",
                     "ons_code": "E14001006",
                     "mp": "Rt Hon Sir Alan Campbell MP",
-                    "signature_count": 31
+                    "signature_count": 32
                 },
                 {
                     "name": "Upper Bann",
@@ -3782,7 +3782,7 @@
                     "name": "Welwyn Hatfield",
                     "ons_code": "E14001027",
                     "mp": "Rt Hon Grant Shapps MP",
-                    "signature_count": 98
+                    "signature_count": 99
                 },
                 {
                     "name": "Wentworth and Dearne",

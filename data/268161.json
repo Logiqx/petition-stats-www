@@ -10,9 +10,9 @@
             "background": "Recent changes in pension taxation have reduced the annual allowance which can be put into a pension to \u00a340,000 a year. In 2016 \u201ctapering\u201d was introduced which can further reduce the annual allowance to \u00a310,000",
             "additional_details": "The combined effect of the tapered annual allowance and inflexible public sector pension schemes is having a catastrophic effect on retention and productivity in the public sector. In particular in the NHS, where consultants are not able to afford to do extra work for fear of a punitive tax bill well in excess of any income earned.",
             "state": "open",
-            "signature_count": 19934,
+            "signature_count": 19941,
             "created_at": "2019-07-24T12:45:15.915Z",
-            "updated_at": "2019-11-05T09:11:22.000Z",
+            "updated_at": "2019-11-05T09:47:22.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-31T13:17:58.822Z",
             "closed_at": null,
@@ -144,7 +144,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 19880
+                    "signature_count": 19887
                 },
                 {
                     "name": "United States",
@@ -258,7 +258,7 @@
                     "name": "Aberdeen North",
                     "ons_code": "S14000001",
                     "mp": "Kirsty Blackman MP",
-                    "signature_count": 29
+                    "signature_count": 30
                 },
                 {
                     "name": "Inverclyde",
@@ -426,7 +426,7 @@
                     "name": "Aldershot",
                     "ons_code": "E14000530",
                     "mp": "Leo Docherty MP",
-                    "signature_count": 11
+                    "signature_count": 12
                 },
                 {
                     "name": "Aldridge-Brownhills",
@@ -1116,7 +1116,7 @@
                     "name": "Chelmsford",
                     "ons_code": "E14000628",
                     "mp": "Vicky Ford MP",
-                    "signature_count": 38
+                    "signature_count": 39
                 },
                 {
                     "name": "Chelsea and Fulham",
@@ -2244,7 +2244,7 @@
                     "name": "Maidstone and The Weald",
                     "ons_code": "E14000804",
                     "mp": "Mrs Helen Grant MP",
-                    "signature_count": 20
+                    "signature_count": 21
                 },
                 {
                     "name": "Makerfield",
@@ -3216,7 +3216,7 @@
                     "name": "South West Bedfordshire",
                     "ons_code": "E14000949",
                     "mp": "Andrew Selous MP",
-                    "signature_count": 12
+                    "signature_count": 13
                 },
                 {
                     "name": "South West Devon",
@@ -3384,7 +3384,7 @@
                     "name": "Stratford-on-Avon",
                     "ons_code": "E14000977",
                     "mp": "Nadhim Zahawi MP",
-                    "signature_count": 36
+                    "signature_count": 37
                 },
                 {
                     "name": "Streatham",
@@ -3912,7 +3912,7 @@
                     "name": "Wyre and Preston North",
                     "ons_code": "E14001057",
                     "mp": "Rt Hon Ben Wallace MP",
-                    "signature_count": 107
+                    "signature_count": 108
                 },
                 {
                     "name": "Wyre Forest",

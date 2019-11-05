@@ -10,9 +10,9 @@
             "background": "Postal voting is \u2018wide open to fraud\u2019 and should be scrapped in its current form. Judge Richard Mawrey, who sits in judgment on election fraud cases, previously said ballot-rigging was now a \u2018probability\u2019 in some parts of Britain due to the extension of postal voting.",
             "additional_details": "He said postal voting is open to fraud on a scale that will make election rigging a possibility and indeed in some areas a probability. \r\nThe Electoral Commission has warned that it was concerned about 16 council areas in England, including Birmingham, and has launched a study into concerns that some communities are particularly susceptible to electoral fraud.",
             "state": "open",
-            "signature_count": 22375,
+            "signature_count": 22378,
             "created_at": "2019-04-19T07:31:56.171Z",
-            "updated_at": "2019-11-05T08:30:32.000Z",
+            "updated_at": "2019-11-05T09:48:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-05-21T10:25:55.793Z",
             "closed_at": null,
@@ -179,7 +179,7 @@
                 {
                     "name": "Netherlands",
                     "code": "NL",
-                    "signature_count": 10
+                    "signature_count": 11
                 },
                 {
                     "name": "New Zealand",
@@ -264,7 +264,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 22102
+                    "signature_count": 22104
                 },
                 {
                     "name": "United States",
@@ -634,7 +634,7 @@
                     "name": "Barnsley Central",
                     "ons_code": "E14000541",
                     "mp": "Dan Jarvis MP",
-                    "signature_count": 34
+                    "signature_count": 35
                 },
                 {
                     "name": "Barnsley East",
@@ -1678,7 +1678,7 @@
                     "name": "Epping Forest",
                     "ons_code": "E14000693",
                     "mp": "Rt Hon Dame Eleanor Laing MP",
-                    "signature_count": 49
+                    "signature_count": 50
                 },
                 {
                     "name": "Epsom and Ewell",
