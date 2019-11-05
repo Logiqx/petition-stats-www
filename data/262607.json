@@ -10,9 +10,9 @@
             "background": "Non-stun slaughter is cruel. Many consumers do not want to eat meat killed by non-stun slaughter. On leaving the EU, specific UK legislation must replace the EU slaughter directive, explicitly precluding the religious exemption from pre-stunning requirement. Stun to kill must be mandatory.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 13961,
+            "signature_count": 13968,
             "created_at": "2019-05-25T12:08:53.852Z",
-            "updated_at": "2019-11-05T07:15:32.000Z",
+            "updated_at": "2019-11-05T08:08:02.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-16T11:24:16.242Z",
             "closed_at": null,
@@ -209,7 +209,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 13751
+                    "signature_count": 13758
                 },
                 {
                     "name": "United States",
@@ -556,7 +556,7 @@
                     "name": "Aylesbury",
                     "ons_code": "E14000538",
                     "mp": "Rt Hon Sir David Lidington MP",
-                    "signature_count": 26
+                    "signature_count": 27
                 },
                 {
                     "name": "Banbury",
@@ -1240,7 +1240,7 @@
                     "name": "Chorley",
                     "ons_code": "E14000637",
                     "mp": "Rt Hon Sir Lindsay Hoyle MP",
-                    "signature_count": 26
+                    "signature_count": 27
                 },
                 {
                     "name": "Christchurch",
@@ -2536,7 +2536,7 @@
                     "name": "Newcastle-under-Lyme",
                     "ons_code": "E14000834",
                     "mp": "Paul Farrelly MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "Newport East",
@@ -3256,7 +3256,7 @@
                     "name": "South Ribble",
                     "ons_code": "E14000943",
                     "mp": "Seema Kennedy MP",
-                    "signature_count": 30
+                    "signature_count": 31
                 },
                 {
                     "name": "South Shields",
@@ -3394,7 +3394,7 @@
                     "name": "Staffordshire Moorlands",
                     "ons_code": "E14000966",
                     "mp": "Rt Hon Karen Bradley MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "Stalybridge and Hyde",
@@ -3466,7 +3466,7 @@
                     "name": "Stratford-on-Avon",
                     "ons_code": "E14000977",
                     "mp": "Nadhim Zahawi MP",
-                    "signature_count": 17
+                    "signature_count": 18
                 },
                 {
                     "name": "Streatham",
@@ -3802,7 +3802,7 @@
                     "name": "Welwyn Hatfield",
                     "ons_code": "E14001027",
                     "mp": "Rt Hon Grant Shapps MP",
-                    "signature_count": 22
+                    "signature_count": 23
                 },
                 {
                     "name": "Wentworth and Dearne",

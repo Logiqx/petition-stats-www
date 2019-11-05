@@ -10,9 +10,9 @@
             "background": "As EU citizen, living in UK. Running business, employing people and building this economy, I refuse to Apply to Live in my own Home!\r\nHowever, I will Be happy to fill Settlement Status if it will be changed from Application to Registration. 3 Million EU citizens living & working in United Kingdom.",
             "additional_details": "I feel UK is my home, I have children here, my home and business is here. My life is based in UK and I should not apply to be able to live in my own home.",
             "state": "open",
-            "signature_count": 16749,
+            "signature_count": 16751,
             "created_at": "2019-04-12T15:30:22.916Z",
-            "updated_at": "2019-11-05T06:33:52.000Z",
+            "updated_at": "2019-11-05T08:04:32.000Z",
             "rejected_at": null,
             "opened_at": "2019-05-13T15:52:11.549Z",
             "closed_at": null,
@@ -289,7 +289,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 16074
+                    "signature_count": 16076
                 },
                 {
                     "name": "United States",
@@ -1645,7 +1645,7 @@
                     "name": "Eastleigh",
                     "ons_code": "E14000685",
                     "mp": "Mims Davies MP",
-                    "signature_count": 19
+                    "signature_count": 20
                 },
                 {
                     "name": "Eddisbury",
@@ -3895,7 +3895,7 @@
                     "name": "West Bromwich West",
                     "ons_code": "E14001030",
                     "mp": "Mr Adrian Bailey MP",
-                    "signature_count": 11
+                    "signature_count": 12
                 },
                 {
                     "name": "West Dorset",

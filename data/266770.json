@@ -10,9 +10,9 @@
             "background": "Chris Packham, Ruth Tingay and Mark Avery (Wild Justice) believe that intensive grouse shooting is bad for people, the environment and wildlife. People; grouse shooting is economically insignificant when contrasted with other real and potential uses of the UK\u2019s uplands.",
             "additional_details": "Environment; muirburn impacts negatively upon climate change and drainage leads to flooding and erosion. Wildlife; the wholesale culling of all predators and Mountain Hares has a disastrous effect on the ecology of these areas and the industry is underpinned by a criminal tradition of raptor persecution which shows no signs of abating. It\u2019s time to provide an opportunity to implement immediate , legislative and meaningful measures to address this abhorrently destructive practice.",
             "state": "open",
-            "signature_count": 111843,
+            "signature_count": 111855,
             "created_at": "2019-07-04T21:22:54.456Z",
-            "updated_at": "2019-11-05T07:12:22.000Z",
+            "updated_at": "2019-11-05T08:17:02.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-13T15:24:03.152Z",
             "closed_at": null,
@@ -344,7 +344,7 @@
                 {
                     "name": "Switzerland",
                     "code": "CH",
-                    "signature_count": 50
+                    "signature_count": 51
                 },
                 {
                     "name": "Taiwan",
@@ -389,7 +389,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 110147
+                    "signature_count": 110158
                 },
                 {
                     "name": "United States",
@@ -654,7 +654,7 @@
                     "name": "Ross, Skye and Lochaber",
                     "ons_code": "S14000055",
                     "mp": "Rt Hon Ian Blackford MP",
-                    "signature_count": 392
+                    "signature_count": 393
                 },
                 {
                     "name": "Rutherglen and Hamilton West",
@@ -666,7 +666,7 @@
                     "name": "Stirling",
                     "ons_code": "S14000057",
                     "mp": "Stephen Kerr MP",
-                    "signature_count": 288
+                    "signature_count": 289
                 },
                 {
                     "name": "West Aberdeenshire and Kincardine",
@@ -1260,7 +1260,7 @@
                     "name": "Calder Valley",
                     "ons_code": "E14000614",
                     "mp": "Craig Whittaker MP",
-                    "signature_count": 509
+                    "signature_count": 510
                 },
                 {
                     "name": "Camberwell and Peckham",
@@ -1500,7 +1500,7 @@
                     "name": "Colne Valley",
                     "ons_code": "E14000645",
                     "mp": "Thelma Walker MP",
-                    "signature_count": 263
+                    "signature_count": 264
                 },
                 {
                     "name": "Congleton",
@@ -1518,7 +1518,7 @@
                     "name": "Corby",
                     "ons_code": "E14000648",
                     "mp": "Tom Pursglove MP",
-                    "signature_count": 228
+                    "signature_count": 229
                 },
                 {
                     "name": "Coventry North East",
@@ -1602,7 +1602,7 @@
                     "name": "Delyn",
                     "ons_code": "W07000042",
                     "mp": "Rt Hon David Hanson MP",
-                    "signature_count": 150
+                    "signature_count": 151
                 },
                 {
                     "name": "Denton and Reddish",
@@ -2622,13 +2622,13 @@
                     "name": "Mid Worcestershire",
                     "ons_code": "E14000818",
                     "mp": "Nigel Huddleston MP",
-                    "signature_count": 162
+                    "signature_count": 163
                 },
                 {
                     "name": "Middlesbrough",
                     "ons_code": "E14000819",
                     "mp": "Andy McDonald MP",
-                    "signature_count": 72
+                    "signature_count": 73
                 },
                 {
                     "name": "Middlesbrough South and East Cleveland",
@@ -2940,7 +2940,7 @@
                     "name": "Norwich North",
                     "ons_code": "E14000863",
                     "mp": "Chloe Smith MP",
-                    "signature_count": 192
+                    "signature_count": 193
                 },
                 {
                     "name": "Norwich South",
@@ -3576,7 +3576,7 @@
                     "name": "St Helens South and Whiston",
                     "ons_code": "E14000963",
                     "mp": "Ms Marie Rimmer MP",
-                    "signature_count": 134
+                    "signature_count": 135
                 },
                 {
                     "name": "St Ives",
@@ -3594,7 +3594,7 @@
                     "name": "Staffordshire Moorlands",
                     "ons_code": "E14000966",
                     "mp": "Rt Hon Karen Bradley MP",
-                    "signature_count": 205
+                    "signature_count": 206
                 },
                 {
                     "name": "Stalybridge and Hyde",

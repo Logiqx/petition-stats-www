@@ -10,9 +10,9 @@
             "background": "It\u2019s far too easy for online trolls to just create another email address and another social media account if they have their accounts suspended. ",
             "additional_details": "However if their internet service providers were required to block their access to social media, and social media companies blocked their IP addresses, it would be far harder for them to get another account and continue their abuse. \r\n \r\n",
             "state": "open",
-            "signature_count": 133486,
+            "signature_count": 133508,
             "created_at": "2019-09-02T18:22:10.908Z",
-            "updated_at": "2019-11-05T07:14:22.000Z",
+            "updated_at": "2019-11-05T08:15:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-10T16:19:49.877Z",
             "closed_at": null,
@@ -384,7 +384,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 132560
+                    "signature_count": 132582
                 },
                 {
                     "name": "United States",
@@ -670,13 +670,13 @@
                     "name": "Aberconwy",
                     "ons_code": "W07000058",
                     "mp": "Guto Bebb MP",
-                    "signature_count": 110
+                    "signature_count": 111
                 },
                 {
                     "name": "Aldershot",
                     "ons_code": "E14000530",
                     "mp": "Leo Docherty MP",
-                    "signature_count": 263
+                    "signature_count": 264
                 },
                 {
                     "name": "Aldridge-Brownhills",
@@ -910,7 +910,7 @@
                     "name": "Birmingham, Hodge Hill",
                     "ons_code": "E14000563",
                     "mp": "Rt Hon Liam Byrne MP",
-                    "signature_count": 110
+                    "signature_count": 111
                 },
                 {
                     "name": "Birmingham, Ladywood",
@@ -1222,7 +1222,7 @@
                     "name": "Bury South",
                     "ons_code": "E14000612",
                     "mp": "Mr Ivan Lewis MP",
-                    "signature_count": 202
+                    "signature_count": 203
                 },
                 {
                     "name": "Bury St Edmunds",
@@ -1300,7 +1300,7 @@
                     "name": "Carlisle",
                     "ons_code": "E14000620",
                     "mp": "John Stevenson MP",
-                    "signature_count": 244
+                    "signature_count": 245
                 },
                 {
                     "name": "Carmarthen East and Dinefwr",
@@ -1366,7 +1366,7 @@
                     "name": "Chelmsford",
                     "ons_code": "E14000628",
                     "mp": "Vicky Ford MP",
-                    "signature_count": 393
+                    "signature_count": 394
                 },
                 {
                     "name": "Chelsea and Fulham",
@@ -1498,7 +1498,7 @@
                     "name": "Corby",
                     "ons_code": "E14000648",
                     "mp": "Tom Pursglove MP",
-                    "signature_count": 223
+                    "signature_count": 224
                 },
                 {
                     "name": "Coventry North East",
@@ -1594,7 +1594,7 @@
                     "name": "Derby North",
                     "ons_code": "E14000662",
                     "mp": "Chris Williamson MP",
-                    "signature_count": 250
+                    "signature_count": 251
                 },
                 {
                     "name": "Derby South",
@@ -1870,7 +1870,7 @@
                     "name": "Folkestone and Hythe",
                     "ons_code": "E14000704",
                     "mp": "Damian Collins MP",
-                    "signature_count": 282
+                    "signature_count": 283
                 },
                 {
                     "name": "Forest of Dean",
@@ -2008,7 +2008,7 @@
                     "name": "Halton",
                     "ons_code": "E14000725",
                     "mp": "Derek Twigg MP",
-                    "signature_count": 241
+                    "signature_count": 242
                 },
                 {
                     "name": "Hammersmith",
@@ -2182,7 +2182,7 @@
                     "name": "Houghton and Sunderland South",
                     "ons_code": "E14000754",
                     "mp": "Bridget Phillipson MP",
-                    "signature_count": 229
+                    "signature_count": 230
                 },
                 {
                     "name": "Hove",
@@ -2626,7 +2626,7 @@
                     "name": "Milton Keynes South",
                     "ons_code": "E14000822",
                     "mp": "Iain Stewart MP",
-                    "signature_count": 273
+                    "signature_count": 274
                 },
                 {
                     "name": "Mitcham and Morden",
@@ -2884,7 +2884,7 @@
                     "name": "North West Hampshire",
                     "ons_code": "E14000857",
                     "mp": "Kit Malthouse MP",
-                    "signature_count": 258
+                    "signature_count": 259
                 },
                 {
                     "name": "North West Leicestershire",
@@ -3094,7 +3094,7 @@
                     "name": "Reading East",
                     "ons_code": "E14000889",
                     "mp": "Matt Rodda MP",
-                    "signature_count": 193
+                    "signature_count": 194
                 },
                 {
                     "name": "Reading West",
@@ -3280,7 +3280,7 @@
                     "name": "Sheffield Central",
                     "ons_code": "E14000919",
                     "mp": "Paul Blomfield MP",
-                    "signature_count": 175
+                    "signature_count": 176
                 },
                 {
                     "name": "Sheffield South East",
@@ -3556,7 +3556,7 @@
                     "name": "St Helens South and Whiston",
                     "ons_code": "E14000963",
                     "mp": "Ms Marie Rimmer MP",
-                    "signature_count": 275
+                    "signature_count": 276
                 },
                 {
                     "name": "St Ives",
@@ -3760,7 +3760,7 @@
                     "name": "Thornbury and Yate",
                     "ons_code": "E14000994",
                     "mp": "Luke Hall MP",
-                    "signature_count": 187
+                    "signature_count": 188
                 },
                 {
                     "name": "Thurrock",
@@ -3778,7 +3778,7 @@
                     "name": "Tonbridge and Malling",
                     "ons_code": "E14000997",
                     "mp": "Tom Tugendhat MP",
-                    "signature_count": 227
+                    "signature_count": 228
                 },
                 {
                     "name": "Tooting",
@@ -3982,7 +3982,7 @@
                     "name": "Welwyn Hatfield",
                     "ons_code": "E14001027",
                     "mp": "Rt Hon Grant Shapps MP",
-                    "signature_count": 246
+                    "signature_count": 247
                 },
                 {
                     "name": "Wentworth and Dearne",
@@ -4228,7 +4228,7 @@
                     "name": "Central Ayrshire",
                     "ons_code": "S14000010",
                     "mp": "Dr Philippa Whitford MP",
-                    "signature_count": 189
+                    "signature_count": 190
                 },
                 {
                     "name": "Argyll and Bute",

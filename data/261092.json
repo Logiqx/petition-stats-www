@@ -10,9 +10,9 @@
             "background": "Retailers in the United Kingdom unnecessarily waste huge amounts of energy on open fridges and freezers. Climate change threatens our planet. If all supermarkets had doors on their fridges and freezers it would save energy the equivalent of the entire residential population of Poland",
             "additional_details": "https://www.coolproducts.eu/news/why-dont-supermarket-fridges-have-doors\r\n\r\nBio Intelligence Service, 2007, Preparatory Studies for Eco-design Requirements of EuPs - Lot 12 : Commercial refrigerators and freezers",
             "state": "open",
-            "signature_count": 49210,
+            "signature_count": 49216,
             "created_at": "2019-05-12T14:49:11.227Z",
-            "updated_at": "2019-11-05T07:07:22.000Z",
+            "updated_at": "2019-11-05T08:03:32.000Z",
             "rejected_at": null,
             "opened_at": "2019-06-14T11:07:27.880Z",
             "closed_at": null,
@@ -239,7 +239,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 48995
+                    "signature_count": 49001
                 },
                 {
                     "name": "United States",
@@ -360,7 +360,7 @@
                     "name": "Inverness, Nairn, Badenoch and Strathspey",
                     "ons_code": "S14000039",
                     "mp": "Drew Hendry MP",
-                    "signature_count": 56
+                    "signature_count": 57
                 },
                 {
                     "name": "Kilmarnock and Loudoun",
@@ -1062,7 +1062,7 @@
                     "name": "Bury South",
                     "ons_code": "E14000612",
                     "mp": "Mr Ivan Lewis MP",
-                    "signature_count": 64
+                    "signature_count": 65
                 },
                 {
                     "name": "Bury St Edmunds",
@@ -1080,7 +1080,7 @@
                     "name": "Calder Valley",
                     "ons_code": "E14000614",
                     "mp": "Craig Whittaker MP",
-                    "signature_count": 77
+                    "signature_count": 78
                 },
                 {
                     "name": "Camberwell and Peckham",
@@ -1206,7 +1206,7 @@
                     "name": "Chelmsford",
                     "ons_code": "E14000628",
                     "mp": "Vicky Ford MP",
-                    "signature_count": 86
+                    "signature_count": 87
                 },
                 {
                     "name": "Chelsea and Fulham",
@@ -2394,7 +2394,7 @@
                     "name": "Meriden",
                     "ons_code": "E14000812",
                     "mp": "Rt Hon Dame Caroline Spelman MP",
-                    "signature_count": 62
+                    "signature_count": 63
                 },
                 {
                     "name": "Merthyr Tydfil and Rhymney",
@@ -3822,7 +3822,7 @@
                     "name": "Welwyn Hatfield",
                     "ons_code": "E14001027",
                     "mp": "Rt Hon Grant Shapps MP",
-                    "signature_count": 73
+                    "signature_count": 74
                 },
                 {
                     "name": "Wentworth and Dearne",

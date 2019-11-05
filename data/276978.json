@@ -10,9 +10,9 @@
             "background": "Over 200 polls since July 2017 provide concrete evidence that the public supports remaining in the EU and it was wrong in hindsight to vote to leave.\r\n\r\nSaying the situation is People v Parliament doesn\u2019t stand up when the public are split over Brexit - it is Half the Public v Half of Parliament.",
             "additional_details": "A YouGov analysis has shown that of 226 polls since July 2017 asking if Brexit is right or wrong, or if they would now vote Remain or Leave, 204 put Remain ahead, with just 7 for Leave, and 15 ties. So far this year just 1 poll supports Leave compared to 74 for staying.\r\n\r\nIf our political masters are truly intent on delivering on \u2018the will of the people\u2019, what is stopping them from asking \u2018the people\u2019 to confirm what their will is today?\r\n\r\nAnother vote does not mean less democracy, it means more.",
             "state": "open",
-            "signature_count": 60716,
+            "signature_count": 60727,
             "created_at": "2019-10-11T16:03:09.291Z",
-            "updated_at": "2019-11-05T07:12:52.000Z",
+            "updated_at": "2019-11-05T08:17:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-10-14T14:54:00.368Z",
             "closed_at": null,
@@ -464,7 +464,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 56535
+                    "signature_count": 56546
                 },
                 {
                     "name": "United States",
@@ -930,7 +930,7 @@
                     "name": "Bermondsey and Old Southwark",
                     "ons_code": "E14000553",
                     "mp": "Neil Coyle MP",
-                    "signature_count": 200
+                    "signature_count": 201
                 },
                 {
                     "name": "Berwick-upon-Tweed",
@@ -954,7 +954,7 @@
                     "name": "Bexhill and Battle",
                     "ons_code": "E14000557",
                     "mp": "Huw Merriman MP",
-                    "signature_count": 110
+                    "signature_count": 111
                 },
                 {
                     "name": "Bexleyheath and Crayford",
@@ -1524,7 +1524,7 @@
                     "name": "City of Durham",
                     "ons_code": "E14000641",
                     "mp": "Dr Roberta Blackman-Woods MP",
-                    "signature_count": 99
+                    "signature_count": 100
                 },
                 {
                     "name": "Clacton",
@@ -2424,7 +2424,7 @@
                     "name": "Leeds North East",
                     "ons_code": "E14000779",
                     "mp": "Fabian Hamilton MP",
-                    "signature_count": 119
+                    "signature_count": 120
                 },
                 {
                     "name": "Leeds North West",
@@ -3174,7 +3174,7 @@
                     "name": "Reading East",
                     "ons_code": "E14000889",
                     "mp": "Matt Rodda MP",
-                    "signature_count": 295
+                    "signature_count": 296
                 },
                 {
                     "name": "Reading West",
@@ -3480,7 +3480,7 @@
                     "name": "South East Cambridgeshire",
                     "ons_code": "E14000937",
                     "mp": "Lucy Frazer MP",
-                    "signature_count": 260
+                    "signature_count": 261
                 },
                 {
                     "name": "South East Cornwall",
@@ -3552,7 +3552,7 @@
                     "name": "South West Bedfordshire",
                     "ons_code": "E14000949",
                     "mp": "Andrew Selous MP",
-                    "signature_count": 62
+                    "signature_count": 63
                 },
                 {
                     "name": "South West Devon",
@@ -3744,7 +3744,7 @@
                     "name": "Stroud",
                     "ons_code": "E14000980",
                     "mp": "Dr David Drew MP",
-                    "signature_count": 269
+                    "signature_count": 270
                 },
                 {
                     "name": "Suffolk Coastal",
@@ -3882,7 +3882,7 @@
                     "name": "Torridge and West Devon",
                     "ons_code": "E14001000",
                     "mp": "Rt Hon Geoffrey Cox QC MP",
-                    "signature_count": 111
+                    "signature_count": 112
                 },
                 {
                     "name": "Totnes",
@@ -3954,7 +3954,7 @@
                     "name": "Wakefield",
                     "ons_code": "E14001009",
                     "mp": "Mary Creagh MP",
-                    "signature_count": 49
+                    "signature_count": 50
                 },
                 {
                     "name": "Wallasey",
@@ -4182,7 +4182,7 @@
                     "name": "Witney",
                     "ons_code": "E14001046",
                     "mp": "Robert Courts MP",
-                    "signature_count": 184
+                    "signature_count": 185
                 },
                 {
                     "name": "Woking",

@@ -10,9 +10,9 @@
             "background": "Road tax is due to rise by over 700% with the governments new plans to classify motorhomes differently. The purpose of this petition is to keep it as it is to protect this industry and local tourism",
             "additional_details": "",
             "state": "open",
-            "signature_count": 14691,
+            "signature_count": 14704,
             "created_at": "2019-07-25T06:49:25.513Z",
-            "updated_at": "2019-11-05T07:17:52.000Z",
+            "updated_at": "2019-11-05T08:13:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-06T17:04:16.867Z",
             "closed_at": null,
@@ -134,7 +134,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 14613
+                    "signature_count": 14626
                 },
                 {
                     "name": "United States",
@@ -378,7 +378,7 @@
                     "name": "Perth and North Perthshire",
                     "ons_code": "S14000054",
                     "mp": "Pete Wishart MP",
-                    "signature_count": 61
+                    "signature_count": 62
                 },
                 {
                     "name": "Ross, Skye and Lochaber",
@@ -900,7 +900,7 @@
                     "name": "Broadland",
                     "ons_code": "E14000603",
                     "mp": "Rt Hon Keith Simpson MP",
-                    "signature_count": 28
+                    "signature_count": 29
                 },
                 {
                     "name": "Bromley and Chislehurst",
@@ -1014,7 +1014,7 @@
                     "name": "Cardiff North",
                     "ons_code": "W07000051",
                     "mp": "Anna McMorrin MP",
-                    "signature_count": 27
+                    "signature_count": 28
                 },
                 {
                     "name": "Cardiff South and Penarth",
@@ -1578,7 +1578,7 @@
                     "name": "Filton and Bradley Stoke",
                     "ons_code": "E14000702",
                     "mp": "Jack Lopresti MP",
-                    "signature_count": 34
+                    "signature_count": 35
                 },
                 {
                     "name": "Finchley and Golders Green",
@@ -2376,7 +2376,7 @@
                     "name": "Neath",
                     "ons_code": "W07000069",
                     "mp": "Christina Rees MP",
-                    "signature_count": 32
+                    "signature_count": 33
                 },
                 {
                     "name": "New Forest East",
@@ -2538,7 +2538,7 @@
                     "name": "North Norfolk",
                     "ons_code": "E14000848",
                     "mp": "Rt Hon Norman Lamb MP",
-                    "signature_count": 26
+                    "signature_count": 27
                 },
                 {
                     "name": "North Shropshire",
@@ -2844,7 +2844,7 @@
                     "name": "Richmond (Yorks)",
                     "ons_code": "E14000895",
                     "mp": "Rt Hon Rishi Sunak MP",
-                    "signature_count": 63
+                    "signature_count": 64
                 },
                 {
                     "name": "Richmond Park",
@@ -2880,7 +2880,7 @@
                     "name": "Romsey and Southampton North",
                     "ons_code": "E14000901",
                     "mp": "Rt Hon Caroline Nokes MP",
-                    "signature_count": 31
+                    "signature_count": 32
                 },
                 {
                     "name": "Rossendale and Darwen",
@@ -2958,7 +2958,7 @@
                     "name": "Scunthorpe",
                     "ons_code": "E14000914",
                     "mp": "Nic Dakin MP",
-                    "signature_count": 17
+                    "signature_count": 18
                 },
                 {
                     "name": "Sedgefield",
@@ -3144,7 +3144,7 @@
                     "name": "South Ribble",
                     "ons_code": "E14000943",
                     "mp": "Seema Kennedy MP",
-                    "signature_count": 51
+                    "signature_count": 52
                 },
                 {
                     "name": "South Shields",
@@ -3486,7 +3486,7 @@
                     "name": "Tonbridge and Malling",
                     "ons_code": "E14000997",
                     "mp": "Tom Tugendhat MP",
-                    "signature_count": 30
+                    "signature_count": 31
                 },
                 {
                     "name": "Tooting",
@@ -3744,7 +3744,7 @@
                     "name": "Westmorland and Lonsdale",
                     "ons_code": "E14001037",
                     "mp": "Tim Farron MP",
-                    "signature_count": 60
+                    "signature_count": 61
                 },
                 {
                     "name": "Weston-super-Mare",
@@ -3924,7 +3924,7 @@
                     "name": "Central Ayrshire",
                     "ons_code": "S14000010",
                     "mp": "Dr Philippa Whitford MP",
-                    "signature_count": 15
+                    "signature_count": 16
                 },
                 {
                     "name": "Argyll and Bute",

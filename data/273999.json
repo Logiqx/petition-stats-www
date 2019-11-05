@@ -10,9 +10,9 @@
             "background": "Despite scientific evidence that the badger cull may actually be INCREASING instances of bovine tuberculosis, the government has announced a geographical extension of the cull in autumn 2019. Please listen to the scientists, stop the cull & adopt alternative humane options to culling.",
             "additional_details": "https://networkforanimals.org/observer/",
             "state": "open",
-            "signature_count": 12632,
+            "signature_count": 12635,
             "created_at": "2019-09-13T07:29:52.366Z",
-            "updated_at": "2019-11-05T07:12:22.000Z",
+            "updated_at": "2019-11-05T08:17:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-19T16:05:34.296Z",
             "closed_at": null,
@@ -209,7 +209,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 12478
+                    "signature_count": 12481
                 },
                 {
                     "name": "United States",
@@ -2844,7 +2844,7 @@
                     "name": "Poole",
                     "ons_code": "E14000881",
                     "mp": "Sir Robert Syms MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "Poplar and Limehouse",
@@ -3126,7 +3126,7 @@
                     "name": "Shrewsbury and Atcham",
                     "ons_code": "E14000926",
                     "mp": "Daniel Kawczynski MP",
-                    "signature_count": 55
+                    "signature_count": 56
                 },
                 {
                     "name": "Sittingbourne and Sheppey",
@@ -3786,7 +3786,7 @@
                     "name": "Welwyn Hatfield",
                     "ons_code": "E14001027",
                     "mp": "Rt Hon Grant Shapps MP",
-                    "signature_count": 30
+                    "signature_count": 31
                 },
                 {
                     "name": "Wentworth and Dearne",

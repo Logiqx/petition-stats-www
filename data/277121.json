@@ -10,9 +10,9 @@
             "background": "In person voter fraud is incredibly rare with just 28 allegations out of 44.6 million votes and only one conviction. In the UK, 3.5 million people don't have any form of photo ID and if checks required a driving licence or passport, 11 million people would be unable to vote.",
             "additional_details": "People from ethnic minority and less well-off backgrounds are far less likely to hold a form of photo ID so any move to restrict the right to vote in this way could be viewed as a deliberate attempt to suppress voters from these communities and this cannot be allowed to happen.\r\n\r\nhttps://www.electoral-reform.org.uk/campaigns/upgrading-our-democracy/voter-id/\r\n\r\nhttps://www.electoralcommission.org.uk/media/1825\r\n\r\nhttps://www.statisticsauthority.gov.uk/correspondence/presentation-of-electoral-fraud-statistics/",
             "state": "open",
-            "signature_count": 43106,
+            "signature_count": 43112,
             "created_at": "2019-10-13T16:36:54.007Z",
-            "updated_at": "2019-11-05T07:16:22.000Z",
+            "updated_at": "2019-11-05T08:13:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-10-14T13:55:43.855Z",
             "closed_at": null,
@@ -309,7 +309,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 42330
+                    "signature_count": 42336
                 },
                 {
                     "name": "United States",
@@ -1152,7 +1152,7 @@
                     "name": "Bury South",
                     "ons_code": "E14000612",
                     "mp": "Mr Ivan Lewis MP",
-                    "signature_count": 89
+                    "signature_count": 90
                 },
                 {
                     "name": "Bury St Edmunds",
@@ -1722,7 +1722,7 @@
                     "name": "Enfield, Southgate",
                     "ons_code": "E14000692",
                     "mp": "Bambos Charalambous MP",
-                    "signature_count": 77
+                    "signature_count": 78
                 },
                 {
                     "name": "Epping Forest",
@@ -1908,7 +1908,7 @@
                     "name": "Hackney North and Stoke Newington",
                     "ons_code": "E14000720",
                     "mp": "Rt Hon Diane Abbott MP",
-                    "signature_count": 190
+                    "signature_count": 192
                 },
                 {
                     "name": "Hackney South and Shoreditch",
@@ -2964,7 +2964,7 @@
                     "name": "Pontypridd",
                     "ons_code": "W07000075",
                     "mp": "Owen Smith MP",
-                    "signature_count": 53
+                    "signature_count": 54
                 },
                 {
                     "name": "Poole",
@@ -3522,7 +3522,7 @@
                     "name": "Stockport",
                     "ons_code": "E14000969",
                     "mp": "Ann Coffey MP",
-                    "signature_count": 95
+                    "signature_count": 96
                 },
                 {
                     "name": "Stockton North",

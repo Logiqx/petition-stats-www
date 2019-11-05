@@ -10,9 +10,9 @@
             "background": "Parliament must not be prorogued or dissolved unless and until the Article 50 period has been sufficiently extended or the UK's intention to withdraw from the EU has been cancelled.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 1725507,
+            "signature_count": 1725523,
             "created_at": "2019-08-06T08:21:33.311Z",
-            "updated_at": "2019-11-05T07:11:12.000Z",
+            "updated_at": "2019-11-05T08:08:52.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-15T16:04:23.329Z",
             "closed_at": null,
@@ -1005,7 +1005,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 1657378
+                    "signature_count": 1657394
                 },
                 {
                     "name": "United States",
@@ -1511,7 +1511,7 @@
                     "name": "Bermondsey and Old Southwark",
                     "ons_code": "E14000553",
                     "mp": "Neil Coyle MP",
-                    "signature_count": 6943
+                    "signature_count": 6944
                 },
                 {
                     "name": "Berwick-upon-Tweed",
@@ -1763,7 +1763,7 @@
                     "name": "Brentford and Isleworth",
                     "ons_code": "E14000593",
                     "mp": "Ruth Cadbury MP",
-                    "signature_count": 5251
+                    "signature_count": 5252
                 },
                 {
                     "name": "Brentwood and Ongar",
@@ -2159,7 +2159,7 @@
                     "name": "Corby",
                     "ons_code": "E14000648",
                     "mp": "Tom Pursglove MP",
-                    "signature_count": 1973
+                    "signature_count": 1974
                 },
                 {
                     "name": "Coventry North East",
@@ -2249,7 +2249,7 @@
                     "name": "Denton and Reddish",
                     "ons_code": "E14000661",
                     "mp": "Andrew Gwynne MP",
-                    "signature_count": 1381
+                    "signature_count": 1382
                 },
                 {
                     "name": "Derby North",
@@ -2465,7 +2465,7 @@
                     "name": "Epsom and Ewell",
                     "ons_code": "E14000694",
                     "mp": "Rt Hon Chris Grayling MP",
-                    "signature_count": 3534
+                    "signature_count": 3535
                 },
                 {
                     "name": "Erewash",
@@ -3059,7 +3059,7 @@
                     "name": "Lewisham West and Penge",
                     "ons_code": "E14000788",
                     "mp": "Ellie Reeves MP",
-                    "signature_count": 6650
+                    "signature_count": 6651
                 },
                 {
                     "name": "Lewisham, Deptford",
@@ -3101,7 +3101,7 @@
                     "name": "Liverpool, Wavertree",
                     "ons_code": "E14000795",
                     "mp": "Luciana Berger MP",
-                    "signature_count": 2908
+                    "signature_count": 2909
                 },
                 {
                     "name": "Liverpool, West Derby",
@@ -3131,7 +3131,7 @@
                     "name": "Ludlow",
                     "ons_code": "E14000799",
                     "mp": "Rt Hon Philip Dunne MP",
-                    "signature_count": 2401
+                    "signature_count": 2402
                 },
                 {
                     "name": "Luton North",
@@ -3839,7 +3839,7 @@
                     "name": "Rossendale and Darwen",
                     "ons_code": "E14000902",
                     "mp": "Rt Hon Jake Berry  MP",
-                    "signature_count": 1584
+                    "signature_count": 1585
                 },
                 {
                     "name": "Rother Valley",
@@ -3989,7 +3989,7 @@
                     "name": "Sittingbourne and Sheppey",
                     "ons_code": "E14000927",
                     "mp": "Gordon Henderson MP",
-                    "signature_count": 1202
+                    "signature_count": 1203
                 },
                 {
                     "name": "Skipton and Ripon",
@@ -4133,7 +4133,7 @@
                     "name": "South West Bedfordshire",
                     "ons_code": "E14000949",
                     "mp": "Andrew Selous MP",
-                    "signature_count": 2244
+                    "signature_count": 2245
                 },
                 {
                     "name": "South West Devon",
@@ -4301,7 +4301,7 @@
                     "name": "Strangford",
                     "ons_code": "N06000016",
                     "mp": "Jim Shannon MP",
-                    "signature_count": 992
+                    "signature_count": 993
                 },
                 {
                     "name": "Stratford-on-Avon",
@@ -4565,7 +4565,7 @@
                     "name": "Wansbeck",
                     "ons_code": "E14001014",
                     "mp": "Ian Lavery MP",
-                    "signature_count": 1289
+                    "signature_count": 1290
                 },
                 {
                     "name": "Wantage",
@@ -4673,7 +4673,7 @@
                     "name": "West Ham",
                     "ons_code": "E14001032",
                     "mp": "Lyn Brown MP",
-                    "signature_count": 3434
+                    "signature_count": 3435
                 },
                 {
                     "name": "West Lancashire",
@@ -4727,7 +4727,7 @@
                     "name": "Wimbledon",
                     "ons_code": "E14001040",
                     "mp": "Stephen Hammond MP",
-                    "signature_count": 5740
+                    "signature_count": 5741
                 },
                 {
                     "name": "Winchester",
@@ -4805,7 +4805,7 @@
                     "name": "Workington",
                     "ons_code": "E14001053",
                     "mp": "Sue Hayman MP",
-                    "signature_count": 1321
+                    "signature_count": 1322
                 },
                 {
                     "name": "Worsley and Eccles South",

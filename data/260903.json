@@ -10,9 +10,9 @@
             "background": "HM Revenue and Customs (HMRC) is set to increase VAT from 5% to 20% for the installation of a number of renewable and sustainable energy sources, such as solar panels from 1st October.\r\n\r\nWith the current climate emergency, the HMRC should be encouraging renewables by removing VAT not increasing it.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 12439,
+            "signature_count": 12444,
             "created_at": "2019-05-10T07:36:39.311Z",
-            "updated_at": "2019-11-04T20:15:22.000Z",
+            "updated_at": "2019-11-05T08:02:02.000Z",
             "rejected_at": null,
             "opened_at": "2019-06-12T11:47:52.160Z",
             "closed_at": null,
@@ -219,7 +219,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 12308
+                    "signature_count": 12313
                 },
                 {
                     "name": "United States",
@@ -447,7 +447,7 @@
                     "name": "Perth and North Perthshire",
                     "ons_code": "S14000054",
                     "mp": "Pete Wishart MP",
-                    "signature_count": 17
+                    "signature_count": 18
                 },
                 {
                     "name": "Ross, Skye and Lochaber",
@@ -873,7 +873,7 @@
                     "name": "Bracknell",
                     "ons_code": "E14000586",
                     "mp": "Dr Phillip Lee MP",
-                    "signature_count": 44
+                    "signature_count": 45
                 },
                 {
                     "name": "Bradford East",
@@ -915,7 +915,7 @@
                     "name": "Brent North",
                     "ons_code": "E14000592",
                     "mp": "Barry Gardiner MP",
-                    "signature_count": 16
+                    "signature_count": 17
                 },
                 {
                     "name": "Brentford and Isleworth",
@@ -1041,7 +1041,7 @@
                     "name": "Bury South",
                     "ons_code": "E14000612",
                     "mp": "Mr Ivan Lewis MP",
-                    "signature_count": 9
+                    "signature_count": 10
                 },
                 {
                     "name": "Bury St Edmunds",
@@ -1185,7 +1185,7 @@
                     "name": "Chelmsford",
                     "ons_code": "E14000628",
                     "mp": "Vicky Ford MP",
-                    "signature_count": 9
+                    "signature_count": 10
                 },
                 {
                     "name": "Chelsea and Fulham",

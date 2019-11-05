@@ -10,9 +10,9 @@
             "background": "I was shocked to learn that hundreds of people a year are sent to prison for non-payment of council tax, often because the law is wrongly applied by magistrates, up and down the country.\r\n\r\nThis affects the poorest in society and often women, left with unmanageable debts. The wealthy are unaffected.",
             "additional_details": "Changes in benefits, including the introduction of Universal Credit, have made many of the poorest in society liable for Council Tax for the first time.\r\n\r\nMany just cannot afford to pay; often due to health issues or changes in circumstances, such as separation or divorce.\r\n\r\nThe wealthy, when unable to pay Income, Capital Gains or Corporation Tax, due to a change in circumstances, are NEVER sent to prison for non-payment.\r\n\r\nCouncil tax should be no different.\r\n\r\nIt should not be one law for the rich.",
             "state": "open",
-            "signature_count": 12694,
+            "signature_count": 12700,
             "created_at": "2019-04-14T17:17:40.611Z",
-            "updated_at": "2019-11-05T05:14:22.000Z",
+            "updated_at": "2019-11-05T08:07:02.000Z",
             "rejected_at": null,
             "opened_at": "2019-05-14T10:07:52.603Z",
             "closed_at": null,
@@ -139,7 +139,7 @@
                 {
                     "name": "Netherlands",
                     "code": "NL",
-                    "signature_count": 8
+                    "signature_count": 9
                 },
                 {
                     "name": "New Zealand",
@@ -194,7 +194,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 12560
+                    "signature_count": 12565
                 },
                 {
                     "name": "United States",
@@ -309,7 +309,7 @@
                     "name": "Inverclyde",
                     "ons_code": "S14000038",
                     "mp": "Ronnie Cowan MP",
-                    "signature_count": 9
+                    "signature_count": 10
                 },
                 {
                     "name": "Inverness, Nairn, Badenoch and Strathspey",
@@ -501,7 +501,7 @@
                     "name": "Arfon",
                     "ons_code": "W07000057",
                     "mp": "Hywel Williams MP",
-                    "signature_count": 16
+                    "signature_count": 17
                 },
                 {
                     "name": "Arundel and South Downs",
@@ -2205,7 +2205,7 @@
                     "name": "Leyton and Wanstead",
                     "ons_code": "E14000790",
                     "mp": "John Cryer MP",
-                    "signature_count": 28
+                    "signature_count": 29
                 },
                 {
                     "name": "Lichfield",
@@ -2709,7 +2709,7 @@
                     "name": "Northampton South",
                     "ons_code": "E14000862",
                     "mp": "Andrew Lewer MP",
-                    "signature_count": 20
+                    "signature_count": 21
                 },
                 {
                     "name": "Norwich North",
@@ -3777,7 +3777,7 @@
                     "name": "Welwyn Hatfield",
                     "ons_code": "E14001027",
                     "mp": "Rt Hon Grant Shapps MP",
-                    "signature_count": 21
+                    "signature_count": 22
                 },
                 {
                     "name": "Wentworth and Dearne",

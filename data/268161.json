@@ -10,9 +10,9 @@
             "background": "Recent changes in pension taxation have reduced the annual allowance which can be put into a pension to \u00a340,000 a year. In 2016 \u201ctapering\u201d was introduced which can further reduce the annual allowance to \u00a310,000",
             "additional_details": "The combined effect of the tapered annual allowance and inflexible public sector pension schemes is having a catastrophic effect on retention and productivity in the public sector. In particular in the NHS, where consultants are not able to afford to do extra work for fear of a punitive tax bill well in excess of any income earned.",
             "state": "open",
-            "signature_count": 19924,
+            "signature_count": 19927,
             "created_at": "2019-07-24T12:45:15.915Z",
-            "updated_at": "2019-11-05T07:06:12.000Z",
+            "updated_at": "2019-11-05T07:59:22.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-31T13:17:58.822Z",
             "closed_at": null,
@@ -144,7 +144,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 19870
+                    "signature_count": 19873
                 },
                 {
                     "name": "United States",
@@ -1080,7 +1080,7 @@
                     "name": "Central Devon",
                     "ons_code": "E14000623",
                     "mp": "Rt Hon Mel Stride MP",
-                    "signature_count": 40
+                    "signature_count": 41
                 },
                 {
                     "name": "Central Suffolk and North Ipswich",
@@ -2736,7 +2736,7 @@
                     "name": "Oxford West and Abingdon",
                     "ons_code": "E14000874",
                     "mp": "Layla Moran MP",
-                    "signature_count": 56
+                    "signature_count": 57
                 },
                 {
                     "name": "Pendle",
@@ -3600,7 +3600,7 @@
                     "name": "Vale of Glamorgan",
                     "ons_code": "W07000078",
                     "mp": "Rt Hon Alun Cairns MP",
-                    "signature_count": 78
+                    "signature_count": 79
                 },
                 {
                     "name": "Vauxhall",

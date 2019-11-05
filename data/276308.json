@@ -10,9 +10,9 @@
             "background": "Margiris, the second largest trawler in the world, was spotted off the coast of the Isle of Wight at the end of September.\r\n \r\nThe UK Government should work internationally to ban these trawlers and remove them from UK waters.",
             "additional_details": "Weighing close to 9,500 tonnes, the mammoth commercial fishing vessel is designed to operate fishing trawls, which involves pulling a fishing net through a large body of water. It is thought to process 250 tonnes of fish a day.\r\n \r\nHeavily regulated in some nations, trawling is widely criticised for its lack of selectivity, and the physical damage the trawl inflicts on the seabed. Australia has banned Margiris from operating in its waters.",
             "state": "open",
-            "signature_count": 25485,
+            "signature_count": 25494,
             "created_at": "2019-10-03T17:30:32.582Z",
-            "updated_at": "2019-11-05T07:16:02.000Z",
+            "updated_at": "2019-11-05T08:10:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-10-11T09:07:29.319Z",
             "closed_at": null,
@@ -279,7 +279,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 25151
+                    "signature_count": 25160
                 },
                 {
                     "name": "United States",
@@ -760,7 +760,7 @@
                     "name": "Bermondsey and Old Southwark",
                     "ons_code": "E14000553",
                     "mp": "Neil Coyle MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "Berwick-upon-Tweed",
@@ -1150,7 +1150,7 @@
                     "name": "Calder Valley",
                     "ons_code": "E14000614",
                     "mp": "Craig Whittaker MP",
-                    "signature_count": 36
+                    "signature_count": 37
                 },
                 {
                     "name": "Camberwell and Peckham",
@@ -1276,7 +1276,7 @@
                     "name": "Chelmsford",
                     "ons_code": "E14000628",
                     "mp": "Vicky Ford MP",
-                    "signature_count": 25
+                    "signature_count": 26
                 },
                 {
                     "name": "Chelsea and Fulham",
@@ -2074,7 +2074,7 @@
                     "name": "Hornchurch and Upminster",
                     "ons_code": "E14000751",
                     "mp": "Julia Lopez MP",
-                    "signature_count": 32
+                    "signature_count": 33
                 },
                 {
                     "name": "Hornsey and Wood Green",
@@ -2686,7 +2686,7 @@
                     "name": "North Down",
                     "ons_code": "N06000013",
                     "mp": "Lady Hermon MP",
-                    "signature_count": 21
+                    "signature_count": 22
                 },
                 {
                     "name": "North Durham",
@@ -3130,7 +3130,7 @@
                     "name": "Rutland and Melton",
                     "ons_code": "E14000909",
                     "mp": "Rt Hon Sir Alan Duncan MP",
-                    "signature_count": 30
+                    "signature_count": 31
                 },
                 {
                     "name": "Saffron Walden",
@@ -3316,7 +3316,7 @@
                     "name": "South East Cornwall",
                     "ons_code": "E14000938",
                     "mp": "Mrs Sheryll Murray MP",
-                    "signature_count": 166
+                    "signature_count": 167
                 },
                 {
                     "name": "South Holland and The Deepings",
@@ -3718,7 +3718,7 @@
                     "name": "Totnes",
                     "ons_code": "E14001001",
                     "mp": "Dr Sarah Wollaston MP",
-                    "signature_count": 284
+                    "signature_count": 285
                 },
                 {
                     "name": "Tottenham",
@@ -3892,7 +3892,7 @@
                     "name": "Welwyn Hatfield",
                     "ons_code": "E14001027",
                     "mp": "Rt Hon Grant Shapps MP",
-                    "signature_count": 25
+                    "signature_count": 26
                 },
                 {
                     "name": "Wentworth and Dearne",

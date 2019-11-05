@@ -10,9 +10,9 @@
             "background": "Boris Johnson is reported to be \"considering an 'amnesty' for illegal immigrants who have been in Britain for more than 15 years\". It is crucial to make clear the strength of public opinion so as to head off this absurd proposal. Vote now.",
             "additional_details": "- People who wish to come here should use the legal channels.\r\n- Amnesties are manna for traffickers, rewarding illegality.\r\n- The experience of Italy and Spain suggests that they encourage more illegal immigrants.\r\n- The ex-head of immigration enforcement told a Commons committee that there are probably over 1 million illegal migrants in the UK.\r\n- The Home Office estimate for 2001 was 430,000. There could well be half a million who have already been here 15 years.\r\n- The cost could run into billions a year.",
             "state": "open",
-            "signature_count": 35451,
+            "signature_count": 35461,
             "created_at": "2019-07-07T09:28:49.389Z",
-            "updated_at": "2019-11-05T07:16:42.000Z",
+            "updated_at": "2019-11-05T08:16:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-22T14:53:38.217Z",
             "closed_at": null,
@@ -334,7 +334,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 34843
+                    "signature_count": 34853
                 },
                 {
                     "name": "United States",
@@ -1100,7 +1100,7 @@
                     "name": "Bristol North West",
                     "ons_code": "E14000600",
                     "mp": "Darren Jones MP",
-                    "signature_count": 38
+                    "signature_count": 39
                 },
                 {
                     "name": "Bristol South",
@@ -1592,7 +1592,7 @@
                     "name": "Dover",
                     "ons_code": "E14000670",
                     "mp": "Charlie Elphicke MP",
-                    "signature_count": 117
+                    "signature_count": 118
                 },
                 {
                     "name": "Dudley North",
@@ -1658,7 +1658,7 @@
                     "name": "East Ham",
                     "ons_code": "E14000679",
                     "mp": "Rt Hon Stephen Timms MP",
-                    "signature_count": 55
+                    "signature_count": 56
                 },
                 {
                     "name": "East Hampshire",
@@ -2288,7 +2288,7 @@
                     "name": "Leeds East",
                     "ons_code": "E14000778",
                     "mp": "Richard Burgon MP",
-                    "signature_count": 61
+                    "signature_count": 62
                 },
                 {
                     "name": "Leeds North East",
@@ -2594,7 +2594,7 @@
                     "name": "Monmouth",
                     "ons_code": "W07000054",
                     "mp": "David T. C. Davies MP",
-                    "signature_count": 36
+                    "signature_count": 37
                 },
                 {
                     "name": "Montgomeryshire",
@@ -2756,7 +2756,7 @@
                     "name": "North East Hampshire",
                     "ons_code": "E14000844",
                     "mp": "Mr Ranil Jayawardena MP",
-                    "signature_count": 52
+                    "signature_count": 53
                 },
                 {
                     "name": "North East Hertfordshire",
@@ -3182,7 +3182,7 @@
                     "name": "Salford and Eccles",
                     "ons_code": "E14000911",
                     "mp": "Rebecca Long Bailey MP",
-                    "signature_count": 65
+                    "signature_count": 66
                 },
                 {
                     "name": "Salisbury",
@@ -3740,7 +3740,7 @@
                     "name": "Torbay",
                     "ons_code": "E14000999",
                     "mp": "Kevin Foster MP",
-                    "signature_count": 84
+                    "signature_count": 85
                 },
                 {
                     "name": "Torfaen",
@@ -3932,7 +3932,7 @@
                     "name": "Welwyn Hatfield",
                     "ons_code": "E14001027",
                     "mp": "Rt Hon Grant Shapps MP",
-                    "signature_count": 67
+                    "signature_count": 68
                 },
                 {
                     "name": "Wentworth and Dearne",
@@ -3962,7 +3962,7 @@
                     "name": "West Ham",
                     "ons_code": "E14001032",
                     "mp": "Lyn Brown MP",
-                    "signature_count": 52
+                    "signature_count": 53
                 },
                 {
                     "name": "West Lancashire",

@@ -10,9 +10,9 @@
             "background": "The British Government must call on Turkey and the USA to halt a Turkish military invasion that would allow a genocide against the Kurdish people - the very people who have lost over 11,000 fighters defeating ISIS over the past 5 years. We call on the government to do all it can to stop this.",
             "additional_details": "On Sunday October 6th, the White House released a statement saying President Trump and Turkey's Erdogan had spoken by phone and that Turkey's military operation into northern Syria would commence. \r\n\r\nIf Turkey's military action along its Syrian border goes ahead, there will be more bloodshed, the re-emergence of ISIS and it would be an act of betrayal (bbc.co.uk/news/world-middle-east-49960973) and a direct assault on Kurdish rights and freedoms. Find out more at https://riseup4rojava.org/",
             "state": "open",
-            "signature_count": 38865,
+            "signature_count": 38879,
             "created_at": "2019-10-08T10:31:46.327Z",
-            "updated_at": "2019-11-05T07:09:42.000Z",
+            "updated_at": "2019-11-05T08:17:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-10-08T15:02:26.107Z",
             "closed_at": null,
@@ -214,7 +214,7 @@
                 {
                     "name": "Iraq",
                     "code": "IQ",
-                    "signature_count": 794
+                    "signature_count": 795
                 },
                 {
                     "name": "Ireland",
@@ -419,7 +419,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 36607
+                    "signature_count": 36620
                 },
                 {
                     "name": "United States",
@@ -905,7 +905,7 @@
                     "name": "Bermondsey and Old Southwark",
                     "ons_code": "E14000553",
                     "mp": "Neil Coyle MP",
-                    "signature_count": 146
+                    "signature_count": 147
                 },
                 {
                     "name": "Berwick-upon-Tweed",
@@ -1121,7 +1121,7 @@
                     "name": "Bradford South",
                     "ons_code": "E14000588",
                     "mp": "Judith Cummins MP",
-                    "signature_count": 28
+                    "signature_count": 29
                 },
                 {
                     "name": "Bradford West",
@@ -1217,7 +1217,7 @@
                     "name": "Bristol West",
                     "ons_code": "E14000602",
                     "mp": "Thangam Debbonaire MP",
-                    "signature_count": 299
+                    "signature_count": 301
                 },
                 {
                     "name": "Broadland",
@@ -1271,7 +1271,7 @@
                     "name": "Bury North",
                     "ons_code": "E14000611",
                     "mp": "James Frith MP",
-                    "signature_count": 42
+                    "signature_count": 43
                 },
                 {
                     "name": "Bury South",
@@ -1349,7 +1349,7 @@
                     "name": "Cardiff West",
                     "ons_code": "W07000079",
                     "mp": "Kevin Brennan MP",
-                    "signature_count": 61
+                    "signature_count": 62
                 },
                 {
                     "name": "Carlisle",
@@ -1529,7 +1529,7 @@
                     "name": "Colchester",
                     "ons_code": "E14000644",
                     "mp": "Will Quince MP",
-                    "signature_count": 70
+                    "signature_count": 71
                 },
                 {
                     "name": "Colne Valley",
@@ -1655,7 +1655,7 @@
                     "name": "Derby South",
                     "ons_code": "E14000663",
                     "mp": "Rt Hon Margaret Beckett MP",
-                    "signature_count": 95
+                    "signature_count": 96
                 },
                 {
                     "name": "Derbyshire Dales",
@@ -2039,7 +2039,7 @@
                     "name": "Hackney South and Shoreditch",
                     "ons_code": "E14000721",
                     "mp": "Meg Hillier MP",
-                    "signature_count": 466
+                    "signature_count": 467
                 },
                 {
                     "name": "Halesowen and Rowley Regis",
@@ -2987,7 +2987,7 @@
                     "name": "Nottingham East",
                     "ons_code": "E14000865",
                     "mp": "Mr Chris Leslie MP",
-                    "signature_count": 157
+                    "signature_count": 158
                 },
                 {
                     "name": "Nottingham North",
@@ -3083,7 +3083,7 @@
                     "name": "Plymouth, Sutton and Devonport",
                     "ons_code": "E14000880",
                     "mp": "Luke Pollard MP",
-                    "signature_count": 107
+                    "signature_count": 108
                 },
                 {
                     "name": "Pontypridd",
@@ -4121,7 +4121,7 @@
                     "name": "Wimbledon",
                     "ons_code": "E14001040",
                     "mp": "Stephen Hammond MP",
-                    "signature_count": 81
+                    "signature_count": 82
                 },
                 {
                     "name": "Winchester",
