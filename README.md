@@ -9,4 +9,3 @@ Technical notes:
 - A simple [IPython](https://ipython.org/) Notebook is converted to a regular [Python](https://www.python.org/) script and packaged in a [Docker](https://www.docker.com/) image
 
 - An hourly [Jenkins](https://jenkins.io/) jobs runs in [AWS](https://aws.amazon.com/) and the latest reports are pushed to [GitHub](https://github.com/) / [GitHub Pages](https://pages.github.com/)
-
