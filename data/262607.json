@@ -10,9 +10,9 @@
             "background": "Non-stun slaughter is cruel. Many consumers do not want to eat meat killed by non-stun slaughter. On leaving the EU, specific UK legislation must replace the EU slaughter directive, explicitly precluding the religious exemption from pre-stunning requirement. Stun to kill must be mandatory.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 13950,
+            "signature_count": 13951,
             "created_at": "2019-05-25T12:08:53.852Z",
-            "updated_at": "2019-11-05T03:13:42.000Z",
+            "updated_at": "2019-11-05T03:18:52.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-16T11:24:16.242Z",
             "closed_at": null,
@@ -209,7 +209,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 13740
+                    "signature_count": 13741
                 },
                 {
                     "name": "United States",
@@ -2980,7 +2980,7 @@
                     "name": "Rochford and Southend East",
                     "ons_code": "E14000899",
                     "mp": "James Duddridge MP",
-                    "signature_count": 34
+                    "signature_count": 35
                 },
                 {
                     "name": "Romford",
