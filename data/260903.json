@@ -10,9 +10,9 @@
             "background": "HM Revenue and Customs (HMRC) is set to increase VAT from 5% to 20% for the installation of a number of renewable and sustainable energy sources, such as solar panels from 1st October.\r\n\r\nWith the current climate emergency, the HMRC should be encouraging renewables by removing VAT not increasing it.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 12447,
+            "signature_count": 12451,
             "created_at": "2019-05-10T07:36:39.311Z",
-            "updated_at": "2019-11-05T09:26:32.000Z",
+            "updated_at": "2019-11-05T10:19:22.000Z",
             "rejected_at": null,
             "opened_at": "2019-06-12T11:47:52.160Z",
             "closed_at": null,
@@ -219,7 +219,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 12316
+                    "signature_count": 12320
                 },
                 {
                     "name": "United States",
@@ -957,7 +957,7 @@
                     "name": "Brighton, Pavilion",
                     "ons_code": "E14000598",
                     "mp": "Caroline Lucas MP",
-                    "signature_count": 102
+                    "signature_count": 103
                 },
                 {
                     "name": "Bristol East",
@@ -1257,7 +1257,7 @@
                     "name": "City of Chester",
                     "ons_code": "E14000640",
                     "mp": "Christian Matheson MP",
-                    "signature_count": 16
+                    "signature_count": 17
                 },
                 {
                     "name": "City of Durham",
@@ -2715,7 +2715,7 @@
                     "name": "North Wiltshire",
                     "ons_code": "E14000860",
                     "mp": "James Gray MP",
-                    "signature_count": 42
+                    "signature_count": 43
                 },
                 {
                     "name": "Northampton North",
@@ -3441,7 +3441,7 @@
                     "name": "Stone",
                     "ons_code": "E14000975",
                     "mp": "Sir William Cash MP",
-                    "signature_count": 12
+                    "signature_count": 13
                 },
                 {
                     "name": "Stourbridge",

@@ -10,9 +10,9 @@
             "background": "Dental nurses earn on average around \u00a39 per hour regardless of whether this is NHS or private practice and the wage does not reflect the experience or the additional qualifications/duties of the nurse. Dental practices quite simply could not run without the nurses. Their pay should reflect this!",
             "additional_details": "A dental nurses duty:\r\n- Extra work outside of paid hours to ensure the smooth running of a practice\r\n- Stock control\r\n- Infection control & exposure to infection/pathogens & bacteria \r\n- Receptionist duties\r\n- Ensure all equipment is sterilised accordingly \r\n- Adhere to strict regulatory bodies\r\n- Pay around \u00a3200+ per year for the privilege of being able to practice\r\n- Pay for continuing professional development out of their poor wage\r\n- Receive little to no recognition for the work they do.",
             "state": "open",
-            "signature_count": 17124,
+            "signature_count": 17129,
             "created_at": "2019-06-12T20:27:51.278Z",
-            "updated_at": "2019-11-05T09:31:42.000Z",
+            "updated_at": "2019-11-05T10:34:22.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-15T14:51:08.912Z",
             "closed_at": null,
@@ -119,7 +119,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 17088
+                    "signature_count": 17093
                 },
                 {
                     "name": "United States",
@@ -185,7 +185,7 @@
                     "name": "Glasgow East",
                     "ons_code": "S14000030",
                     "mp": "David Linden MP",
-                    "signature_count": 84
+                    "signature_count": 85
                 },
                 {
                     "name": "Glasgow North",
@@ -509,7 +509,7 @@
                     "name": "Bassetlaw",
                     "ons_code": "E14000546",
                     "mp": null,
-                    "signature_count": 31
+                    "signature_count": 32
                 },
                 {
                     "name": "Bath",
@@ -1223,7 +1223,7 @@
                     "name": "Corby",
                     "ons_code": "E14000648",
                     "mp": "Tom Pursglove MP",
-                    "signature_count": 47
+                    "signature_count": 48
                 },
                 {
                     "name": "Coventry North East",
@@ -1487,7 +1487,7 @@
                     "name": "Edmonton",
                     "ons_code": "E14000687",
                     "mp": "Kate Osamor MP",
-                    "signature_count": 18
+                    "signature_count": 19
                 },
                 {
                     "name": "Ellesmere Port and Neston",
@@ -2435,7 +2435,7 @@
                     "name": "Newcastle upon Tyne North",
                     "ons_code": "E14000833",
                     "mp": "Catherine McKinnell MP",
-                    "signature_count": 52
+                    "signature_count": 53
                 },
                 {
                     "name": "Newcastle-under-Lyme",

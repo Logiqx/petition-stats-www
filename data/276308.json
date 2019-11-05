@@ -10,9 +10,9 @@
             "background": "Margiris, the second largest trawler in the world, was spotted off the coast of the Isle of Wight at the end of September.\r\n \r\nThe UK Government should work internationally to ban these trawlers and remove them from UK waters.",
             "additional_details": "Weighing close to 9,500 tonnes, the mammoth commercial fishing vessel is designed to operate fishing trawls, which involves pulling a fishing net through a large body of water. It is thought to process 250 tonnes of fish a day.\r\n \r\nHeavily regulated in some nations, trawling is widely criticised for its lack of selectivity, and the physical damage the trawl inflicts on the seabed. Australia has banned Margiris from operating in its waters.",
             "state": "open",
-            "signature_count": 25516,
+            "signature_count": 25524,
             "created_at": "2019-10-03T17:30:32.582Z",
-            "updated_at": "2019-11-05T09:48:32.000Z",
+            "updated_at": "2019-11-05T10:31:52.000Z",
             "rejected_at": null,
             "opened_at": "2019-10-11T09:07:29.319Z",
             "closed_at": null,
@@ -279,7 +279,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 25182
+                    "signature_count": 25190
                 },
                 {
                     "name": "United States",
@@ -538,7 +538,7 @@
                     "name": "Perth and North Perthshire",
                     "ons_code": "S14000054",
                     "mp": "Pete Wishart MP",
-                    "signature_count": 20
+                    "signature_count": 21
                 },
                 {
                     "name": "Ross, Skye and Lochaber",
@@ -1078,7 +1078,7 @@
                     "name": "Broadland",
                     "ons_code": "E14000603",
                     "mp": "Rt Hon Keith Simpson MP",
-                    "signature_count": 32
+                    "signature_count": 33
                 },
                 {
                     "name": "Bromley and Chislehurst",
@@ -1474,7 +1474,7 @@
                     "name": "Darlington",
                     "ons_code": "E14000658",
                     "mp": "Jenny Chapman MP",
-                    "signature_count": 39
+                    "signature_count": 40
                 },
                 {
                     "name": "Dartford",
@@ -2158,7 +2158,7 @@
                     "name": "Islwyn",
                     "ons_code": "W07000077",
                     "mp": "Chris Evans MP",
-                    "signature_count": 32
+                    "signature_count": 33
                 },
                 {
                     "name": "Jarrow",
@@ -2752,7 +2752,7 @@
                     "name": "North Somerset",
                     "ons_code": "E14000850",
                     "mp": "Rt Hon Dr Liam Fox MP",
-                    "signature_count": 75
+                    "signature_count": 76
                 },
                 {
                     "name": "North Swindon",
@@ -2764,7 +2764,7 @@
                     "name": "North Thanet",
                     "ons_code": "E14000852",
                     "mp": "Rt Hon Sir Roger Gale MP",
-                    "signature_count": 79
+                    "signature_count": 80
                 },
                 {
                     "name": "North Tyneside",
@@ -3538,7 +3538,7 @@
                     "name": "Stone",
                     "ons_code": "E14000975",
                     "mp": "Sir William Cash MP",
-                    "signature_count": 25
+                    "signature_count": 26
                 },
                 {
                     "name": "Stourbridge",
@@ -4048,7 +4048,7 @@
                     "name": "Worcester",
                     "ons_code": "E14001052",
                     "mp": "Mr Robin Walker MP",
-                    "signature_count": 26
+                    "signature_count": 27
                 },
                 {
                     "name": "Workington",

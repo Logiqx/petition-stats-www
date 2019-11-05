@@ -10,9 +10,9 @@
             "background": "Recent changes in pension taxation have reduced the annual allowance which can be put into a pension to \u00a340,000 a year. In 2016 \u201ctapering\u201d was introduced which can further reduce the annual allowance to \u00a310,000",
             "additional_details": "The combined effect of the tapered annual allowance and inflexible public sector pension schemes is having a catastrophic effect on retention and productivity in the public sector. In particular in the NHS, where consultants are not able to afford to do extra work for fear of a punitive tax bill well in excess of any income earned.",
             "state": "open",
-            "signature_count": 19941,
+            "signature_count": 19949,
             "created_at": "2019-07-24T12:45:15.915Z",
-            "updated_at": "2019-11-05T09:47:22.000Z",
+            "updated_at": "2019-11-05T10:27:02.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-31T13:17:58.822Z",
             "closed_at": null,
@@ -144,7 +144,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 19887
+                    "signature_count": 19895
                 },
                 {
                     "name": "United States",
@@ -624,7 +624,7 @@
                     "name": "Bexhill and Battle",
                     "ons_code": "E14000557",
                     "mp": "Huw Merriman MP",
-                    "signature_count": 26
+                    "signature_count": 27
                 },
                 {
                     "name": "Bexleyheath and Crayford",
@@ -1812,7 +1812,7 @@
                     "name": "Hastings and Rye",
                     "ons_code": "E14000735",
                     "mp": "Rt Hon Amber Rudd MP",
-                    "signature_count": 16
+                    "signature_count": 17
                 },
                 {
                     "name": "Havant",
@@ -2028,7 +2028,7 @@
                     "name": "Kingston and Surbiton",
                     "ons_code": "E14000770",
                     "mp": "Rt Hon Sir Edward Davey MP",
-                    "signature_count": 50
+                    "signature_count": 51
                 },
                 {
                     "name": "Kingston upon Hull East",
@@ -2142,7 +2142,7 @@
                     "name": "Lewisham West and Penge",
                     "ons_code": "E14000788",
                     "mp": "Ellie Reeves MP",
-                    "signature_count": 18
+                    "signature_count": 19
                 },
                 {
                     "name": "Lewisham, Deptford",
@@ -2946,7 +2946,7 @@
                     "name": "Ruislip, Northwood and Pinner",
                     "ons_code": "E14000906",
                     "mp": "Rt Hon Nick Hurd MP",
-                    "signature_count": 69
+                    "signature_count": 70
                 },
                 {
                     "name": "Runnymede and Weybridge",
@@ -3036,7 +3036,7 @@
                     "name": "Sheffield, Brightside and Hillsborough",
                     "ons_code": "E14000921",
                     "mp": "Gill Furniss MP",
-                    "signature_count": 25
+                    "signature_count": 26
                 },
                 {
                     "name": "Sheffield, Hallam",
@@ -3144,7 +3144,7 @@
                     "name": "South East Cambridgeshire",
                     "ons_code": "E14000937",
                     "mp": "Lucy Frazer MP",
-                    "signature_count": 45
+                    "signature_count": 46
                 },
                 {
                     "name": "South East Cornwall",
@@ -3390,7 +3390,7 @@
                     "name": "Streatham",
                     "ons_code": "E14000978",
                     "mp": "Chuka Umunna MP",
-                    "signature_count": 36
+                    "signature_count": 37
                 },
                 {
                     "name": "Stretford and Urmston",

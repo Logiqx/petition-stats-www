@@ -10,9 +10,9 @@
             "background": "To protect the reputations of all innocent suspects, whether well-known or not, from the lasting stigma of a false sexual allegation.",
             "additional_details": "To provide balance in the criminal justice system since complainants have anonymity for life.\r\nTo prevent the suspects becoming targets of opportunist and deluded claimants.\r\nTo prevent police searches of the homes of suspects who have not been charged being publicised.",
             "state": "open",
-            "signature_count": 28442,
+            "signature_count": 28444,
             "created_at": "2019-03-22T10:05:54.899Z",
-            "updated_at": "2019-11-05T09:42:42.000Z",
+            "updated_at": "2019-11-05T10:31:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-05-30T14:47:48.340Z",
             "closed_at": null,
@@ -329,7 +329,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 27680
+                    "signature_count": 27682
                 },
                 {
                     "name": "United States",
@@ -1064,7 +1064,7 @@
                     "name": "Bridgend",
                     "ons_code": "W07000073",
                     "mp": "Mrs Madeleine Moon MP",
-                    "signature_count": 28
+                    "signature_count": 29
                 },
                 {
                     "name": "Bridgwater and West Somerset",
@@ -1238,7 +1238,7 @@
                     "name": "Cardiff South and Penarth",
                     "ons_code": "W07000080",
                     "mp": "Stephen Doughty MP",
-                    "signature_count": 41
+                    "signature_count": 42
                 },
                 {
                     "name": "Cardiff West",

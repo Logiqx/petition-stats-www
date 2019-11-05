@@ -10,9 +10,9 @@
             "background": "It\u2019s far too easy for online trolls to just create another email address and another social media account if they have their accounts suspended. ",
             "additional_details": "However if their internet service providers were required to block their access to social media, and social media companies blocked their IP addresses, it would be far harder for them to get another account and continue their abuse. \r\n \r\n",
             "state": "open",
-            "signature_count": 133531,
+            "signature_count": 133543,
             "created_at": "2019-09-02T18:22:10.908Z",
-            "updated_at": "2019-11-05T09:40:32.000Z",
+            "updated_at": "2019-11-05T10:33:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-10T16:19:49.877Z",
             "closed_at": null,
@@ -384,7 +384,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 132605
+                    "signature_count": 132617
                 },
                 {
                     "name": "United States",
@@ -496,7 +496,7 @@
                     "name": "Glenrothes",
                     "ons_code": "S14000036",
                     "mp": "Peter Grant MP",
-                    "signature_count": 154
+                    "signature_count": 155
                 },
                 {
                     "name": "Gordon",
@@ -514,7 +514,7 @@
                     "name": "Inverclyde",
                     "ons_code": "S14000038",
                     "mp": "Ronnie Cowan MP",
-                    "signature_count": 202
+                    "signature_count": 203
                 },
                 {
                     "name": "Inverness, Nairn, Badenoch and Strathspey",
@@ -646,7 +646,7 @@
                     "name": "Stirling",
                     "ons_code": "S14000057",
                     "mp": "Stephen Kerr MP",
-                    "signature_count": 169
+                    "signature_count": 170
                 },
                 {
                     "name": "West Aberdeenshire and Kincardine",
@@ -742,7 +742,7 @@
                     "name": "Banbury",
                     "ons_code": "E14000539",
                     "mp": "Victoria Prentis MP",
-                    "signature_count": 270
+                    "signature_count": 271
                 },
                 {
                     "name": "Barking",
@@ -760,7 +760,7 @@
                     "name": "Barnsley East",
                     "ons_code": "E14000542",
                     "mp": "Stephanie Peacock MP",
-                    "signature_count": 210
+                    "signature_count": 211
                 },
                 {
                     "name": "Barrow and Furness",
@@ -2026,7 +2026,7 @@
                     "name": "Harborough",
                     "ons_code": "E14000728",
                     "mp": "Neil O'Brien MP",
-                    "signature_count": 208
+                    "signature_count": 209
                 },
                 {
                     "name": "Harlow",
@@ -2062,7 +2062,7 @@
                     "name": "Harwich and North Essex",
                     "ons_code": "E14000734",
                     "mp": "Sir Bernard Jenkin MP",
-                    "signature_count": 239
+                    "signature_count": 240
                 },
                 {
                     "name": "Hastings and Rye",
@@ -3046,13 +3046,13 @@
                     "name": "Poplar and Limehouse",
                     "ons_code": "E14000882",
                     "mp": "Jim Fitzpatrick MP",
-                    "signature_count": 194
+                    "signature_count": 195
                 },
                 {
                     "name": "Portsmouth North",
                     "ons_code": "E14000883",
                     "mp": "Rt Hon Penny Mordaunt MP",
-                    "signature_count": 288
+                    "signature_count": 289
                 },
                 {
                     "name": "Portsmouth South",
@@ -3214,7 +3214,7 @@
                     "name": "Rushcliffe",
                     "ons_code": "E14000908",
                     "mp": "Rt Hon Kenneth Clarke QC MP",
-                    "signature_count": 188
+                    "signature_count": 189
                 },
                 {
                     "name": "Rutland and Melton",
@@ -3628,7 +3628,7 @@
                     "name": "Stone",
                     "ons_code": "E14000975",
                     "mp": "Sir William Cash MP",
-                    "signature_count": 164
+                    "signature_count": 165
                 },
                 {
                     "name": "Stourbridge",
@@ -3880,7 +3880,7 @@
                     "name": "Wallasey",
                     "ons_code": "E14001010",
                     "mp": "Ms Angela Eagle MP",
-                    "signature_count": 243
+                    "signature_count": 244
                 },
                 {
                     "name": "Walsall North",

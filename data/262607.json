@@ -10,9 +10,9 @@
             "background": "Non-stun slaughter is cruel. Many consumers do not want to eat meat killed by non-stun slaughter. On leaving the EU, specific UK legislation must replace the EU slaughter directive, explicitly precluding the religious exemption from pre-stunning requirement. Stun to kill must be mandatory.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 13975,
+            "signature_count": 13981,
             "created_at": "2019-05-25T12:08:53.852Z",
-            "updated_at": "2019-11-05T09:36:02.000Z",
+            "updated_at": "2019-11-05T10:32:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-16T11:24:16.242Z",
             "closed_at": null,
@@ -209,7 +209,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 13765
+                    "signature_count": 13771
                 },
                 {
                     "name": "United States",
@@ -1450,7 +1450,7 @@
                     "name": "Doncaster Central",
                     "ons_code": "E14000668",
                     "mp": "Rt Hon Dame Rosie Winterton MP",
-                    "signature_count": 31
+                    "signature_count": 32
                 },
                 {
                     "name": "Doncaster North",
@@ -2326,7 +2326,7 @@
                     "name": "Makerfield",
                     "ons_code": "E14000805",
                     "mp": "Yvonne Fovargue MP",
-                    "signature_count": 25
+                    "signature_count": 26
                 },
                 {
                     "name": "Maldon",
@@ -2482,7 +2482,7 @@
                     "name": "Morley and Outwood",
                     "ons_code": "E14000826",
                     "mp": "Andrea Jenkyns MP",
-                    "signature_count": 21
+                    "signature_count": 22
                 },
                 {
                     "name": "Neath",
@@ -2662,7 +2662,7 @@
                     "name": "North Somerset",
                     "ons_code": "E14000850",
                     "mp": "Rt Hon Dr Liam Fox MP",
-                    "signature_count": 24
+                    "signature_count": 25
                 },
                 {
                     "name": "North Swindon",
@@ -3064,7 +3064,7 @@
                     "name": "Scarborough and Whitby",
                     "ons_code": "E14000913",
                     "mp": "Rt Hon Robert Goodwill MP",
-                    "signature_count": 28
+                    "signature_count": 29
                 },
                 {
                     "name": "Scunthorpe",
@@ -3448,7 +3448,7 @@
                     "name": "Stone",
                     "ons_code": "E14000975",
                     "mp": "Sir William Cash MP",
-                    "signature_count": 25
+                    "signature_count": 26
                 },
                 {
                     "name": "Stourbridge",

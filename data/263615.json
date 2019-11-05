@@ -10,9 +10,9 @@
             "background": "Have worked since I was 16 and planned for my retirement at 60. Due to unfair government changes I will not get state pension until I am 66.",
             "additional_details": "Born in England 1955. Have worked hard all my life not knowing another 6 years would be added to pensionable age.",
             "state": "open",
-            "signature_count": 17563,
+            "signature_count": 17570,
             "created_at": "2019-06-05T12:39:24.454Z",
-            "updated_at": "2019-11-05T09:51:12.000Z",
+            "updated_at": "2019-11-05T10:24:32.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-10T09:51:20.946Z",
             "closed_at": null,
@@ -69,7 +69,7 @@
                 {
                     "name": "France",
                     "code": "FR",
-                    "signature_count": 68
+                    "signature_count": 69
                 },
                 {
                     "name": "Germany",
@@ -184,7 +184,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 17187
+                    "signature_count": 17193
                 },
                 {
                     "name": "United States",
@@ -505,7 +505,7 @@
                     "name": "Amber Valley",
                     "ons_code": "E14000533",
                     "mp": "Nigel Mills MP",
-                    "signature_count": 29
+                    "signature_count": 30
                 },
                 {
                     "name": "Arfon",
@@ -1075,7 +1075,7 @@
                     "name": "Canterbury",
                     "ons_code": "E14000619",
                     "mp": "Rosie Duffield MP",
-                    "signature_count": 26
+                    "signature_count": 27
                 },
                 {
                     "name": "Cardiff Central",
@@ -1393,7 +1393,7 @@
                     "name": "Denton and Reddish",
                     "ons_code": "E14000661",
                     "mp": "Andrew Gwynne MP",
-                    "signature_count": 62
+                    "signature_count": 63
                 },
                 {
                     "name": "Derby North",
@@ -1495,7 +1495,7 @@
                     "name": "Easington",
                     "ons_code": "E14000677",
                     "mp": "Grahame Morris MP",
-                    "signature_count": 42
+                    "signature_count": 43
                 },
                 {
                     "name": "East Antrim",
@@ -3217,7 +3217,7 @@
                     "name": "South Holland and The Deepings",
                     "ons_code": "E14000939",
                     "mp": "Rt Hon Sir John Hayes MP",
-                    "signature_count": 21
+                    "signature_count": 22
                 },
                 {
                     "name": "South Leicestershire",
@@ -3409,7 +3409,7 @@
                     "name": "Stockton South",
                     "ons_code": "E14000971",
                     "mp": "Dr Paul Williams MP",
-                    "signature_count": 41
+                    "signature_count": 42
                 },
                 {
                     "name": "Stoke-on-Trent Central",

@@ -10,9 +10,9 @@
             "background": "The British Government must call on Turkey and the USA to halt a Turkish military invasion that would allow a genocide against the Kurdish people - the very people who have lost over 11,000 fighters defeating ISIS over the past 5 years. We call on the government to do all it can to stop this.",
             "additional_details": "On Sunday October 6th, the White House released a statement saying President Trump and Turkey's Erdogan had spoken by phone and that Turkey's military operation into northern Syria would commence. \r\n\r\nIf Turkey's military action along its Syrian border goes ahead, there will be more bloodshed, the re-emergence of ISIS and it would be an act of betrayal (bbc.co.uk/news/world-middle-east-49960973) and a direct assault on Kurdish rights and freedoms. Find out more at https://riseup4rojava.org/",
             "state": "open",
-            "signature_count": 38903,
+            "signature_count": 38919,
             "created_at": "2019-10-08T10:31:46.327Z",
-            "updated_at": "2019-11-05T09:54:12.000Z",
+            "updated_at": "2019-11-05T10:32:52.000Z",
             "rejected_at": null,
             "opened_at": "2019-10-08T15:02:26.107Z",
             "closed_at": null,
@@ -419,7 +419,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 36644
+                    "signature_count": 36660
                 },
                 {
                     "name": "United States",
@@ -1067,7 +1067,7 @@
                     "name": "Bolton South East",
                     "ons_code": "E14000579",
                     "mp": "Yasmin Qureshi MP",
-                    "signature_count": 64
+                    "signature_count": 65
                 },
                 {
                     "name": "Bolton West",
@@ -1115,7 +1115,7 @@
                     "name": "Bradford East",
                     "ons_code": "E14000587",
                     "mp": "Imran Hussain MP",
-                    "signature_count": 46
+                    "signature_count": 47
                 },
                 {
                     "name": "Bradford South",
@@ -1193,7 +1193,7 @@
                     "name": "Brighton, Pavilion",
                     "ons_code": "E14000598",
                     "mp": "Caroline Lucas MP",
-                    "signature_count": 209
+                    "signature_count": 210
                 },
                 {
                     "name": "Bristol East",
@@ -1415,7 +1415,7 @@
                     "name": "Cheadle",
                     "ons_code": "E14000627",
                     "mp": "Mary Robinson MP",
-                    "signature_count": 92
+                    "signature_count": 93
                 },
                 {
                     "name": "Chelmsford",
@@ -1439,7 +1439,7 @@
                     "name": "Chesham and Amersham",
                     "ons_code": "E14000631",
                     "mp": "Rt Hon Dame Cheryl Gillan MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "Chesterfield",
@@ -1739,7 +1739,7 @@
                     "name": "Ealing, Southall",
                     "ons_code": "E14000676",
                     "mp": "Mr Virendra Sharma MP",
-                    "signature_count": 85
+                    "signature_count": 86
                 },
                 {
                     "name": "Easington",
@@ -2057,7 +2057,7 @@
                     "name": "Haltemprice and Howden",
                     "ons_code": "E14000724",
                     "mp": "Rt Hon David Davis MP",
-                    "signature_count": 19
+                    "signature_count": 20
                 },
                 {
                     "name": "Halton",
@@ -2195,7 +2195,7 @@
                     "name": "Heywood and Middleton",
                     "ons_code": "E14000747",
                     "mp": "Liz McInnes MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "High Peak",
@@ -2273,7 +2273,7 @@
                     "name": "Ilford South",
                     "ons_code": "E14000760",
                     "mp": "Mike Gapes MP",
-                    "signature_count": 73
+                    "signature_count": 75
                 },
                 {
                     "name": "Ipswich",
@@ -2573,7 +2573,7 @@
                     "name": "Manchester Central",
                     "ons_code": "E14000807",
                     "mp": "Lucy Powell MP",
-                    "signature_count": 212
+                    "signature_count": 213
                 },
                 {
                     "name": "Manchester, Gorton",
@@ -3215,7 +3215,7 @@
                     "name": "Rochford and Southend East",
                     "ons_code": "E14000899",
                     "mp": "James Duddridge MP",
-                    "signature_count": 27
+                    "signature_count": 28
                 },
                 {
                     "name": "Romford",
@@ -3347,7 +3347,7 @@
                     "name": "Sheffield, Brightside and Hillsborough",
                     "ons_code": "E14000921",
                     "mp": "Gill Furniss MP",
-                    "signature_count": 89
+                    "signature_count": 90
                 },
                 {
                     "name": "Sheffield, Hallam",
@@ -3863,7 +3863,7 @@
                     "name": "Totnes",
                     "ons_code": "E14001001",
                     "mp": "Dr Sarah Wollaston MP",
-                    "signature_count": 64
+                    "signature_count": 65
                 },
                 {
                     "name": "Tottenham",
@@ -4205,7 +4205,7 @@
                     "name": "Worsley and Eccles South",
                     "ons_code": "E14001054",
                     "mp": "Barbara Keeley MP",
-                    "signature_count": 31
+                    "signature_count": 32
                 },
                 {
                     "name": "Worthing West",

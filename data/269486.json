@@ -10,9 +10,9 @@
             "background": "Our pensioners are paid a pittance compared to pensioners from other countries. Make parliament increase the state pension to the same rate as the minimum wage based on a forty hour week.\r\n\u00a38.21p x 40 = \u00a3328.40p per week. If we can spend sixty six billion on Brexit we can afford to pay pensions",
             "additional_details": "We pay the lowest state pensions in the western world.\r\nLet\u2019s link the state pension to the minimum wage. \r\n\u00a38.21p x 40 hours = \u00a3328.40p.\r\nOur government had spent sixty six billion pounds on Brexit todate.\r\nWe can afford to pay, value and respect our pensioners for fifty years of working and contributing to Britain\u2019s economy.",
             "state": "open",
-            "signature_count": 38500,
+            "signature_count": 38512,
             "created_at": "2019-08-10T13:35:48.149Z",
-            "updated_at": "2019-11-05T09:53:52.000Z",
+            "updated_at": "2019-11-05T10:31:22.000Z",
             "rejected_at": null,
             "opened_at": "2019-08-20T14:15:16.928Z",
             "closed_at": null,
@@ -319,7 +319,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 37462
+                    "signature_count": 37474
                 },
                 {
                     "name": "United States",
@@ -644,13 +644,13 @@
                     "name": "Alyn and Deeside",
                     "ons_code": "W07000043",
                     "mp": "Rt Hon Mark Tami MP",
-                    "signature_count": 49
+                    "signature_count": 50
                 },
                 {
                     "name": "Amber Valley",
                     "ons_code": "E14000533",
                     "mp": "Nigel Mills MP",
-                    "signature_count": 51
+                    "signature_count": 52
                 },
                 {
                     "name": "Arfon",
@@ -872,7 +872,7 @@
                     "name": "Birmingham, Northfield",
                     "ons_code": "E14000565",
                     "mp": "Richard Burden MP",
-                    "signature_count": 57
+                    "signature_count": 58
                 },
                 {
                     "name": "Birmingham, Perry Barr",
@@ -986,7 +986,7 @@
                     "name": "Bosworth",
                     "ons_code": "E14000583",
                     "mp": "David Tredinnick MP",
-                    "signature_count": 79
+                    "signature_count": 80
                 },
                 {
                     "name": "Bournemouth East",
@@ -1160,7 +1160,7 @@
                     "name": "Burton",
                     "ons_code": "E14000610",
                     "mp": "Andrew Griffiths MP",
-                    "signature_count": 42
+                    "signature_count": 43
                 },
                 {
                     "name": "Bury North",
@@ -1424,7 +1424,7 @@
                     "name": "Colchester",
                     "ons_code": "E14000644",
                     "mp": "Will Quince MP",
-                    "signature_count": 45
+                    "signature_count": 46
                 },
                 {
                     "name": "Colne Valley",
@@ -3194,7 +3194,7 @@
                     "name": "Scarborough and Whitby",
                     "ons_code": "E14000913",
                     "mp": "Rt Hon Robert Goodwill MP",
-                    "signature_count": 117
+                    "signature_count": 118
                 },
                 {
                     "name": "Scunthorpe",
@@ -3278,7 +3278,7 @@
                     "name": "Sittingbourne and Sheppey",
                     "ons_code": "E14000927",
                     "mp": "Gordon Henderson MP",
-                    "signature_count": 80
+                    "signature_count": 81
                 },
                 {
                     "name": "Skipton and Ripon",
@@ -3368,7 +3368,7 @@
                     "name": "South Leicestershire",
                     "ons_code": "E14000940",
                     "mp": "Alberto Costa MP",
-                    "signature_count": 59
+                    "signature_count": 60
                 },
                 {
                     "name": "South Norfolk",
@@ -3416,7 +3416,7 @@
                     "name": "South Thanet",
                     "ons_code": "E14000948",
                     "mp": "Craig Mackinlay MP",
-                    "signature_count": 83
+                    "signature_count": 84
                 },
                 {
                     "name": "South West Bedfordshire",
@@ -3830,7 +3830,7 @@
                     "name": "Wallasey",
                     "ons_code": "E14001010",
                     "mp": "Ms Angela Eagle MP",
-                    "signature_count": 86
+                    "signature_count": 87
                 },
                 {
                     "name": "Walsall North",
@@ -4142,7 +4142,7 @@
                     "name": "Yeovil",
                     "ons_code": "E14001060",
                     "mp": "Mr Marcus Fysh MP",
-                    "signature_count": 68
+                    "signature_count": 69
                 },
                 {
                     "name": "Ynys M\u00f4n",

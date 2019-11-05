@@ -10,9 +10,9 @@
             "background": "Brexit is an absolute disaster, possible Medication shortages, a hard border in Ireland which puts peace at risk, job losses. This is 100% not worth it so stop it now!",
             "additional_details": "",
             "state": "open",
-            "signature_count": 39332,
+            "signature_count": 39335,
             "created_at": "2019-08-22T14:45:41.214Z",
-            "updated_at": "2019-11-05T09:29:42.000Z",
+            "updated_at": "2019-11-05T10:17:32.000Z",
             "rejected_at": null,
             "opened_at": "2019-09-03T10:11:09.533Z",
             "closed_at": null,
@@ -384,7 +384,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 36497
+                    "signature_count": 36500
                 },
                 {
                     "name": "United States",
@@ -710,7 +710,7 @@
                     "name": "Amber Valley",
                     "ons_code": "E14000533",
                     "mp": "Nigel Mills MP",
-                    "signature_count": 19
+                    "signature_count": 20
                 },
                 {
                     "name": "Arfon",
@@ -1652,7 +1652,7 @@
                     "name": "Dover",
                     "ons_code": "E14000670",
                     "mp": "Charlie Elphicke MP",
-                    "signature_count": 52
+                    "signature_count": 53
                 },
                 {
                     "name": "Dudley North",
@@ -4184,7 +4184,7 @@
                     "name": "Wyre and Preston North",
                     "ons_code": "E14001057",
                     "mp": "Rt Hon Ben Wallace MP",
-                    "signature_count": 38
+                    "signature_count": 39
                 },
                 {
                     "name": "Wyre Forest",

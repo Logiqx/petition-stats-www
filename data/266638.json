@@ -10,9 +10,9 @@
             "background": "The government of Brazil led by Bolsonaro favour the development of the Amazon rainforest over conservation, escalating deforestation.  Deforestation threatens indigenous populations who live in the forest, loss of a precious and complex ecosystem and a vital carbon store that slows global warming.",
             "additional_details": "Indigenous people have called for the EU to impose trade sanctions on Brazil to halt the deforestation because they fear genocide. Also, the UK parliament has recognised a climate emergency. Since the Amazon rainforest is an important carbon store, absorbing huge volumes of CO2 each year, it's deforestation is of global significance. The intrinsic value of the rainforest should also be recognised.\r\nTrade sanctions are used elsewhere for important issues as an effective means to force action.",
             "state": "open",
-            "signature_count": 123222,
+            "signature_count": 123230,
             "created_at": "2019-07-03T07:11:16.257Z",
-            "updated_at": "2019-11-05T09:53:52.000Z",
+            "updated_at": "2019-11-05T10:26:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-24T11:55:58.628Z",
             "closed_at": null,
@@ -555,7 +555,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 120158
+                    "signature_count": 120166
                 },
                 {
                     "name": "United States",
@@ -1443,7 +1443,7 @@
                     "name": "Camborne and Redruth",
                     "ons_code": "E14000616",
                     "mp": "George Eustice MP",
-                    "signature_count": 286
+                    "signature_count": 287
                 },
                 {
                     "name": "Cambridge",
@@ -1863,7 +1863,7 @@
                     "name": "Ealing Central and Acton",
                     "ons_code": "E14000674",
                     "mp": "Dr Rupa Huq MP",
-                    "signature_count": 495
+                    "signature_count": 496
                 },
                 {
                     "name": "Ealing North",
@@ -2379,7 +2379,7 @@
                     "name": "Hove",
                     "ons_code": "E14000755",
                     "mp": "Peter Kyle MP",
-                    "signature_count": 562
+                    "signature_count": 563
                 },
                 {
                     "name": "Huddersfield",
@@ -3321,7 +3321,7 @@
                     "name": "Ribble Valley",
                     "ons_code": "E14000894",
                     "mp": "Mr Nigel Evans MP",
-                    "signature_count": 121
+                    "signature_count": 122
                 },
                 {
                     "name": "Richmond (Yorks)",
@@ -3405,7 +3405,7 @@
                     "name": "Rushcliffe",
                     "ons_code": "E14000908",
                     "mp": "Rt Hon Kenneth Clarke QC MP",
-                    "signature_count": 258
+                    "signature_count": 259
                 },
                 {
                     "name": "Rutland and Melton",
@@ -3567,7 +3567,7 @@
                     "name": "South Cambridgeshire",
                     "ons_code": "E14000934",
                     "mp": "Heidi Allen MP",
-                    "signature_count": 366
+                    "signature_count": 367
                 },
                 {
                     "name": "South Derbyshire",
@@ -3933,7 +3933,7 @@
                     "name": "The Cotswolds",
                     "ons_code": "E14000991",
                     "mp": "Sir Geoffrey Clifton-Brown MP",
-                    "signature_count": 310
+                    "signature_count": 311
                 },
                 {
                     "name": "The Wrekin",
@@ -4407,7 +4407,7 @@
                     "name": "Caithness, Sutherland and Easter Ross",
                     "ons_code": "S14000009",
                     "mp": "Jamie Stone MP",
-                    "signature_count": 68
+                    "signature_count": 69
                 },
                 {
                     "name": "Angus",

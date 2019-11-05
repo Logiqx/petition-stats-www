@@ -10,9 +10,9 @@
             "background": "Climate agreements and civil laws have failed to prevent escalating harm to the Earth. A criminal law of ECOCIDE would criminalise practices known to destroy ecosystems and/or exacerbate climate breakdown. It's the only way to force industry to change direction.",
             "additional_details": "ECOCIDE is defined as \u201cextensive loss or damage to, or destruction of ecosystem(s) of a given territory(ies), such that peaceful enjoyment by the inhabitants has been or will be severely diminished.\u201d [Submitted to UN Law Commission, 2010 by UK barrister Polly Higgins.] To establish seriousness, impact(s) must be widespread or long-term or severe. As with other atrocity crimes, those liable to prosecution will be persons of superior responsibility such as CEOs and government ministers.",
             "state": "open",
-            "signature_count": 21790,
+            "signature_count": 21800,
             "created_at": "2019-06-05T10:42:42.785Z",
-            "updated_at": "2019-11-05T09:52:02.000Z",
+            "updated_at": "2019-11-05T10:29:52.000Z",
             "rejected_at": null,
             "opened_at": "2019-06-19T16:47:41.354Z",
             "closed_at": null,
@@ -294,7 +294,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 21411
+                    "signature_count": 21421
                 },
                 {
                     "name": "United States",
@@ -1038,7 +1038,7 @@
                     "name": "Brighton, Pavilion",
                     "ons_code": "E14000598",
                     "mp": "Caroline Lucas MP",
-                    "signature_count": 224
+                    "signature_count": 225
                 },
                 {
                     "name": "Bristol East",
@@ -1608,7 +1608,7 @@
                     "name": "East Ham",
                     "ons_code": "E14000679",
                     "mp": "Rt Hon Stephen Timms MP",
-                    "signature_count": 16
+                    "signature_count": 17
                 },
                 {
                     "name": "East Hampshire",
@@ -2022,7 +2022,7 @@
                     "name": "Hertford and Stortford",
                     "ons_code": "E14000744",
                     "mp": "Mr Mark Prisk MP",
-                    "signature_count": 40
+                    "signature_count": 41
                 },
                 {
                     "name": "Hertsmere",
@@ -2286,7 +2286,7 @@
                     "name": "Lewes",
                     "ons_code": "E14000786",
                     "mp": "Maria Caulfield MP",
-                    "signature_count": 89
+                    "signature_count": 90
                 },
                 {
                     "name": "Lewisham East",
@@ -2742,7 +2742,7 @@
                     "name": "North Somerset",
                     "ons_code": "E14000850",
                     "mp": "Rt Hon Dr Liam Fox MP",
-                    "signature_count": 108
+                    "signature_count": 109
                 },
                 {
                     "name": "North Swindon",
@@ -3564,7 +3564,7 @@
                     "name": "Stroud",
                     "ons_code": "E14000980",
                     "mp": "Dr David Drew MP",
-                    "signature_count": 608
+                    "signature_count": 609
                 },
                 {
                     "name": "Suffolk Coastal",
@@ -3720,7 +3720,7 @@
                     "name": "Truro and Falmouth",
                     "ons_code": "E14001003",
                     "mp": "Sarah Newton MP",
-                    "signature_count": 113
+                    "signature_count": 116
                 },
                 {
                     "name": "Tunbridge Wells",
@@ -4008,7 +4008,7 @@
                     "name": "Woking",
                     "ons_code": "E14001047",
                     "mp": "Mr Jonathan Lord MP",
-                    "signature_count": 33
+                    "signature_count": 34
                 },
                 {
                     "name": "Wokingham",

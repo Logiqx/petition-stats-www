@@ -10,9 +10,9 @@
             "background": "Peat is vital in the fight against climate breakdown as it stores vast amounts of carbon. It also provides habitat for a diverse range of wildlife. Therefore we should not be using peat compost to improve the soil in our gardens. Other organic matter is available and is effective for growers.",
             "additional_details": "",
             "state": "open",
-            "signature_count": 12849,
+            "signature_count": 12851,
             "created_at": "2019-06-03T08:44:15.768Z",
-            "updated_at": "2019-11-05T09:47:52.000Z",
+            "updated_at": "2019-11-05T10:04:12.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-01T14:40:15.315Z",
             "closed_at": null,
@@ -194,7 +194,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 12682
+                    "signature_count": 12684
                 },
                 {
                     "name": "United States",
@@ -1052,7 +1052,7 @@
                     "name": "Camborne and Redruth",
                     "ons_code": "E14000616",
                     "mp": "George Eustice MP",
-                    "signature_count": 23
+                    "signature_count": 24
                 },
                 {
                     "name": "Cambridge",
@@ -3260,7 +3260,7 @@
                     "name": "South Thanet",
                     "ons_code": "E14000948",
                     "mp": "Craig Mackinlay MP",
-                    "signature_count": 22
+                    "signature_count": 23
                 },
                 {
                     "name": "South West Bedfordshire",

@@ -10,9 +10,9 @@
             "background": "Boris Johnson is reported to be \"considering an 'amnesty' for illegal immigrants who have been in Britain for more than 15 years\". It is crucial to make clear the strength of public opinion so as to head off this absurd proposal. Vote now.",
             "additional_details": "- People who wish to come here should use the legal channels.\r\n- Amnesties are manna for traffickers, rewarding illegality.\r\n- The experience of Italy and Spain suggests that they encourage more illegal immigrants.\r\n- The ex-head of immigration enforcement told a Commons committee that there are probably over 1 million illegal migrants in the UK.\r\n- The Home Office estimate for 2001 was 430,000. There could well be half a million who have already been here 15 years.\r\n- The cost could run into billions a year.",
             "state": "open",
-            "signature_count": 35487,
+            "signature_count": 35495,
             "created_at": "2019-07-07T09:28:49.389Z",
-            "updated_at": "2019-11-05T09:47:12.000Z",
+            "updated_at": "2019-11-05T10:29:42.000Z",
             "rejected_at": null,
             "opened_at": "2019-07-22T14:53:38.217Z",
             "closed_at": null,
@@ -334,7 +334,7 @@
                 {
                     "name": "United Kingdom",
                     "code": "GB",
-                    "signature_count": 34879
+                    "signature_count": 34887
                 },
                 {
                     "name": "United States",
@@ -1580,7 +1580,7 @@
                     "name": "Doncaster Central",
                     "ons_code": "E14000668",
                     "mp": "Rt Hon Dame Rosie Winterton MP",
-                    "signature_count": 71
+                    "signature_count": 72
                 },
                 {
                     "name": "Doncaster North",
@@ -2648,7 +2648,7 @@
                     "name": "Newcastle upon Tyne Central",
                     "ons_code": "E14000831",
                     "mp": "Chi Onwurah MP",
-                    "signature_count": 45
+                    "signature_count": 47
                 },
                 {
                     "name": "Newcastle upon Tyne East",
@@ -3080,7 +3080,7 @@
                     "name": "Ribble Valley",
                     "ons_code": "E14000894",
                     "mp": "Mr Nigel Evans MP",
-                    "signature_count": 64
+                    "signature_count": 65
                 },
                 {
                     "name": "Richmond (Yorks)",
@@ -3320,7 +3320,7 @@
                     "name": "South Basildon and East Thurrock",
                     "ons_code": "E14000933",
                     "mp": "Stephen Metcalfe MP",
-                    "signature_count": 86
+                    "signature_count": 87
                 },
                 {
                     "name": "South Cambridgeshire",
@@ -3380,7 +3380,7 @@
                     "name": "South Northamptonshire",
                     "ons_code": "E14000942",
                     "mp": "Rt Hon Andrea Leadsom MP",
-                    "signature_count": 86
+                    "signature_count": 87
                 },
                 {
                     "name": "South Ribble",
@@ -3578,7 +3578,7 @@
                     "name": "Stone",
                     "ons_code": "E14000975",
                     "mp": "Sir William Cash MP",
-                    "signature_count": 50
+                    "signature_count": 51
                 },
                 {
                     "name": "Stourbridge",
@@ -4142,7 +4142,7 @@
                     "name": "Yeovil",
                     "ons_code": "E14001060",
                     "mp": "Mr Marcus Fysh MP",
-                    "signature_count": 72
+                    "signature_count": 73
                 },
                 {
                     "name": "Ynys M\u00f4n",
