@@ -1,60 +1,60 @@
-# Top 50 Petitions
+# Top 50 Closed Petitions
 
-Data taken from [UK Government and Parliament](https://petition.parliament.uk/petitions?state=open)
+Data taken from [UK Government and Parliament](https://petition.parliament.uk/petitions?state=closed)
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2019-11-05 23:18:03
+Last refreshed 2019-12-10 11:29:16
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Do not prorogue Parliament](269157.md) | 1,725,628 | 1,657,491 | 68,137 | 0 | 96.05 | 3.95 | 0.00 |
-| [Ban fireworks for general sale to the public.](276425.md) | 301,101 | 300,004 | 1,097 | 0 | 99.64 | 0.36 | 0.00 |
-| [The Air Ambulances to be government funded](259892.md) | 134,133 | 132,765 | 1,368 | 0 | 98.98 | 1.02 | 0.00 |
-| [Hold online trolls accountable for their online abuse via their IP address ](272087.md) | 133,669 | 132,743 | 926 | 0 | 99.31 | 0.69 | 0.00 |
-| [Demand the EU & UN sanction Brazil to halt increased deforestation of the Amazon](266638.md) | 123,303 | 120,238 | 3,066 | -1 | 97.51 | 2.49 | -0.00 |
-| [Ban Driven Grouse Shooting Wilful blindness is no longer an option](266770.md) | 111,962 | 110,263 | 1,700 | -1 | 98.48 | 1.52 | -0.00 |
-| [I  request a full public inquiry into death of my son, Matthew Leahy. (20 yrs.)](255823.md) | 104,615 | 103,773 | 842 | 0 | 99.20 | 0.80 | 0.00 |
-| [Introduce a minimum sentence for carrying a knife, equal to carrying a firearm  ](268766.md) | 74,911 | 74,506 | 405 | 0 | 99.46 | 0.54 | 0.00 |
-| [All venues that hold firework displays to be licenced](278293.md) | 66,418 | 66,050 | 368 | 0 | 99.45 | 0.55 | 0.00 |
-| [Hold a referendum on whether to leave with the deal offered or remain in the EU](276978.md) | 60,814 | 56,628 | 4,186 | 0 | 93.12 | 6.88 | 0.00 |
-| [Recall Parliament immediately to urgently debate no-deal Brexit.](269140.md) | 53,754 | 51,182 | 2,572 | 0 | 95.22 | 4.78 | 0.00 |
-| [Ban energy-wasting open fridges and freezers in all retail outlets](261092.md) | 49,264 | 49,048 | 216 | 0 | 99.56 | 0.44 | 0.00 |
-| [Halt all efforts to introduce ID checks at polling stations](277121.md) | 43,188 | 42,412 | 776 | 0 | 98.20 | 1.80 | 0.00 |
-| [Stop Brexit](270385.md) | 39,396 | 36,557 | 2,839 | 0 | 92.79 | 7.21 | 0.00 |
-| [Defend the Kurds and stop the Turkish military invasion of northern Syria!](276661.md) | 39,035 | 36,771 | 2,264 | 0 | 94.20 | 5.80 | 0.00 |
-| [Link the state pension to the adult minimum wage  £328.40p per week.](269486.md) | 38,660 | 37,620 | 1,040 | 0 | 97.31 | 2.69 | 0.00 |
-| [Fund research for childhood cancers with the worst survival rates](269637.md) | 37,655 | 37,276 | 379 | 0 | 98.99 | 1.01 | 0.00 |
-| [Politicians who changes parties should have to go through a new By Election.](269912.md) | 36,064 | 35,593 | 471 | 0 | 98.69 | 1.31 | 0.00 |
-| [Rule out any prospect of granting an amnesty on illegal immigration](266925.md) | 35,573 | 34,962 | 613 | -2 | 98.28 | 1.72 | -0.01 |
-| [Stamp Out Tool Theft with the introduction of tighter regulation & greater fines](273892.md) | 31,988 | 31,859 | 129 | 0 | 99.60 | 0.40 | 0.00 |
-| [Bring the date for the post-study work visa closer to help current students](273801.md) | 30,372 | 29,911 | 461 | 0 | 98.48 | 1.52 | 0.00 |
-| [Repeal IR35 legislation in Public Sector and proposed Private Sector rollout.](262354.md) | 30,327 | 30,227 | 102 | -2 | 99.67 | 0.34 | -0.01 |
-| [Revoke article 50 if the EU does not grant an extension past 31 October](275680.md) | 29,690 | 27,310 | 2,380 | 0 | 91.98 | 8.02 | 0.00 |
-| [Improve maternal care for black British women](259256.md) | 29,332 | 28,972 | 360 | 0 | 98.77 | 1.23 | 0.00 |
-| [Anonymity for those accused of sexual offences until charge.](247912.md) | 28,460 | 27,698 | 762 | 0 | 97.32 | 2.68 | 0.00 |
-| [Postpone the rollout of 5G in the UK, pending further independent investigation.](262842.md) | 27,644 | 27,357 | 289 | -2 | 98.96 | 1.05 | -0.01 |
-| [Ban super trawlers from fishing in UK waters.](276308.md) | 25,600 | 25,265 | 335 | 0 | 98.69 | 1.31 | 0.00 |
-| [Stop Postal Votes except for the elderly and disabled](258370.md) | 22,391 | 22,116 | 275 | 0 | 98.77 | 1.23 | 0.00 |
-| [Make ECOCIDE a UK criminal offence](263605.md) | 21,966 | 21,586 | 382 | -2 | 98.27 | 1.74 | -0.01 |
-| [Lower the cost of British Citizenship applications to £372.](276697.md) | 21,551 | 21,373 | 178 | 0 | 99.17 | 0.83 | 0.00 |
-| [Ensure any Brexit deal protects the Touring Industry for Musicians and Crew.](277346.md) | 21,072 | 20,732 | 340 | 0 | 98.39 | 1.61 | 0.00 |
-| [Introduce voter id for all elections](263860.md) | 20,687 | 20,418 | 270 | -1 | 98.70 | 1.31 | -0.00 |
-| [Scrap the pension annual allowance taper](268161.md) | 20,055 | 20,001 | 54 | 0 | 99.73 | 0.27 | 0.00 |
-| [Compensation for women born in 1950s, due to state pension age change](263615.md) | 17,647 | 17,268 | 381 | -2 | 97.85 | 2.16 | -0.01 |
-| [Extend the HM Forces Railcard scheme to include all UK Veterans](266193.md) | 17,523 | 17,187 | 337 | -1 | 98.08 | 1.92 | -0.01 |
-| [Make qualified Dental Nurse wage a minimum of £12 per hour.](264694.md) | 17,234 | 17,198 | 37 | -1 | 99.79 | 0.21 | -0.01 |
-| [To halt any future increases to the retirement age for the uk State Pension.](265262.md) | 17,188 | 17,045 | 145 | -2 | 99.17 | 0.84 | -0.01 |
-| [Change Settlement Status from Application to Registration.](257397.md) | 16,760 | 16,085 | 675 | 0 | 95.97 | 4.03 | 0.00 |
-| [Stop the passing of the Abortion Law in Northern Ireland](267231.md) | 16,029 | 15,828 | 202 | -1 | 98.75 | 1.26 | -0.01 |
-| [Stop IR35 roll-out in 2020 in private sector - due to uncertainty around Brexit](261149.md) | 15,556 | 15,527 | 29 | 0 | 99.81 | 0.19 | 0.00 |
-| [Stop increases in road tax for motorhomes. ](268246.md) | 14,896 | 14,817 | 79 | 0 | 99.47 | 0.53 | 0.00 |
-| [Cease all new developments on Greenbelt and Greenfield sites across the country.](267197.md) | 14,796 | 14,735 | 62 | -1 | 99.59 | 0.42 | -0.01 |
-| [Ban non-stun slaughter. Animal welfare must take priority over faith tradition.](262607.md) | 14,017 | 13,806 | 213 | -2 | 98.49 | 1.52 | -0.01 |
-| [To grant a section 30 order to allow a 2nd referendum on Scottish Independence.](259359.md) | 13,334 | 13,066 | 268 | 0 | 97.99 | 2.01 | 0.00 |
-| [Public areas & Food places to have Epi Pens for food allergies](258291.md) | 13,085 | 13,013 | 72 | 0 | 99.45 | 0.55 | 0.00 |
-| [Ban peat compost.](263362.md) | 12,920 | 12,753 | 168 | -1 | 98.71 | 1.30 | -0.01 |
-| [Abolish imprisonment as a penalty for non-payment of Council Tax.](257681.md) | 12,716 | 12,580 | 136 | 0 | 98.93 | 1.07 | 0.00 |
-| [Halt the badger cull & investigate alternative, humane options for bTB control.](273999.md) | 12,706 | 12,550 | 156 | 0 | 98.77 | 1.23 | 0.00 |
-| [Do not reduce the voting age to 16, it must remain 18 years of age](278182.md) | 12,610 | 12,450 | 160 | 0 | 98.73 | 1.27 | 0.00 |
-| [Stop the increase to 20% VAT for the installation of renewable energy sources](260903.md) | 12,470 | 12,339 | 131 | 0 | 98.95 | 1.05 | 0.00 |
+| [Revoke Article 50 and remain in the EU.](241584.md) | 6,103,057 | 5,846,834 | 256,223 | 0 | 95.80 | 4.20 | 0.00 |
+| [Do not prorogue Parliament](269157.md) | 1,725,631 | 1,657,493 | 68,138 | 0 | 96.05 | 3.95 | 0.00 |
+| [Leave the EU without a deal in March 2019.](229963.md) | 608,152 | 599,900 | 8,252 | 0 | 98.64 | 1.36 | 0.00 |
+| [Ban all ISIS members from returning to UK](231521.md) | 598,254 | 591,802 | 6,452 | 0 | 98.92 | 1.08 | 0.00 |
+| [Make 'netting' hedgerows to prevent birds from nesting a criminal offence.](244233.md) | 365,508 | 359,174 | 6,334 | 0 | 98.27 | 1.73 | 0.00 |
+| [Ban the sale of fireworks to the public. Displays for licenced venues only.](231147.md) | 307,897 | 306,769 | 1,128 | 0 | 99.63 | 0.37 | 0.00 |
+| [Ban fireworks for general sale to the public.](276425.md) | 305,579 | 304,470 | 1,109 | 0 | 99.64 | 0.36 | 0.00 |
+| [Put pressure on Libya to take action to stop enslavement of Black Africans.](205476.md) | 269,157 | 263,807 | 5,350 | 0 | 98.01 | 1.99 | 0.00 |
+| [Leave the EU Without a deal on April 12th.](248281.md) | 249,530 | 246,589 | 2,941 | 0 | 98.82 | 1.18 | 0.00 |
+| [Ban the use of all non-recyclable and unsustainable food packaging](232684.md) | 247,048 | 244,171 | 2,877 | 0 | 98.84 | 1.16 | 0.00 |
+| [Abolish the BBC television license.](235653.md) | 246,736 | 245,190 | 1,546 | 0 | 99.37 | 0.63 | 0.00 |
+| [Stop the privatisation of NHS services](205106.md) | 238,769 | 236,264 | 2,505 | 0 | 98.95 | 1.05 | 0.00 |
+| [If England win the world cup, the Monday should be made a bank holiday for 2018](223013.md) | 237,396 | 236,887 | 509 | 0 | 99.79 | 0.21 | 0.00 |
+| [We want a Public Inquiry into the James Bulger murder case.](206851.md) | 213,624 | 211,653 | 1,971 | 0 | 99.08 | 0.92 | 0.00 |
+| [Leave the EU with No Deal in October 2019 ](254329.md) | 207,673 | 205,432 | 2,241 | 0 | 98.92 | 1.08 | 0.00 |
+| [Lower the age for smear tests from 25 to 18 to prevent cervical cancer.](225767.md) | 205,359 | 204,663 | 696 | 0 | 99.66 | 0.34 | 0.00 |
+| [Rescind Art.50 if Vote Leave has broken Electoral Laws regarding 2016 referendum](223729.md) | 203,235 | 195,262 | 7,973 | 0 | 96.08 | 3.92 | 0.00 |
+| [Hold a second referendum on EU membership.](235138.md) | 194,336 | 183,304 | 11,032 | 0 | 94.32 | 5.68 | 0.00 |
+| [School should start at 10am as teenagers are too tired](229178.md) | 187,902 | 187,258 | 644 | 0 | 99.66 | 0.34 | 0.00 |
+| [Reject calls to add Staffordshire Bull Terriers to the Dangerous Dogs Act](222419.md) | 186,226 | 184,604 | 1,622 | 0 | 99.13 | 0.87 | 0.00 |
+| [Parliament must honour the Referendum result. Leave deal or no deal 29/03/19](243319.md) | 183,422 | 181,466 | 1,956 | 0 | 98.93 | 1.07 | 0.00 |
+| [Amnesty for anyone who was a minor that arrived In Britain between 1948 to 1971](216539.md) | 180,482 | 176,401 | 4,081 | 0 | 97.74 | 2.26 | 0.00 |
+| [Continue to fund free TV licences for the over 75 in the future.](234627.md) | 171,982 | 170,645 | 1,337 | 0 | 99.22 | 0.78 | 0.00 |
+| [Give the electorate a referendum on the abolition of the House of Lords](209433.md) | 170,981 | 167,986 | 2,995 | 0 | 98.25 | 1.75 | 0.00 |
+| [Don't put our NHS up for negotiation](242300.md) | 169,836 | 167,141 | 2,695 | 0 | 98.41 | 1.59 | 0.00 |
+| [Violet-Grace’s Law - Life sentences for Death by Dangerous Driving](236952.md) | 167,506 | 166,200 | 1,306 | 0 | 99.22 | 0.78 | 0.00 |
+| [Change the GCSE English Literature exam from closed book to open book.](200299.md) | 165,932 | 165,551 | 381 | 0 | 99.77 | 0.23 | 0.00 |
+| [Call on PM to take action to build public trust in the Grenfell Tower Inquiry](206722.md) | 156,835 | 155,268 | 1,567 | 0 | 99.00 | 1.00 | 0.00 |
+| [Make online homophobia a specific criminal offence](239444.md) | 153,506 | 152,575 | 931 | 0 | 99.39 | 0.61 | 0.00 |
+| [Revoke Art.50 if there is no Brexit plan by the 25 of February](239706.md) | 150,531 | 142,102 | 8,429 | 0 | 94.40 | 5.60 | 0.00 |
+| [Immunity for soldiers who worked in Northern Ireland. ](243947.md) | 150,324 | 146,391 | 3,933 | 0 | 97.38 | 2.62 | 0.00 |
+| [Pay Up Now! – Scrap the pay cap and give public servants a meaningful pay rise](200032.md) | 149,138 | 148,815 | 323 | 0 | 99.78 | 0.22 | 0.00 |
+| [Ban the sale of puppies by pet shops & all commercial 3rd party dealers.](213451.md) | 148,248 | 145,674 | 2,574 | 0 | 98.26 | 1.74 | 0.00 |
+| [Provide 15 hours free childcare to working parents for children over 9 months.](255237.md) | 146,397 | 146,201 | 196 | 0 | 99.87 | 0.13 | 0.00 |
+| [Hold a referendum on the final Brexit deal](200004.md) | 145,118 | 138,171 | 6,947 | 0 | 95.21 | 4.79 | 0.00 |
+| [Grant a People's Vote if Parliament rejects the EU Withdrawal Agreement](232984.md) | 144,523 | 138,471 | 6,052 | 0 | 95.81 | 4.19 | 0.00 |
+| [Make TV election debates happen - establish an Independent Debates Commission](228572.md) | 143,390 | 139,524 | 3,696 | 170 | 97.30 | 2.58 | 0.12 |
+| [Leave the EU immediately](200165.md) | 141,835 | 138,931 | 2,904 | 0 | 97.95 | 2.05 | 0.00 |
+| [Stop possible second referendum on E.U. membership](226071.md) | 135,936 | 133,727 | 2,209 | 0 | 98.37 | 1.63 | 0.00 |
+| [The Air Ambulances to be government funded](259892.md) | 134,143 | 132,775 | 1,368 | 0 | 98.98 | 1.02 | 0.00 |
+| [Hold online trolls accountable for their online abuse via their IP address ](272087.md) | 133,680 | 132,754 | 926 | 0 | 99.31 | 0.69 | 0.00 |
+| [The UK should not agree the UN's Global Compact for Migration](232698.md) | 131,617 | 128,606 | 3,011 | 0 | 97.71 | 2.29 | 0.00 |
+| [Require supermarkets to offer a plastic-free option for all their fruit & veg.](222715.md) | 128,001 | 127,005 | 996 | 0 | 99.22 | 0.78 | 0.00 |
+| [Demand the EU & UN sanction Brazil to halt increased deforestation of the Amazon](266638.md) | 123,309 | 120,244 | 3,066 | -1 | 97.51 | 2.49 | -0.00 |
+| [Keep Childcare Vouchers open beyond April 2018](200585.md) | 119,587 | 119,410 | 177 | 0 | 99.85 | 0.15 | 0.00 |
+| [Give parents the right to opt their child out of Relationship and Sex Education](235053.md) | 118,050 | 117,400 | 650 | 0 | 99.45 | 0.55 | 0.00 |
+| [Make Orkambi available on the NHS for people with Cystic Fibrosis](209455.md) | 118,034 | 116,875 | 1,159 | 0 | 99.02 | 0.98 | 0.00 |
+| [Make fair transitional state pension arrangements for 1950’s women](200088.md) | 117,716 | 115,119 | 2,597 | 0 | 97.79 | 2.21 | 0.00 |
+| [Pet Theft Reform: Amend animal welfare law to make pet theft a specific offence.](244530.md) | 117,453 | 116,278 | 1,175 | 0 | 99.00 | 1.00 | 0.00 |
+| [Brexit re article 50 it must not be suspended/stopped under any circumstances](224908.md) | 116,485 | 114,743 | 1,742 | 0 | 98.50 | 1.50 | 0.00 |
