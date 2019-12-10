@@ -1,4 +1,4 @@
-# petition-stats
+# petition-stats-www
 
 These reports are created from the [JSON](https://petition.parliament.uk/petitions.json) data available on the [UK Government and Parliament](https://petition.parliament.uk/petitions) petitions website.
 
