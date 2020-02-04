@@ -4,12 +4,12 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-02-04 11:00:02
+Last refreshed 2020-02-04 12:00:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Revoke Article 50 and remain in the EU.](241584.md) | 6,103,057 | 5,846,834 | 256,223 | 0 | 95.80 | 4.20 | 0.00 |
-| [Do not prorogue Parliament](269157.md) | 1,725,631 | 1,657,493 | 68,138 | 0 | 96.05 | 3.95 | 0.00 |
+| [Revoke Article 50 and remain in the EU.](241584.md) | 6,103,056 | 5,846,833 | 256,223 | 0 | 95.80 | 4.20 | 0.00 |
+| [Do not prorogue Parliament](269157.md) | 1,725,630 | 1,657,492 | 68,138 | 0 | 96.05 | 3.95 | 0.00 |
 | [Leave the EU without a deal in March 2019.](229963.md) | 608,152 | 599,900 | 8,252 | 0 | 98.64 | 1.36 | 0.00 |
 | [Ban all ISIS members from returning to UK](231521.md) | 598,254 | 591,802 | 6,452 | 0 | 98.92 | 1.08 | 0.00 |
 | [Make 'netting' hedgerows to prevent birds from nesting a criminal offence.](244233.md) | 365,508 | 359,174 | 6,334 | 0 | 98.27 | 1.73 | 0.00 |
