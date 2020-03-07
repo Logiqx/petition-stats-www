@@ -7,3 +7,5 @@ The following reports are refreshed every hour:
 - [Open Petitions](open/README.md)
 
 - [Closed Petitions](closed/README.md)
+
+- [Published Petitions](published/README.md)

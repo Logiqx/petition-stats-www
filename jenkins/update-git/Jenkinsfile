@@ -22,13 +22,14 @@ pipeline {
                 sh """cd ${REPO}
                       cp -frp /home/jovyan/work/petition-stats/docs/open docs/
                       cp -frp /home/jovyan/work/petition-stats/docs/closed docs/
+                      cp -frp /home/jovyan/work/petition-stats/docs/published docs/
                       git diff --stat"""
             }
         }
         stage('Git Commit') {
             steps {
                 sh """cd ${REPO}
-                      git add docs/open docs/closed
+                      git add docs/open docs/closed docs/published
                       git diff-index --quiet HEAD || git commit -m \"Refresh \$(date --rfc-2822)\""""
             }
         }
