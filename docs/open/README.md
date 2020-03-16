@@ -4,57 +4,57 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-03-16 01:00:05
+Last refreshed 2020-03-16 02:00:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Close Schools/Colleges down for an appropriate amount of time amidst COVID19.](300403.md) | 569,820 | 567,729 | 2,091 | 0 | 99.63 | 0.37 | 0.00 |
-| [Include self-employed in statutory sick pay during Coronavirus](300336.md) | 379,776 | 378,557 | 1,219 | 0 | 99.68 | 0.32 | 0.00 |
-| [Implement UK lockdown for preventing spread of COVID19](301397.md) | 248,843 | 247,032 | 1,811 | 0 | 99.27 | 0.73 | 0.00 |
-| [Close all universities down for an appropriate amount of time amidst COVID-19](300628.md) | 121,151 | 120,398 | 753 | 0 | 99.38 | 0.62 | 0.00 |
-| [Release the Home Office's Grooming Gang Review in full](300239.md) | 117,598 | 114,912 | 2,686 | 0 | 97.72 | 2.28 | 0.00 |
-| [Government to offer economic assistance to the events industry during COVID-19](301186.md) | 102,067 | 101,440 | 627 | 0 | 99.39 | 0.61 | 0.00 |
-| [Require universities to reimburse students' tuition fees during strike action](300528.md) | 75,193 | 75,046 | 147 | 0 | 99.80 | 0.20 | 0.00 |
-| [No prosecution for parents that remove child from school during a pandemic.](300399.md) | 55,648 | 55,511 | 137 | 0 | 99.75 | 0.25 | 0.00 |
-| [Publish the Russia report](300059.md) | 52,905 | 50,832 | 2,073 | 0 | 96.08 | 3.92 | 0.00 |
-| [Make Hedgehogs a Protected Species](300100.md) | 41,522 | 41,053 | 469 | 0 | 98.87 | 1.13 | 0.00 |
-| [Fund research for childhood cancers with the worst survival rates](300027.md) | 17,022 | 16,886 | 136 | 0 | 99.20 | 0.80 | 0.00 |
-| [Fund Kuvan (sapropterin) on the NHS for people with PKU](300034.md) | 16,893 | 16,737 | 156 | 0 | 99.08 | 0.92 | 0.00 |
-| [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 16,709 | 16,463 | 246 | 0 | 98.53 | 1.47 | 0.00 |
-| [Don’t criminalise trespass](300139.md) | 15,839 | 15,694 | 145 | 0 | 99.08 | 0.92 | 0.00 |
-| [Change the Sexual Offences Act so women can be charged with rape against males](300270.md) | 15,703 | 15,591 | 112 | 0 | 99.29 | 0.71 | 0.00 |
-| [Highway Code Rules 163 and 215 to be made law. Pass horses wide and slow. ](300122.md) | 14,813 | 14,703 | 110 | 0 | 99.26 | 0.74 | 0.00 |
-| [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 14,177 | 14,074 | 103 | 0 | 99.27 | 0.73 | 0.00 |
-| [Introduce a minimum sentence for carrying a knife, equal to carrying a firearm.](300054.md) | 13,281 | 13,204 | 77 | 0 | 99.42 | 0.58 | 0.00 |
-| [Make pet theft crime a specific offence with custodial sentences.](300071.md) | 12,595 | 12,485 | 110 | 0 | 99.13 | 0.87 | 0.00 |
+| [Close Schools/Colleges down for an appropriate amount of time amidst COVID19.](300403.md) | 570,463 | 568,370 | 2,093 | 0 | 99.63 | 0.37 | 0.00 |
+| [Include self-employed in statutory sick pay during Coronavirus](300336.md) | 380,136 | 378,911 | 1,225 | 0 | 99.68 | 0.32 | 0.00 |
+| [Implement UK lockdown for preventing spread of COVID19](301397.md) | 249,680 | 247,861 | 1,819 | 0 | 99.27 | 0.73 | 0.00 |
+| [Close all universities down for an appropriate amount of time amidst COVID-19](300628.md) | 121,191 | 120,437 | 754 | 0 | 99.38 | 0.62 | 0.00 |
+| [Release the Home Office's Grooming Gang Review in full](300239.md) | 117,603 | 114,917 | 2,686 | 0 | 97.72 | 2.28 | 0.00 |
+| [Government to offer economic assistance to the events industry during COVID-19](301186.md) | 102,203 | 101,574 | 629 | 0 | 99.38 | 0.62 | 0.00 |
+| [Require universities to reimburse students' tuition fees during strike action](300528.md) | 75,948 | 75,797 | 151 | 0 | 99.80 | 0.20 | 0.00 |
+| [No prosecution for parents that remove child from school during a pandemic.](300399.md) | 56,028 | 55,888 | 140 | 0 | 99.75 | 0.25 | 0.00 |
+| [Publish the Russia report](300059.md) | 52,909 | 50,836 | 2,073 | 0 | 96.08 | 3.92 | 0.00 |
+| [Make Hedgehogs a Protected Species](300100.md) | 41,530 | 41,061 | 469 | 0 | 98.87 | 1.13 | 0.00 |
+| [Fund research for childhood cancers with the worst survival rates](300027.md) | 17,027 | 16,890 | 137 | 0 | 99.20 | 0.80 | 0.00 |
+| [Fund Kuvan (sapropterin) on the NHS for people with PKU](300034.md) | 16,894 | 16,738 | 156 | 0 | 99.08 | 0.92 | 0.00 |
+| [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 16,713 | 16,467 | 246 | 0 | 98.53 | 1.47 | 0.00 |
+| [Don’t criminalise trespass](300139.md) | 15,844 | 15,699 | 145 | 0 | 99.08 | 0.92 | 0.00 |
+| [Change the Sexual Offences Act so women can be charged with rape against males](300270.md) | 15,713 | 15,601 | 112 | 0 | 99.29 | 0.71 | 0.00 |
+| [Highway Code Rules 163 and 215 to be made law. Pass horses wide and slow. ](300122.md) | 14,815 | 14,704 | 111 | 0 | 99.25 | 0.75 | 0.00 |
+| [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 14,181 | 14,078 | 103 | 0 | 99.27 | 0.73 | 0.00 |
+| [Introduce a minimum sentence for carrying a knife, equal to carrying a firearm.](300054.md) | 13,284 | 13,207 | 77 | 0 | 99.42 | 0.58 | 0.00 |
+| [Make pet theft crime a specific offence with custodial sentences.](300071.md) | 12,602 | 12,492 | 110 | 0 | 99.13 | 0.87 | 0.00 |
 | [Make nurseries exempt from business rates to support the childcare sector](300210.md) | 7,442 | 7,423 | 19 | 0 | 99.74 | 0.26 | 0.00 |
-| [Coroners must be lawfully obligated to statistically record veteran suicides](300055.md) | 7,403 | 7,203 | 200 | 0 | 97.30 | 2.70 | 0.00 |
+| [Coroners must be lawfully obligated to statistically record veteran suicides](300055.md) | 7,404 | 7,204 | 200 | 0 | 97.30 | 2.70 | 0.00 |
 | [Make the 6 Nations a culturally protected event.](300069.md) | 6,979 | 6,860 | 119 | 0 | 98.29 | 1.71 | 0.00 |
-| [Rejoin the EU under Article 49 TEU](300297.md) | 6,680 | 6,165 | 515 | 0 | 92.29 | 7.71 | 0.00 |
-| [Pay Carers an allowance equivalent to a fulltime job at the National Living wage](300032.md) | 6,486 | 6,461 | 25 | 0 | 99.61 | 0.39 | 0.00 |
+| [Rejoin the EU under Article 49 TEU](300297.md) | 6,685 | 6,170 | 515 | 0 | 92.30 | 7.70 | 0.00 |
+| [Pay Carers an allowance equivalent to a fulltime job at the National Living wage](300032.md) | 6,501 | 6,476 | 25 | 0 | 99.62 | 0.38 | 0.00 |
 | [Hold a referendum to scrap the UK's policy of Net Zero CO2 by 2050](300316.md) | 6,007 | 5,852 | 155 | 0 | 97.42 | 2.58 | 0.00 |
-| [Abolish the mandatory 0.7% GDP Foreign Aid target and spend our money at home](300662.md) | 5,931 | 5,836 | 95 | 0 | 98.40 | 1.60 | 0.00 |
-| [Replace Breed Specific Legislation with a new statutory framework](300561.md) | 5,646 | 5,549 | 97 | 0 | 98.28 | 1.72 | 0.00 |
-| [Revoke the TV licence using legislation](300118.md) | 5,592 | 5,541 | 51 | 0 | 99.09 | 0.91 | 0.00 |
-| [Legal rights for ancient trees](300050.md) | 5,056 | 5,004 | 52 | 0 | 98.97 | 1.03 | 0.00 |
-| [Ban non-stun slaughter in the UK. ](300257.md) | 4,738 | 4,655 | 83 | 0 | 98.25 | 1.75 | 0.00 |
-| [Extend the transition; delay negotiations until after the coronavirus outbreak](300412.md) | 4,633 | 4,385 | 248 | 0 | 94.65 | 5.35 | 0.00 |
-| [Give the British Nationals (Overseas) of Hong Kong full British citizenship.](300091.md) | 4,473 | 1,058 | 3,415 | 0 | 23.65 | 76.35 | 0.00 |
+| [Abolish the mandatory 0.7% GDP Foreign Aid target and spend our money at home](300662.md) | 5,934 | 5,839 | 95 | 0 | 98.40 | 1.60 | 0.00 |
+| [Replace Breed Specific Legislation with a new statutory framework](300561.md) | 5,664 | 5,567 | 97 | 0 | 98.29 | 1.71 | 0.00 |
+| [Revoke the TV licence using legislation](300118.md) | 5,596 | 5,545 | 51 | 0 | 99.09 | 0.91 | 0.00 |
+| [Legal rights for ancient trees](300050.md) | 5,057 | 5,005 | 52 | 0 | 98.97 | 1.03 | 0.00 |
+| [Ban non-stun slaughter in the UK. ](300257.md) | 4,741 | 4,658 | 83 | 0 | 98.25 | 1.75 | 0.00 |
+| [Extend the transition; delay negotiations until after the coronavirus outbreak](300412.md) | 4,645 | 4,397 | 248 | 0 | 94.66 | 5.34 | 0.00 |
+| [Give the British Nationals (Overseas) of Hong Kong full British citizenship.](300091.md) | 4,475 | 1,058 | 3,417 | 0 | 23.64 | 76.36 | 0.00 |
 | [We call on DEFRA, to reinstate the ban on the use of metaldehyde slug pellets.](300098.md) | 4,375 | 4,329 | 46 | 0 | 98.95 | 1.05 | 0.00 |
 | [Reduce student debt for student nurses and midwives](300079.md) | 3,710 | 3,692 | 18 | 0 | 99.51 | 0.49 | 0.00 |
-| [Increase pay for NHS healthcare workers and recognise their work](300073.md) | 3,266 | 3,256 | 10 | 0 | 99.69 | 0.31 | 0.00 |
-| [Ensure all royal visits around the UK are fully funded by the Royal Household.](300422.md) | 3,176 | 3,114 | 62 | 0 | 98.05 | 1.95 | 0.00 |
+| [Increase pay for NHS healthcare workers and recognise their work](300073.md) | 3,268 | 3,258 | 10 | 0 | 99.69 | 0.31 | 0.00 |
+| [Ensure all royal visits around the UK are fully funded by the Royal Household.](300422.md) | 3,178 | 3,116 | 62 | 0 | 98.05 | 1.95 | 0.00 |
 | [Hold a referendum on the post-2020 UK-EU relationship with option to rejoin EU](300026.md) | 2,836 | 2,613 | 223 | 0 | 92.14 | 7.86 | 0.00 |
-| [Repeal the 2013 and 2017 HS2 Hybrid Bills halting all HS2 works immediately.](300170.md) | 2,791 | 2,777 | 14 | 0 | 99.50 | 0.50 | 0.00 |
+| [Repeal the 2013 and 2017 HS2 Hybrid Bills halting all HS2 works immediately.](300170.md) | 2,794 | 2,780 | 14 | 0 | 99.50 | 0.50 | 0.00 |
 | [Give holiday caravan/lodge owners the same statutory protection as mobile homes.](300007.md) | 2,778 | 2,762 | 16 | 0 | 99.42 | 0.58 | 0.00 |
 | [Ban pelagic trawlers, attach pingers to all boats, stop slaughter of dolphins.](300164.md) | 2,601 | 2,565 | 36 | 0 | 98.62 | 1.38 | 0.00 |
-| [Haydn's Law – All children 16 and under to wear a helmet when riding a bicycle](300165.md) | 2,474 | 2,457 | 17 | 0 | 99.31 | 0.69 | 0.00 |
+| [Haydn's Law – All children 16 and under to wear a helmet when riding a bicycle](300165.md) | 2,475 | 2,458 | 17 | 0 | 99.31 | 0.69 | 0.00 |
 | [Change approach to COV-19 - if schools have "confirmed" cases they should close.](300426.md) | 2,296 | 2,291 | 5 | 0 | 99.78 | 0.22 | 0.00 |
 | [Ban the use of peat in gardening and horticulture](300368.md) | 2,094 | 2,082 | 12 | 0 | 99.43 | 0.57 | 0.00 |
-| [Ban wearing face coverings in public places.](300471.md) | 2,009 | 1,982 | 27 | 0 | 98.66 | 1.34 | 0.00 |
+| [Ban wearing face coverings in public places.](300471.md) | 2,010 | 1,983 | 27 | 0 | 98.66 | 1.34 | 0.00 |
 | [Make it Law to Label Non-Religiously Slaughtered Meat Products.](300185.md) | 1,909 | 1,866 | 43 | 0 | 97.75 | 2.25 | 0.00 |
 | [Publish new carbon budgets linked to the Paris Agreement and Climate Change Act](300178.md) | 1,793 | 1,778 | 15 | 0 | 99.16 | 0.84 | 0.00 |
-| [Businesses to work from home for an appropriate amount of time amidst COVID19](301439.md) | 1,682 | 1,678 | 4 | 0 | 99.76 | 0.24 | 0.00 |
-| [Revise the NPPF to include the protection of all but particularly old hedgerows.](300407.md) | 1,513 | 1,500 | 13 | 0 | 99.14 | 0.86 | 0.00 |
-| [Extend the Gambling Act to cover Loot Boxes](300171.md) | 1,477 | 1,445 | 32 | 0 | 97.83 | 2.17 | 0.00 |
+| [Businesses to work from home for an appropriate amount of time amidst COVID19](301439.md) | 1,689 | 1,685 | 4 | 0 | 99.76 | 0.24 | 0.00 |
+| [Revise the NPPF to include the protection of all but particularly old hedgerows.](300407.md) | 1,514 | 1,501 | 13 | 0 | 99.14 | 0.86 | 0.00 |
+| [Extend the Gambling Act to cover Loot Boxes](300171.md) | 1,478 | 1,446 | 32 | 0 | 97.83 | 2.17 | 0.00 |
 | [To ban the sale, use, ownership and manufacture of glue traps.](300839.md) | 1,388 | 1,370 | 18 | 0 | 98.70 | 1.30 | 0.00 |
