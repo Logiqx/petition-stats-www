@@ -4,57 +4,57 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-05-12 15:00:05
+Last refreshed 2020-05-12 16:00:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Include self-employed in statutory sick pay during Coronavirus](300336.md) | 697,029 | 694,681 | 2,348 | 0 | 99.66 | 0.34 | 0.00 |
-| [Close Schools/Colleges down for an appropriate amount of time amidst COVID19.](300403.md) | 682,468 | 679,981 | 2,487 | 0 | 99.64 | 0.36 | 0.00 |
-| [Implement UK lockdown for preventing spread of COVID19](301397.md) | 408,210 | 405,639 | 2,571 | 0 | 99.37 | 0.63 | 0.00 |
-| [Reimburse all students of this year’s fees due to strikes and COVID-19](302855.md) | 338,906 | 337,717 | 1,189 | 0 | 99.65 | 0.35 | 0.00 |
-| [Extend maternity leave by 3 months with pay in light of COVID-19](306691.md) | 212,758 | 212,368 | 390 | 0 | 99.82 | 0.18 | 0.00 |
-| [Increase pay for NHS healthcare workers and recognise their work](300073.md) | 152,003 | 151,333 | 670 | 0 | 99.56 | 0.44 | 0.00 |
+| [Include self-employed in statutory sick pay during Coronavirus](300336.md) | 697,032 | 694,684 | 2,348 | 0 | 99.66 | 0.34 | 0.00 |
+| [Close Schools/Colleges down for an appropriate amount of time amidst COVID19.](300403.md) | 682,489 | 680,002 | 2,487 | 0 | 99.64 | 0.36 | 0.00 |
+| [Implement UK lockdown for preventing spread of COVID19](301397.md) | 408,211 | 405,640 | 2,571 | 0 | 99.37 | 0.63 | 0.00 |
+| [Reimburse all students of this year’s fees due to strikes and COVID-19](302855.md) | 338,918 | 337,729 | 1,189 | 0 | 99.65 | 0.35 | 0.00 |
+| [Extend maternity leave by 3 months with pay in light of COVID-19](306691.md) | 212,832 | 212,442 | 390 | 0 | 99.82 | 0.18 | 0.00 |
+| [Increase pay for NHS healthcare workers and recognise their work](300073.md) | 152,010 | 151,340 | 670 | 0 | 99.56 | 0.44 | 0.00 |
 | [Government to offer economic assistance to the events industry during COVID-19](301186.md) | 151,283 | 150,391 | 892 | 0 | 99.41 | 0.59 | 0.00 |
-| [Give all key workers a 100% tax and Nat. Ins. holiday through COVID-19 crisis](306845.md) | 141,296 | 141,035 | 261 | 0 | 99.82 | 0.18 | 0.00 |
+| [Give all key workers a 100% tax and Nat. Ins. holiday through COVID-19 crisis](306845.md) | 141,316 | 141,055 | 261 | 0 | 99.82 | 0.18 | 0.00 |
 | [Require universities to reimburse students' tuition fees during strike action](300528.md) | 135,040 | 134,729 | 311 | 0 | 99.77 | 0.23 | 0.00 |
-| [Encourage lenders, landlords and utilities to freeze payments during lockdown](302256.md) | 125,455 | 125,121 | 334 | 0 | 99.73 | 0.27 | 0.00 |
-| [Release the Home Office's Grooming Gang Review in full](300239.md) | 125,287 | 122,447 | 2,840 | 0 | 97.73 | 2.27 | 0.00 |
+| [Encourage lenders, landlords and utilities to freeze payments during lockdown](302256.md) | 125,457 | 125,123 | 334 | 0 | 99.73 | 0.27 | 0.00 |
+| [Release the Home Office's Grooming Gang Review in full](300239.md) | 125,300 | 122,460 | 2,840 | 0 | 97.73 | 2.27 | 0.00 |
 | [Close all universities down for an appropriate amount of time amidst COVID-19](300628.md) | 123,678 | 122,900 | 778 | 0 | 99.37 | 0.63 | 0.00 |
-| [Implement Universal Basic Income to give home & food security through Covid-19](302284.md) | 111,858 | 111,068 | 790 | 0 | 99.29 | 0.71 | 0.00 |
+| [Implement Universal Basic Income to give home & food security through Covid-19](302284.md) | 111,860 | 111,070 | 790 | 0 | 99.29 | 0.71 | 0.00 |
 | [Give UK nurseries emergency funding if they have to close down amid COVID-19](301836.md) | 105,490 | 105,251 | 239 | 0 | 99.77 | 0.23 | 0.00 |
-| [Require councils to suspend council tax payments during the coronavirus outbreak](303274.md) | 105,077 | 104,952 | 125 | 0 | 99.88 | 0.12 | 0.00 |
-| [Support the British aviation industry during the COVID-19 outbreak](303081.md) | 99,964 | 98,599 | 1,365 | 0 | 98.63 | 1.37 | 0.00 |
-| [No prosecution for parents that remove child from school during a pandemic.](300399.md) | 89,117 | 88,895 | 222 | 0 | 99.75 | 0.25 | 0.00 |
-| [Refund university students for 3rd Semester Tuition 2020](306494.md) | 86,789 | 86,533 | 256 | 0 | 99.71 | 0.29 | 0.00 |
-| [Extend the transition; delay negotiations until after the coronavirus outbreak](300412.md) | 62,337 | 58,386 | 3,951 | 0 | 93.66 | 6.34 | 0.00 |
-| [Coronavirus Support Package for Directors / Shareholders of small Limited Co's.](310515.md) | 58,440 | 58,166 | 274 | 0 | 99.53 | 0.47 | 0.00 |
-| [Give non-British citizens who are NHS workers automatic citizenship](305129.md) | 58,170 | 57,343 | 827 | 0 | 98.58 | 1.42 | 0.00 |
-| [Publish the Russia report](300059.md) | 55,683 | 53,540 | 2,143 | 0 | 96.15 | 3.85 | 0.00 |
+| [Require councils to suspend council tax payments during the coronavirus outbreak](303274.md) | 105,083 | 104,958 | 125 | 0 | 99.88 | 0.12 | 0.00 |
+| [Support the British aviation industry during the COVID-19 outbreak](303081.md) | 100,103 | 98,734 | 1,369 | 0 | 98.63 | 1.37 | 0.00 |
+| [No prosecution for parents that remove child from school during a pandemic.](300399.md) | 89,136 | 88,914 | 222 | 0 | 99.75 | 0.25 | 0.00 |
+| [Refund university students for 3rd Semester Tuition 2020](306494.md) | 87,061 | 86,805 | 256 | 0 | 99.71 | 0.29 | 0.00 |
+| [Extend the transition; delay negotiations until after the coronavirus outbreak](300412.md) | 62,358 | 58,407 | 3,951 | 0 | 93.66 | 6.34 | 0.00 |
+| [Coronavirus Support Package for Directors / Shareholders of small Limited Co's.](310515.md) | 58,499 | 58,224 | 275 | 0 | 99.53 | 0.47 | 0.00 |
+| [Give non-British citizens who are NHS workers automatic citizenship](305129.md) | 58,175 | 57,348 | 827 | 0 | 98.58 | 1.42 | 0.00 |
+| [Publish the Russia report](300059.md) | 55,684 | 53,541 | 2,143 | 0 | 96.15 | 3.85 | 0.00 |
 | [Release HMP Prisoners due to COVID-19 - temporary release, licence, tag, curfew](305604.md) | 49,042 | 48,806 | 236 | 0 | 99.52 | 0.48 | 0.00 |
 | [Make Hedgehogs a Protected Species](300100.md) | 45,264 | 44,771 | 493 | 0 | 98.91 | 1.09 | 0.00 |
-| [Pay self employed workers a wage due to lack of earnings caused by COVID-19.](303345.md) | 44,507 | 44,368 | 139 | 0 | 99.69 | 0.31 | 0.00 |
-| [We would like the government to consider social care as equally important to NHS](302897.md) | 42,290 | 42,150 | 140 | 0 | 99.67 | 0.33 | 0.00 |
-| [Delay 5G in the UK until there’s been an independent investigation](312997.md) | 41,277 | 40,825 | 452 | 0 | 98.90 | 1.10 | 0.00 |
-| [Make COVID19 testing available to teaching staff caring for pupils.](305423.md) | 34,770 | 34,665 | 105 | 0 | 99.70 | 0.30 | 0.00 |
-| [Replace Breed Specific Legislation with a new statutory framework](300561.md) | 33,377 | 32,917 | 460 | 0 | 98.62 | 1.38 | 0.00 |
-| [Explore options for making NurOwn available to treat Motor Neurone Disease (MND)](301033.md) | 32,692 | 32,310 | 382 | 0 | 98.83 | 1.17 | 0.00 |
-| [Make LGBT conversion therapy illegal in the UK](300976.md) | 24,626 | 24,429 | 197 | 0 | 99.20 | 0.80 | 0.00 |
-| [Extend grants immediately to small businesses outside of SBRR](305024.md) | 24,290 | 24,195 | 95 | 0 | 99.61 | 0.39 | 0.00 |
-| [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 23,854 | 23,676 | 178 | 0 | 99.25 | 0.75 | 0.00 |
-| [Revoke the Health and Social Care Act 2012 and renationalise the NHS](300019.md) | 23,387 | 23,019 | 368 | 0 | 98.43 | 1.57 | 0.00 |
+| [Pay self employed workers a wage due to lack of earnings caused by COVID-19.](303345.md) | 44,511 | 44,372 | 139 | 0 | 99.69 | 0.31 | 0.00 |
+| [We would like the government to consider social care as equally important to NHS](302897.md) | 42,291 | 42,151 | 140 | 0 | 99.67 | 0.33 | 0.00 |
+| [Delay 5G in the UK until there’s been an independent investigation](312997.md) | 41,323 | 40,869 | 454 | 0 | 98.90 | 1.10 | 0.00 |
+| [Make COVID19 testing available to teaching staff caring for pupils.](305423.md) | 34,772 | 34,667 | 105 | 0 | 99.70 | 0.30 | 0.00 |
+| [Replace Breed Specific Legislation with a new statutory framework](300561.md) | 33,434 | 32,973 | 461 | 0 | 98.62 | 1.38 | 0.00 |
+| [Explore options for making NurOwn available to treat Motor Neurone Disease (MND)](301033.md) | 32,694 | 32,312 | 382 | 0 | 98.83 | 1.17 | 0.00 |
+| [Make LGBT conversion therapy illegal in the UK](300976.md) | 24,756 | 24,559 | 197 | 0 | 99.20 | 0.80 | 0.00 |
+| [Extend grants immediately to small businesses outside of SBRR](305024.md) | 24,293 | 24,198 | 95 | 0 | 99.61 | 0.39 | 0.00 |
+| [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 23,872 | 23,694 | 178 | 0 | 99.25 | 0.75 | 0.00 |
+| [Revoke the Health and Social Care Act 2012 and renationalise the NHS](300019.md) | 23,428 | 23,057 | 371 | 0 | 98.42 | 1.58 | 0.00 |
 | [Fund research for childhood cancers with the worst survival rates](300027.md) | 23,003 | 22,837 | 166 | 0 | 99.28 | 0.72 | 0.00 |
-| [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 22,650 | 22,337 | 313 | 0 | 98.62 | 1.38 | 0.00 |
-| [Highway Code Rules 163 and 215 to be made law. Pass horses wide and slow. ](300122.md) | 22,583 | 22,435 | 148 | 0 | 99.34 | 0.66 | 0.00 |
-| [Create an earned amnesty route for migrants without leave to remain](301696.md) | 22,199 | 22,076 | 123 | 0 | 99.45 | 0.55 | 0.00 |
-| [Allow gyms and leisure centres to reopen](307146.md) | 21,895 | 21,873 | 22 | 0 | 99.90 | 0.10 | 0.00 |
-| [Cut beer duty for at least 12 months, so pubs can survive after the covid virus.](306054.md) | 21,394 | 21,266 | 128 | 0 | 99.40 | 0.60 | 0.00 |
-| [Repeal the 2013 and 2017 HS2 Hybrid Bills halting all HS2 works immediately.](300170.md) | 21,388 | 21,215 | 173 | 0 | 99.19 | 0.81 | 0.00 |
-| [Give financial help to agency and zero hour workers during COVID-19 outbreak.](301328.md) | 20,528 | 20,483 | 45 | 0 | 99.78 | 0.22 | 0.00 |
-| [Require British Sign Language Interpreters for emergency announcements on TV.](301461.md) | 19,520 | 19,352 | 168 | 0 | 99.14 | 0.86 | 0.00 |
+| [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 22,652 | 22,339 | 313 | 0 | 98.62 | 1.38 | 0.00 |
+| [Highway Code Rules 163 and 215 to be made law. Pass horses wide and slow. ](300122.md) | 22,585 | 22,437 | 148 | 0 | 99.34 | 0.66 | 0.00 |
+| [Create an earned amnesty route for migrants without leave to remain](301696.md) | 22,200 | 22,077 | 123 | 0 | 99.45 | 0.55 | 0.00 |
+| [Allow gyms and leisure centres to reopen](307146.md) | 21,921 | 21,899 | 22 | 0 | 99.90 | 0.10 | 0.00 |
+| [Cut beer duty for at least 12 months, so pubs can survive after the covid virus.](306054.md) | 21,417 | 21,289 | 128 | 0 | 99.40 | 0.60 | 0.00 |
+| [Repeal the 2013 and 2017 HS2 Hybrid Bills halting all HS2 works immediately.](300170.md) | 21,404 | 21,231 | 173 | 0 | 99.19 | 0.81 | 0.00 |
+| [Give financial help to agency and zero hour workers during COVID-19 outbreak.](301328.md) | 20,533 | 20,488 | 45 | 0 | 99.78 | 0.22 | 0.00 |
+| [Require British Sign Language Interpreters for emergency announcements on TV.](301461.md) | 19,521 | 19,353 | 168 | 0 | 99.14 | 0.86 | 0.00 |
 | [Fund Kuvan (sapropterin) on the NHS for people with PKU](300034.md) | 18,386 | 18,227 | 159 | 0 | 99.14 | 0.86 | 0.00 |
 | [Don’t criminalise trespass](300139.md) | 18,148 | 17,984 | 164 | 0 | 99.10 | 0.90 | 0.00 |
 | [Change the Sexual Offences Act so women can be charged with rape against males](300270.md) | 17,939 | 17,805 | 134 | 0 | 99.25 | 0.75 | 0.00 |
-| [Rejoin the EU under Article 49 TEU](300297.md) | 16,144 | 15,142 | 1,002 | 0 | 93.79 | 6.21 | 0.00 |
-| [Introduce a minimum sentence for carrying a knife, equal to carrying a firearm.](300054.md) | 15,612 | 15,520 | 92 | 0 | 99.41 | 0.59 | 0.00 |
+| [Rejoin the EU under Article 49 TEU](300297.md) | 16,170 | 15,167 | 1,003 | 0 | 93.80 | 6.20 | 0.00 |
+| [Introduce a minimum sentence for carrying a knife, equal to carrying a firearm.](300054.md) | 15,614 | 15,522 | 92 | 0 | 99.41 | 0.59 | 0.00 |
 | [Close down all UK airports & seaports to prevent further spreading of Covid-19.](300932.md) | 15,418 | 15,335 | 83 | 0 | 99.46 | 0.54 | 0.00 |
-| [Make pet theft crime a specific offence with custodial sentences.](300071.md) | 14,785 | 14,658 | 127 | 0 | 99.14 | 0.86 | 0.00 |
+| [Make pet theft crime a specific offence with custodial sentences.](300071.md) | 14,786 | 14,659 | 127 | 0 | 99.14 | 0.86 | 0.00 |
