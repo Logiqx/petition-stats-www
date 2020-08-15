@@ -4,57 +4,57 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-08-15 07:00:05
+Last refreshed 2020-08-15 08:00:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Include self-employed in statutory sick pay during Coronavirus](300336.md) | 699,419 | 697,051 | 2,368 | 0 | 99.66 | 0.34 | 0.00 |
 | [Close Schools/Colleges down for an appropriate amount of time amidst COVID19.](300403.md) | 685,108 | 682,603 | 2,505 | 0 | 99.63 | 0.37 | 0.00 |
 | [Implement UK lockdown for preventing spread of COVID19](301397.md) | 409,269 | 406,694 | 2,575 | 0 | 99.37 | 0.63 | 0.00 |
-| [Reimburse all students of this year’s fees due to strikes and COVID-19](302855.md) | 349,317 | 348,065 | 1,252 | 0 | 99.64 | 0.36 | 0.00 |
-| [Teach Britain's colonial past as part of the UK's compulsory curriculum](324092.md) | 263,416 | 260,610 | 2,806 | 0 | 98.93 | 1.07 | 0.00 |
-| [Extend maternity leave by 3 months with pay in light of COVID-19](306691.md) | 235,173 | 234,737 | 436 | 0 | 99.81 | 0.19 | 0.00 |
-| [Make LGBT conversion therapy illegal in the UK](300976.md) | 233,862 | 231,239 | 2,623 | 0 | 98.88 | 1.12 | 0.00 |
-| [Broker a ceasefire for all sides in Yemen to carry out humanitarian aid](326932.md) | 209,711 | 207,400 | 2,311 | 0 | 98.90 | 1.10 | 0.00 |
-| [Improve Maternal Mortality Rates and Health Care for Black Women in the U.K.](301079.md) | 186,589 | 185,032 | 1,557 | 0 | 99.17 | 0.83 | 0.00 |
-| [Increase pay for NHS healthcare workers and recognise their work](300073.md) | 178,315 | 177,493 | 822 | 0 | 99.54 | 0.46 | 0.00 |
+| [Reimburse all students of this year’s fees due to strikes and COVID-19](302855.md) | 349,319 | 348,067 | 1,252 | 0 | 99.64 | 0.36 | 0.00 |
+| [Teach Britain's colonial past as part of the UK's compulsory curriculum](324092.md) | 263,418 | 260,612 | 2,806 | 0 | 98.93 | 1.07 | 0.00 |
+| [Extend maternity leave by 3 months with pay in light of COVID-19](306691.md) | 235,174 | 234,738 | 436 | 0 | 99.81 | 0.19 | 0.00 |
+| [Make LGBT conversion therapy illegal in the UK](300976.md) | 233,863 | 231,240 | 2,623 | 0 | 98.88 | 1.12 | 0.00 |
+| [Broker a ceasefire for all sides in Yemen to carry out humanitarian aid](326932.md) | 209,712 | 207,401 | 2,311 | 0 | 98.90 | 1.10 | 0.00 |
+| [Improve Maternal Mortality Rates and Health Care for Black Women in the U.K.](301079.md) | 186,590 | 185,033 | 1,557 | 0 | 99.17 | 0.83 | 0.00 |
+| [Increase pay for NHS healthcare workers and recognise their work](300073.md) | 178,317 | 177,495 | 822 | 0 | 99.54 | 0.46 | 0.00 |
 | [Offer more support to the arts (particularly Theatres and Music) amidst COVID-19](320711.md) | 175,983 | 174,576 | 1,407 | 0 | 99.20 | 0.80 | 0.00 |
-| [Scrap removal of free transport for under-18s from TfL bailout](331453.md) | 165,985 | 165,418 | 567 | 0 | 99.66 | 0.34 | 0.00 |
+| [Scrap removal of free transport for under-18s from TfL bailout](331453.md) | 165,986 | 165,419 | 567 | 0 | 99.66 | 0.34 | 0.00 |
 | [Government to offer economic assistance to the events industry during COVID-19](301186.md) | 154,586 | 153,677 | 909 | 0 | 99.41 | 0.59 | 0.00 |
-| [Give all key workers a 100% tax and Nat. Ins. holiday through COVID-19 crisis](306845.md) | 145,781 | 145,508 | 273 | 0 | 99.81 | 0.19 | 0.00 |
-| [Reduce curriculum content for year 10 & 12 students who will sit exams in 2021.](320772.md) | 144,965 | 144,573 | 392 | 0 | 99.73 | 0.27 | 0.00 |
-| [Impose sanctions on China over its treatment of Uyghur Muslims](300146.md) | 139,281 | 132,896 | 6,385 | 0 | 95.42 | 4.58 | 0.00 |
+| [Give all key workers a 100% tax and Nat. Ins. holiday through COVID-19 crisis](306845.md) | 145,782 | 145,509 | 273 | 0 | 99.81 | 0.19 | 0.00 |
+| [Reduce curriculum content for year 10 & 12 students who will sit exams in 2021.](320772.md) | 144,968 | 144,576 | 392 | 0 | 99.73 | 0.27 | 0.00 |
+| [Impose sanctions on China over its treatment of Uyghur Muslims](300146.md) | 139,285 | 132,900 | 6,385 | 0 | 95.42 | 4.58 | 0.00 |
 | [Require universities to reimburse students' tuition fees during strike action](300528.md) | 136,605 | 136,287 | 318 | 0 | 99.77 | 0.23 | 0.00 |
 | [Provide financial help to zoos, aquariums, & rescue centres during the pandemic.](308733.md) | 134,605 | 133,991 | 614 | 0 | 99.54 | 0.46 | 0.00 |
-| [Release the Home Office's Grooming Gang Review in full](300239.md) | 130,957 | 128,050 | 2,907 | 0 | 97.78 | 2.22 | 0.00 |
-| [Introduce Mandatory Ethnicity Pay Gap Reporting](300105.md) | 130,317 | 129,398 | 919 | 0 | 99.29 | 0.71 | 0.00 |
+| [Release the Home Office's Grooming Gang Review in full](300239.md) | 130,958 | 128,051 | 2,907 | 0 | 97.78 | 2.22 | 0.00 |
+| [Introduce Mandatory Ethnicity Pay Gap Reporting](300105.md) | 130,319 | 129,400 | 919 | 0 | 99.29 | 0.71 | 0.00 |
 | [Allow gyms and leisure centres to reopen](307146.md) | 130,036 | 129,880 | 156 | 0 | 99.88 | 0.12 | 0.00 |
-| [Allow Zoos and Wildlife attractions to reopen with social distancing in place](323881.md) | 128,671 | 128,128 | 543 | 0 | 99.58 | 0.42 | 0.00 |
+| [Allow Zoos and Wildlife attractions to reopen with social distancing in place](323881.md) | 128,672 | 128,129 | 543 | 0 | 99.58 | 0.42 | 0.00 |
 | [Encourage lenders, landlords and utilities to freeze payments during lockdown](302256.md) | 126,442 | 126,103 | 339 | 0 | 99.73 | 0.27 | 0.00 |
 | [Close all universities down for an appropriate amount of time amidst COVID-19](300628.md) | 123,855 | 123,075 | 780 | 0 | 99.37 | 0.63 | 0.00 |
-| [Award all Nursing Staff in the NHS a pay rise of 10% backdated to 1 April 2020](316307.md) | 120,925 | 120,278 | 647 | 0 | 99.46 | 0.54 | 0.00 |
-| [Make pet theft crime a specific offence with custodial sentences.](300071.md) | 119,489 | 118,330 | 1,159 | 0 | 99.03 | 0.97 | 0.00 |
-| [Replace Breed Specific Legislation with a new statutory framework](300561.md) | 117,790 | 116,472 | 1,318 | 0 | 98.88 | 1.12 | 0.00 |
-| [Implement Universal Basic Income to give home & food security through Covid-19](302284.md) | 113,934 | 113,132 | 802 | 0 | 99.30 | 0.70 | 0.00 |
+| [Award all Nursing Staff in the NHS a pay rise of 10% backdated to 1 April 2020](316307.md) | 121,015 | 120,368 | 647 | 0 | 99.47 | 0.53 | 0.00 |
+| [Make pet theft crime a specific offence with custodial sentences.](300071.md) | 120,031 | 118,865 | 1,166 | 0 | 99.03 | 0.97 | 0.00 |
+| [Replace Breed Specific Legislation with a new statutory framework](300561.md) | 117,815 | 116,497 | 1,318 | 0 | 98.88 | 1.12 | 0.00 |
+| [Implement Universal Basic Income to give home & food security through Covid-19](302284.md) | 113,935 | 113,133 | 802 | 0 | 99.30 | 0.70 | 0.00 |
 | [Refund university students for 3rd Semester Tuition 2020](306494.md) | 110,843 | 110,480 | 363 | 0 | 99.67 | 0.33 | 0.00 |
-| [Ban the exploitative import of young puppies for sale in the UK.](326261.md) | 110,205 | 109,169 | 1,036 | 0 | 99.06 | 0.94 | 0.00 |
-| [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 109,468 | 108,025 | 1,443 | 0 | 98.68 | 1.32 | 0.00 |
-| [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 109,021 | 108,161 | 860 | 0 | 99.21 | 0.79 | 0.00 |
+| [Ban the exploitative import of young puppies for sale in the UK.](326261.md) | 110,219 | 109,183 | 1,036 | 0 | 99.06 | 0.94 | 0.00 |
+| [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 109,517 | 108,074 | 1,443 | 0 | 98.68 | 1.32 | 0.00 |
+| [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 109,024 | 108,164 | 860 | 0 | 99.21 | 0.79 | 0.00 |
 | [Fund research for childhood cancers with the worst survival rates](300027.md) | 108,949 | 108,152 | 797 | 0 | 99.27 | 0.73 | 0.00 |
-| [Omit the NHS from any future trade deal with the US](307339.md) | 108,249 | 106,991 | 1,258 | 0 | 98.84 | 1.16 | 0.00 |
+| [Omit the NHS from any future trade deal with the US](307339.md) | 108,250 | 106,992 | 1,258 | 0 | 98.84 | 1.16 | 0.00 |
 | [Extend the transition; delay negotiations until after the coronavirus outbreak](300412.md) | 107,287 | 101,885 | 5,402 | 0 | 94.96 | 5.04 | 0.00 |
 | [Require councils to suspend council tax payments during the coronavirus outbreak](303274.md) | 106,448 | 106,318 | 130 | 0 | 99.88 | 0.12 | 0.00 |
 | [Give UK nurseries emergency funding if they have to close down amid COVID-19](301836.md) | 106,108 | 105,867 | 241 | 0 | 99.77 | 0.23 | 0.00 |
 | [Publish the Russia report](300059.md) | 105,236 | 101,824 | 3,412 | 0 | 96.76 | 3.24 | 0.00 |
 | [Support the British aviation industry during the COVID-19 outbreak](303081.md) | 102,795 | 101,376 | 1,419 | 0 | 98.62 | 1.38 | 0.00 |
-| [No prosecution for parents that remove child from school during a pandemic.](300399.md) | 93,323 | 93,081 | 242 | 0 | 99.74 | 0.26 | 0.00 |
-| [Coronavirus Support Package for Directors / Shareholders of small Limited Co's.](310515.md) | 92,539 | 92,124 | 415 | 0 | 99.55 | 0.45 | 0.00 |
-| [Add education on diversity and racism to all school curriculums](323808.md) | 85,355 | 84,751 | 604 | 0 | 99.29 | 0.71 | 0.00 |
-| [Take action to stop illegal immigration and rapidly remove illegal immigrants](321862.md) | 76,103 | 75,148 | 955 | 0 | 98.75 | 1.25 | 0.00 |
-| [Prevent any restrictions on those who refuse a Covid-19 vaccination](323442.md) | 74,723 | 73,922 | 801 | 0 | 98.93 | 1.07 | 0.00 |
+| [No prosecution for parents that remove child from school during a pandemic.](300399.md) | 93,328 | 93,086 | 242 | 0 | 99.74 | 0.26 | 0.00 |
+| [Coronavirus Support Package for Directors / Shareholders of small Limited Co's.](310515.md) | 92,543 | 92,128 | 415 | 0 | 99.55 | 0.45 | 0.00 |
+| [Add education on diversity and racism to all school curriculums](323808.md) | 85,357 | 84,753 | 604 | 0 | 99.29 | 0.71 | 0.00 |
+| [Take action to stop illegal immigration and rapidly remove illegal immigrants](321862.md) | 76,193 | 75,236 | 957 | 0 | 98.74 | 1.26 | 0.00 |
+| [Prevent any restrictions on those who refuse a Covid-19 vaccination](323442.md) | 74,814 | 74,013 | 801 | 0 | 98.93 | 1.07 | 0.00 |
 | [Give non-British citizens who are NHS workers automatic citizenship](305129.md) | 72,189 | 71,230 | 959 | 0 | 98.67 | 1.33 | 0.00 |
-| [Revoke the TV licence using legislation](300118.md) | 68,955 | 68,407 | 548 | 0 | 99.21 | 0.79 | 0.00 |
+| [Revoke the TV licence using legislation](300118.md) | 68,961 | 68,413 | 548 | 0 | 99.21 | 0.79 | 0.00 |
 | [Allow Salons and Tattoo parlors to open at same time as hairdressers](320507.md) | 61,178 | 61,085 | 93 | 0 | 99.85 | 0.15 | 0.00 |
-| [Explore options for making NurOwn available to treat Motor Neurone Disease (MND)](301033.md) | 58,966 | 57,040 | 1,926 | 0 | 96.73 | 3.27 | 0.00 |
-| [Make parking for all NHS staff free all of the time.](307909.md) | 57,912 | 57,592 | 320 | 0 | 99.45 | 0.55 | 0.00 |
-| [Make Hedgehogs a Protected Species](300100.md) | 55,704 | 55,104 | 600 | 0 | 98.92 | 1.08 | 0.00 |
+| [Explore options for making NurOwn available to treat Motor Neurone Disease (MND)](301033.md) | 58,985 | 57,059 | 1,926 | 0 | 96.73 | 3.27 | 0.00 |
+| [Make parking for all NHS staff free all of the time.](307909.md) | 57,920 | 57,600 | 320 | 0 | 99.45 | 0.55 | 0.00 |
+| [Review the decision to use previous data to calculate exam grades](306773.md) | 56,092 | 55,767 | 325 | 0 | 99.42 | 0.58 | 0.00 |
