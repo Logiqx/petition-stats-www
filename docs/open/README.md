@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-03 03:00:15
+Last refreshed 2020-09-03 04:00:11
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -28,20 +28,20 @@ Last refreshed 2020-09-03 03:00:15
 | [Impose sanctions on China over its treatment of Uyghur Muslims](300146.md) | 140,637 | 134,140 | 6,497 | 0 | 95.38 | 4.62 | 0.00 |
 | [Require universities to reimburse students' tuition fees during strike action](300528.md) | 136,672 | 136,353 | 319 | 0 | 99.77 | 0.23 | 0.00 |
 | [Provide financial help to zoos, aquariums, & rescue centres during the pandemic.](308733.md) | 134,724 | 134,109 | 615 | 0 | 99.54 | 0.46 | 0.00 |
-| [Don’t criminalise trespass](300139.md) | 132,588 | 130,915 | 1,673 | 0 | 98.74 | 1.26 | 0.00 |
-| [Release the Home Office's Grooming Gang Review in full](300239.md) | 131,569 | 128,658 | 2,911 | 0 | 97.79 | 2.21 | 0.00 |
+| [Don’t criminalise trespass](300139.md) | 132,591 | 130,918 | 1,673 | 0 | 98.74 | 1.26 | 0.00 |
+| [Release the Home Office's Grooming Gang Review in full](300239.md) | 131,570 | 128,659 | 2,911 | 0 | 97.79 | 2.21 | 0.00 |
 | [Introduce Mandatory Ethnicity Pay Gap Reporting](300105.md) | 130,550 | 129,627 | 923 | 0 | 99.29 | 0.71 | 0.00 |
 | [Allow gyms and leisure centres to reopen](307146.md) | 130,082 | 129,925 | 157 | 0 | 99.88 | 0.12 | 0.00 |
 | [Allow Zoos and Wildlife attractions to reopen with social distancing in place](323881.md) | 128,694 | 128,150 | 544 | 0 | 99.58 | 0.42 | 0.00 |
 | [Encourage lenders, landlords and utilities to freeze payments during lockdown](302256.md) | 126,472 | 126,132 | 340 | 0 | 99.73 | 0.27 | 0.00 |
 | [Close all universities down for an appropriate amount of time amidst COVID-19](300628.md) | 123,870 | 123,090 | 780 | 0 | 99.37 | 0.63 | 0.00 |
 | [Award all Nursing Staff in the NHS a pay rise of 10% backdated to 1 April 2020](316307.md) | 122,585 | 121,923 | 662 | 0 | 99.46 | 0.54 | 0.00 |
-| [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 119,654 | 118,094 | 1,560 | 0 | 98.70 | 1.30 | 0.00 |
-| [Replace Breed Specific Legislation with a new statutory framework](300561.md) | 118,386 | 117,061 | 1,325 | 0 | 98.88 | 1.12 | 0.00 |
-| [Ban the exploitative import of young puppies for sale in the UK.](326261.md) | 116,218 | 115,157 | 1,061 | 0 | 99.09 | 0.91 | 0.00 |
+| [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 119,659 | 118,099 | 1,560 | 0 | 98.70 | 1.30 | 0.00 |
+| [Replace Breed Specific Legislation with a new statutory framework](300561.md) | 118,387 | 117,062 | 1,325 | 0 | 98.88 | 1.12 | 0.00 |
+| [Ban the exploitative import of young puppies for sale in the UK.](326261.md) | 116,220 | 115,159 | 1,061 | 0 | 99.09 | 0.91 | 0.00 |
 | [Implement Universal Basic Income to give home & food security through Covid-19](302284.md) | 114,051 | 113,248 | 803 | 0 | 99.30 | 0.70 | 0.00 |
-| [Take action to stop illegal immigration and rapidly remove illegal immigrants](321862.md) | 111,473 | 110,099 | 1,374 | 0 | 98.77 | 1.23 | 0.00 |
-| [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 111,375 | 110,496 | 879 | 0 | 99.21 | 0.79 | 0.00 |
+| [Take action to stop illegal immigration and rapidly remove illegal immigrants](321862.md) | 111,483 | 110,109 | 1,374 | 0 | 98.77 | 1.23 | 0.00 |
+| [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 111,378 | 110,499 | 879 | 0 | 99.21 | 0.79 | 0.00 |
 | [Refund university students for 3rd Semester Tuition 2020](306494.md) | 110,947 | 110,584 | 363 | 0 | 99.67 | 0.33 | 0.00 |
 | [Fund research for childhood cancers with the worst survival rates](300027.md) | 109,138 | 108,338 | 800 | 0 | 99.27 | 0.73 | 0.00 |
 | [Omit the NHS from any future trade deal with the US](307339.md) | 108,714 | 107,452 | 1,262 | 0 | 98.84 | 1.16 | 0.00 |
@@ -49,11 +49,11 @@ Last refreshed 2020-09-03 03:00:15
 | [Require councils to suspend council tax payments during the coronavirus outbreak](303274.md) | 106,518 | 106,387 | 131 | 0 | 99.88 | 0.12 | 0.00 |
 | [Give UK nurseries emergency funding if they have to close down amid COVID-19](301836.md) | 106,115 | 105,874 | 241 | 0 | 99.77 | 0.23 | 0.00 |
 | [Publish the Russia report](300059.md) | 105,299 | 101,887 | 3,412 | 0 | 96.76 | 3.24 | 0.00 |
-| [Prevent any restrictions on those who refuse a Covid-19 vaccination](323442.md) | 103,442 | 102,264 | 1,178 | 0 | 98.86 | 1.14 | 0.00 |
+| [Prevent any restrictions on those who refuse a Covid-19 vaccination](323442.md) | 103,450 | 102,272 | 1,178 | 0 | 98.86 | 1.14 | 0.00 |
 | [Support the British aviation industry during the COVID-19 outbreak](303081.md) | 102,827 | 101,407 | 1,420 | 0 | 98.62 | 1.38 | 0.00 |
-| [No prosecution for parents that remove child from school during a pandemic.](300399.md) | 98,200 | 97,951 | 249 | 0 | 99.75 | 0.25 | 0.00 |
-| [Revoke the TV licence using legislation](300118.md) | 97,887 | 96,929 | 958 | 0 | 99.02 | 0.98 | 0.00 |
-| [Coronavirus Support Package for Directors / Shareholders of small Limited Co's.](310515.md) | 96,174 | 95,740 | 434 | 0 | 99.55 | 0.45 | 0.00 |
+| [No prosecution for parents that remove child from school during a pandemic.](300399.md) | 98,201 | 97,952 | 249 | 0 | 99.75 | 0.25 | 0.00 |
+| [Revoke the TV licence using legislation](300118.md) | 97,929 | 96,970 | 959 | 0 | 99.02 | 0.98 | 0.00 |
+| [Coronavirus Support Package for Directors / Shareholders of small Limited Co's.](310515.md) | 96,175 | 95,741 | 434 | 0 | 99.55 | 0.45 | 0.00 |
 | [Add education on diversity and racism to all school curriculums](323808.md) | 85,908 | 85,298 | 610 | 0 | 99.29 | 0.71 | 0.00 |
 | [Give non-British citizens who are NHS workers automatic citizenship](305129.md) | 72,336 | 71,374 | 962 | 0 | 98.67 | 1.33 | 0.00 |
 | [Explore options for making NurOwn available to treat Motor Neurone Disease (MND)](301033.md) | 63,802 | 61,820 | 1,982 | 0 | 96.89 | 3.11 | 0.00 |
