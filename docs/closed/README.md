@@ -4,18 +4,18 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-05 20:00:22
+Last refreshed 2020-09-05 21:00:26
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Make pet theft crime a specific offence with custodial sentences.](300071.md) | 143,633 | 142,223 | 1,410 | 0 | 99.02 | 0.98 | 0.00 |
 | [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 121,161 | 119,591 | 1,570 | 0 | 98.70 | 1.30 | 0.00 |
 | [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 112,222 | 111,337 | 885 | 0 | 99.21 | 0.79 | 0.00 |
-| [Revoke the TV licence using legislation](300118.md) | 110,830 | 109,793 | 1,037 | 0 | 99.06 | 0.94 | 0.00 |
+| [Revoke the TV licence using legislation](300118.md) | 110,832 | 109,795 | 1,037 | 0 | 99.06 | 0.94 | 0.00 |
 | [Publish the Russia report](300059.md) | 105,309 | 101,897 | 3,412 | 0 | 96.76 | 3.24 | 0.00 |
 | [Make Hedgehogs a Protected Species](300100.md) | 56,087 | 55,480 | 607 | 0 | 98.92 | 1.08 | 0.00 |
 | [Highway Code Rules 163 and 215 to be made law. Pass horses wide and slow. ](300122.md) | 42,396 | 42,122 | 274 | 0 | 99.35 | 0.65 | 0.00 |
-| [Pay Carers an allowance equivalent to a fulltime job at the National Living wage](300032.md) | 20,607 | 20,503 | 104 | 0 | 99.50 | 0.50 | 0.00 |
+| [Pay Carers an allowance equivalent to a fulltime job at the National Living wage](300032.md) | 20,608 | 20,504 | 104 | 0 | 99.50 | 0.50 | 0.00 |
 | [Introduce a minimum sentence for carrying a knife, equal to carrying a firearm.](300054.md) | 19,472 | 19,357 | 115 | 0 | 99.41 | 0.59 | 0.00 |
 | [Legal rights for ancient trees](300050.md) | 17,011 | 16,818 | 193 | 0 | 98.87 | 1.13 | 0.00 |
 | [Coroners must be lawfully obligated to statistically record veteran suicides](300055.md) | 10,517 | 10,259 | 258 | 0 | 97.55 | 2.45 | 0.00 |
