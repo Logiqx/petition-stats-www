@@ -4,14 +4,14 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-05 00:00:23
+Last refreshed 2020-09-05 01:00:22
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Make pet theft crime a specific offence with custodial sentences.](300071.md) | 143,623 | 142,213 | 1,410 | 0 | 99.02 | 0.98 | 0.00 |
 | [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 121,140 | 119,570 | 1,570 | 0 | 98.70 | 1.30 | 0.00 |
 | [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 112,208 | 111,323 | 885 | 0 | 99.21 | 0.79 | 0.00 |
-| [Revoke the TV licence using legislation](300118.md) | 110,767 | 109,731 | 1,036 | 0 | 99.06 | 0.94 | 0.00 |
+| [Revoke the TV licence using legislation](300118.md) | 110,768 | 109,732 | 1,036 | 0 | 99.06 | 0.94 | 0.00 |
 | [Publish the Russia report](300059.md) | 105,309 | 101,897 | 3,412 | 0 | 96.76 | 3.24 | 0.00 |
 | [Make Hedgehogs a Protected Species](300100.md) | 56,086 | 55,479 | 607 | 0 | 98.92 | 1.08 | 0.00 |
 | [Highway Code Rules 163 and 215 to be made law. Pass horses wide and slow. ](300122.md) | 42,396 | 42,122 | 274 | 0 | 99.35 | 0.65 | 0.00 |
@@ -19,7 +19,7 @@ Last refreshed 2020-09-05 00:00:23
 | [Introduce a minimum sentence for carrying a knife, equal to carrying a firearm.](300054.md) | 19,472 | 19,357 | 115 | 0 | 99.41 | 0.59 | 0.00 |
 | [Legal rights for ancient trees](300050.md) | 17,011 | 16,818 | 193 | 0 | 98.87 | 1.13 | 0.00 |
 | [Coroners must be lawfully obligated to statistically record veteran suicides](300055.md) | 10,517 | 10,259 | 258 | 0 | 97.55 | 2.45 | 0.00 |
-| [Hold a referendum on the post-2020 UK-EU relationship with option to rejoin EU](300026.md) | 8,558 | 7,886 | 672 | 0 | 92.15 | 7.85 | 0.00 |
+| [Hold a referendum on the post-2020 UK-EU relationship with option to rejoin EU](300026.md) | 8,559 | 7,887 | 672 | 0 | 92.15 | 7.85 | 0.00 |
 | [Make the 6 Nations a culturally protected event.](300069.md) | 7,656 | 7,526 | 130 | 0 | 98.30 | 1.70 | 0.00 |
 | [Reduce student debt for student nurses and midwives](300079.md) | 5,602 | 5,575 | 27 | 0 | 99.52 | 0.48 | 0.00 |
 | [Sol’s Law – Create a new offence and tougher penalties for attacking animals. ](300015.md) | 1,967 | 1,946 | 21 | 0 | 98.93 | 1.07 | 0.00 |
