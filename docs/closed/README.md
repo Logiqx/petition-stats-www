@@ -4,19 +4,19 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-06 10:00:21
+Last refreshed 2020-09-06 11:00:20
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Increase pay for NHS healthcare workers and recognise their work](300073.md) | 178,820 | 177,996 | 824 | 0 | 99.54 | 0.46 | 0.00 |
 | [Make pet theft crime a specific offence with custodial sentences.](300071.md) | 143,633 | 142,223 | 1,410 | 0 | 99.02 | 0.98 | 0.00 |
-| [Don’t criminalise trespass](300139.md) | 134,902 | 133,216 | 1,686 | 0 | 98.75 | 1.25 | 0.00 |
+| [Don’t criminalise trespass](300139.md) | 134,906 | 133,220 | 1,686 | 0 | 98.75 | 1.25 | 0.00 |
 | [Release the Home Office's Grooming Gang Review in full](300239.md) | 131,622 | 128,709 | 2,913 | 0 | 97.79 | 2.21 | 0.00 |
 | [Introduce Mandatory Ethnicity Pay Gap Reporting](300105.md) | 130,567 | 129,644 | 923 | 0 | 99.29 | 0.71 | 0.00 |
 | [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 121,162 | 119,592 | 1,570 | 0 | 98.70 | 1.30 | 0.00 |
 | [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 112,223 | 111,338 | 885 | 0 | 99.21 | 0.79 | 0.00 |
 | [Revoke the TV licence using legislation](300118.md) | 110,836 | 109,799 | 1,037 | 0 | 99.06 | 0.94 | 0.00 |
-| [Fund research for childhood cancers with the worst survival rates](300027.md) | 109,174 | 108,374 | 800 | 0 | 99.27 | 0.73 | 0.00 |
+| [Fund research for childhood cancers with the worst survival rates](300027.md) | 109,175 | 108,375 | 800 | 0 | 99.27 | 0.73 | 0.00 |
 | [Publish the Russia report](300059.md) | 105,309 | 101,897 | 3,412 | 0 | 96.76 | 3.24 | 0.00 |
 | [Make Hedgehogs a Protected Species](300100.md) | 56,087 | 55,480 | 607 | 0 | 98.92 | 1.08 | 0.00 |
 | [Extend the Gambling Act to cover Loot Boxes](300171.md) | 46,626 | 45,385 | 1,241 | 0 | 97.34 | 2.66 | 0.00 |
@@ -41,7 +41,7 @@ Last refreshed 2020-09-06 10:00:21
 | [Ensure, where possible, government contracts are awarded to UK companies](300193.md) | 2,964 | 2,939 | 25 | 0 | 99.16 | 0.84 | 0.00 |
 | [Regulate wildlife food so it’s safer for our UK hedgehogs, mammals & birds](300077.md) | 2,361 | 2,337 | 24 | 0 | 98.98 | 1.02 | 0.00 |
 | [Review how Social Services operate and bring in procedures to protect parents](300231.md) | 2,168 | 2,157 | 11 | 0 | 99.49 | 0.51 | 0.00 |
-| [Ban all single use plastic](300152.md) | 2,153 | 2,138 | 15 | 0 | 99.30 | 0.70 | 0.00 |
+| [Ban all single use plastic](300152.md) | 2,154 | 2,139 | 15 | 0 | 99.30 | 0.70 | 0.00 |
 | [Publish new carbon budgets linked to the Paris Agreement and Climate Change Act](300178.md) | 2,089 | 2,074 | 15 | 0 | 99.28 | 0.72 | 0.00 |
 | [Sol’s Law – Create a new offence and tougher penalties for attacking animals. ](300015.md) | 1,967 | 1,946 | 21 | 0 | 98.93 | 1.07 | 0.00 |
 | [All halal and kosher certified products are to be prominently labelled as such.](300205.md) | 1,835 | 1,811 | 24 | 0 | 98.69 | 1.31 | 0.00 |
