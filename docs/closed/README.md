@@ -4,13 +4,13 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-06 15:00:24
+Last refreshed 2020-09-06 16:00:22
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Increase pay for NHS healthcare workers and recognise their work](300073.md) | 178,820 | 177,996 | 824 | 0 | 99.54 | 0.46 | 0.00 |
 | [Make pet theft crime a specific offence with custodial sentences.](300071.md) | 143,633 | 142,223 | 1,410 | 0 | 99.02 | 0.98 | 0.00 |
-| [Don’t criminalise trespass](300139.md) | 134,912 | 133,226 | 1,686 | 0 | 98.75 | 1.25 | 0.00 |
+| [Don’t criminalise trespass](300139.md) | 134,913 | 133,227 | 1,686 | 0 | 98.75 | 1.25 | 0.00 |
 | [Release the Home Office's Grooming Gang Review in full](300239.md) | 131,622 | 128,709 | 2,913 | 0 | 97.79 | 2.21 | 0.00 |
 | [Introduce Mandatory Ethnicity Pay Gap Reporting](300105.md) | 130,567 | 129,644 | 923 | 0 | 99.29 | 0.71 | 0.00 |
 | [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 121,162 | 119,592 | 1,570 | 0 | 98.70 | 1.30 | 0.00 |
@@ -34,7 +34,7 @@ Last refreshed 2020-09-06 15:00:24
 | [Coroners must be lawfully obligated to statistically record veteran suicides](300055.md) | 10,517 | 10,259 | 258 | 0 | 97.55 | 2.45 | 0.00 |
 | [Hold a referendum on the post-2020 UK-EU relationship with option to rejoin EU](300026.md) | 8,563 | 7,891 | 672 | 0 | 92.15 | 7.85 | 0.00 |
 | [Make the 6 Nations a culturally protected event.](300069.md) | 7,656 | 7,526 | 130 | 0 | 98.30 | 1.70 | 0.00 |
-| [Haydn's Law – All children 16 and under to wear a helmet when riding a bicycle](300165.md) | 6,691 | 6,649 | 42 | 0 | 99.37 | 0.63 | 0.00 |
+| [Haydn's Law – All children 16 and under to wear a helmet when riding a bicycle](300165.md) | 6,692 | 6,650 | 42 | 0 | 99.37 | 0.63 | 0.00 |
 | [Reduce student debt for student nurses and midwives](300079.md) | 5,602 | 5,575 | 27 | 0 | 99.52 | 0.48 | 0.00 |
 | [Ban pelagic trawlers, attach pingers to all boats, stop slaughter of dolphins.](300164.md) | 3,895 | 3,846 | 49 | 0 | 98.74 | 1.26 | 0.00 |
 | [Make it Law to Label Non-Religiously Slaughtered Meat Products.](300185.md) | 3,188 | 3,128 | 60 | 0 | 98.12 | 1.88 | 0.00 |
