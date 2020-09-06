@@ -4,13 +4,13 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-06 06:00:23
+Last refreshed 2020-09-06 07:00:21
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Increase pay for NHS healthcare workers and recognise their work](300073.md) | 178,820 | 177,996 | 824 | 0 | 99.54 | 0.46 | 0.00 |
 | [Make pet theft crime a specific offence with custodial sentences.](300071.md) | 143,633 | 142,223 | 1,410 | 0 | 99.02 | 0.98 | 0.00 |
-| [Don’t criminalise trespass](300139.md) | 134,891 | 133,205 | 1,686 | 0 | 98.75 | 1.25 | 0.00 |
+| [Don’t criminalise trespass](300139.md) | 134,893 | 133,207 | 1,686 | 0 | 98.75 | 1.25 | 0.00 |
 | [Release the Home Office's Grooming Gang Review in full](300239.md) | 131,622 | 128,709 | 2,913 | 0 | 97.79 | 2.21 | 0.00 |
 | [Introduce Mandatory Ethnicity Pay Gap Reporting](300105.md) | 130,567 | 129,644 | 923 | 0 | 99.29 | 0.71 | 0.00 |
 | [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 121,162 | 119,592 | 1,570 | 0 | 98.70 | 1.30 | 0.00 |
@@ -40,7 +40,7 @@ Last refreshed 2020-09-06 06:00:23
 | [Make it Law to Label Non-Religiously Slaughtered Meat Products.](300185.md) | 3,188 | 3,128 | 60 | 0 | 98.12 | 1.88 | 0.00 |
 | [Ensure, where possible, government contracts are awarded to UK companies](300193.md) | 2,964 | 2,939 | 25 | 0 | 99.16 | 0.84 | 0.00 |
 | [Regulate wildlife food so it’s safer for our UK hedgehogs, mammals & birds](300077.md) | 2,361 | 2,337 | 24 | 0 | 98.98 | 1.02 | 0.00 |
-| [Review how Social Services operate and bring in procedures to protect parents](300231.md) | 2,167 | 2,156 | 11 | 0 | 99.49 | 0.51 | 0.00 |
+| [Review how Social Services operate and bring in procedures to protect parents](300231.md) | 2,168 | 2,157 | 11 | 0 | 99.49 | 0.51 | 0.00 |
 | [Ban all single use plastic](300152.md) | 2,152 | 2,137 | 15 | 0 | 99.30 | 0.70 | 0.00 |
 | [Publish new carbon budgets linked to the Paris Agreement and Climate Change Act](300178.md) | 2,089 | 2,074 | 15 | 0 | 99.28 | 0.72 | 0.00 |
 | [Sol’s Law – Create a new offence and tougher penalties for attacking animals. ](300015.md) | 1,967 | 1,946 | 21 | 0 | 98.93 | 1.07 | 0.00 |
