@@ -4,13 +4,13 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-06 14:00:21
+Last refreshed 2020-09-06 15:00:24
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Increase pay for NHS healthcare workers and recognise their work](300073.md) | 178,820 | 177,996 | 824 | 0 | 99.54 | 0.46 | 0.00 |
 | [Make pet theft crime a specific offence with custodial sentences.](300071.md) | 143,633 | 142,223 | 1,410 | 0 | 99.02 | 0.98 | 0.00 |
-| [Don’t criminalise trespass](300139.md) | 134,911 | 133,225 | 1,686 | 0 | 98.75 | 1.25 | 0.00 |
+| [Don’t criminalise trespass](300139.md) | 134,912 | 133,226 | 1,686 | 0 | 98.75 | 1.25 | 0.00 |
 | [Release the Home Office's Grooming Gang Review in full](300239.md) | 131,622 | 128,709 | 2,913 | 0 | 97.79 | 2.21 | 0.00 |
 | [Introduce Mandatory Ethnicity Pay Gap Reporting](300105.md) | 130,567 | 129,644 | 923 | 0 | 99.29 | 0.71 | 0.00 |
 | [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 121,162 | 119,592 | 1,570 | 0 | 98.70 | 1.30 | 0.00 |
@@ -21,7 +21,7 @@ Last refreshed 2020-09-06 14:00:21
 | [Make Hedgehogs a Protected Species](300100.md) | 56,087 | 55,480 | 607 | 0 | 98.92 | 1.08 | 0.00 |
 | [Extend the Gambling Act to cover Loot Boxes](300171.md) | 46,626 | 45,385 | 1,241 | 0 | 97.34 | 2.66 | 0.00 |
 | [Highway Code Rules 163 and 215 to be made law. Pass horses wide and slow. ](300122.md) | 42,396 | 42,122 | 274 | 0 | 99.35 | 0.65 | 0.00 |
-| [Repeal the 2013 and 2017 HS2 Hybrid Bills halting all HS2 works immediately.](300170.md) | 24,589 | 24,394 | 195 | 0 | 99.21 | 0.79 | 0.00 |
+| [Repeal the 2013 and 2017 HS2 Hybrid Bills halting all HS2 works immediately.](300170.md) | 24,590 | 24,395 | 195 | 0 | 99.21 | 0.79 | 0.00 |
 | [Pay Carers an allowance equivalent to a fulltime job at the National Living wage](300032.md) | 20,608 | 20,504 | 104 | 0 | 99.50 | 0.50 | 0.00 |
 | [Fund Kuvan (sapropterin) on the NHS for people with PKU](300034.md) | 19,760 | 19,592 | 168 | 0 | 99.15 | 0.85 | 0.00 |
 | [Introduce a minimum sentence for carrying a knife, equal to carrying a firearm.](300054.md) | 19,472 | 19,357 | 115 | 0 | 99.41 | 0.59 | 0.00 |
