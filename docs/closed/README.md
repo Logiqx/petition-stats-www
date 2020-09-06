@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-05 23:00:21
+Last refreshed 2020-09-06 00:00:24
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -41,7 +41,7 @@ Last refreshed 2020-09-05 23:00:21
 | [Ensure, where possible, government contracts are awarded to UK companies](300193.md) | 2,964 | 2,939 | 25 | 0 | 99.16 | 0.84 | 0.00 |
 | [Regulate wildlife food so it’s safer for our UK hedgehogs, mammals & birds](300077.md) | 2,361 | 2,337 | 24 | 0 | 98.98 | 1.02 | 0.00 |
 | [Review how Social Services operate and bring in procedures to protect parents](300231.md) | 2,167 | 2,156 | 11 | 0 | 99.49 | 0.51 | 0.00 |
-| [Ban all single use plastic](300152.md) | 2,151 | 2,136 | 15 | 0 | 99.30 | 0.70 | 0.00 |
+| [Ban all single use plastic](300152.md) | 2,152 | 2,137 | 15 | 0 | 99.30 | 0.70 | 0.00 |
 | [Publish new carbon budgets linked to the Paris Agreement and Climate Change Act](300178.md) | 2,089 | 2,074 | 15 | 0 | 99.28 | 0.72 | 0.00 |
 | [Sol’s Law – Create a new offence and tougher penalties for attacking animals. ](300015.md) | 1,967 | 1,946 | 21 | 0 | 98.93 | 1.07 | 0.00 |
 | [All halal and kosher certified products are to be prominently labelled as such.](300205.md) | 1,835 | 1,811 | 24 | 0 | 98.69 | 1.31 | 0.00 |
