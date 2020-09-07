@@ -4,14 +4,14 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-07 14:00:22
+Last refreshed 2020-09-07 15:00:23
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Include self-employed in statutory sick pay during Coronavirus](300336.md) | 699,590 | 697,222 | 2,368 | 0 | 99.66 | 0.34 | 0.00 |
 | [Close Schools/Colleges down for an appropriate amount of time amidst COVID19.](300403.md) | 685,394 | 682,888 | 2,506 | 0 | 99.63 | 0.37 | 0.00 |
 | [Increase pay for NHS healthcare workers and recognise their work](300073.md) | 178,820 | 177,996 | 824 | 0 | 99.54 | 0.46 | 0.00 |
-| [Impose sanctions on China over its treatment of Uyghur Muslims](300146.md) | 146,318 | 139,745 | 6,573 | 0 | 95.51 | 4.49 | 0.00 |
+| [Impose sanctions on China over its treatment of Uyghur Muslims](300146.md) | 146,321 | 139,748 | 6,573 | 0 | 95.51 | 4.49 | 0.00 |
 | [Make pet theft crime a specific offence with custodial sentences.](300071.md) | 143,633 | 142,223 | 1,410 | 0 | 99.02 | 0.98 | 0.00 |
 | [Don’t criminalise trespass](300139.md) | 134,927 | 133,241 | 1,686 | 0 | 98.75 | 1.25 | 0.00 |
 | [Release the Home Office's Grooming Gang Review in full](300239.md) | 131,625 | 128,711 | 2,914 | 0 | 97.79 | 2.21 | 0.00 |
@@ -37,7 +37,7 @@ Last refreshed 2020-09-07 14:00:22
 | [Make nurseries exempt from business rates to support the childcare sector](300210.md) | 11,219 | 11,189 | 30 | 0 | 99.73 | 0.27 | 0.00 |
 | [We call on DEFRA, to reinstate the ban on the use of metaldehyde slug pellets.](300098.md) | 11,020 | 10,915 | 105 | 0 | 99.05 | 0.95 | 0.00 |
 | [Coroners must be lawfully obligated to statistically record veteran suicides](300055.md) | 10,517 | 10,259 | 258 | 0 | 97.55 | 2.45 | 0.00 |
-| [Equal (50/50) rights for both parents in the event of a separation.](300183.md) | 10,278 | 10,142 | 136 | 0 | 98.68 | 1.32 | 0.00 |
+| [Equal (50/50) rights for both parents in the event of a separation.](300183.md) | 10,279 | 10,143 | 136 | 0 | 98.68 | 1.32 | 0.00 |
 | [Introduce a form of proportional representation for all UK elections](300274.md) | 10,135 | 9,919 | 216 | 0 | 97.87 | 2.13 | 0.00 |
 | [Hold a referendum on the post-2020 UK-EU relationship with option to rejoin EU](300026.md) | 8,563 | 7,891 | 672 | 0 | 92.15 | 7.85 | 0.00 |
 | [Make the 6 Nations a culturally protected event.](300069.md) | 7,656 | 7,526 | 130 | 0 | 98.30 | 1.70 | 0.00 |
