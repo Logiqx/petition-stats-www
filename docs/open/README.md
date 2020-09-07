@@ -4,23 +4,23 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-07 03:00:13
+Last refreshed 2020-09-07 04:00:09
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Implement UK lockdown for preventing spread of COVID19](301397.md) | 409,363 | 406,788 | 2,575 | 0 | 99.37 | 0.63 | 0.00 |
 | [Reimburse all students of this year’s fees due to strikes and COVID-19](302855.md) | 350,123 | 348,866 | 1,257 | 0 | 99.64 | 0.36 | 0.00 |
 | [Teach Britain's colonial past as part of the UK's compulsory curriculum](324092.md) | 264,392 | 261,578 | 2,814 | 0 | 98.94 | 1.06 | 0.00 |
-| [Make LGBT conversion therapy illegal in the UK](300976.md) | 256,036 | 253,213 | 2,823 | 0 | 98.90 | 1.10 | 0.00 |
+| [Make LGBT conversion therapy illegal in the UK](300976.md) | 256,037 | 253,214 | 2,823 | 0 | 98.90 | 1.10 | 0.00 |
 | [Extend maternity leave by 3 months with pay in light of COVID-19](306691.md) | 236,608 | 236,167 | 441 | 0 | 99.81 | 0.19 | 0.00 |
 | [Broker a ceasefire for all sides in Yemen to carry out humanitarian aid](326932.md) | 210,161 | 207,846 | 2,315 | 0 | 98.90 | 1.10 | 0.00 |
 | [Improve Maternal Mortality Rates and Health Care for Black Women in the U.K.](301079.md) | 187,287 | 185,722 | 1,565 | 0 | 99.16 | 0.84 | 0.00 |
 | [Offer more support to the arts (particularly Theatres and Music) amidst COVID-19](320711.md) | 176,322 | 174,912 | 1,410 | 0 | 99.20 | 0.80 | 0.00 |
-| [Scrap removal of free transport for under-18s from TfL bailout](331453.md) | 168,500 | 167,925 | 575 | 0 | 99.66 | 0.34 | 0.00 |
+| [Scrap removal of free transport for under-18s from TfL bailout](331453.md) | 168,502 | 167,927 | 575 | 0 | 99.66 | 0.34 | 0.00 |
 | [Government to offer economic assistance to the events industry during COVID-19](301186.md) | 154,763 | 153,852 | 911 | 0 | 99.41 | 0.59 | 0.00 |
 | [Review the decision to use previous data to calculate exam grades](306773.md) | 148,800 | 147,550 | 1,250 | 0 | 99.16 | 0.84 | 0.00 |
 | [Reduce curriculum content for year 10 & 12 students who will sit exams in 2021.](320772.md) | 146,092 | 145,697 | 395 | 0 | 99.73 | 0.27 | 0.00 |
-| [Give all key workers a 100% tax and Nat. Ins. holiday through COVID-19 crisis](306845.md) | 145,964 | 145,688 | 276 | 0 | 99.81 | 0.19 | 0.00 |
+| [Give all key workers a 100% tax and Nat. Ins. holiday through COVID-19 crisis](306845.md) | 145,965 | 145,689 | 276 | 0 | 99.81 | 0.19 | 0.00 |
 | [Require universities to reimburse students' tuition fees during strike action](300528.md) | 136,688 | 136,369 | 319 | 0 | 99.77 | 0.23 | 0.00 |
 | [Provide financial help to zoos, aquariums, & rescue centres during the pandemic.](308733.md) | 134,751 | 134,136 | 615 | 0 | 99.54 | 0.46 | 0.00 |
 | [Allow gyms and leisure centres to reopen](307146.md) | 130,151 | 129,994 | 157 | 0 | 99.88 | 0.12 | 0.00 |
@@ -36,20 +36,20 @@ Last refreshed 2020-09-07 03:00:13
 | [Omit the NHS from any future trade deal with the US](307339.md) | 108,771 | 107,507 | 1,264 | 0 | 98.84 | 1.16 | 0.00 |
 | [Extend the transition; delay negotiations until after the coronavirus outbreak](300412.md) | 107,414 | 102,007 | 5,407 | 0 | 94.97 | 5.03 | 0.00 |
 | [Require councils to suspend council tax payments during the coronavirus outbreak](303274.md) | 106,529 | 106,398 | 131 | 0 | 99.88 | 0.12 | 0.00 |
-| [Prevent any restrictions on those who refuse a Covid-19 vaccination](323442.md) | 106,407 | 105,194 | 1,213 | 0 | 98.86 | 1.14 | 0.00 |
+| [Prevent any restrictions on those who refuse a Covid-19 vaccination](323442.md) | 106,414 | 105,201 | 1,213 | 0 | 98.86 | 1.14 | 0.00 |
 | [Give UK nurseries emergency funding if they have to close down amid COVID-19](301836.md) | 106,117 | 105,876 | 241 | 0 | 99.77 | 0.23 | 0.00 |
 | [Support the British aviation industry during the COVID-19 outbreak](303081.md) | 102,842 | 101,421 | 1,421 | 0 | 98.62 | 1.38 | 0.00 |
-| [No prosecution for parents that remove child from school during a pandemic.](300399.md) | 98,559 | 98,305 | 254 | 0 | 99.74 | 0.26 | 0.00 |
+| [No prosecution for parents that remove child from school during a pandemic.](300399.md) | 98,560 | 98,306 | 254 | 0 | 99.74 | 0.26 | 0.00 |
 | [Coronavirus Support Package for Directors / Shareholders of small Limited Co's.](310515.md) | 97,089 | 96,650 | 439 | 0 | 99.55 | 0.45 | 0.00 |
 | [Add education on diversity and racism to all school curriculums](323808.md) | 86,005 | 85,393 | 612 | 0 | 99.29 | 0.71 | 0.00 |
-| [The UK should ban the importation of Shark Fins.](300535.md) | 79,281 | 76,714 | 2,567 | 0 | 96.76 | 3.24 | 0.00 |
+| [The UK should ban the importation of Shark Fins.](300535.md) | 79,296 | 76,727 | 2,569 | 0 | 96.76 | 3.24 | 0.00 |
 | [Give non-British citizens who are NHS workers automatic citizenship](305129.md) | 72,365 | 71,403 | 962 | 0 | 98.67 | 1.33 | 0.00 |
-| [Explore options for making NurOwn available to treat Motor Neurone Disease (MND)](301033.md) | 63,980 | 61,995 | 1,985 | 0 | 96.90 | 3.10 | 0.00 |
+| [Explore options for making NurOwn available to treat Motor Neurone Disease (MND)](301033.md) | 63,981 | 61,996 | 1,985 | 0 | 96.90 | 3.10 | 0.00 |
 | [Allow Salons and Tattoo parlors to open at same time as hairdressers](320507.md) | 61,182 | 61,089 | 93 | 0 | 99.85 | 0.15 | 0.00 |
-| [Protect Retail Workers from Abuse, Threats and Violence.](328621.md) | 60,566 | 60,474 | 92 | 0 | 99.85 | 0.15 | 0.00 |
+| [Protect Retail Workers from Abuse, Threats and Violence.](328621.md) | 60,568 | 60,476 | 92 | 0 | 99.85 | 0.15 | 0.00 |
 | [Make parking for all NHS staff free all of the time.](307909.md) | 58,565 | 58,238 | 327 | 0 | 99.44 | 0.56 | 0.00 |
 | [Cancel HS2 and use the money for the NHS and local economies, post Covid-19.](311642.md) | 54,950 | 54,578 | 372 | 0 | 99.32 | 0.68 | 0.00 |
-| [Delay 5G in the UK until there’s been an independent investigation](312997.md) | 54,900 | 54,287 | 613 | 0 | 98.88 | 1.12 | 0.00 |
+| [Delay 5G in the UK until there’s been an independent investigation](312997.md) | 54,901 | 54,288 | 613 | 0 | 98.88 | 1.12 | 0.00 |
 | [Call for the UK government to formally recognise the State of Palestine](300450.md) | 52,525 | 51,473 | 1,052 | 0 | 98.00 | 2.00 | 0.00 |
 | [One-off Grant To Be Paid To Anyone Who Has Not Benefited From A Covid-19 Scheme](319899.md) | 52,145 | 51,957 | 188 | 0 | 99.64 | 0.36 | 0.00 |
 | [Do not ban gender transition treatments for under 18s](318025.md) | 50,842 | 50,361 | 481 | 0 | 99.05 | 0.95 | 0.00 |
