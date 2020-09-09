@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-09 22:00:19
+Last refreshed 2020-09-09 23:00:18
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -24,6 +24,7 @@ Last refreshed 2020-09-09 22:00:19
 | [Make Hedgehogs a Protected Species](300100.md) | 56,087 | 55,480 | 607 | 0 | 98.92 | 1.08 | 0.00 |
 | [Extend the Gambling Act to cover Loot Boxes](300171.md) | 46,627 | 45,386 | 1,241 | 0 | 97.34 | 2.66 | 0.00 |
 | [Highway Code Rules 163 and 215 to be made law. Pass horses wide and slow. ](300122.md) | 42,396 | 42,122 | 274 | 0 | 99.35 | 0.65 | 0.00 |
+| [Grant cats the same status under the Road Traffic Act 1988 as dogs](300310.md) | 25,114 | 24,952 | 162 | 0 | 99.35 | 0.65 | 0.00 |
 | [Repeal the 2013 and 2017 HS2 Hybrid Bills halting all HS2 works immediately.](300170.md) | 24,590 | 24,395 | 195 | 0 | 99.21 | 0.79 | 0.00 |
 | [Change the Sexual Offences Act so women can be charged with rape against males](300270.md) | 24,426 | 24,253 | 173 | 0 | 99.29 | 0.71 | 0.00 |
 | [Pay Carers an allowance equivalent to a fulltime job at the National Living wage](300032.md) | 20,608 | 20,504 | 104 | 0 | 99.50 | 0.50 | 0.00 |
@@ -33,6 +34,7 @@ Last refreshed 2020-09-09 22:00:19
 | [Give the British Nationals (Overseas) of Hong Kong full British citizenship.](300091.md) | 16,082 | 6,510 | 9,572 | 0 | 40.48 | 59.52 | 0.00 |
 | [Make cannabis legal for recreational use for ages 21+](300201.md) | 15,680 | 15,601 | 79 | 0 | 99.50 | 0.50 | 0.00 |
 | [Suspend sanctions against Iran for the duration of the coronavirus pandemic](300109.md) | 14,400 | 13,842 | 558 | 0 | 96.12 | 3.88 | 0.00 |
+| [Support British Food Producers by ensuring that marks of origin remain](300353.md) | 14,142 | 14,030 | 112 | 0 | 99.21 | 0.79 | 0.00 |
 | [Give holiday caravan/lodge owners the same statutory protection as mobile homes.](300007.md) | 13,478 | 13,441 | 37 | 0 | 99.73 | 0.27 | 0.00 |
 | [Make nurseries exempt from business rates to support the childcare sector](300210.md) | 11,219 | 11,189 | 30 | 0 | 99.73 | 0.27 | 0.00 |
 | [We call on DEFRA, to reinstate the ban on the use of metaldehyde slug pellets.](300098.md) | 11,020 | 10,915 | 105 | 0 | 99.05 | 0.95 | 0.00 |
@@ -45,6 +47,8 @@ Last refreshed 2020-09-09 22:00:19
 | [Haydn's Law – All children 16 and under to wear a helmet when riding a bicycle](300165.md) | 6,693 | 6,651 | 42 | 0 | 99.37 | 0.63 | 0.00 |
 | [Reduce student debt for student nurses and midwives](300079.md) | 5,602 | 5,575 | 27 | 0 | 99.52 | 0.48 | 0.00 |
 | [Ban pelagic trawlers, attach pingers to all boats, stop slaughter of dolphins.](300164.md) | 3,895 | 3,846 | 49 | 0 | 98.74 | 1.26 | 0.00 |
+| [Restore the concept of Free Speech and abolish hate speech laws.](300305.md) | 3,594 | 3,540 | 54 | 0 | 98.50 | 1.50 | 0.00 |
+| [Make the Life in the UK test questions more relevant to actual life in the UK.](300306.md) | 3,511 | 3,472 | 39 | 0 | 98.89 | 1.11 | 0.00 |
 | [Change approach to COV-19 - if schools have "confirmed" cases they should close.](300426.md) | 3,241 | 3,235 | 6 | 0 | 99.81 | 0.19 | 0.00 |
 | [Make it Law to Label Non-Religiously Slaughtered Meat Products.](300185.md) | 3,188 | 3,128 | 60 | 0 | 98.12 | 1.88 | 0.00 |
 | [Ensure, where possible, government contracts are awarded to UK companies](300193.md) | 2,964 | 2,939 | 25 | 0 | 99.16 | 0.84 | 0.00 |
@@ -54,7 +58,3 @@ Last refreshed 2020-09-09 22:00:19
 | [Create a national database of people banned from keeping animals](300317.md) | 2,142 | 2,115 | 27 | 0 | 98.74 | 1.26 | 0.00 |
 | [Publish new carbon budgets linked to the Paris Agreement and Climate Change Act](300178.md) | 2,089 | 2,074 | 15 | 0 | 99.28 | 0.72 | 0.00 |
 | [Sol’s Law – Create a new offence and tougher penalties for attacking animals. ](300015.md) | 1,967 | 1,946 | 21 | 0 | 98.93 | 1.07 | 0.00 |
-| [All halal and kosher certified products are to be prominently labelled as such.](300205.md) | 1,835 | 1,811 | 24 | 0 | 98.69 | 1.31 | 0.00 |
-| [Protect the Environment – support carbon neutral energy alternatives](300000.md) | 1,604 | 1,590 | 14 | 0 | 99.13 | 0.87 | 0.00 |
-| [Make it compulsory for all leisure centres to carry out checks under Sarah's law](300041.md) | 1,401 | 1,394 | 7 | 0 | 99.50 | 0.50 | 0.00 |
-| [A motion for the introduction of a Digital Data Dividend (The DDD)](300327.md) | 1,251 | 1,240 | 11 | 0 | 99.12 | 0.88 | 0.00 |
