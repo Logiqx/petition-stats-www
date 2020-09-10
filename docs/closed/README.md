@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-10 06:00:25
+Last refreshed 2020-09-10 07:00:22
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -48,7 +48,7 @@ Last refreshed 2020-09-10 06:00:25
 | [Reduce student debt for student nurses and midwives](300079.md) | 5,602 | 5,575 | 27 | 0 | 99.52 | 0.48 | 0.00 |
 | [Ban pelagic trawlers, attach pingers to all boats, stop slaughter of dolphins.](300164.md) | 3,895 | 3,846 | 49 | 0 | 98.74 | 1.26 | 0.00 |
 | [Restore the concept of Free Speech and abolish hate speech laws.](300305.md) | 3,594 | 3,540 | 54 | 0 | 98.50 | 1.50 | 0.00 |
-| [Make the Life in the UK test questions more relevant to actual life in the UK.](300306.md) | 3,511 | 3,472 | 39 | 0 | 98.89 | 1.11 | 0.00 |
+| [Make the Life in the UK test questions more relevant to actual life in the UK.](300306.md) | 3,512 | 3,473 | 39 | 0 | 98.89 | 1.11 | 0.00 |
 | [Change approach to COV-19 - if schools have "confirmed" cases they should close.](300426.md) | 3,241 | 3,235 | 6 | 0 | 99.81 | 0.19 | 0.00 |
 | [Make it Law to Label Non-Religiously Slaughtered Meat Products.](300185.md) | 3,188 | 3,128 | 60 | 0 | 98.12 | 1.88 | 0.00 |
 | [Ensure, where possible, government contracts are awarded to UK companies](300193.md) | 2,964 | 2,939 | 25 | 0 | 99.16 | 0.84 | 0.00 |
