@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-10 12:00:26
+Last refreshed 2020-09-10 13:00:20
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -24,7 +24,7 @@ Last refreshed 2020-09-10 12:00:26
 | [Make Hedgehogs a Protected Species](300100.md) | 56,087 | 55,480 | 607 | 0 | 98.92 | 1.08 | 0.00 |
 | [Extend the Gambling Act to cover Loot Boxes](300171.md) | 46,627 | 45,386 | 1,241 | 0 | 97.34 | 2.66 | 0.00 |
 | [Highway Code Rules 163 and 215 to be made law. Pass horses wide and slow. ](300122.md) | 42,396 | 42,122 | 274 | 0 | 99.35 | 0.65 | 0.00 |
-| [Grant cats the same status under the Road Traffic Act 1988 as dogs](300310.md) | 25,122 | 24,960 | 162 | 0 | 99.36 | 0.64 | 0.00 |
+| [Grant cats the same status under the Road Traffic Act 1988 as dogs](300310.md) | 25,123 | 24,961 | 162 | 0 | 99.36 | 0.64 | 0.00 |
 | [Repeal the 2013 and 2017 HS2 Hybrid Bills halting all HS2 works immediately.](300170.md) | 24,590 | 24,395 | 195 | 0 | 99.21 | 0.79 | 0.00 |
 | [Change the Sexual Offences Act so women can be charged with rape against males](300270.md) | 24,426 | 24,253 | 173 | 0 | 99.29 | 0.71 | 0.00 |
 | [Pay Carers an allowance equivalent to a fulltime job at the National Living wage](300032.md) | 20,608 | 20,504 | 104 | 0 | 99.50 | 0.50 | 0.00 |
