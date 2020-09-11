@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-11 14:00:20
+Last refreshed 2020-09-11 15:00:23
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -22,7 +22,7 @@ Last refreshed 2020-09-11 14:00:20
 | [Fund research for childhood cancers with the worst survival rates](300027.md) | 109,176 | 108,376 | 800 | 0 | 99.27 | 0.73 | 0.00 |
 | [Extend the transition; delay negotiations until after the coronavirus outbreak](300412.md) | 107,436 | 102,028 | 5,408 | 0 | 94.97 | 5.03 | 0.00 |
 | [Publish the Russia report](300059.md) | 105,309 | 101,897 | 3,412 | 0 | 96.76 | 3.24 | 0.00 |
-| [No prosecution for parents that remove child from school during a pandemic.](300399.md) | 100,646 | 100,382 | 264 | 0 | 99.74 | 0.26 | 0.00 |
+| [No prosecution for parents that remove child from school during a pandemic.](300399.md) | 100,647 | 100,383 | 264 | 0 | 99.74 | 0.26 | 0.00 |
 | [Make Hedgehogs a Protected Species](300100.md) | 56,087 | 55,480 | 607 | 0 | 98.92 | 1.08 | 0.00 |
 | [Rejoin the EU under Article 49 TEU](300297.md) | 46,765 | 44,134 | 2,631 | 0 | 94.37 | 5.63 | 0.00 |
 | [Extend the Gambling Act to cover Loot Boxes](300171.md) | 46,627 | 45,386 | 1,241 | 0 | 97.34 | 2.66 | 0.00 |
