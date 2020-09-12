@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-12 13:00:19
+Last refreshed 2020-09-12 14:00:20
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -19,8 +19,8 @@ Last refreshed 2020-09-12 13:00:19
 | [Introduce Mandatory Ethnicity Pay Gap Reporting](300105.md) | 130,567 | 129,644 | 923 | 0 | 99.29 | 0.71 | 0.00 |
 | [Close all universities down for an appropriate amount of time amidst COVID-19](300628.md) | 123,903 | 123,123 | 780 | 0 | 99.37 | 0.63 | 0.00 |
 | [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 121,162 | 119,592 | 1,570 | 0 | 98.70 | 1.30 | 0.00 |
-| [Replace Breed Specific Legislation with a new statutory framework](300561.md) | 118,636 | 117,307 | 1,329 | 0 | 98.88 | 1.12 | 0.00 |
-| [The UK should ban the importation of Shark Fins.](300535.md) | 115,351 | 111,849 | 3,502 | 0 | 96.96 | 3.04 | 0.00 |
+| [Replace Breed Specific Legislation with a new statutory framework](300561.md) | 118,637 | 117,308 | 1,329 | 0 | 98.88 | 1.12 | 0.00 |
+| [The UK should ban the importation of Shark Fins.](300535.md) | 115,353 | 111,851 | 3,502 | 0 | 96.96 | 3.04 | 0.00 |
 | [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 112,223 | 111,338 | 885 | 0 | 99.21 | 0.79 | 0.00 |
 | [Revoke the TV licence using legislation](300118.md) | 110,836 | 109,799 | 1,037 | 0 | 99.06 | 0.94 | 0.00 |
 | [Fund research for childhood cancers with the worst survival rates](300027.md) | 109,176 | 108,376 | 800 | 0 | 99.27 | 0.73 | 0.00 |
@@ -35,7 +35,7 @@ Last refreshed 2020-09-12 13:00:19
 | [Grant cats the same status under the Road Traffic Act 1988 as dogs](300310.md) | 25,129 | 24,967 | 162 | 0 | 99.36 | 0.64 | 0.00 |
 | [Repeal the 2013 and 2017 HS2 Hybrid Bills halting all HS2 works immediately.](300170.md) | 24,590 | 24,395 | 195 | 0 | 99.21 | 0.79 | 0.00 |
 | [Change the Sexual Offences Act so women can be charged with rape against males](300270.md) | 24,426 | 24,253 | 173 | 0 | 99.29 | 0.71 | 0.00 |
-| [Hold a public inquiry into the 2016 EU membership referendum](300473.md) | 23,600 | 22,323 | 1,277 | 0 | 94.59 | 5.41 | 0.00 |
+| [Hold a public inquiry into the 2016 EU membership referendum](300473.md) | 23,601 | 22,323 | 1,278 | 0 | 94.58 | 5.42 | 0.00 |
 | [Ban non-stun slaughter in the UK. ](300257.md) | 20,853 | 20,530 | 323 | 0 | 98.45 | 1.55 | 0.00 |
 | [Pay Carers an allowance equivalent to a fulltime job at the National Living wage](300032.md) | 20,608 | 20,504 | 104 | 0 | 99.50 | 0.50 | 0.00 |
 | [Fund Kuvan (sapropterin) on the NHS for people with PKU](300034.md) | 19,760 | 19,592 | 168 | 0 | 99.15 | 0.85 | 0.00 |
