@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-12 05:00:21
+Last refreshed 2020-09-12 06:00:23
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -49,7 +49,7 @@ Last refreshed 2020-09-12 05:00:21
 | [Support British Food Producers by ensuring that marks of origin remain](300353.md) | 14,142 | 14,030 | 112 | 0 | 99.21 | 0.79 | 0.00 |
 | [Give holiday caravan/lodge owners the same statutory protection as mobile homes.](300007.md) | 13,478 | 13,441 | 37 | 0 | 99.73 | 0.27 | 0.00 |
 | [Abolish the mandatory 0.7% GDP Foreign Aid target and spend our money at home](300662.md) | 12,722 | 12,524 | 198 | 0 | 98.44 | 1.56 | 0.00 |
-| [Revise the NPPF to include the protection of all and particularly old hedgerows.](300407.md) | 11,774 | 11,654 | 120 | 0 | 98.98 | 1.02 | 0.00 |
+| [Revise the NPPF to include the protection of all and particularly old hedgerows.](300407.md) | 11,775 | 11,655 | 120 | 0 | 98.98 | 1.02 | 0.00 |
 | [Make nurseries exempt from business rates to support the childcare sector](300210.md) | 11,219 | 11,189 | 30 | 0 | 99.73 | 0.27 | 0.00 |
 | [We call on DEFRA, to reinstate the ban on the use of metaldehyde slug pellets.](300098.md) | 11,020 | 10,915 | 105 | 0 | 99.05 | 0.95 | 0.00 |
 | [To block Huawei equipment to be used in 5G network](300472.md) | 10,822 | 10,513 | 309 | 0 | 97.14 | 2.86 | 0.00 |
