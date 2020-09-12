@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-12 16:00:20
+Last refreshed 2020-09-12 17:00:20
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -20,7 +20,7 @@ Last refreshed 2020-09-12 16:00:20
 | [Close all universities down for an appropriate amount of time amidst COVID-19](300628.md) | 123,903 | 123,123 | 780 | 0 | 99.37 | 0.63 | 0.00 |
 | [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 121,162 | 119,592 | 1,570 | 0 | 98.70 | 1.30 | 0.00 |
 | [Replace Breed Specific Legislation with a new statutory framework](300561.md) | 118,637 | 117,308 | 1,329 | 0 | 98.88 | 1.12 | 0.00 |
-| [The UK should ban the importation of Shark Fins.](300535.md) | 115,358 | 111,856 | 3,502 | 0 | 96.96 | 3.04 | 0.00 |
+| [The UK should ban the importation of Shark Fins.](300535.md) | 115,360 | 111,858 | 3,502 | 0 | 96.96 | 3.04 | 0.00 |
 | [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 112,223 | 111,338 | 885 | 0 | 99.21 | 0.79 | 0.00 |
 | [Revoke the TV licence using legislation](300118.md) | 110,836 | 109,799 | 1,037 | 0 | 99.06 | 0.94 | 0.00 |
 | [Fund research for childhood cancers with the worst survival rates](300027.md) | 109,176 | 108,376 | 800 | 0 | 99.27 | 0.73 | 0.00 |
@@ -28,7 +28,7 @@ Last refreshed 2020-09-12 16:00:20
 | [Publish the Russia report](300059.md) | 105,309 | 101,897 | 3,412 | 0 | 96.76 | 3.24 | 0.00 |
 | [No prosecution for parents that remove child from school during a pandemic.](300399.md) | 100,649 | 100,385 | 264 | 0 | 99.74 | 0.26 | 0.00 |
 | [Make Hedgehogs a Protected Species](300100.md) | 56,087 | 55,480 | 607 | 0 | 98.92 | 1.08 | 0.00 |
-| [Call for the UK government to formally recognise the State of Palestine](300450.md) | 52,622 | 51,569 | 1,053 | 0 | 98.00 | 2.00 | 0.00 |
+| [Call for the UK government to formally recognise the State of Palestine](300450.md) | 52,623 | 51,570 | 1,053 | 0 | 98.00 | 2.00 | 0.00 |
 | [Rejoin the EU under Article 49 TEU](300297.md) | 46,765 | 44,134 | 2,631 | 0 | 94.37 | 5.63 | 0.00 |
 | [Extend the Gambling Act to cover Loot Boxes](300171.md) | 46,627 | 45,386 | 1,241 | 0 | 97.34 | 2.66 | 0.00 |
 | [Highway Code Rules 163 and 215 to be made law. Pass horses wide and slow. ](300122.md) | 42,396 | 42,122 | 274 | 0 | 99.35 | 0.65 | 0.00 |
@@ -49,7 +49,7 @@ Last refreshed 2020-09-12 16:00:20
 | [Support British Food Producers by ensuring that marks of origin remain](300353.md) | 14,142 | 14,030 | 112 | 0 | 99.21 | 0.79 | 0.00 |
 | [Give holiday caravan/lodge owners the same statutory protection as mobile homes.](300007.md) | 13,478 | 13,441 | 37 | 0 | 99.73 | 0.27 | 0.00 |
 | [Abolish the mandatory 0.7% GDP Foreign Aid target and spend our money at home](300662.md) | 12,722 | 12,524 | 198 | 0 | 98.44 | 1.56 | 0.00 |
-| [Revise the NPPF to include the protection of all and particularly old hedgerows.](300407.md) | 11,789 | 11,667 | 122 | 0 | 98.97 | 1.03 | 0.00 |
+| [Revise the NPPF to include the protection of all and particularly old hedgerows.](300407.md) | 11,790 | 11,668 | 122 | 0 | 98.97 | 1.03 | 0.00 |
 | [Make nurseries exempt from business rates to support the childcare sector](300210.md) | 11,219 | 11,189 | 30 | 0 | 99.73 | 0.27 | 0.00 |
 | [We call on DEFRA, to reinstate the ban on the use of metaldehyde slug pellets.](300098.md) | 11,020 | 10,915 | 105 | 0 | 99.05 | 0.95 | 0.00 |
 | [To block Huawei equipment to be used in 5G network](300472.md) | 10,822 | 10,513 | 309 | 0 | 97.14 | 2.86 | 0.00 |
