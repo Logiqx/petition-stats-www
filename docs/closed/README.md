@@ -4,13 +4,15 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-13 22:00:19
+Last refreshed 2020-09-13 23:00:18
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Include self-employed in statutory sick pay during Coronavirus](300336.md) | 699,590 | 697,222 | 2,368 | 0 | 99.66 | 0.34 | 0.00 |
 | [Close Schools/Colleges down for an appropriate amount of time amidst COVID19.](300403.md) | 685,393 | 682,887 | 2,506 | 0 | 99.63 | 0.37 | 0.00 |
 | [Implement UK lockdown for preventing spread of COVID19](301397.md) | 409,472 | 406,896 | 2,576 | 0 | 99.37 | 0.63 | 0.00 |
+| [Make LGBT conversion therapy illegal in the UK](300976.md) | 256,387 | 253,562 | 2,825 | 0 | 98.90 | 1.10 | 0.00 |
+| [Improve Maternal Mortality Rates and Health Care for Black Women in the U.K.](301079.md) | 187,516 | 185,949 | 1,567 | 0 | 99.16 | 0.84 | 0.00 |
 | [Increase pay for NHS healthcare workers and recognise their work](300073.md) | 178,820 | 177,996 | 824 | 0 | 99.54 | 0.46 | 0.00 |
 | [Government to offer economic assistance to the events industry during COVID-19](301186.md) | 154,814 | 153,902 | 912 | 0 | 99.41 | 0.59 | 0.00 |
 | [Impose sanctions on China over its treatment of Uyghur Muslims](300146.md) | 146,344 | 139,771 | 6,573 | 0 | 95.51 | 4.49 | 0.00 |
@@ -34,6 +36,7 @@ Last refreshed 2020-09-13 22:00:19
 | [Rejoin the EU under Article 49 TEU](300297.md) | 46,765 | 44,134 | 2,631 | 0 | 94.37 | 5.63 | 0.00 |
 | [Extend the Gambling Act to cover Loot Boxes](300171.md) | 46,627 | 45,386 | 1,241 | 0 | 97.34 | 2.66 | 0.00 |
 | [Highway Code Rules 163 and 215 to be made law. Pass horses wide and slow. ](300122.md) | 42,396 | 42,122 | 274 | 0 | 99.35 | 0.65 | 0.00 |
+| [Add gender identity to the characteristics protected under the Equality Act 2010](301138.md) | 29,486 | 29,285 | 201 | 0 | 99.32 | 0.68 | 0.00 |
 | [Grant cats the same status under the Road Traffic Act 1988 as dogs](300310.md) | 25,129 | 24,967 | 162 | 0 | 99.36 | 0.64 | 0.00 |
 | [Repeal the 2013 and 2017 HS2 Hybrid Bills halting all HS2 works immediately.](300170.md) | 24,590 | 24,395 | 195 | 0 | 99.21 | 0.79 | 0.00 |
 | [Change the Sexual Offences Act so women can be charged with rape against males](300270.md) | 24,426 | 24,253 | 173 | 0 | 99.29 | 0.71 | 0.00 |
@@ -52,9 +55,6 @@ Last refreshed 2020-09-13 22:00:19
 | [Give holiday caravan/lodge owners the same statutory protection as mobile homes.](300007.md) | 13,478 | 13,441 | 37 | 0 | 99.73 | 0.27 | 0.00 |
 | [Abolish the mandatory 0.7% GDP Foreign Aid target and spend our money at home](300662.md) | 12,722 | 12,524 | 198 | 0 | 98.44 | 1.56 | 0.00 |
 | [Revise the NPPF to include the protection of all and particularly old hedgerows.](300407.md) | 11,792 | 11,670 | 122 | 0 | 98.97 | 1.03 | 0.00 |
-| [Ban the sale of artificial grass](300919.md) | 11,666 | 11,580 | 86 | 0 | 99.26 | 0.74 | 0.00 |
+| [Ban the sale of artificial grass](300919.md) | 11,667 | 11,581 | 86 | 0 | 99.26 | 0.74 | 0.00 |
 | [Make nurseries exempt from business rates to support the childcare sector](300210.md) | 11,219 | 11,189 | 30 | 0 | 99.73 | 0.27 | 0.00 |
 | [We call on DEFRA, to reinstate the ban on the use of metaldehyde slug pellets.](300098.md) | 11,020 | 10,915 | 105 | 0 | 99.05 | 0.95 | 0.00 |
-| [To block Huawei equipment to be used in 5G network](300472.md) | 10,822 | 10,513 | 309 | 0 | 97.14 | 2.86 | 0.00 |
-| [Coroners must be lawfully obligated to statistically record veteran suicides](300055.md) | 10,517 | 10,259 | 258 | 0 | 97.55 | 2.45 | 0.00 |
-| [Equal (50/50) rights for both parents in the event of a separation.](300183.md) | 10,279 | 10,143 | 136 | 0 | 98.68 | 1.32 | 0.00 |
