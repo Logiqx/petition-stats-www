@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-17 05:00:24
+Last refreshed 2020-09-17 06:00:27
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -25,7 +25,7 @@ Last refreshed 2020-09-17 05:00:24
 | [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 121,162 | 119,592 | 1,570 | 0 | 98.70 | 1.30 | 0.00 |
 | [Replace Breed Specific Legislation with a new statutory framework](300561.md) | 118,638 | 117,309 | 1,329 | 0 | 98.88 | 1.12 | 0.00 |
 | [The UK should ban the importation of Shark Fins.](300535.md) | 115,380 | 111,877 | 3,503 | 0 | 96.96 | 3.04 | 0.00 |
-| [Implement Universal Basic Income to give home & food security through Covid-19](302284.md) | 114,569 | 113,765 | 804 | 0 | 99.30 | 0.70 | 0.00 |
+| [Implement Universal Basic Income to give home & food security through Covid-19](302284.md) | 114,570 | 113,766 | 804 | 0 | 99.30 | 0.70 | 0.00 |
 | [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 112,223 | 111,338 | 885 | 0 | 99.21 | 0.79 | 0.00 |
 | [Revoke the TV licence using legislation](300118.md) | 110,836 | 109,799 | 1,037 | 0 | 99.06 | 0.94 | 0.00 |
 | [Fund research for childhood cancers with the worst survival rates](300027.md) | 109,176 | 108,376 | 800 | 0 | 99.27 | 0.73 | 0.00 |
