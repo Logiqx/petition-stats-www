@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-17 08:00:23
+Last refreshed 2020-09-17 09:00:28
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -25,8 +25,8 @@ Last refreshed 2020-09-17 08:00:23
 | [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 121,162 | 119,592 | 1,570 | 0 | 98.70 | 1.30 | 0.00 |
 | [Replace Breed Specific Legislation with a new statutory framework](300561.md) | 118,638 | 117,309 | 1,329 | 0 | 98.88 | 1.12 | 0.00 |
 | [The UK should ban the importation of Shark Fins.](300535.md) | 115,380 | 111,877 | 3,503 | 0 | 96.96 | 3.04 | 0.00 |
-| [Implement Universal Basic Income to give home & food security through Covid-19](302284.md) | 114,571 | 113,767 | 804 | 0 | 99.30 | 0.70 | 0.00 |
-| [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 112,223 | 111,338 | 885 | 0 | 99.21 | 0.79 | 0.00 |
+| [Implement Universal Basic Income to give home & food security through Covid-19](302284.md) | 114,572 | 113,768 | 804 | 0 | 99.30 | 0.70 | 0.00 |
+| [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 112,224 | 111,339 | 885 | 0 | 99.21 | 0.79 | 0.00 |
 | [Revoke the TV licence using legislation](300118.md) | 110,836 | 109,799 | 1,037 | 0 | 99.06 | 0.94 | 0.00 |
 | [Fund research for childhood cancers with the worst survival rates](300027.md) | 109,176 | 108,376 | 800 | 0 | 99.27 | 0.73 | 0.00 |
 | [Extend the transition; delay negotiations until after the coronavirus outbreak](300412.md) | 107,436 | 102,028 | 5,408 | 0 | 94.97 | 5.03 | 0.00 |
@@ -56,5 +56,5 @@ Last refreshed 2020-09-17 08:00:23
 | [Suspend sanctions against Iran for the duration of the coronavirus pandemic](300109.md) | 14,400 | 13,842 | 558 | 0 | 96.12 | 3.88 | 0.00 |
 | [Support British Food Producers by ensuring that marks of origin remain](300353.md) | 14,142 | 14,030 | 112 | 0 | 99.21 | 0.79 | 0.00 |
 | [Give holiday caravan/lodge owners the same statutory protection as mobile homes.](300007.md) | 13,478 | 13,441 | 37 | 0 | 99.73 | 0.27 | 0.00 |
-| [Abolish the mandatory 0.7% GDP Foreign Aid target and spend our money at home](300662.md) | 12,722 | 12,524 | 198 | 0 | 98.44 | 1.56 | 0.00 |
+| [Abolish the mandatory 0.7% GDP Foreign Aid target and spend our money at home](300662.md) | 12,723 | 12,525 | 198 | 0 | 98.44 | 1.56 | 0.00 |
 | [Stop Forestry England granting licenses for Fox & Hare hunts](300634.md) | 11,947 | 11,740 | 207 | 0 | 98.27 | 1.73 | 0.00 |
