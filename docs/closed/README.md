@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-17 10:00:22
+Last refreshed 2020-09-17 11:00:25
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -47,7 +47,7 @@ Last refreshed 2020-09-17 10:00:22
 | [Pay Carers an allowance equivalent to a fulltime job at the National Living wage](300032.md) | 20,608 | 20,504 | 104 | 0 | 99.50 | 0.50 | 0.00 |
 | [Fund Kuvan (sapropterin) on the NHS for people with PKU](300034.md) | 19,760 | 19,592 | 168 | 0 | 99.15 | 0.85 | 0.00 |
 | [Introduce a minimum sentence for carrying a knife, equal to carrying a firearm.](300054.md) | 19,472 | 19,357 | 115 | 0 | 99.41 | 0.59 | 0.00 |
-| [Introduce Voter ID in every UK constituency for all Local & General Elections](301120.md) | 17,369 | 17,163 | 206 | 0 | 98.81 | 1.19 | 0.00 |
+| [Introduce Voter ID in every UK constituency for all Local & General Elections](301120.md) | 17,370 | 17,164 | 206 | 0 | 98.81 | 1.19 | 0.00 |
 | [Legal rights for ancient trees](300050.md) | 17,011 | 16,818 | 193 | 0 | 98.87 | 1.13 | 0.00 |
 | [Ban wearing face coverings in public places.](300471.md) | 16,983 | 16,869 | 114 | 0 | 99.33 | 0.67 | 0.00 |
 | [Give the British Nationals (Overseas) of Hong Kong full British citizenship.](300091.md) | 16,082 | 6,510 | 9,572 | 0 | 40.48 | 59.52 | 0.00 |
@@ -57,4 +57,4 @@ Last refreshed 2020-09-17 10:00:22
 | [Support British Food Producers by ensuring that marks of origin remain](300353.md) | 14,142 | 14,030 | 112 | 0 | 99.21 | 0.79 | 0.00 |
 | [Give holiday caravan/lodge owners the same statutory protection as mobile homes.](300007.md) | 13,478 | 13,441 | 37 | 0 | 99.73 | 0.27 | 0.00 |
 | [Abolish the mandatory 0.7% GDP Foreign Aid target and spend our money at home](300662.md) | 12,723 | 12,525 | 198 | 0 | 98.44 | 1.56 | 0.00 |
-| [Stop Forestry England granting licenses for Fox & Hare hunts](300634.md) | 11,947 | 11,740 | 207 | 0 | 98.27 | 1.73 | 0.00 |
+| [Stop Forestry England granting licenses for Fox & Hare hunts](300634.md) | 11,948 | 11,741 | 207 | 0 | 98.27 | 1.73 | 0.00 |
