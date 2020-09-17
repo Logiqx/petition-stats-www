@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-17 16:00:27
+Last refreshed 2020-09-17 17:00:24
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -57,4 +57,4 @@ Last refreshed 2020-09-17 16:00:27
 | [Support British Food Producers by ensuring that marks of origin remain](300353.md) | 14,142 | 14,030 | 112 | 0 | 99.21 | 0.79 | 0.00 |
 | [Give holiday caravan/lodge owners the same statutory protection as mobile homes.](300007.md) | 13,478 | 13,441 | 37 | 0 | 99.73 | 0.27 | 0.00 |
 | [Abolish the mandatory 0.7% GDP Foreign Aid target and spend our money at home](300662.md) | 12,723 | 12,525 | 198 | 0 | 98.44 | 1.56 | 0.00 |
-| [Stop Forestry England granting licenses for Fox & Hare hunts](300634.md) | 11,948 | 11,741 | 207 | 0 | 98.27 | 1.73 | 0.00 |
+| [Stop Forestry England granting licenses for Fox & Hare hunts](300634.md) | 11,949 | 11,742 | 207 | 0 | 98.27 | 1.73 | 0.00 |
