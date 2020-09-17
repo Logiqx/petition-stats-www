@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-17 12:00:29
+Last refreshed 2020-09-17 13:00:25
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -42,7 +42,7 @@ Last refreshed 2020-09-17 12:00:29
 | [Repeal the 2013 and 2017 HS2 Hybrid Bills halting all HS2 works immediately.](300170.md) | 24,590 | 24,395 | 195 | 0 | 99.21 | 0.79 | 0.00 |
 | [Change the Sexual Offences Act so women can be charged with rape against males](300270.md) | 24,426 | 24,253 | 173 | 0 | 99.29 | 0.71 | 0.00 |
 | [Hold a public inquiry into the 2016 EU membership referendum](300473.md) | 23,601 | 22,323 | 1,278 | 0 | 94.58 | 5.42 | 0.00 |
-| [Give financial help to agency and zero hour workers during COVID-19 outbreak.](301328.md) | 21,514 | 21,464 | 50 | 0 | 99.77 | 0.23 | 0.00 |
+| [Give financial help to agency and zero hour workers during COVID-19 outbreak.](301328.md) | 21,515 | 21,465 | 50 | 0 | 99.77 | 0.23 | 0.00 |
 | [Ban non-stun slaughter in the UK. ](300257.md) | 20,853 | 20,530 | 323 | 0 | 98.45 | 1.55 | 0.00 |
 | [Pay Carers an allowance equivalent to a fulltime job at the National Living wage](300032.md) | 20,608 | 20,504 | 104 | 0 | 99.50 | 0.50 | 0.00 |
 | [Fund Kuvan (sapropterin) on the NHS for people with PKU](300034.md) | 19,760 | 19,592 | 168 | 0 | 99.15 | 0.85 | 0.00 |
