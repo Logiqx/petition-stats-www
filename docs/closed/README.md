@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-18 22:00:23
+Last refreshed 2020-09-18 23:00:23
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -30,6 +30,7 @@ Last refreshed 2020-09-18 22:00:23
 | [Revoke the TV licence using legislation](300118.md) | 110,836 | 109,799 | 1,037 | 0 | 99.06 | 0.94 | 0.00 |
 | [Fund research for childhood cancers with the worst survival rates](300027.md) | 109,176 | 108,376 | 800 | 0 | 99.27 | 0.73 | 0.00 |
 | [Extend the transition; delay negotiations until after the coronavirus outbreak](300412.md) | 107,436 | 102,028 | 5,408 | 0 | 94.97 | 5.03 | 0.00 |
+| [Give UK nurseries emergency funding if they have to close down amid COVID-19](301836.md) | 106,128 | 105,887 | 241 | 0 | 99.77 | 0.23 | 0.00 |
 | [Publish the Russia report](300059.md) | 105,309 | 101,897 | 3,412 | 0 | 96.76 | 3.24 | 0.00 |
 | [No prosecution for parents that remove child from school during a pandemic.](300399.md) | 100,649 | 100,385 | 264 | 0 | 99.74 | 0.26 | 0.00 |
 | [Make Hedgehogs a Protected Species](300100.md) | 56,087 | 55,480 | 607 | 0 | 98.92 | 1.08 | 0.00 |
@@ -37,6 +38,7 @@ Last refreshed 2020-09-18 22:00:23
 | [Rejoin the EU under Article 49 TEU](300297.md) | 46,765 | 44,134 | 2,631 | 0 | 94.37 | 5.63 | 0.00 |
 | [Extend the Gambling Act to cover Loot Boxes](300171.md) | 46,627 | 45,386 | 1,241 | 0 | 97.34 | 2.66 | 0.00 |
 | [Highway Code Rules 163 and 215 to be made law. Pass horses wide and slow. ](300122.md) | 42,396 | 42,122 | 274 | 0 | 99.35 | 0.65 | 0.00 |
+| [Revoke the Health and Social Care Act 2012 and renationalise the NHS](300019.md) | 30,844 | 30,389 | 455 | 0 | 98.52 | 1.48 | 0.00 |
 | [Add gender identity to the characteristics protected under the Equality Act 2010](301138.md) | 29,486 | 29,285 | 201 | 0 | 99.32 | 0.68 | 0.00 |
 | [Require British Sign Language Interpreters for emergency announcements on TV.](301461.md) | 26,305 | 26,085 | 220 | 0 | 99.16 | 0.84 | 0.00 |
 | [Grant cats the same status under the Road Traffic Act 1988 as dogs](300310.md) | 25,129 | 24,967 | 162 | 0 | 99.36 | 0.64 | 0.00 |
@@ -51,10 +53,8 @@ Last refreshed 2020-09-18 22:00:23
 | [Introduce Voter ID in every UK constituency for all Local & General Elections](301120.md) | 17,370 | 17,164 | 206 | 0 | 98.81 | 1.19 | 0.00 |
 | [Legal rights for ancient trees](300050.md) | 17,011 | 16,818 | 193 | 0 | 98.87 | 1.13 | 0.00 |
 | [Ban wearing face coverings in public places.](300471.md) | 16,983 | 16,869 | 114 | 0 | 99.33 | 0.67 | 0.00 |
+| [Reduce or scrap the immigration health surcharge for overseas NHS Staff.](301948.md) | 16,347 | 16,014 | 333 | 0 | 97.96 | 2.04 | 0.00 |
 | [Give the British Nationals (Overseas) of Hong Kong full British citizenship.](300091.md) | 16,082 | 6,510 | 9,572 | 0 | 40.48 | 59.52 | 0.00 |
 | [Close down all UK airports & seaports to prevent further spreading of Covid-19.](300932.md) | 15,695 | 15,609 | 86 | 0 | 99.45 | 0.55 | 0.00 |
 | [Make cannabis legal for recreational use for ages 21+](300201.md) | 15,680 | 15,601 | 79 | 0 | 99.50 | 0.50 | 0.00 |
 | [Suspend sanctions against Iran for the duration of the coronavirus pandemic](300109.md) | 14,400 | 13,842 | 558 | 0 | 96.12 | 3.88 | 0.00 |
-| [Support British Food Producers by ensuring that marks of origin remain](300353.md) | 14,142 | 14,030 | 112 | 0 | 99.21 | 0.79 | 0.00 |
-| [Give holiday caravan/lodge owners the same statutory protection as mobile homes.](300007.md) | 13,478 | 13,441 | 37 | 0 | 99.73 | 0.27 | 0.00 |
-| [Abolish the mandatory 0.7% GDP Foreign Aid target and spend our money at home](300662.md) | 12,723 | 12,525 | 198 | 0 | 98.44 | 1.56 | 0.00 |
