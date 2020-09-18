@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-18 10:00:23
+Last refreshed 2020-09-18 11:00:23
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -38,7 +38,7 @@ Last refreshed 2020-09-18 10:00:23
 | [Extend the Gambling Act to cover Loot Boxes](300171.md) | 46,627 | 45,386 | 1,241 | 0 | 97.34 | 2.66 | 0.00 |
 | [Highway Code Rules 163 and 215 to be made law. Pass horses wide and slow. ](300122.md) | 42,396 | 42,122 | 274 | 0 | 99.35 | 0.65 | 0.00 |
 | [Add gender identity to the characteristics protected under the Equality Act 2010](301138.md) | 29,486 | 29,285 | 201 | 0 | 99.32 | 0.68 | 0.00 |
-| [Require British Sign Language Interpreters for emergency announcements on TV.](301461.md) | 26,303 | 26,083 | 220 | 0 | 99.16 | 0.84 | 0.00 |
+| [Require British Sign Language Interpreters for emergency announcements on TV.](301461.md) | 26,304 | 26,084 | 220 | 0 | 99.16 | 0.84 | 0.00 |
 | [Grant cats the same status under the Road Traffic Act 1988 as dogs](300310.md) | 25,129 | 24,967 | 162 | 0 | 99.36 | 0.64 | 0.00 |
 | [Repeal the 2013 and 2017 HS2 Hybrid Bills halting all HS2 works immediately.](300170.md) | 24,590 | 24,395 | 195 | 0 | 99.21 | 0.79 | 0.00 |
 | [Change the Sexual Offences Act so women can be charged with rape against males](300270.md) | 24,426 | 24,253 | 173 | 0 | 99.29 | 0.71 | 0.00 |
