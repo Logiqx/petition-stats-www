@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-19 22:00:20
+Last refreshed 2020-09-19 23:00:20
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -21,6 +21,7 @@ Last refreshed 2020-09-19 22:00:20
 | [Don’t criminalise trespass](300139.md) | 134,927 | 133,241 | 1,686 | 0 | 98.75 | 1.25 | 0.00 |
 | [Release the Home Office's Grooming Gang Review in full](300239.md) | 131,625 | 128,711 | 2,914 | 0 | 97.79 | 2.21 | 0.00 |
 | [Introduce Mandatory Ethnicity Pay Gap Reporting](300105.md) | 130,567 | 129,644 | 923 | 0 | 99.29 | 0.71 | 0.00 |
+| [Encourage lenders, landlords and utilities to freeze payments during lockdown](302256.md) | 126,933 | 126,592 | 341 | 0 | 99.73 | 0.27 | 0.00 |
 | [Close all universities down for an appropriate amount of time amidst COVID-19](300628.md) | 123,903 | 123,123 | 780 | 0 | 99.37 | 0.63 | 0.00 |
 | [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 121,162 | 119,592 | 1,570 | 0 | 98.70 | 1.30 | 0.00 |
 | [Replace Breed Specific Legislation with a new statutory framework](300561.md) | 118,638 | 117,309 | 1,329 | 0 | 98.88 | 1.12 | 0.00 |
@@ -33,6 +34,7 @@ Last refreshed 2020-09-19 22:00:20
 | [Give UK nurseries emergency funding if they have to close down amid COVID-19](301836.md) | 106,128 | 105,887 | 241 | 0 | 99.77 | 0.23 | 0.00 |
 | [Publish the Russia report](300059.md) | 105,309 | 101,897 | 3,412 | 0 | 96.76 | 3.24 | 0.00 |
 | [No prosecution for parents that remove child from school during a pandemic.](300399.md) | 100,649 | 100,385 | 264 | 0 | 99.74 | 0.26 | 0.00 |
+| [Explore options for making NurOwn available to treat Motor Neurone Disease (MND)](301033.md) | 65,431 | 63,438 | 1,993 | 0 | 96.95 | 3.05 | 0.00 |
 | [Make Hedgehogs a Protected Species](300100.md) | 56,087 | 55,480 | 607 | 0 | 98.92 | 1.08 | 0.00 |
 | [Call for the UK government to formally recognise the State of Palestine](300450.md) | 52,624 | 51,571 | 1,053 | 0 | 98.00 | 2.00 | 0.00 |
 | [Rejoin the EU under Article 49 TEU](300297.md) | 46,765 | 44,134 | 2,631 | 0 | 94.37 | 5.63 | 0.00 |
@@ -50,11 +52,9 @@ Last refreshed 2020-09-19 22:00:20
 | [Pay Carers an allowance equivalent to a fulltime job at the National Living wage](300032.md) | 20,608 | 20,504 | 104 | 0 | 99.50 | 0.50 | 0.00 |
 | [Fund Kuvan (sapropterin) on the NHS for people with PKU](300034.md) | 19,760 | 19,592 | 168 | 0 | 99.15 | 0.85 | 0.00 |
 | [Introduce a minimum sentence for carrying a knife, equal to carrying a firearm.](300054.md) | 19,472 | 19,357 | 115 | 0 | 99.41 | 0.59 | 0.00 |
+| [Provide financial support to performers and creators during the COVID-19 crisis](301903.md) | 18,137 | 17,960 | 177 | 0 | 99.02 | 0.98 | 0.00 |
 | [Introduce Voter ID in every UK constituency for all Local & General Elections](301120.md) | 17,370 | 17,164 | 206 | 0 | 98.81 | 1.19 | 0.00 |
 | [Legal rights for ancient trees](300050.md) | 17,011 | 16,818 | 193 | 0 | 98.87 | 1.13 | 0.00 |
 | [Ban wearing face coverings in public places.](300471.md) | 16,983 | 16,869 | 114 | 0 | 99.33 | 0.67 | 0.00 |
 | [Reduce or scrap the immigration health surcharge for overseas NHS Staff.](301948.md) | 16,347 | 16,014 | 333 | 0 | 97.96 | 2.04 | 0.00 |
 | [Give the British Nationals (Overseas) of Hong Kong full British citizenship.](300091.md) | 16,082 | 6,510 | 9,572 | 0 | 40.48 | 59.52 | 0.00 |
-| [Close down all UK airports & seaports to prevent further spreading of Covid-19.](300932.md) | 15,695 | 15,609 | 86 | 0 | 99.45 | 0.55 | 0.00 |
-| [Make cannabis legal for recreational use for ages 21+](300201.md) | 15,680 | 15,601 | 79 | 0 | 99.50 | 0.50 | 0.00 |
-| [Suspend sanctions against Iran for the duration of the coronavirus pandemic](300109.md) | 14,400 | 13,842 | 558 | 0 | 96.12 | 3.88 | 0.00 |
