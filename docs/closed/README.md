@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-20 22:00:21
+Last refreshed 2020-09-20 23:00:21
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -33,6 +33,7 @@ Last refreshed 2020-09-20 22:00:21
 | [Extend the transition; delay negotiations until after the coronavirus outbreak](300412.md) | 107,436 | 102,028 | 5,408 | 0 | 94.97 | 5.03 | 0.00 |
 | [Give UK nurseries emergency funding if they have to close down amid COVID-19](301836.md) | 106,128 | 105,887 | 241 | 0 | 99.77 | 0.23 | 0.00 |
 | [Publish the Russia report](300059.md) | 105,309 | 101,897 | 3,412 | 0 | 96.76 | 3.24 | 0.00 |
+| [Support the British aviation industry during the COVID-19 outbreak](303081.md) | 103,040 | 101,619 | 1,421 | 0 | 98.62 | 1.38 | 0.00 |
 | [No prosecution for parents that remove child from school during a pandemic.](300399.md) | 100,649 | 100,385 | 264 | 0 | 99.74 | 0.26 | 0.00 |
 | [Explore options for making NurOwn available to treat Motor Neurone Disease (MND)](301033.md) | 65,431 | 63,438 | 1,993 | 0 | 96.95 | 3.05 | 0.00 |
 | [Make Hedgehogs a Protected Species](300100.md) | 56,087 | 55,480 | 607 | 0 | 98.92 | 1.08 | 0.00 |
@@ -57,4 +58,3 @@ Last refreshed 2020-09-20 22:00:21
 | [Legal rights for ancient trees](300050.md) | 17,011 | 16,818 | 193 | 0 | 98.87 | 1.13 | 0.00 |
 | [Ban wearing face coverings in public places.](300471.md) | 16,983 | 16,869 | 114 | 0 | 99.33 | 0.67 | 0.00 |
 | [Reduce or scrap the immigration health surcharge for overseas NHS Staff.](301948.md) | 16,347 | 16,014 | 333 | 0 | 97.96 | 2.04 | 0.00 |
-| [Give the British Nationals (Overseas) of Hong Kong full British citizenship.](300091.md) | 16,082 | 6,510 | 9,572 | 0 | 40.48 | 59.52 | 0.00 |
