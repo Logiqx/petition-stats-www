@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-21 09:00:26
+Last refreshed 2020-09-21 10:00:22
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -28,7 +28,7 @@ Last refreshed 2020-09-21 09:00:26
 | [The UK should ban the importation of Shark Fins.](300535.md) | 115,380 | 111,877 | 3,503 | 0 | 96.96 | 3.04 | 0.00 |
 | [Implement Universal Basic Income to give home & food security through Covid-19](302284.md) | 114,572 | 113,768 | 804 | 0 | 99.30 | 0.70 | 0.00 |
 | [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 112,224 | 111,339 | 885 | 0 | 99.21 | 0.79 | 0.00 |
-| [Revoke the TV licence using legislation](300118.md) | 110,836 | 109,799 | 1,037 | 0 | 99.06 | 0.94 | 0.00 |
+| [Revoke the TV licence using legislation](300118.md) | 110,837 | 109,800 | 1,037 | 0 | 99.06 | 0.94 | 0.00 |
 | [Fund research for childhood cancers with the worst survival rates](300027.md) | 109,176 | 108,376 | 800 | 0 | 99.27 | 0.73 | 0.00 |
 | [Extend the transition; delay negotiations until after the coronavirus outbreak](300412.md) | 107,436 | 102,028 | 5,408 | 0 | 94.97 | 5.03 | 0.00 |
 | [Give UK nurseries emergency funding if they have to close down amid COVID-19](301836.md) | 106,128 | 105,887 | 241 | 0 | 99.77 | 0.23 | 0.00 |
