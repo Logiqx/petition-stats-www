@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-24 22:00:22
+Last refreshed 2020-09-24 23:00:21
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -42,6 +42,7 @@ Last refreshed 2020-09-24 22:00:22
 | [Rejoin the EU under Article 49 TEU](300297.md) | 46,765 | 44,134 | 2,631 | 0 | 94.37 | 5.63 | 0.00 |
 | [Extend the Gambling Act to cover Loot Boxes](300171.md) | 46,627 | 45,386 | 1,241 | 0 | 97.34 | 2.66 | 0.00 |
 | [Pay self employed workers a wage due to lack of earnings caused by COVID-19.](303345.md) | 46,574 | 46,429 | 145 | 0 | 99.69 | 0.31 | 0.00 |
+| [We would like the government to consider social care as equally important to NHS](302897.md) | 44,982 | 44,828 | 154 | 0 | 99.66 | 0.34 | 0.00 |
 | [Highway Code Rules 163 and 215 to be made law. Pass horses wide and slow. ](300122.md) | 42,396 | 42,122 | 274 | 0 | 99.35 | 0.65 | 0.00 |
 | [Revoke the Health and Social Care Act 2012 and renationalise the NHS](300019.md) | 30,844 | 30,389 | 455 | 0 | 98.52 | 1.48 | 0.00 |
 | [Add gender identity to the characteristics protected under the Equality Act 2010](301138.md) | 29,486 | 29,285 | 201 | 0 | 99.32 | 0.68 | 0.00 |
@@ -49,12 +50,11 @@ Last refreshed 2020-09-24 22:00:22
 | [Grant cats the same status under the Road Traffic Act 1988 as dogs](300310.md) | 25,129 | 24,967 | 162 | 0 | 99.36 | 0.64 | 0.00 |
 | [Repeal the 2013 and 2017 HS2 Hybrid Bills halting all HS2 works immediately.](300170.md) | 24,590 | 24,395 | 195 | 0 | 99.21 | 0.79 | 0.00 |
 | [Change the Sexual Offences Act so women can be charged with rape against males](300270.md) | 24,426 | 24,253 | 173 | 0 | 99.29 | 0.71 | 0.00 |
+| [Create an earned amnesty route for migrants without leave to remain](301696.md) | 24,242 | 24,106 | 136 | 0 | 99.44 | 0.56 | 0.00 |
 | [Hold a public inquiry into the 2016 EU membership referendum](300473.md) | 23,601 | 22,323 | 1,278 | 0 | 94.58 | 5.42 | 0.00 |
+| [Hold a Public Inquiry into the handling of the Covid-19 crisis](302576.md) | 22,574 | 22,216 | 358 | 0 | 98.41 | 1.59 | 0.00 |
 | [Give financial help to agency and zero hour workers during COVID-19 outbreak.](301328.md) | 21,515 | 21,465 | 50 | 0 | 99.77 | 0.23 | 0.00 |
 | [Ban non-stun slaughter in the UK. ](300257.md) | 20,853 | 20,530 | 323 | 0 | 98.45 | 1.55 | 0.00 |
 | [Pay Carers an allowance equivalent to a fulltime job at the National Living wage](300032.md) | 20,608 | 20,504 | 104 | 0 | 99.50 | 0.50 | 0.00 |
 | [Fund Kuvan (sapropterin) on the NHS for people with PKU](300034.md) | 19,760 | 19,592 | 168 | 0 | 99.15 | 0.85 | 0.00 |
 | [Introduce a minimum sentence for carrying a knife, equal to carrying a firearm.](300054.md) | 19,472 | 19,357 | 115 | 0 | 99.41 | 0.59 | 0.00 |
-| [Provide financial support to performers and creators during the COVID-19 crisis](301903.md) | 18,137 | 17,960 | 177 | 0 | 99.02 | 0.98 | 0.00 |
-| [Introduce Voter ID in every UK constituency for all Local & General Elections](301120.md) | 17,370 | 17,164 | 206 | 0 | 98.81 | 1.19 | 0.00 |
-| [Legal rights for ancient trees](300050.md) | 17,011 | 16,818 | 193 | 0 | 98.87 | 1.13 | 0.00 |
