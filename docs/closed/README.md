@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-25 18:00:23
+Last refreshed 2020-09-25 19:00:21
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -52,7 +52,7 @@ Last refreshed 2020-09-25 18:00:23
 | [Change the Sexual Offences Act so women can be charged with rape against males](300270.md) | 24,426 | 24,253 | 173 | 0 | 99.29 | 0.71 | 0.00 |
 | [Create an earned amnesty route for migrants without leave to remain](301696.md) | 24,242 | 24,106 | 136 | 0 | 99.44 | 0.56 | 0.00 |
 | [Hold a public inquiry into the 2016 EU membership referendum](300473.md) | 23,601 | 22,323 | 1,278 | 0 | 94.58 | 5.42 | 0.00 |
-| [Hold a Public Inquiry into the handling of the Covid-19 crisis](302576.md) | 22,574 | 22,216 | 358 | 0 | 98.41 | 1.59 | 0.00 |
+| [Hold a Public Inquiry into the handling of the Covid-19 crisis](302576.md) | 22,575 | 22,217 | 358 | 0 | 98.41 | 1.59 | 0.00 |
 | [Give financial help to agency and zero hour workers during COVID-19 outbreak.](301328.md) | 21,515 | 21,465 | 50 | 0 | 99.77 | 0.23 | 0.00 |
 | [Ban non-stun slaughter in the UK. ](300257.md) | 20,853 | 20,530 | 323 | 0 | 98.45 | 1.55 | 0.00 |
 | [Pay Carers an allowance equivalent to a fulltime job at the National Living wage](300032.md) | 20,608 | 20,504 | 104 | 0 | 99.50 | 0.50 | 0.00 |
