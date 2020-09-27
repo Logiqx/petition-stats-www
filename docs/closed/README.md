@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-09-27 19:00:22
+Last refreshed 2020-09-27 20:00:20
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -31,7 +31,7 @@ Last refreshed 2020-09-27 19:00:22
 | [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 112,224 | 111,339 | 885 | 0 | 99.21 | 0.79 | 0.00 |
 | [Revoke the TV licence using legislation](300118.md) | 110,837 | 109,800 | 1,037 | 0 | 99.06 | 0.94 | 0.00 |
 | [Fund research for childhood cancers with the worst survival rates](300027.md) | 109,176 | 108,376 | 800 | 0 | 99.27 | 0.73 | 0.00 |
-| [Require councils to suspend council tax payments during the coronavirus outbreak](303274.md) | 107,594 | 107,461 | 133 | 0 | 99.88 | 0.12 | 0.00 |
+| [Require councils to suspend council tax payments during the coronavirus outbreak](303274.md) | 107,595 | 107,462 | 133 | 0 | 99.88 | 0.12 | 0.00 |
 | [Extend the transition; delay negotiations until after the coronavirus outbreak](300412.md) | 107,436 | 102,028 | 5,408 | 0 | 94.97 | 5.03 | 0.00 |
 | [Give UK nurseries emergency funding if they have to close down amid COVID-19](301836.md) | 106,128 | 105,887 | 241 | 0 | 99.77 | 0.23 | 0.00 |
 | [Publish the Russia report](300059.md) | 105,309 | 101,897 | 3,412 | 0 | 96.76 | 3.24 | 0.00 |
