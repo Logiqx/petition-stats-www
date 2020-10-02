@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-10-02 09:00:23
+Last refreshed 2020-10-02 10:00:20
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -17,7 +17,7 @@ Last refreshed 2020-10-02 09:00:23
 | [Increase pay for NHS healthcare workers and recognise their work](300073.md) | 178,820 | 177,996 | 824 | 0 | 99.54 | 0.46 | 0.00 |
 | [Government to offer economic assistance to the events industry during COVID-19](301186.md) | 154,814 | 153,902 | 912 | 0 | 99.41 | 0.59 | 0.00 |
 | [Review the decision to use previous data to calculate exam grades](306773.md) | 148,880 | 147,630 | 1,250 | 0 | 99.16 | 0.84 | 0.00 |
-| [Give all key workers a 100% tax and Nat. Ins. holiday through COVID-19 crisis](306845.md) | 146,350 | 146,073 | 277 | 0 | 99.81 | 0.19 | 0.00 |
+| [Give all key workers a 100% tax and Nat. Ins. holiday through COVID-19 crisis](306845.md) | 146,351 | 146,074 | 277 | 0 | 99.81 | 0.19 | 0.00 |
 | [Impose sanctions on China over its treatment of Uyghur Muslims](300146.md) | 146,344 | 139,771 | 6,573 | 0 | 95.51 | 4.49 | 0.00 |
 | [Make pet theft crime a specific offence with custodial sentences.](300071.md) | 143,633 | 142,223 | 1,410 | 0 | 99.02 | 0.98 | 0.00 |
 | [Require universities to reimburse students' tuition fees during strike action](300528.md) | 136,749 | 136,429 | 320 | 0 | 99.77 | 0.23 | 0.00 |
