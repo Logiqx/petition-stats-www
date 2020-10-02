@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-10-02 10:00:20
+Last refreshed 2020-10-02 11:00:20
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -42,7 +42,7 @@ Last refreshed 2020-10-02 10:00:20
 | [Explore options for making NurOwn available to treat Motor Neurone Disease (MND)](301033.md) | 65,432 | 63,439 | 1,993 | 0 | 96.95 | 3.05 | 0.00 |
 | [Make Hedgehogs a Protected Species](300100.md) | 56,087 | 55,480 | 607 | 0 | 98.92 | 1.08 | 0.00 |
 | [Call for the UK government to formally recognise the State of Palestine](300450.md) | 52,624 | 51,571 | 1,053 | 0 | 98.00 | 2.00 | 0.00 |
-| [Release HMP Prisoners due to COVID-19 - temporary release, licence, tag, curfew](305604.md) | 49,568 | 49,330 | 238 | 0 | 99.52 | 0.48 | 0.00 |
+| [Release HMP Prisoners due to COVID-19 - temporary release, licence, tag, curfew](305604.md) | 49,569 | 49,331 | 238 | 0 | 99.52 | 0.48 | 0.00 |
 | [Rejoin the EU under Article 49 TEU](300297.md) | 46,765 | 44,134 | 2,631 | 0 | 94.37 | 5.63 | 0.00 |
 | [Extend the Gambling Act to cover Loot Boxes](300171.md) | 46,627 | 45,386 | 1,241 | 0 | 97.34 | 2.66 | 0.00 |
 | [Pay self employed workers a wage due to lack of earnings caused by COVID-19.](303345.md) | 46,574 | 46,429 | 145 | 0 | 99.69 | 0.31 | 0.00 |
