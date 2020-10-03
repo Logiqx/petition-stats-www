@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-10-03 22:00:19
+Last refreshed 2020-10-03 23:00:19
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -38,6 +38,7 @@ Last refreshed 2020-10-03 22:00:19
 | [Give UK nurseries emergency funding if they have to close down amid COVID-19](301836.md) | 106,128 | 105,887 | 241 | 0 | 99.77 | 0.23 | 0.00 |
 | [Publish the Russia report](300059.md) | 105,309 | 101,897 | 3,412 | 0 | 96.76 | 3.24 | 0.00 |
 | [Support the British aviation industry during the COVID-19 outbreak](303081.md) | 103,040 | 101,619 | 1,421 | 0 | 98.62 | 1.38 | 0.00 |
+| [Coronavirus Support Package for Directors / Shareholders of small Limited Co's.](310515.md) | 101,092 | 100,628 | 464 | 0 | 99.54 | 0.46 | 0.00 |
 | [No prosecution for parents that remove child from school during a pandemic.](300399.md) | 100,649 | 100,385 | 264 | 0 | 99.74 | 0.26 | 0.00 |
 | [Explore options for making NurOwn available to treat Motor Neurone Disease (MND)](301033.md) | 65,432 | 63,439 | 1,993 | 0 | 96.95 | 3.05 | 0.00 |
 | [Make Hedgehogs a Protected Species](300100.md) | 56,087 | 55,480 | 607 | 0 | 98.92 | 1.08 | 0.00 |
@@ -57,4 +58,3 @@ Last refreshed 2020-10-03 22:00:19
 | [Create an earned amnesty route for migrants without leave to remain](301696.md) | 24,242 | 24,106 | 136 | 0 | 99.44 | 0.56 | 0.00 |
 | [Hold a public inquiry into the 2016 EU membership referendum](300473.md) | 23,601 | 22,323 | 1,278 | 0 | 94.58 | 5.42 | 0.00 |
 | [Hold a Public Inquiry into the handling of the Covid-19 crisis](302576.md) | 22,575 | 22,217 | 358 | 0 | 98.41 | 1.59 | 0.00 |
-| [Give financial help to agency and zero hour workers during COVID-19 outbreak.](301328.md) | 21,515 | 21,465 | 50 | 0 | 99.77 | 0.23 | 0.00 |
