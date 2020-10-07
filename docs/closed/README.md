@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-10-07 22:00:20
+Last refreshed 2020-10-07 23:00:22
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -31,6 +31,7 @@ Last refreshed 2020-10-07 22:00:20
 | [The UK should ban the importation of Shark Fins.](300535.md) | 115,380 | 111,877 | 3,503 | 0 | 96.96 | 3.04 | 0.00 |
 | [Implement Universal Basic Income to give home & food security through Covid-19](302284.md) | 114,572 | 113,768 | 804 | 0 | 99.30 | 0.70 | 0.00 |
 | [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 112,224 | 111,339 | 885 | 0 | 99.21 | 0.79 | 0.00 |
+| [Refund university students for 3rd Semester Tuition 2020](306494.md) | 111,498 | 111,133 | 365 | 0 | 99.67 | 0.33 | 0.00 |
 | [Revoke the TV licence using legislation](300118.md) | 110,837 | 109,800 | 1,037 | 0 | 99.06 | 0.94 | 0.00 |
 | [Fund research for childhood cancers with the worst survival rates](300027.md) | 109,176 | 108,376 | 800 | 0 | 99.27 | 0.73 | 0.00 |
 | [Require councils to suspend council tax payments during the coronavirus outbreak](303274.md) | 107,595 | 107,462 | 133 | 0 | 99.88 | 0.12 | 0.00 |
@@ -40,6 +41,7 @@ Last refreshed 2020-10-07 22:00:20
 | [Support the British aviation industry during the COVID-19 outbreak](303081.md) | 103,040 | 101,619 | 1,421 | 0 | 98.62 | 1.38 | 0.00 |
 | [Coronavirus Support Package for Directors / Shareholders of small Limited Co's.](310515.md) | 101,093 | 100,629 | 464 | 0 | 99.54 | 0.46 | 0.00 |
 | [No prosecution for parents that remove child from school during a pandemic.](300399.md) | 100,649 | 100,385 | 264 | 0 | 99.74 | 0.26 | 0.00 |
+| [Give non-British citizens who are NHS workers automatic citizenship](305129.md) | 72,623 | 71,656 | 967 | 0 | 98.67 | 1.33 | 0.00 |
 | [Explore options for making NurOwn available to treat Motor Neurone Disease (MND)](301033.md) | 65,432 | 63,439 | 1,993 | 0 | 96.95 | 3.05 | 0.00 |
 | [Make Hedgehogs a Protected Species](300100.md) | 56,087 | 55,480 | 607 | 0 | 98.92 | 1.08 | 0.00 |
 | [Call for the UK government to formally recognise the State of Palestine](300450.md) | 52,624 | 51,571 | 1,053 | 0 | 98.00 | 2.00 | 0.00 |
@@ -56,5 +58,3 @@ Last refreshed 2020-10-07 22:00:20
 | [Repeal the 2013 and 2017 HS2 Hybrid Bills halting all HS2 works immediately.](300170.md) | 24,590 | 24,395 | 195 | 0 | 99.21 | 0.79 | 0.00 |
 | [Change the Sexual Offences Act so women can be charged with rape against males](300270.md) | 24,426 | 24,253 | 173 | 0 | 99.29 | 0.71 | 0.00 |
 | [Create an earned amnesty route for migrants without leave to remain](301696.md) | 24,242 | 24,106 | 136 | 0 | 99.44 | 0.56 | 0.00 |
-| [Hold a public inquiry into the 2016 EU membership referendum](300473.md) | 23,601 | 22,323 | 1,278 | 0 | 94.58 | 5.42 | 0.00 |
-| [Hold a Public Inquiry into the handling of the Covid-19 crisis](302576.md) | 22,575 | 22,217 | 358 | 0 | 98.41 | 1.59 | 0.00 |
