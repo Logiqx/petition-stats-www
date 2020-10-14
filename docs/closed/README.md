@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-10-14 22:00:23
+Last refreshed 2020-10-14 23:00:22
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -54,7 +54,7 @@ Last refreshed 2020-10-14 22:00:23
 | [Make COVID19 testing available to teaching staff caring for pupils.](305423.md) | 35,789 | 35,682 | 107 | 0 | 99.70 | 0.30 | 0.00 |
 | [Revoke the Health and Social Care Act 2012 and renationalise the NHS](300019.md) | 30,844 | 30,389 | 455 | 0 | 98.52 | 1.48 | 0.00 |
 | [Add gender identity to the characteristics protected under the Equality Act 2010](301138.md) | 29,486 | 29,285 | 201 | 0 | 99.32 | 0.68 | 0.00 |
+| [Cut beer duty for at least 12 months, so pubs can survive after the covid virus.](306054.md) | 28,220 | 28,056 | 164 | 0 | 99.42 | 0.58 | 0.00 |
 | [Require British Sign Language Interpreters for emergency announcements on TV.](301461.md) | 26,305 | 26,085 | 220 | 0 | 99.16 | 0.84 | 0.00 |
 | [Extend grants immediately to small businesses outside of SBRR](305024.md) | 26,106 | 26,006 | 100 | 0 | 99.62 | 0.38 | 0.00 |
 | [Grant cats the same status under the Road Traffic Act 1988 as dogs](300310.md) | 25,129 | 24,967 | 162 | 0 | 99.36 | 0.64 | 0.00 |
-| [Repeal the 2013 and 2017 HS2 Hybrid Bills halting all HS2 works immediately.](300170.md) | 24,591 | 24,396 | 195 | 0 | 99.21 | 0.79 | 0.00 |
