@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-10-16 11:00:23
+Last refreshed 2020-10-16 12:00:25
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -16,7 +16,7 @@ Last refreshed 2020-10-16 11:00:23
 | [Improve Maternal Mortality Rates and Health Care for Black Women in the U.K.](301079.md) | 187,519 | 185,952 | 1,567 | 0 | 99.16 | 0.84 | 0.00 |
 | [Increase pay for NHS healthcare workers and recognise their work](300073.md) | 178,820 | 177,996 | 824 | 0 | 99.54 | 0.46 | 0.00 |
 | [Government to offer economic assistance to the events industry during COVID-19](301186.md) | 154,814 | 153,902 | 912 | 0 | 99.41 | 0.59 | 0.00 |
-| [Review the decision to use previous data to calculate exam grades](306773.md) | 148,881 | 147,631 | 1,250 | 0 | 99.16 | 0.84 | 0.00 |
+| [Review the decision to use previous data to calculate exam grades](306773.md) | 148,882 | 147,632 | 1,250 | 0 | 99.16 | 0.84 | 0.00 |
 | [Give all key workers a 100% tax and Nat. Ins. holiday through COVID-19 crisis](306845.md) | 146,351 | 146,074 | 277 | 0 | 99.81 | 0.19 | 0.00 |
 | [Impose sanctions on China over its treatment of Uyghur Muslims](300146.md) | 146,344 | 139,771 | 6,573 | 0 | 95.51 | 4.49 | 0.00 |
 | [Make pet theft crime a specific offence with custodial sentences.](300071.md) | 143,634 | 142,224 | 1,410 | 0 | 99.02 | 0.98 | 0.00 |
