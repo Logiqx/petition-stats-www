@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-10-20 22:00:23
+Last refreshed 2020-10-20 23:00:25
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -13,6 +13,7 @@ Last refreshed 2020-10-20 22:00:23
 | [Implement UK lockdown for preventing spread of COVID19](301397.md) | 409,472 | 406,896 | 2,576 | 0 | 99.37 | 0.63 | 0.00 |
 | [Reimburse all students of this year’s fees due to strikes and COVID-19](302855.md) | 353,129 | 351,855 | 1,274 | 0 | 99.64 | 0.36 | 0.00 |
 | [Make LGBT conversion therapy illegal in the UK](300976.md) | 256,390 | 253,564 | 2,826 | 0 | 98.90 | 1.10 | 0.00 |
+| [Extend maternity leave by 3 months with pay in light of COVID-19](306691.md) | 238,883 | 238,438 | 445 | 0 | 99.81 | 0.19 | 0.00 |
 | [Improve Maternal Mortality Rates and Health Care for Black Women in the U.K.](301079.md) | 187,519 | 185,952 | 1,567 | 0 | 99.16 | 0.84 | 0.00 |
 | [Increase pay for NHS healthcare workers and recognise their work](300073.md) | 178,820 | 177,996 | 824 | 0 | 99.54 | 0.46 | 0.00 |
 | [Government to offer economic assistance to the events industry during COVID-19](301186.md) | 154,814 | 153,902 | 912 | 0 | 99.41 | 0.59 | 0.00 |
@@ -44,6 +45,7 @@ Last refreshed 2020-10-20 22:00:23
 | [Give non-British citizens who are NHS workers automatic citizenship](305129.md) | 72,624 | 71,657 | 967 | 0 | 98.67 | 1.33 | 0.00 |
 | [Explore options for making NurOwn available to treat Motor Neurone Disease (MND)](301033.md) | 65,432 | 63,439 | 1,993 | 0 | 96.95 | 3.05 | 0.00 |
 | [Make Hedgehogs a Protected Species](300100.md) | 56,088 | 55,481 | 607 | 0 | 98.92 | 1.08 | 0.00 |
+| [Delay 5G in the UK until there’s been an independent investigation](312997.md) | 55,845 | 55,224 | 621 | 0 | 98.89 | 1.11 | 0.00 |
 | [Call for the UK government to formally recognise the State of Palestine](300450.md) | 52,624 | 51,571 | 1,053 | 0 | 98.00 | 2.00 | 0.00 |
 | [Release HMP Prisoners due to COVID-19 - temporary release, licence, tag, curfew](305604.md) | 49,569 | 49,331 | 238 | 0 | 99.52 | 0.48 | 0.00 |
 | [Rejoin the EU under Article 49 TEU](300297.md) | 46,765 | 44,134 | 2,631 | 0 | 94.37 | 5.63 | 0.00 |
@@ -56,5 +58,3 @@ Last refreshed 2020-10-20 22:00:23
 | [Add gender identity to the characteristics protected under the Equality Act 2010](301138.md) | 29,486 | 29,285 | 201 | 0 | 99.32 | 0.68 | 0.00 |
 | [Cut beer duty for at least 12 months, so pubs can survive after the covid virus.](306054.md) | 28,220 | 28,056 | 164 | 0 | 99.42 | 0.58 | 0.00 |
 | [Require British Sign Language Interpreters for emergency announcements on TV.](301461.md) | 26,305 | 26,085 | 220 | 0 | 99.16 | 0.84 | 0.00 |
-| [Extend grants immediately to small businesses outside of SBRR](305024.md) | 26,106 | 26,006 | 100 | 0 | 99.62 | 0.38 | 0.00 |
-| [Grant cats the same status under the Road Traffic Act 1988 as dogs](300310.md) | 25,129 | 24,967 | 162 | 0 | 99.36 | 0.64 | 0.00 |
