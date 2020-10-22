@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-10-22 22:00:22
+Last refreshed 2020-10-22 23:00:23
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -22,6 +22,7 @@ Last refreshed 2020-10-22 22:00:22
 | [Impose sanctions on China over its treatment of Uyghur Muslims](300146.md) | 146,344 | 139,771 | 6,573 | 0 | 95.51 | 4.49 | 0.00 |
 | [Make pet theft crime a specific offence with custodial sentences.](300071.md) | 143,634 | 142,224 | 1,410 | 0 | 99.02 | 0.98 | 0.00 |
 | [Require universities to reimburse students' tuition fees during strike action](300528.md) | 136,749 | 136,429 | 320 | 0 | 99.77 | 0.23 | 0.00 |
+| [Allow gyms and leisure centres to reopen](307146.md) | 136,160 | 135,998 | 162 | 0 | 99.88 | 0.12 | 0.00 |
 | [Don’t criminalise trespass](300139.md) | 134,928 | 133,242 | 1,686 | 0 | 98.75 | 1.25 | 0.00 |
 | [Release the Home Office's Grooming Gang Review in full](300239.md) | 131,625 | 128,711 | 2,914 | 0 | 97.79 | 2.21 | 0.00 |
 | [Introduce Mandatory Ethnicity Pay Gap Reporting](300105.md) | 130,567 | 129,644 | 923 | 0 | 99.29 | 0.71 | 0.00 |
@@ -57,4 +58,3 @@ Last refreshed 2020-10-22 22:00:22
 | [Revoke the Health and Social Care Act 2012 and renationalise the NHS](300019.md) | 30,844 | 30,389 | 455 | 0 | 98.52 | 1.48 | 0.00 |
 | [Add gender identity to the characteristics protected under the Equality Act 2010](301138.md) | 29,486 | 29,285 | 201 | 0 | 99.32 | 0.68 | 0.00 |
 | [Cut beer duty for at least 12 months, so pubs can survive after the covid virus.](306054.md) | 28,220 | 28,056 | 164 | 0 | 99.42 | 0.58 | 0.00 |
-| [Require British Sign Language Interpreters for emergency announcements on TV.](301461.md) | 26,305 | 26,085 | 220 | 0 | 99.16 | 0.84 | 0.00 |
