@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-10-23 06:00:23
+Last refreshed 2020-10-23 07:00:23
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -22,7 +22,7 @@ Last refreshed 2020-10-23 06:00:23
 | [Impose sanctions on China over its treatment of Uyghur Muslims](300146.md) | 146,344 | 139,771 | 6,573 | 0 | 95.51 | 4.49 | 0.00 |
 | [Make pet theft crime a specific offence with custodial sentences.](300071.md) | 143,634 | 142,224 | 1,410 | 0 | 99.02 | 0.98 | 0.00 |
 | [Require universities to reimburse students' tuition fees during strike action](300528.md) | 136,749 | 136,429 | 320 | 0 | 99.77 | 0.23 | 0.00 |
-| [Allow gyms and leisure centres to reopen](307146.md) | 136,160 | 135,998 | 162 | 0 | 99.88 | 0.12 | 0.00 |
+| [Allow gyms and leisure centres to reopen](307146.md) | 136,161 | 135,999 | 162 | 0 | 99.88 | 0.12 | 0.00 |
 | [Don’t criminalise trespass](300139.md) | 134,928 | 133,242 | 1,686 | 0 | 98.75 | 1.25 | 0.00 |
 | [Release the Home Office's Grooming Gang Review in full](300239.md) | 131,625 | 128,711 | 2,914 | 0 | 97.79 | 2.21 | 0.00 |
 | [Introduce Mandatory Ethnicity Pay Gap Reporting](300105.md) | 130,567 | 129,644 | 923 | 0 | 99.29 | 0.71 | 0.00 |
