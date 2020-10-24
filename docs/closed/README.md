@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-10-24 22:00:24
+Last refreshed 2020-10-24 23:00:23
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -45,6 +45,7 @@ Last refreshed 2020-10-24 22:00:24
 | [No prosecution for parents that remove child from school during a pandemic.](300399.md) | 100,649 | 100,385 | 264 | 0 | 99.74 | 0.26 | 0.00 |
 | [Give non-British citizens who are NHS workers automatic citizenship](305129.md) | 72,624 | 71,657 | 967 | 0 | 98.67 | 1.33 | 0.00 |
 | [Explore options for making NurOwn available to treat Motor Neurone Disease (MND)](301033.md) | 65,432 | 63,439 | 1,993 | 0 | 96.95 | 3.05 | 0.00 |
+| [Make parking for all NHS staff free all of the time.](307909.md) | 59,834 | 59,500 | 334 | 0 | 99.44 | 0.56 | 0.00 |
 | [Make Hedgehogs a Protected Species](300100.md) | 56,088 | 55,481 | 607 | 0 | 98.92 | 1.08 | 0.00 |
 | [Delay 5G in the UK until there’s been an independent investigation](312997.md) | 55,846 | 55,225 | 621 | 0 | 98.89 | 1.11 | 0.00 |
 | [Call for the UK government to formally recognise the State of Palestine](300450.md) | 52,624 | 51,571 | 1,053 | 0 | 98.00 | 2.00 | 0.00 |
@@ -57,4 +58,3 @@ Last refreshed 2020-10-24 22:00:24
 | [Make COVID19 testing available to teaching staff caring for pupils.](305423.md) | 35,789 | 35,682 | 107 | 0 | 99.70 | 0.30 | 0.00 |
 | [Revoke the Health and Social Care Act 2012 and renationalise the NHS](300019.md) | 30,844 | 30,389 | 455 | 0 | 98.52 | 1.48 | 0.00 |
 | [Add gender identity to the characteristics protected under the Equality Act 2010](301138.md) | 29,486 | 29,285 | 201 | 0 | 99.32 | 0.68 | 0.00 |
-| [Cut beer duty for at least 12 months, so pubs can survive after the covid virus.](306054.md) | 28,220 | 28,056 | 164 | 0 | 99.42 | 0.58 | 0.00 |
