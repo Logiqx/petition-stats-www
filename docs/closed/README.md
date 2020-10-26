@@ -4,11 +4,11 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-10-26 07:00:23
+Last refreshed 2020-10-26 08:00:23
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Include self-employed in statutory sick pay during Coronavirus](300336.md) | 699,591 | 697,223 | 2,368 | 0 | 99.66 | 0.34 | 0.00 |
+| [Include self-employed in statutory sick pay during Coronavirus](300336.md) | 699,592 | 697,224 | 2,368 | 0 | 99.66 | 0.34 | 0.00 |
 | [Close Schools/Colleges down for an appropriate amount of time amidst COVID19.](300403.md) | 685,393 | 682,887 | 2,506 | 0 | 99.63 | 0.37 | 0.00 |
 | [Implement UK lockdown for preventing spread of COVID19](301397.md) | 409,472 | 406,896 | 2,576 | 0 | 99.37 | 0.63 | 0.00 |
 | [Reimburse all students of this year’s fees due to strikes and COVID-19](302855.md) | 353,129 | 351,855 | 1,274 | 0 | 99.64 | 0.36 | 0.00 |
@@ -22,7 +22,7 @@ Last refreshed 2020-10-26 07:00:23
 | [Impose sanctions on China over its treatment of Uyghur Muslims](300146.md) | 146,344 | 139,771 | 6,573 | 0 | 95.51 | 4.49 | 0.00 |
 | [Make pet theft crime a specific offence with custodial sentences.](300071.md) | 143,634 | 142,224 | 1,410 | 0 | 99.02 | 0.98 | 0.00 |
 | [Require universities to reimburse students' tuition fees during strike action](300528.md) | 136,749 | 136,429 | 320 | 0 | 99.77 | 0.23 | 0.00 |
-| [Allow gyms and leisure centres to reopen](307146.md) | 136,162 | 136,000 | 162 | 0 | 99.88 | 0.12 | 0.00 |
+| [Allow gyms and leisure centres to reopen](307146.md) | 136,163 | 136,001 | 162 | 0 | 99.88 | 0.12 | 0.00 |
 | [Don’t criminalise trespass](300139.md) | 134,928 | 133,242 | 1,686 | 0 | 98.75 | 1.25 | 0.00 |
 | [Release the Home Office's Grooming Gang Review in full](300239.md) | 131,625 | 128,711 | 2,914 | 0 | 97.79 | 2.21 | 0.00 |
 | [Introduce Mandatory Ethnicity Pay Gap Reporting](300105.md) | 130,567 | 129,644 | 923 | 0 | 99.29 | 0.71 | 0.00 |
@@ -36,7 +36,7 @@ Last refreshed 2020-10-26 07:00:23
 | [Refund university students for 3rd Semester Tuition 2020](306494.md) | 111,498 | 111,133 | 365 | 0 | 99.67 | 0.33 | 0.00 |
 | [Revoke the TV licence using legislation](300118.md) | 110,837 | 109,800 | 1,037 | 0 | 99.06 | 0.94 | 0.00 |
 | [Fund research for childhood cancers with the worst survival rates](300027.md) | 109,176 | 108,376 | 800 | 0 | 99.27 | 0.73 | 0.00 |
-| [Require councils to suspend council tax payments during the coronavirus outbreak](303274.md) | 107,595 | 107,462 | 133 | 0 | 99.88 | 0.12 | 0.00 |
+| [Require councils to suspend council tax payments during the coronavirus outbreak](303274.md) | 107,596 | 107,463 | 133 | 0 | 99.88 | 0.12 | 0.00 |
 | [Extend the transition; delay negotiations until after the coronavirus outbreak](300412.md) | 107,436 | 102,028 | 5,408 | 0 | 94.97 | 5.03 | 0.00 |
 | [Give UK nurseries emergency funding if they have to close down amid COVID-19](301836.md) | 106,128 | 105,887 | 241 | 0 | 99.77 | 0.23 | 0.00 |
 | [Publish the Russia report](300059.md) | 105,309 | 101,897 | 3,412 | 0 | 96.76 | 3.24 | 0.00 |
