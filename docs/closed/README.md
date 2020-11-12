@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-11-11 23:00:22
+Last refreshed 2020-11-12 00:00:24
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -36,6 +36,7 @@ Last refreshed 2020-11-11 23:00:22
 | [Implement Universal Basic Income to give home & food security through Covid-19](302284.md) | 114,572 | 113,768 | 804 | 0 | 99.30 | 0.70 | 0.00 |
 | [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 112,226 | 111,341 | 885 | 0 | 99.21 | 0.79 | 0.00 |
 | [Refund university students for 3rd Semester Tuition 2020](306494.md) | 111,498 | 111,133 | 365 | 0 | 99.67 | 0.33 | 0.00 |
+| [Omit the NHS from any future trade deal with the US](307339.md) | 111,076 | 109,790 | 1,286 | 0 | 98.84 | 1.16 | 0.00 |
 | [Revoke the TV licence using legislation](300118.md) | 110,837 | 109,800 | 1,037 | 0 | 99.06 | 0.94 | 0.00 |
 | [Fund research for childhood cancers with the worst survival rates](300027.md) | 109,176 | 108,376 | 800 | 0 | 99.27 | 0.73 | 0.00 |
 | [Require councils to suspend council tax payments during the coronavirus outbreak](303274.md) | 107,596 | 107,463 | 133 | 0 | 99.88 | 0.12 | 0.00 |
@@ -57,4 +58,3 @@ Last refreshed 2020-11-11 23:00:22
 | [Pay self employed workers a wage due to lack of earnings caused by COVID-19.](303345.md) | 46,574 | 46,429 | 145 | 0 | 99.69 | 0.31 | 0.00 |
 | [We would like the government to consider social care as equally important to NHS](302897.md) | 44,982 | 44,828 | 154 | 0 | 99.66 | 0.34 | 0.00 |
 | [Highway Code Rules 163 and 215 to be made law. Pass horses wide and slow. ](300122.md) | 42,396 | 42,122 | 274 | 0 | 99.35 | 0.65 | 0.00 |
-| [Make COVID19 testing available to teaching staff caring for pupils.](305423.md) | 35,789 | 35,682 | 107 | 0 | 99.70 | 0.30 | 0.00 |
