@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-11-15 23:00:21
+Last refreshed 2020-11-16 00:00:24
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -49,6 +49,7 @@ Last refreshed 2020-11-15 23:00:21
 | [Give non-British citizens who are NHS workers automatic citizenship](305129.md) | 72,624 | 71,657 | 967 | 0 | 98.67 | 1.33 | 0.00 |
 | [Explore options for making NurOwn available to treat Motor Neurone Disease (MND)](301033.md) | 65,432 | 63,439 | 1,993 | 0 | 96.95 | 3.05 | 0.00 |
 | [Make parking for all NHS staff free all of the time.](307909.md) | 59,835 | 59,501 | 334 | 0 | 99.44 | 0.56 | 0.00 |
+| [Cancel HS2 and use the money for the NHS and local economies, post Covid-19.](311642.md) | 58,741 | 58,354 | 387 | 0 | 99.34 | 0.66 | 0.00 |
 | [Make Hedgehogs a Protected Species](300100.md) | 56,088 | 55,481 | 607 | 0 | 98.92 | 1.08 | 0.00 |
 | [Delay 5G in the UK until there’s been an independent investigation](312997.md) | 55,846 | 55,225 | 621 | 0 | 98.89 | 1.11 | 0.00 |
 | [Call for the UK government to formally recognise the State of Palestine](300450.md) | 52,624 | 51,571 | 1,053 | 0 | 98.00 | 2.00 | 0.00 |
@@ -57,4 +58,3 @@ Last refreshed 2020-11-15 23:00:21
 | [Extend the Gambling Act to cover Loot Boxes](300171.md) | 46,627 | 45,386 | 1,241 | 0 | 97.34 | 2.66 | 0.00 |
 | [Pay self employed workers a wage due to lack of earnings caused by COVID-19.](303345.md) | 46,574 | 46,429 | 145 | 0 | 99.69 | 0.31 | 0.00 |
 | [We would like the government to consider social care as equally important to NHS](302897.md) | 44,982 | 44,828 | 154 | 0 | 99.66 | 0.34 | 0.00 |
-| [Highway Code Rules 163 and 215 to be made law. Pass horses wide and slow. ](300122.md) | 42,396 | 42,122 | 274 | 0 | 99.35 | 0.65 | 0.00 |
