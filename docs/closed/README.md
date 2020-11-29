@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-11-28 23:00:19
+Last refreshed 2020-11-29 00:00:21
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -44,6 +44,7 @@ Last refreshed 2020-11-28 23:00:19
 | [Give UK nurseries emergency funding if they have to close down amid COVID-19](301836.md) | 106,128 | 105,887 | 241 | 0 | 99.77 | 0.23 | 0.00 |
 | [Publish the Russia report](300059.md) | 105,309 | 101,897 | 3,412 | 0 | 96.76 | 3.24 | 0.00 |
 | [Support the British aviation industry during the COVID-19 outbreak](303081.md) | 103,040 | 101,619 | 1,421 | 0 | 98.62 | 1.38 | 0.00 |
+| [Repeal the Coronavirus Act 2020](313310.md) | 102,804 | 101,823 | 981 | 0 | 99.05 | 0.95 | 0.00 |
 | [Coronavirus Support Package for Directors / Shareholders of small Limited Co's.](310515.md) | 101,093 | 100,629 | 464 | 0 | 99.54 | 0.46 | 0.00 |
 | [No prosecution for parents that remove child from school during a pandemic.](300399.md) | 100,649 | 100,385 | 264 | 0 | 99.74 | 0.26 | 0.00 |
 | [Give non-British citizens who are NHS workers automatic citizenship](305129.md) | 72,624 | 71,657 | 967 | 0 | 98.67 | 1.33 | 0.00 |
@@ -57,4 +58,3 @@ Last refreshed 2020-11-28 23:00:19
 | [Rejoin the EU under Article 49 TEU](300297.md) | 46,765 | 44,134 | 2,631 | 0 | 94.37 | 5.63 | 0.00 |
 | [Extend the Gambling Act to cover Loot Boxes](300171.md) | 46,627 | 45,386 | 1,241 | 0 | 97.34 | 2.66 | 0.00 |
 | [Pay self employed workers a wage due to lack of earnings caused by COVID-19.](303345.md) | 46,574 | 46,429 | 145 | 0 | 99.69 | 0.31 | 0.00 |
-| [We would like the government to consider social care as equally important to NHS](302897.md) | 44,982 | 44,828 | 154 | 0 | 99.66 | 0.34 | 0.00 |
