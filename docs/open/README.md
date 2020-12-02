@@ -4,57 +4,57 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-12-02 00:00:07
+Last refreshed 2020-12-02 01:00:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [End child food poverty – no child should be going hungry](554276.md) | 1,103,476 | 1,090,877 | 12,599 | 0 | 98.86 | 1.14 | 0.00 |
+| [End child food poverty – no child should be going hungry](554276.md) | 1,103,478 | 1,090,879 | 12,599 | 0 | 98.86 | 1.14 | 0.00 |
 | [Prevent gyms closing due to a spike in Covid 19 cases](333869.md) | 615,261 | 614,657 | 604 | 0 | 99.90 | 0.10 | 0.00 |
-| [Reclose schools and colleges due to increase in COVID-19 cases](550846.md) | 415,465 | 414,812 | 653 | 0 | 99.84 | 0.16 | 0.00 |
-| [Limit the Sale and Use of Fireworks to Organisers of Licensed Displays Only](319891.md) | 278,704 | 277,504 | 1,200 | 0 | 99.57 | 0.43 | 0.00 |
+| [Reclose schools and colleges due to increase in COVID-19 cases](550846.md) | 415,466 | 414,813 | 653 | 0 | 99.84 | 0.16 | 0.00 |
+| [Limit the Sale and Use of Fireworks to Organisers of Licensed Displays Only](319891.md) | 278,707 | 277,507 | 1,200 | 0 | 99.57 | 0.43 | 0.00 |
 | [Teach Britain's colonial past as part of the UK's compulsory curriculum](324092.md) | 268,600 | 265,740 | 2,860 | 0 | 98.94 | 1.06 | 0.00 |
-| [Prevent any restrictions on those who refuse a Covid-19 vaccination](323442.md) | 264,451 | 262,127 | 2,324 | 0 | 99.12 | 0.88 | 0.00 |
-| [Require universities to partially refund tuition fees for 20/21 due to Covid-19](324762.md) | 221,741 | 220,771 | 970 | 0 | 99.56 | 0.44 | 0.00 |
-| [Implement sanctions against the Nigerian Government and officials](554150.md) | 220,551 | 199,496 | 21,055 | 0 | 90.45 | 9.55 | 0.00 |
+| [Prevent any restrictions on those who refuse a Covid-19 vaccination](323442.md) | 264,489 | 262,165 | 2,324 | 0 | 99.12 | 0.88 | 0.00 |
+| [Require universities to partially refund tuition fees for 20/21 due to Covid-19](324762.md) | 221,742 | 220,772 | 970 | 0 | 99.56 | 0.44 | 0.00 |
+| [Implement sanctions against the Nigerian Government and officials](554150.md) | 220,552 | 199,497 | 21,055 | 0 | 90.45 | 9.55 | 0.00 |
 | [Broker a ceasefire for all sides in Yemen to carry out humanitarian aid](326932.md) | 211,544 | 209,217 | 2,327 | 0 | 98.90 | 1.10 | 0.00 |
 | [Allow football fans to attend matches at all levels](552036.md) | 200,095 | 198,538 | 1,557 | 0 | 99.22 | 0.78 | 0.00 |
 | [Offer more support to the arts (particularly Theatres and Music) amidst COVID-19](320711.md) | 179,645 | 178,212 | 1,433 | 0 | 99.20 | 0.80 | 0.00 |
-| [Scrap removal of free transport for under-18s from TfL bailout](331453.md) | 170,726 | 170,143 | 583 | 0 | 99.66 | 0.34 | 0.00 |
-| [Cancel GCSEs and A Levels in 2021](326066.md) | 168,885 | 167,888 | 997 | 0 | 99.41 | 0.59 | 0.00 |
-| [Lower university tuition fees for students until online teaching ends](552911.md) | 165,281 | 164,628 | 653 | 0 | 99.60 | 0.40 | 0.00 |
-| [Reduce curriculum content for year 10 & 12 students who will sit exams in 2021.](320772.md) | 148,388 | 147,990 | 398 | 0 | 99.73 | 0.27 | 0.00 |
+| [Scrap removal of free transport for under-18s from TfL bailout](331453.md) | 170,730 | 170,147 | 583 | 0 | 99.66 | 0.34 | 0.00 |
+| [Cancel GCSEs and A Levels in 2021](326066.md) | 168,887 | 167,890 | 997 | 0 | 99.41 | 0.59 | 0.00 |
+| [Lower university tuition fees for students until online teaching ends](552911.md) | 165,282 | 164,629 | 653 | 0 | 99.60 | 0.40 | 0.00 |
 | [Let Us Dance - Support nightclubs, dance music events and festivals](332789.md) | 145,743 | 144,911 | 832 | 0 | 99.43 | 0.57 | 0.00 |
-| [Reform the Gender Recognition Act.](327108.md) | 135,052 | 133,047 | 2,005 | 0 | 98.52 | 1.48 | 0.00 |
+| [Reform the Gender Recognition Act.](327108.md) | 135,054 | 133,049 | 2,005 | 0 | 98.52 | 1.48 | 0.00 |
 | [Allow Zoos and Wildlife attractions to reopen with social distancing in place](323881.md) | 129,246 | 128,696 | 550 | 0 | 99.57 | 0.43 | 0.00 |
 | [Ban the exploitative import of young puppies for sale in the UK.](326261.md) | 127,581 | 126,426 | 1,155 | 0 | 99.09 | 0.91 | 0.00 |
 | [Take action to stop illegal immigration and rapidly remove illegal immigrants](321862.md) | 125,734 | 124,222 | 1,512 | 0 | 98.80 | 1.20 | 0.00 |
-| [Implement a two week school lockdown before 24 December to save Christmas](549015.md) | 117,963 | 117,844 | 119 | 0 | 99.90 | 0.10 | 0.00 |
-| [Hold a public inquiry into Government contracts granted during Covid-19](328408.md) | 114,484 | 112,990 | 1,494 | 0 | 98.70 | 1.30 | 0.00 |
+| [Implement a two week school lockdown before 24 December to save Christmas](549015.md) | 117,973 | 117,854 | 119 | 0 | 99.90 | 0.10 | 0.00 |
+| [Hold a public inquiry into Government contracts granted during Covid-19](328408.md) | 114,486 | 112,992 | 1,494 | 0 | 98.70 | 1.30 | 0.00 |
 | [Increase Number of Guests Permitted at Weddings, according to Venue Capacity](329339.md) | 111,800 | 111,477 | 323 | 0 | 99.71 | 0.29 | 0.00 |
-| [Give government workers a fair pay rise](328754.md) | 103,340 | 103,136 | 204 | 0 | 99.80 | 0.20 | 0.00 |
-| [Add education on diversity and racism to all school curriculums](323808.md) | 89,233 | 88,598 | 635 | 0 | 99.29 | 0.71 | 0.00 |
-| [Protect Retail Workers from Abuse, Threats and Violence.](328621.md) | 85,855 | 85,720 | 135 | 0 | 99.84 | 0.16 | 0.00 |
-| [Tougher sentences for hit and run drivers who cause death](323926.md) | 75,394 | 74,939 | 455 | 0 | 99.40 | 0.60 | 0.00 |
-| [Ban the shooting of badgers immediately](333693.md) | 72,090 | 71,259 | 831 | 0 | 98.85 | 1.15 | 0.00 |
+| [Give government workers a fair pay rise](328754.md) | 103,342 | 103,138 | 204 | 0 | 99.80 | 0.20 | 0.00 |
+| [Add education on diversity and racism to all school curriculums](323808.md) | 89,235 | 88,600 | 635 | 0 | 99.29 | 0.71 | 0.00 |
+| [Protect Retail Workers from Abuse, Threats and Violence.](328621.md) | 85,857 | 85,722 | 135 | 0 | 99.84 | 0.16 | 0.00 |
+| [Tougher sentences for hit and run drivers who cause death](323926.md) | 75,404 | 74,949 | 455 | 0 | 99.40 | 0.60 | 0.00 |
+| [Ban the shooting of badgers immediately](333693.md) | 72,092 | 71,261 | 831 | 0 | 98.85 | 1.15 | 0.00 |
 | [Keep schools closed until Covid 19 is no longer a threat](316404.md) | 70,066 | 69,909 | 157 | 0 | 99.78 | 0.22 | 0.00 |
 | [Enshrine the Military Covenant in UK Law](332503.md) | 68,182 | 66,355 | 1,827 | 0 | 97.32 | 2.68 | 0.00 |
 | [Allow Salons and Tattoo parlors to open at same time as hairdressers](320507.md) | 61,462 | 61,368 | 94 | 0 | 99.85 | 0.15 | 0.00 |
 | [Protect the UK's dwindling hedgehog population before it's too late.](550379.md) | 60,538 | 60,062 | 476 | 0 | 99.21 | 0.79 | 0.00 |
-| [Commit to a public review of  HS2 project and suspend all on-going work now](314520.md) | 57,937 | 57,533 | 404 | 0 | 99.30 | 0.70 | 0.00 |
-| [To Seek a 1 year Extension to the Brexit Transition Period & a Second Referendum](554492.md) | 56,507 | 53,597 | 2,910 | 0 | 94.85 | 5.15 | 0.00 |
+| [Commit to a public review of  HS2 project and suspend all on-going work now](314520.md) | 57,939 | 57,535 | 404 | 0 | 99.30 | 0.70 | 0.00 |
+| [To Seek a 1 year Extension to the Brexit Transition Period & a Second Referendum](554492.md) | 56,511 | 53,600 | 2,911 | 0 | 94.85 | 5.15 | 0.00 |
 | [One-off Grant To Be Paid To Anyone Who Has Not Benefited From A Covid-19 Scheme](319899.md) | 55,156 | 54,963 | 193 | 0 | 99.65 | 0.35 | 0.00 |
-| [Do not ban gender transition treatments for under 18s](318025.md) | 51,931 | 51,428 | 503 | 0 | 99.03 | 0.97 | 0.00 |
+| [Do not ban gender transition treatments for under 18s](318025.md) | 51,935 | 51,431 | 504 | 0 | 99.03 | 0.97 | 0.00 |
 | [Extend furlough beyond October for the travel industry.](549014.md) | 51,423 | 51,110 | 313 | 0 | 99.39 | 0.61 | 0.00 |
 | [Reverse the change to Small Brewers Relief.](334066.md) | 51,345 | 51,036 | 309 | 0 | 99.40 | 0.60 | 0.00 |
 | [Reject the proposals for Junction 10 of the A3/M25](332711.md) | 46,224 | 45,979 | 245 | 0 | 99.47 | 0.53 | 0.00 |
 | [Save Community Sports Clubs and Leisure Facilities with a Sports Recovery Fund](553619.md) | 45,196 | 45,109 | 87 | 0 | 99.81 | 0.19 | 0.00 |
-| [Give further financial support to the Events and Hospitality industry](329985.md) | 44,966 | 44,745 | 221 | 0 | 99.51 | 0.49 | 0.00 |
+| [Give further financial support to the Events and Hospitality industry](329985.md) | 44,967 | 44,746 | 221 | 0 | 99.51 | 0.49 | 0.00 |
 | [Extend furlough scheme for theatre and live music industry. ](329174.md) | 42,109 | 41,881 | 228 | 0 | 99.46 | 0.54 | 0.00 |
-| [Create a Minister for Hospitality in the UK Government](552201.md) | 41,476 | 41,225 | 251 | 0 | 99.39 | 0.61 | 0.00 |
+| [Create a Minister for Hospitality in the UK Government](552201.md) | 41,480 | 41,229 | 251 | 0 | 99.39 | 0.61 | 0.00 |
 | [Stop Forestry England granting licenses for Fox & Hare hunts](552017.md) | 40,517 | 39,899 | 618 | 0 | 98.47 | 1.53 | 0.00 |
 | [Include animal charities in emergency funding due to the coronavirus pandemic.](314968.md) | 39,956 | 39,664 | 292 | 0 | 99.27 | 0.73 | 0.00 |
 | [Extend furlough scheme for the UK Aviation sector to help stop redundancies](331434.md) | 39,066 | 38,861 | 205 | 0 | 99.48 | 0.52 | 0.00 |
-| [Repeal the decision to implement compulsory face coverings in English shops.](331430.md) | 36,726 | 36,478 | 248 | 0 | 99.32 | 0.68 | 0.00 |
+| [Repeal the decision to implement compulsory face coverings in English shops.](331430.md) | 36,727 | 36,479 | 248 | 0 | 99.32 | 0.68 | 0.00 |
 | [Protect all monuments and statues from being taken down](325814.md) | 35,094 | 34,456 | 638 | 0 | 98.18 | 1.82 | 0.00 |
 | [Do not implement a second national lockdown or other restrictions this winter](549862.md) | 33,715 | 33,554 | 161 | 0 | 99.52 | 0.48 | 0.00 |
 | [Reverse all exam grades back to teacher’s own predictions](334491.md) | 33,678 | 33,512 | 166 | 0 | 99.51 | 0.49 | 0.00 |
+| [Allow corporate worship and congregational singing at places of worship](548621.md) | 32,624 | 32,535 | 89 | 0 | 99.73 | 0.27 | 0.00 |
