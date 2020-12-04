@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-12-04 10:00:24
+Last refreshed 2020-12-04 11:00:22
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -55,6 +55,6 @@ Last refreshed 2020-12-04 10:00:24
 | [Cancel HS2 and use the money for the NHS and local economies, post Covid-19.](311642.md) | 58,741 | 58,354 | 387 | 0 | 99.34 | 0.66 | 0.00 |
 | [Make Hedgehogs a Protected Species](300100.md) | 56,089 | 55,482 | 607 | 0 | 98.92 | 1.08 | 0.00 |
 | [Delay 5G in the UK until there’s been an independent investigation](312997.md) | 55,846 | 55,225 | 621 | 0 | 98.89 | 1.11 | 0.00 |
-| [One-off Grant To Be Paid To Anyone Who Has Not Benefited From A Covid-19 Scheme](319899.md) | 55,187 | 54,994 | 193 | 0 | 99.65 | 0.35 | 0.00 |
+| [One-off Grant To Be Paid To Anyone Who Has Not Benefited From A Covid-19 Scheme](319899.md) | 55,188 | 54,995 | 193 | 0 | 99.65 | 0.35 | 0.00 |
 | [Call for the UK government to formally recognise the State of Palestine](300450.md) | 52,624 | 51,571 | 1,053 | 0 | 98.00 | 2.00 | 0.00 |
 | [Release HMP Prisoners due to COVID-19 - temporary release, licence, tag, curfew](305604.md) | 49,569 | 49,331 | 238 | 0 | 99.52 | 0.48 | 0.00 |
