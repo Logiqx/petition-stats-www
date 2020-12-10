@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-12-10 17:00:20
+Last refreshed 2020-12-10 18:00:20
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -41,7 +41,7 @@ Last refreshed 2020-12-10 17:00:20
 | [Refund university students for 3rd Semester Tuition 2020](306494.md) | 111,498 | 111,133 | 365 | 0 | 99.67 | 0.33 | 0.00 |
 | [Omit the NHS from any future trade deal with the US](307339.md) | 111,076 | 109,790 | 1,286 | 0 | 98.84 | 1.16 | 0.00 |
 | [Revoke the TV licence using legislation](300118.md) | 110,837 | 109,800 | 1,037 | 0 | 99.06 | 0.94 | 0.00 |
-| [Fund research for childhood cancers with the worst survival rates](300027.md) | 109,176 | 108,376 | 800 | 0 | 99.27 | 0.73 | 0.00 |
+| [Fund research for childhood cancers with the worst survival rates](300027.md) | 109,177 | 108,377 | 800 | 0 | 99.27 | 0.73 | 0.00 |
 | [Require councils to suspend council tax payments during the coronavirus outbreak](303274.md) | 107,596 | 107,463 | 133 | 0 | 99.88 | 0.12 | 0.00 |
 | [Extend the transition; delay negotiations until after the coronavirus outbreak](300412.md) | 107,436 | 102,028 | 5,408 | 0 | 94.97 | 5.03 | 0.00 |
 | [Give UK nurseries emergency funding if they have to close down amid COVID-19](301836.md) | 106,128 | 105,887 | 241 | 0 | 99.77 | 0.23 | 0.00 |
@@ -54,7 +54,7 @@ Last refreshed 2020-12-10 17:00:20
 | [Keep schools closed until Covid 19 is no longer a threat](316404.md) | 70,337 | 70,180 | 157 | 0 | 99.78 | 0.22 | 0.00 |
 | [Explore options for making NurOwn available to treat Motor Neurone Disease (MND)](301033.md) | 65,432 | 63,439 | 1,993 | 0 | 96.95 | 3.05 | 0.00 |
 | [Make parking for all NHS staff free all of the time.](307909.md) | 59,835 | 59,501 | 334 | 0 | 99.44 | 0.56 | 0.00 |
-| [Commit to a public review of  HS2 project and suspend all on-going work now](314520.md) | 59,104 | 58,687 | 417 | 0 | 99.29 | 0.71 | 0.00 |
+| [Commit to a public review of  HS2 project and suspend all on-going work now](314520.md) | 59,105 | 58,688 | 417 | 0 | 99.29 | 0.71 | 0.00 |
 | [Cancel HS2 and use the money for the NHS and local economies, post Covid-19.](311642.md) | 58,741 | 58,354 | 387 | 0 | 99.34 | 0.66 | 0.00 |
 | [Make Hedgehogs a Protected Species](300100.md) | 56,089 | 55,482 | 607 | 0 | 98.92 | 1.08 | 0.00 |
 | [Delay 5G in the UK until there’s been an independent investigation](312997.md) | 55,846 | 55,225 | 621 | 0 | 98.89 | 1.11 | 0.00 |
