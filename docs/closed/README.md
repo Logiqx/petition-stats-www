@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-12-09 23:00:18
+Last refreshed 2020-12-10 00:00:19
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -30,6 +30,7 @@ Last refreshed 2020-12-09 23:00:18
 | [Don’t criminalise trespass](300139.md) | 134,928 | 133,242 | 1,686 | 0 | 98.75 | 1.25 | 0.00 |
 | [Release the Home Office's Grooming Gang Review in full](300239.md) | 131,625 | 128,711 | 2,914 | 0 | 97.79 | 2.21 | 0.00 |
 | [Introduce Mandatory Ethnicity Pay Gap Reporting](300105.md) | 130,567 | 129,644 | 923 | 0 | 99.29 | 0.71 | 0.00 |
+| [Allow Zoos and Wildlife attractions to reopen with social distancing in place](323881.md) | 129,289 | 128,739 | 550 | 0 | 99.57 | 0.43 | 0.00 |
 | [Encourage lenders, landlords and utilities to freeze payments during lockdown](302256.md) | 126,934 | 126,593 | 341 | 0 | 99.73 | 0.27 | 0.00 |
 | [Close all universities down for an appropriate amount of time amidst COVID-19](300628.md) | 123,903 | 123,123 | 780 | 0 | 99.37 | 0.63 | 0.00 |
 | [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 121,165 | 119,595 | 1,570 | 0 | 98.70 | 1.30 | 0.00 |
@@ -53,8 +54,7 @@ Last refreshed 2020-12-09 23:00:18
 | [Keep schools closed until Covid 19 is no longer a threat](316404.md) | 70,337 | 70,180 | 157 | 0 | 99.78 | 0.22 | 0.00 |
 | [Explore options for making NurOwn available to treat Motor Neurone Disease (MND)](301033.md) | 65,432 | 63,439 | 1,993 | 0 | 96.95 | 3.05 | 0.00 |
 | [Make parking for all NHS staff free all of the time.](307909.md) | 59,835 | 59,501 | 334 | 0 | 99.44 | 0.56 | 0.00 |
+| [Commit to a public review of  HS2 project and suspend all on-going work now](314520.md) | 59,101 | 58,684 | 417 | 0 | 99.29 | 0.71 | 0.00 |
 | [Cancel HS2 and use the money for the NHS and local economies, post Covid-19.](311642.md) | 58,741 | 58,354 | 387 | 0 | 99.34 | 0.66 | 0.00 |
 | [Make Hedgehogs a Protected Species](300100.md) | 56,089 | 55,482 | 607 | 0 | 98.92 | 1.08 | 0.00 |
 | [Delay 5G in the UK until there’s been an independent investigation](312997.md) | 55,846 | 55,225 | 621 | 0 | 98.89 | 1.11 | 0.00 |
-| [One-off Grant To Be Paid To Anyone Who Has Not Benefited From A Covid-19 Scheme](319899.md) | 55,188 | 54,995 | 193 | 0 | 99.65 | 0.35 | 0.00 |
-| [Call for the UK government to formally recognise the State of Palestine](300450.md) | 52,624 | 51,571 | 1,053 | 0 | 98.00 | 2.00 | 0.00 |
