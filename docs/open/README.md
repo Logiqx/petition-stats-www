@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-12-18 05:00:09
+Last refreshed 2020-12-18 06:00:09
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -18,9 +18,9 @@ Last refreshed 2020-12-18 05:00:09
 | [Broker a ceasefire for all sides in Yemen to carry out humanitarian aid](326932.md) | 211,611 | 209,284 | 2,327 | 0 | 98.90 | 1.10 | 0.00 |
 | [Allow football fans to attend matches at all levels](552036.md) | 200,148 | 198,591 | 1,557 | 0 | 99.22 | 0.78 | 0.00 |
 | [Scrap removal of free transport for under-18s from TfL bailout](331453.md) | 170,810 | 170,226 | 584 | 0 | 99.66 | 0.34 | 0.00 |
-| [Cancel GCSEs and A Levels in 2021](326066.md) | 170,574 | 169,559 | 1,015 | 0 | 99.40 | 0.60 | 0.00 |
+| [Cancel GCSEs and A Levels in 2021](326066.md) | 170,575 | 169,560 | 1,015 | 0 | 99.40 | 0.60 | 0.00 |
 | [Lower university tuition fees for students until online teaching ends](552911.md) | 165,481 | 164,827 | 654 | 0 | 99.60 | 0.40 | 0.00 |
-| [Create a Minister for Hospitality in the UK Government](552201.md) | 155,306 | 154,318 | 988 | 0 | 99.36 | 0.64 | 0.00 |
+| [Create a Minister for Hospitality in the UK Government](552201.md) | 155,352 | 154,363 | 989 | 0 | 99.36 | 0.64 | 0.00 |
 | [Let Us Dance - Support nightclubs, dance music events and festivals](332789.md) | 145,854 | 145,021 | 833 | 0 | 99.43 | 0.57 | 0.00 |
 | [Reform the Gender Recognition Act.](327108.md) | 135,529 | 133,521 | 2,008 | 0 | 98.52 | 1.48 | 0.00 |
 | [Ban the exploitative import of young puppies for sale in the UK.](326261.md) | 127,954 | 126,792 | 1,162 | 0 | 99.09 | 0.91 | 0.00 |
@@ -30,15 +30,15 @@ Last refreshed 2020-12-18 05:00:09
 | [Increase Number of Guests Permitted at Weddings, according to Venue Capacity](329339.md) | 111,974 | 111,651 | 323 | 0 | 99.71 | 0.29 | 0.00 |
 | [Give government workers a fair pay rise](328754.md) | 104,422 | 104,217 | 205 | 0 | 99.80 | 0.20 | 0.00 |
 | [Tougher sentences for hit and run drivers who cause death](323926.md) | 103,437 | 102,826 | 611 | 0 | 99.41 | 0.59 | 0.00 |
-| [Protect Retail Workers from Abuse, Threats and Violence.](328621.md) | 101,452 | 101,287 | 165 | 0 | 99.84 | 0.16 | 0.00 |
+| [Protect Retail Workers from Abuse, Threats and Violence.](328621.md) | 101,457 | 101,292 | 165 | 0 | 99.84 | 0.16 | 0.00 |
 | [Ban the shooting of badgers immediately](333693.md) | 73,715 | 72,865 | 850 | 0 | 98.85 | 1.15 | 0.00 |
-| [Increase funding for research into Endometriosis and PCOS.](328570.md) | 69,022 | 68,743 | 279 | 0 | 99.60 | 0.40 | 0.00 |
+| [Increase funding for research into Endometriosis and PCOS.](328570.md) | 69,055 | 68,775 | 280 | 0 | 99.59 | 0.41 | 0.00 |
 | [Enshrine the Military Covenant in UK Law](332503.md) | 68,456 | 66,621 | 1,835 | 0 | 97.32 | 2.68 | 0.00 |
 | [Protect the UK's dwindling hedgehog population before it's too late.](550379.md) | 65,932 | 65,421 | 511 | 0 | 99.22 | 0.78 | 0.00 |
 | [To Seek a 1 year Extension to the Brexit Transition Period & a Second Referendum](554492.md) | 62,156 | 59,005 | 3,151 | 0 | 94.93 | 5.07 | 0.00 |
 | [Allow Salons and Tattoo parlors to open at same time as hairdressers](320507.md) | 61,476 | 61,382 | 94 | 0 | 99.85 | 0.15 | 0.00 |
 | [Do not ban gender transition treatments for under 18s](318025.md) | 54,329 | 53,791 | 538 | 0 | 99.01 | 0.99 | 0.00 |
-| [Lower the age you are offered a cervical screening (smear test) from 25 to 16](325302.md) | 53,147 | 53,070 | 77 | 0 | 99.86 | 0.14 | 0.00 |
+| [Lower the age you are offered a cervical screening (smear test) from 25 to 16](325302.md) | 53,149 | 53,072 | 77 | 0 | 99.86 | 0.14 | 0.00 |
 | [Extend furlough beyond October for the travel industry.](549014.md) | 51,426 | 51,113 | 313 | 0 | 99.39 | 0.61 | 0.00 |
 | [Reverse the change to Small Brewers Relief.](334066.md) | 51,396 | 51,087 | 309 | 0 | 99.40 | 0.60 | 0.00 |
 | [Stop Forestry England granting licenses for Fox & Hare hunts](552017.md) | 46,797 | 46,083 | 714 | 0 | 98.47 | 1.53 | 0.00 |
