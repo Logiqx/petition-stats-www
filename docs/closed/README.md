@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-12-25 23:00:19
+Last refreshed 2020-12-26 00:00:21
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -56,5 +56,5 @@ Last refreshed 2020-12-25 23:00:19
 | [Give non-British citizens who are NHS workers automatic citizenship](305129.md) | 72,624 | 71,657 | 967 | 0 | 98.67 | 1.33 | 0.00 |
 | [Keep schools closed until Covid 19 is no longer a threat](316404.md) | 70,337 | 70,180 | 157 | 0 | 99.78 | 0.22 | 0.00 |
 | [Explore options for making NurOwn available to treat Motor Neurone Disease (MND)](301033.md) | 65,432 | 63,439 | 1,993 | 0 | 96.95 | 3.05 | 0.00 |
+| [Allow Salons and Tattoo parlors to open at same time as hairdressers](320507.md) | 61,486 | 61,392 | 94 | 0 | 99.85 | 0.15 | 0.00 |
 | [Make parking for all NHS staff free all of the time.](307909.md) | 59,835 | 59,501 | 334 | 0 | 99.44 | 0.56 | 0.00 |
-| [Commit to a public review of  HS2 project and suspend all on-going work now](314520.md) | 59,107 | 58,690 | 417 | 0 | 99.29 | 0.71 | 0.00 |
