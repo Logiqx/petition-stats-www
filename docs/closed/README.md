@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2020-12-28 16:00:22
+Last refreshed 2020-12-28 17:00:22
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -33,7 +33,7 @@ Last refreshed 2020-12-28 16:00:22
 | [Release the Home Office's Grooming Gang Review in full](300239.md) | 131,625 | 128,711 | 2,914 | 0 | 97.79 | 2.21 | 0.00 |
 | [Introduce Mandatory Ethnicity Pay Gap Reporting](300105.md) | 130,567 | 129,644 | 923 | 0 | 99.29 | 0.71 | 0.00 |
 | [Allow Zoos and Wildlife attractions to reopen with social distancing in place](323881.md) | 129,290 | 128,740 | 550 | 0 | 99.57 | 0.43 | 0.00 |
-| [Ban the exploitative import of young puppies for sale in the UK.](326261.md) | 128,548 | 127,382 | 1,166 | 0 | 99.09 | 0.91 | 0.00 |
+| [Ban the exploitative import of young puppies for sale in the UK.](326261.md) | 128,549 | 127,383 | 1,166 | 0 | 99.09 | 0.91 | 0.00 |
 | [Encourage lenders, landlords and utilities to freeze payments during lockdown](302256.md) | 126,934 | 126,593 | 341 | 0 | 99.73 | 0.27 | 0.00 |
 | [Close all universities down for an appropriate amount of time amidst COVID-19](300628.md) | 123,903 | 123,123 | 780 | 0 | 99.37 | 0.63 | 0.00 |
 | [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 121,165 | 119,595 | 1,570 | 0 | 98.70 | 1.30 | 0.00 |
