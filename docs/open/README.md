@@ -4,57 +4,57 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-01-06 09:00:11
+Last refreshed 2021-01-06 10:00:08
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [End child food poverty – no child should be going hungry](554276.md) | 1,106,762 | 1,094,127 | 12,635 | 0 | 98.86 | 1.14 | 0.00 |
-| [Prevent gyms closing due to a spike in Covid 19 cases](333869.md) | 620,075 | 619,464 | 611 | 0 | 99.90 | 0.10 | 0.00 |
-| [Reclose schools and colleges due to increase in COVID-19 cases](550846.md) | 427,067 | 426,395 | 672 | 0 | 99.84 | 0.16 | 0.00 |
-| [Prevent any restrictions on those who refuse a Covid-19 vaccination](323442.md) | 329,507 | 326,597 | 2,910 | 0 | 99.12 | 0.88 | 0.00 |
-| [Reduce University student tuition fees from £9250 to £3000](550344.md) | 320,194 | 319,221 | 973 | 0 | 99.70 | 0.30 | 0.00 |
-| [Prioritise teachers, school and childcare staff for Covid-19 vaccination](554316.md) | 300,876 | 300,150 | 726 | 0 | 99.76 | 0.24 | 0.00 |
-| [Limit the Sale and Use of Fireworks to Organisers of Licensed Displays Only](319891.md) | 291,639 | 290,402 | 1,237 | 0 | 99.58 | 0.42 | 0.00 |
-| [Require universities to partially refund tuition fees for 20/21 due to Covid-19](324762.md) | 255,082 | 254,034 | 1,048 | 0 | 99.59 | 0.41 | 0.00 |
-| [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 225,115 | 219,937 | 5,178 | 0 | 97.70 | 2.30 | 0.00 |
+| [End child food poverty – no child should be going hungry](554276.md) | 1,106,786 | 1,094,151 | 12,635 | 0 | 98.86 | 1.14 | 0.00 |
+| [Prevent gyms closing due to a spike in Covid 19 cases](333869.md) | 620,083 | 619,472 | 611 | 0 | 99.90 | 0.10 | 0.00 |
+| [Reclose schools and colleges due to increase in COVID-19 cases](550846.md) | 427,069 | 426,397 | 672 | 0 | 99.84 | 0.16 | 0.00 |
+| [Reduce University student tuition fees from £9250 to £3000](550344.md) | 329,914 | 328,902 | 1,012 | 0 | 99.69 | 0.31 | 0.00 |
+| [Prevent any restrictions on those who refuse a Covid-19 vaccination](323442.md) | 329,536 | 326,626 | 2,910 | 0 | 99.12 | 0.88 | 0.00 |
+| [Prioritise teachers, school and childcare staff for Covid-19 vaccination](554316.md) | 302,522 | 301,790 | 732 | 0 | 99.76 | 0.24 | 0.00 |
+| [Limit the Sale and Use of Fireworks to Organisers of Licensed Displays Only](319891.md) | 291,654 | 290,415 | 1,239 | 0 | 99.58 | 0.42 | 0.00 |
+| [Require universities to partially refund tuition fees for 20/21 due to Covid-19](324762.md) | 255,559 | 254,508 | 1,051 | 0 | 99.59 | 0.41 | 0.00 |
+| [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 225,261 | 220,080 | 5,181 | 0 | 97.70 | 2.30 | 0.00 |
 | [Implement sanctions against the Nigerian Government and officials](554150.md) | 220,797 | 199,724 | 21,073 | 0 | 90.46 | 9.54 | 0.00 |
 | [Broker a ceasefire for all sides in Yemen to carry out humanitarian aid](326932.md) | 211,740 | 209,412 | 2,328 | 0 | 98.90 | 1.10 | 0.00 |
-| [Cancel GCSEs and A Levels in 2021](326066.md) | 206,595 | 205,396 | 1,199 | 0 | 99.42 | 0.58 | 0.00 |
+| [Cancel GCSEs and A Levels in 2021](326066.md) | 206,604 | 205,401 | 1,203 | 0 | 99.42 | 0.58 | 0.00 |
 | [Allow football fans to attend matches at all levels](552036.md) | 200,223 | 198,666 | 1,557 | 0 | 99.22 | 0.78 | 0.00 |
-| [Close schools in Tier 4 areas](564209.md) | 193,585 | 193,382 | 203 | 0 | 99.90 | 0.10 | 0.00 |
-| [Create a Minister for Hospitality in the UK Government](552201.md) | 189,150 | 187,916 | 1,234 | 0 | 99.35 | 0.65 | 0.00 |
-| [Keep gyms open during Tier 4 lockdown](563904.md) | 175,550 | 175,460 | 90 | 0 | 99.95 | 0.05 | 0.00 |
-| [Scrap removal of free transport for under-18s from TfL bailout](331453.md) | 170,902 | 170,318 | 584 | 0 | 99.66 | 0.34 | 0.00 |
-| [Lower university tuition fees for students until online teaching ends](552911.md) | 168,339 | 167,678 | 661 | 0 | 99.61 | 0.39 | 0.00 |
-| [Cancel GCSE and A-levels in 2021 replace with Course Work and Teacher Assessment](564696.md) | 155,574 | 154,584 | 990 | 0 | 99.36 | 0.64 | 0.00 |
+| [Close schools in Tier 4 areas](564209.md) | 193,590 | 193,387 | 203 | 0 | 99.90 | 0.10 | 0.00 |
+| [Create a Minister for Hospitality in the UK Government](552201.md) | 189,369 | 188,134 | 1,235 | 0 | 99.35 | 0.65 | 0.00 |
+| [Keep gyms open during Tier 4 lockdown](563904.md) | 175,566 | 175,476 | 90 | 0 | 99.95 | 0.05 | 0.00 |
+| [Scrap removal of free transport for under-18s from TfL bailout](331453.md) | 170,903 | 170,319 | 584 | 0 | 99.66 | 0.34 | 0.00 |
+| [Lower university tuition fees for students until online teaching ends](552911.md) | 168,392 | 167,731 | 661 | 0 | 99.61 | 0.39 | 0.00 |
+| [Cancel GCSE and A-levels in 2021 replace with Course Work and Teacher Assessment](564696.md) | 155,589 | 154,599 | 990 | 0 | 99.36 | 0.64 | 0.00 |
 | [Let Us Dance - Support nightclubs, dance music events and festivals](332789.md) | 145,978 | 145,145 | 833 | 0 | 99.43 | 0.57 | 0.00 |
-| [Allow teacher predicted grades for BTEC students](548778.md) | 136,026 | 135,776 | 250 | 0 | 99.82 | 0.18 | 0.00 |
-| [Reform the Gender Recognition Act.](327108.md) | 135,936 | 133,913 | 2,023 | 0 | 98.51 | 1.49 | 0.00 |
-| [Take action to stop illegal immigration and rapidly remove illegal immigrants](321862.md) | 126,327 | 124,812 | 1,515 | 0 | 98.80 | 1.20 | 0.00 |
+| [Allow teacher predicted grades for BTEC students](548778.md) | 136,604 | 136,351 | 253 | 0 | 99.81 | 0.19 | 0.00 |
+| [Reform the Gender Recognition Act.](327108.md) | 135,937 | 133,914 | 2,023 | 0 | 98.51 | 1.49 | 0.00 |
+| [Take action to stop illegal immigration and rapidly remove illegal immigrants](321862.md) | 126,328 | 124,813 | 1,515 | 0 | 98.80 | 1.20 | 0.00 |
 | [Implement a two week school lockdown before 24 December to save Christmas](549015.md) | 125,194 | 125,068 | 126 | 0 | 99.90 | 0.10 | 0.00 |
-| [Hold a public inquiry into Government contracts granted during Covid-19](328408.md) | 116,173 | 114,661 | 1,512 | 0 | 98.70 | 1.30 | 0.00 |
+| [Hold a public inquiry into Government contracts granted during Covid-19](328408.md) | 116,187 | 114,673 | 1,514 | 0 | 98.70 | 1.30 | 0.00 |
 | [Increase Number of Guests Permitted at Weddings, according to Venue Capacity](329339.md) | 112,058 | 111,735 | 323 | 0 | 99.71 | 0.29 | 0.00 |
-| [Give government workers a fair pay rise](328754.md) | 104,552 | 104,346 | 206 | 0 | 99.80 | 0.20 | 0.00 |
+| [Give government workers a fair pay rise](328754.md) | 104,559 | 104,353 | 206 | 0 | 99.80 | 0.20 | 0.00 |
 | [Tougher sentences for hit and run drivers who cause death](323926.md) | 104,075 | 103,462 | 613 | 0 | 99.41 | 0.59 | 0.00 |
-| [Protect Retail Workers from Abuse, Threats and Violence.](328621.md) | 103,246 | 103,072 | 174 | 0 | 99.83 | 0.17 | 0.00 |
-| [Make dog theft a specific criminal offence](560216.md) | 102,422 | 101,784 | 638 | 0 | 99.38 | 0.62 | 0.00 |
-| [Increase funding for research into Endometriosis and PCOS.](328570.md) | 96,881 | 96,487 | 394 | 0 | 99.59 | 0.41 | 0.00 |
-| [Ban the shooting of badgers immediately](333693.md) | 75,028 | 74,167 | 861 | 0 | 98.85 | 1.15 | 0.00 |
-| [Enshrine the Military Covenant in UK Law](332503.md) | 68,650 | 66,813 | 1,837 | 0 | 97.32 | 2.68 | 0.00 |
-| [Protect the UK's dwindling hedgehog population before it's too late.](550379.md) | 67,951 | 67,427 | 524 | 0 | 99.23 | 0.77 | 0.00 |
+| [Protect Retail Workers from Abuse, Threats and Violence.](328621.md) | 103,250 | 103,076 | 174 | 0 | 99.83 | 0.17 | 0.00 |
+| [Make dog theft a specific criminal offence](560216.md) | 102,689 | 102,049 | 640 | 0 | 99.38 | 0.62 | 0.00 |
+| [Increase funding for research into Endometriosis and PCOS.](328570.md) | 96,904 | 96,510 | 394 | 0 | 99.59 | 0.41 | 0.00 |
+| [Ban the shooting of badgers immediately](333693.md) | 75,036 | 74,175 | 861 | 0 | 98.85 | 1.15 | 0.00 |
+| [Enshrine the Military Covenant in UK Law](332503.md) | 68,651 | 66,814 | 1,837 | 0 | 97.32 | 2.68 | 0.00 |
+| [Protect the UK's dwindling hedgehog population before it's too late.](550379.md) | 67,961 | 67,437 | 524 | 0 | 99.23 | 0.77 | 0.00 |
 | [To Seek a 1 year Extension to the Brexit Transition Period & a Second Referendum](554492.md) | 65,553 | 62,242 | 3,311 | 0 | 94.95 | 5.05 | 0.00 |
-| [Make it a criminal offence for MPs to mislead the public](561730.md) | 58,625 | 57,419 | 1,206 | 0 | 97.94 | 2.06 | 0.00 |
-| [Lower the age you are offered a cervical screening (smear test) from 25 to 16](325302.md) | 56,585 | 56,498 | 87 | 0 | 99.85 | 0.15 | 0.00 |
-| [Reverse the change to Small Brewers Relief.](334066.md) | 51,519 | 51,210 | 309 | 0 | 99.40 | 0.60 | 0.00 |
-| [Stop work on HS2 immediately and hold a new vote to repeal the legislation](563380.md) | 51,443 | 51,171 | 272 | 0 | 99.47 | 0.53 | 0.00 |
-| [Extend furlough beyond October for the travel industry.](549014.md) | 51,436 | 51,123 | 313 | 0 | 99.39 | 0.61 | 0.00 |
-| [Stop Forestry England granting licenses for Fox & Hare hunts](552017.md) | 51,158 | 50,371 | 787 | 0 | 98.46 | 1.54 | 0.00 |
-| [Enable all students to end university tenancy agreements early due to Covid-19.](553285.md) | 50,053 | 49,881 | 172 | 0 | 99.66 | 0.34 | 0.00 |
-| [All nurseries and places of education to stay closed after Xmas to 15 January](561988.md) | 48,775 | 48,694 | 81 | 0 | 99.83 | 0.17 | 0.00 |
-| [Allow golf to be played with appropriate safety measures](557167.md) | 48,613 | 48,577 | 36 | 0 | 99.93 | 0.07 | 0.00 |
+| [Make it a criminal offence for MPs to mislead the public](561730.md) | 58,713 | 57,506 | 1,207 | 0 | 97.94 | 2.06 | 0.00 |
+| [Lower the age you are offered a cervical screening (smear test) from 25 to 16](325302.md) | 56,597 | 56,510 | 87 | 0 | 99.85 | 0.15 | 0.00 |
+| [Stop work on HS2 immediately and hold a new vote to repeal the legislation](563380.md) | 52,019 | 51,743 | 276 | 0 | 99.47 | 0.53 | 0.00 |
+| [Allow golf to be played with appropriate safety measures](557167.md) | 52,003 | 51,965 | 38 | 0 | 99.93 | 0.07 | 0.00 |
+| [Reverse the change to Small Brewers Relief.](334066.md) | 51,520 | 51,211 | 309 | 0 | 99.40 | 0.60 | 0.00 |
+| [Extend furlough beyond October for the travel industry.](549014.md) | 51,437 | 51,124 | 313 | 0 | 99.39 | 0.61 | 0.00 |
+| [Stop Forestry England granting licenses for Fox & Hare hunts](552017.md) | 51,170 | 50,383 | 787 | 0 | 98.46 | 1.54 | 0.00 |
+| [Enable all students to end university tenancy agreements early due to Covid-19.](553285.md) | 50,776 | 50,602 | 174 | 0 | 99.66 | 0.34 | 0.00 |
+| [All nurseries and places of education to stay closed after Xmas to 15 January](561988.md) | 48,787 | 48,706 | 81 | 0 | 99.83 | 0.17 | 0.00 |
 | [Reject the proposals for Junction 10 of the A3/M25](332711.md) | 46,330 | 46,085 | 245 | 0 | 99.47 | 0.53 | 0.00 |
 | [Save Community Sports Clubs and Leisure Facilities with a Sports Recovery Fund](553619.md) | 46,111 | 46,023 | 88 | 0 | 99.81 | 0.19 | 0.00 |
 | [Give further financial support to the Events and Hospitality industry](329985.md) | 45,220 | 44,999 | 221 | 0 | 99.51 | 0.49 | 0.00 |
-| [Extend furlough scheme for theatre and live music industry. ](329174.md) | 42,182 | 41,954 | 228 | 0 | 99.46 | 0.54 | 0.00 |
-| [Ban Supertrawlers from UK waters after leaving the EUs  Common Fisheries Policy](550730.md) | 41,490 | 40,943 | 547 | 0 | 98.68 | 1.32 | 0.00 |
-| [Revoke rules for refusing or cancelling permission to stay for rough sleepers](561884.md) | 39,679 | 39,369 | 310 | 0 | 99.22 | 0.78 | 0.00 |
+| [Extend furlough scheme for theatre and live music industry. ](329174.md) | 42,183 | 41,955 | 228 | 0 | 99.46 | 0.54 | 0.00 |
+| [Ban Supertrawlers from UK waters after leaving the EUs  Common Fisheries Policy](550730.md) | 41,546 | 40,998 | 548 | 0 | 98.68 | 1.32 | 0.00 |
+| [Revoke rules for refusing or cancelling permission to stay for rough sleepers](561884.md) | 39,680 | 39,370 | 310 | 0 | 99.22 | 0.78 | 0.00 |
