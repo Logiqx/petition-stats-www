@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-01-13 10:00:21
+Last refreshed 2021-01-13 11:00:21
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -44,7 +44,7 @@ Last refreshed 2021-01-13 10:00:21
 | [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 112,226 | 111,341 | 885 | 0 | 99.21 | 0.79 | 0.00 |
 | [Refund university students for 3rd Semester Tuition 2020](306494.md) | 111,498 | 111,133 | 365 | 0 | 99.67 | 0.33 | 0.00 |
 | [Omit the NHS from any future trade deal with the US](307339.md) | 111,076 | 109,790 | 1,286 | 0 | 98.84 | 1.16 | 0.00 |
-| [Revoke the TV licence using legislation](300118.md) | 110,837 | 109,800 | 1,037 | 0 | 99.06 | 0.94 | 0.00 |
+| [Revoke the TV licence using legislation](300118.md) | 110,838 | 109,801 | 1,037 | 0 | 99.06 | 0.94 | 0.00 |
 | [Fund research for childhood cancers with the worst survival rates](300027.md) | 109,177 | 108,377 | 800 | 0 | 99.27 | 0.73 | 0.00 |
 | [Require councils to suspend council tax payments during the coronavirus outbreak](303274.md) | 107,596 | 107,463 | 133 | 0 | 99.88 | 0.12 | 0.00 |
 | [Extend the transition; delay negotiations until after the coronavirus outbreak](300412.md) | 107,436 | 102,028 | 5,408 | 0 | 94.97 | 5.03 | 0.00 |
