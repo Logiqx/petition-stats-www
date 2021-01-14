@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-01-14 16:00:22
+Last refreshed 2021-01-14 17:00:21
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -41,7 +41,7 @@ Last refreshed 2021-01-14 16:00:22
 | [Replace Breed Specific Legislation with a new statutory framework](300561.md) | 118,639 | 117,310 | 1,329 | 0 | 98.88 | 1.12 | 0.00 |
 | [The UK should ban the importation of Shark Fins.](300535.md) | 115,381 | 111,878 | 3,503 | 0 | 96.96 | 3.04 | 0.00 |
 | [Implement Universal Basic Income to give home & food security through Covid-19](302284.md) | 114,572 | 113,768 | 804 | 0 | 99.30 | 0.70 | 0.00 |
-| [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 112,226 | 111,341 | 885 | 0 | 99.21 | 0.79 | 0.00 |
+| [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 112,227 | 111,342 | 885 | 0 | 99.21 | 0.79 | 0.00 |
 | [Refund university students for 3rd Semester Tuition 2020](306494.md) | 111,498 | 111,133 | 365 | 0 | 99.67 | 0.33 | 0.00 |
 | [Omit the NHS from any future trade deal with the US](307339.md) | 111,076 | 109,790 | 1,286 | 0 | 98.84 | 1.16 | 0.00 |
 | [Revoke the TV licence using legislation](300118.md) | 110,838 | 109,801 | 1,037 | 0 | 99.06 | 0.94 | 0.00 |
