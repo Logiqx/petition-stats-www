@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-01-19 16:00:26
+Last refreshed 2021-01-19 17:00:24
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -29,8 +29,8 @@ Last refreshed 2021-01-19 16:00:26
 | [Award all Nursing Staff in the NHS a pay rise of 10% backdated to 1 April 2020](316307.md) | 141,772 | 140,936 | 836 | 0 | 99.41 | 0.59 | 0.00 |
 | [Require universities to reimburse students' tuition fees during strike action](300528.md) | 136,749 | 136,429 | 320 | 0 | 99.77 | 0.23 | 0.00 |
 | [Allow gyms and leisure centres to reopen](307146.md) | 136,163 | 136,001 | 162 | 0 | 99.88 | 0.12 | 0.00 |
-| [Provide financial help to zoos, aquariums, & rescue centres during the pandemic.](308733.md) | 135,479 | 134,861 | 618 | 0 | 99.54 | 0.46 | 0.00 |
-| [Don’t criminalise trespass](300139.md) | 134,929 | 133,243 | 1,686 | 0 | 98.75 | 1.25 | 0.00 |
+| [Provide financial help to zoos, aquariums, & rescue centres during the pandemic.](308733.md) | 135,480 | 134,862 | 618 | 0 | 99.54 | 0.46 | 0.00 |
+| [Don’t criminalise trespass](300139.md) | 134,930 | 133,244 | 1,686 | 0 | 98.75 | 1.25 | 0.00 |
 | [Release the Home Office's Grooming Gang Review in full](300239.md) | 131,625 | 128,711 | 2,914 | 0 | 97.79 | 2.21 | 0.00 |
 | [Introduce Mandatory Ethnicity Pay Gap Reporting](300105.md) | 130,567 | 129,644 | 923 | 0 | 99.29 | 0.71 | 0.00 |
 | [Allow Zoos and Wildlife attractions to reopen with social distancing in place](323881.md) | 129,290 | 128,740 | 550 | 0 | 99.57 | 0.43 | 0.00 |
@@ -38,9 +38,9 @@ Last refreshed 2021-01-19 16:00:26
 | [Encourage lenders, landlords and utilities to freeze payments during lockdown](302256.md) | 126,934 | 126,593 | 341 | 0 | 99.73 | 0.27 | 0.00 |
 | [Take action to stop illegal immigration and rapidly remove illegal immigrants](321862.md) | 126,440 | 124,924 | 1,516 | 0 | 98.80 | 1.20 | 0.00 |
 | [Close all universities down for an appropriate amount of time amidst COVID-19](300628.md) | 123,903 | 123,123 | 780 | 0 | 99.37 | 0.63 | 0.00 |
-| [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 121,165 | 119,595 | 1,570 | 0 | 98.70 | 1.30 | 0.00 |
-| [Replace Breed Specific Legislation with a new statutory framework](300561.md) | 118,639 | 117,310 | 1,329 | 0 | 98.88 | 1.12 | 0.00 |
-| [The UK should ban the importation of Shark Fins.](300535.md) | 115,381 | 111,878 | 3,503 | 0 | 96.96 | 3.04 | 0.00 |
+| [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 121,166 | 119,596 | 1,570 | 0 | 98.70 | 1.30 | 0.00 |
+| [Replace Breed Specific Legislation with a new statutory framework](300561.md) | 118,640 | 117,311 | 1,329 | 0 | 98.88 | 1.12 | 0.00 |
+| [The UK should ban the importation of Shark Fins.](300535.md) | 115,382 | 111,879 | 3,503 | 0 | 96.96 | 3.04 | 0.00 |
 | [Implement Universal Basic Income to give home & food security through Covid-19](302284.md) | 114,572 | 113,768 | 804 | 0 | 99.30 | 0.70 | 0.00 |
 | [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 112,227 | 111,342 | 885 | 0 | 99.21 | 0.79 | 0.00 |
 | [Refund university students for 3rd Semester Tuition 2020](306494.md) | 111,498 | 111,133 | 365 | 0 | 99.67 | 0.33 | 0.00 |
