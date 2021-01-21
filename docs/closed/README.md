@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-01-21 01:00:23
+Last refreshed 2021-01-21 02:00:35
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -52,7 +52,7 @@ Last refreshed 2021-01-21 01:00:23
 | [Give UK nurseries emergency funding if they have to close down amid COVID-19](301836.md) | 106,128 | 105,887 | 241 | 0 | 99.77 | 0.23 | 0.00 |
 | [Publish the Russia report](300059.md) | 105,309 | 101,897 | 3,412 | 0 | 96.76 | 3.24 | 0.00 |
 | [Give government workers a fair pay rise](328754.md) | 104,703 | 104,497 | 206 | 0 | 99.80 | 0.20 | 0.00 |
-| [Tougher sentences for hit and run drivers who cause death](323926.md) | 104,321 | 103,706 | 615 | 0 | 99.41 | 0.59 | 0.00 |
+| [Tougher sentences for hit and run drivers who cause death](323926.md) | 104,322 | 103,707 | 615 | 0 | 99.41 | 0.59 | 0.00 |
 | [Support the British aviation industry during the COVID-19 outbreak](303081.md) | 103,040 | 101,619 | 1,421 | 0 | 98.62 | 1.38 | 0.00 |
 | [Repeal the Coronavirus Act 2020](313310.md) | 102,805 | 101,824 | 981 | 0 | 99.05 | 0.95 | 0.00 |
 | [Coronavirus Support Package for Directors / Shareholders of small Limited Co's.](310515.md) | 101,093 | 100,629 | 464 | 0 | 99.54 | 0.46 | 0.00 |
