@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-01-21 23:00:18
+Last refreshed 2021-01-22 00:00:19
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -12,6 +12,7 @@ Last refreshed 2021-01-21 23:00:18
 | [Close Schools/Colleges down for an appropriate amount of time amidst COVID19.](300403.md) | 685,393 | 682,887 | 2,506 | 0 | 99.63 | 0.37 | 0.00 |
 | [Implement UK lockdown for preventing spread of COVID19](301397.md) | 409,472 | 406,896 | 2,576 | 0 | 99.37 | 0.63 | 0.00 |
 | [Reimburse all students of this year’s fees due to strikes and COVID-19](302855.md) | 353,129 | 351,855 | 1,274 | 0 | 99.64 | 0.36 | 0.00 |
+| [Limit the Sale and Use of Fireworks to Organisers of Licensed Displays Only](319891.md) | 301,555 | 300,272 | 1,283 | 0 | 99.57 | 0.43 | 0.00 |
 | [Teach Britain's colonial past as part of the UK's compulsory curriculum](324092.md) | 268,772 | 265,909 | 2,863 | 0 | 98.93 | 1.07 | 0.00 |
 | [Exempt golf courses from the list of venues required to close due to Covid-19](309851.md) | 257,267 | 256,932 | 335 | 0 | 99.87 | 0.13 | 0.00 |
 | [Make LGBT conversion therapy illegal in the UK](300976.md) | 256,392 | 253,566 | 2,826 | 0 | 98.90 | 1.10 | 0.00 |
@@ -20,6 +21,7 @@ Last refreshed 2021-01-21 23:00:18
 | [Improve Maternal Mortality Rates and Health Care for Black Women in the U.K.](301079.md) | 187,519 | 185,952 | 1,567 | 0 | 99.16 | 0.84 | 0.00 |
 | [Offer more support to the arts (particularly Theatres and Music) amidst COVID-19](320711.md) | 179,699 | 178,265 | 1,434 | 0 | 99.20 | 0.80 | 0.00 |
 | [Increase pay for NHS healthcare workers and recognise their work](300073.md) | 178,820 | 177,996 | 824 | 0 | 99.54 | 0.46 | 0.00 |
+| [Scrap removal of free transport for under-18s from TfL bailout](331453.md) | 171,008 | 170,424 | 584 | 0 | 99.66 | 0.34 | 0.00 |
 | [Government to offer economic assistance to the events industry during COVID-19](301186.md) | 154,814 | 153,902 | 912 | 0 | 99.41 | 0.59 | 0.00 |
 | [Review the decision to use previous data to calculate exam grades](306773.md) | 148,884 | 147,634 | 1,250 | 0 | 99.16 | 0.84 | 0.00 |
 | [Reduce curriculum content for year 10 & 12 students who will sit exams in 2021.](320772.md) | 148,388 | 147,990 | 398 | 0 | 99.73 | 0.27 | 0.00 |
@@ -56,5 +58,3 @@ Last refreshed 2021-01-21 23:00:18
 | [Support the British aviation industry during the COVID-19 outbreak](303081.md) | 103,040 | 101,619 | 1,421 | 0 | 98.62 | 1.38 | 0.00 |
 | [Repeal the Coronavirus Act 2020](313310.md) | 102,805 | 101,824 | 981 | 0 | 99.05 | 0.95 | 0.00 |
 | [Coronavirus Support Package for Directors / Shareholders of small Limited Co's.](310515.md) | 101,093 | 100,629 | 464 | 0 | 99.54 | 0.46 | 0.00 |
-| [No prosecution for parents that remove child from school during a pandemic.](300399.md) | 100,649 | 100,385 | 264 | 0 | 99.74 | 0.26 | 0.00 |
-| [Add education on diversity and racism to all school curriculums](323808.md) | 89,496 | 88,859 | 637 | 0 | 99.29 | 0.71 | 0.00 |
