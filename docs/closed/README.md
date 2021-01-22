@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-01-22 14:00:21
+Last refreshed 2021-01-22 15:00:45
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -21,7 +21,7 @@ Last refreshed 2021-01-22 14:00:21
 | [Improve Maternal Mortality Rates and Health Care for Black Women in the U.K.](301079.md) | 187,519 | 185,952 | 1,567 | 0 | 99.16 | 0.84 | 0.00 |
 | [Offer more support to the arts (particularly Theatres and Music) amidst COVID-19](320711.md) | 179,699 | 178,265 | 1,434 | 0 | 99.20 | 0.80 | 0.00 |
 | [Increase pay for NHS healthcare workers and recognise their work](300073.md) | 178,820 | 177,996 | 824 | 0 | 99.54 | 0.46 | 0.00 |
-| [Scrap removal of free transport for under-18s from TfL bailout](331453.md) | 171,009 | 170,425 | 584 | 0 | 99.66 | 0.34 | 0.00 |
+| [Scrap removal of free transport for under-18s from TfL bailout](331453.md) | 171,010 | 170,426 | 584 | 0 | 99.66 | 0.34 | 0.00 |
 | [Government to offer economic assistance to the events industry during COVID-19](301186.md) | 154,814 | 153,902 | 912 | 0 | 99.41 | 0.59 | 0.00 |
 | [Review the decision to use previous data to calculate exam grades](306773.md) | 148,884 | 147,634 | 1,250 | 0 | 99.16 | 0.84 | 0.00 |
 | [Reduce curriculum content for year 10 & 12 students who will sit exams in 2021.](320772.md) | 148,388 | 147,990 | 398 | 0 | 99.73 | 0.27 | 0.00 |
