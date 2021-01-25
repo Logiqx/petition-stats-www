@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-01-24 23:00:21
+Last refreshed 2021-01-25 00:00:22
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -29,6 +29,7 @@ Last refreshed 2021-01-24 23:00:21
 | [Impose sanctions on China over its treatment of Uyghur Muslims](300146.md) | 146,344 | 139,771 | 6,573 | 0 | 95.51 | 4.49 | 0.00 |
 | [Make pet theft crime a specific offence with custodial sentences.](300071.md) | 143,635 | 142,225 | 1,410 | 0 | 99.02 | 0.98 | 0.00 |
 | [Award all Nursing Staff in the NHS a pay rise of 10% backdated to 1 April 2020](316307.md) | 141,772 | 140,936 | 836 | 0 | 99.41 | 0.59 | 0.00 |
+| [Reform the Gender Recognition Act.](327108.md) | 137,265 | 135,222 | 2,043 | 0 | 98.51 | 1.49 | 0.00 |
 | [Require universities to reimburse students' tuition fees during strike action](300528.md) | 136,749 | 136,429 | 320 | 0 | 99.77 | 0.23 | 0.00 |
 | [Allow gyms and leisure centres to reopen](307146.md) | 136,163 | 136,001 | 162 | 0 | 99.88 | 0.12 | 0.00 |
 | [Provide financial help to zoos, aquariums, & rescue centres during the pandemic.](308733.md) | 135,480 | 134,862 | 618 | 0 | 99.54 | 0.46 | 0.00 |
@@ -54,7 +55,6 @@ Last refreshed 2021-01-24 23:00:21
 | [Give UK nurseries emergency funding if they have to close down amid COVID-19](301836.md) | 106,128 | 105,887 | 241 | 0 | 99.77 | 0.23 | 0.00 |
 | [Publish the Russia report](300059.md) | 105,309 | 101,897 | 3,412 | 0 | 96.76 | 3.24 | 0.00 |
 | [Give government workers a fair pay rise](328754.md) | 104,703 | 104,497 | 206 | 0 | 99.80 | 0.20 | 0.00 |
+| [Protect Retail Workers from Abuse, Threats and Violence.](328621.md) | 104,353 | 104,178 | 175 | 0 | 99.83 | 0.17 | 0.00 |
 | [Tougher sentences for hit and run drivers who cause death](323926.md) | 104,322 | 103,707 | 615 | 0 | 99.41 | 0.59 | 0.00 |
 | [Support the British aviation industry during the COVID-19 outbreak](303081.md) | 103,040 | 101,619 | 1,421 | 0 | 98.62 | 1.38 | 0.00 |
-| [Repeal the Coronavirus Act 2020](313310.md) | 102,805 | 101,824 | 981 | 0 | 99.05 | 0.95 | 0.00 |
-| [Coronavirus Support Package for Directors / Shareholders of small Limited Co's.](310515.md) | 101,093 | 100,629 | 464 | 0 | 99.54 | 0.46 | 0.00 |
