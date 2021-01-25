@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-01-25 16:00:23
+Last refreshed 2021-01-25 17:00:22
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -32,7 +32,7 @@ Last refreshed 2021-01-25 16:00:23
 | [Reform the Gender Recognition Act.](327108.md) | 137,270 | 135,227 | 2,043 | 0 | 98.51 | 1.49 | 0.00 |
 | [Require universities to reimburse students' tuition fees during strike action](300528.md) | 136,749 | 136,429 | 320 | 0 | 99.77 | 0.23 | 0.00 |
 | [Allow gyms and leisure centres to reopen](307146.md) | 136,163 | 136,001 | 162 | 0 | 99.88 | 0.12 | 0.00 |
-| [Provide financial help to zoos, aquariums, & rescue centres during the pandemic.](308733.md) | 135,480 | 134,862 | 618 | 0 | 99.54 | 0.46 | 0.00 |
+| [Provide financial help to zoos, aquariums, & rescue centres during the pandemic.](308733.md) | 135,481 | 134,863 | 618 | 0 | 99.54 | 0.46 | 0.00 |
 | [Don’t criminalise trespass](300139.md) | 134,930 | 133,244 | 1,686 | 0 | 98.75 | 1.25 | 0.00 |
 | [Release the Home Office's Grooming Gang Review in full](300239.md) | 131,625 | 128,711 | 2,914 | 0 | 97.79 | 2.21 | 0.00 |
 | [Introduce Mandatory Ethnicity Pay Gap Reporting](300105.md) | 130,567 | 129,644 | 923 | 0 | 99.29 | 0.71 | 0.00 |
@@ -46,7 +46,7 @@ Last refreshed 2021-01-25 16:00:23
 | [The UK should ban the importation of Shark Fins.](300535.md) | 115,382 | 111,879 | 3,503 | 0 | 96.96 | 3.04 | 0.00 |
 | [Implement Universal Basic Income to give home & food security through Covid-19](302284.md) | 114,572 | 113,768 | 804 | 0 | 99.30 | 0.70 | 0.00 |
 | [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 112,227 | 111,342 | 885 | 0 | 99.21 | 0.79 | 0.00 |
-| [Refund university students for 3rd Semester Tuition 2020](306494.md) | 111,498 | 111,133 | 365 | 0 | 99.67 | 0.33 | 0.00 |
+| [Refund university students for 3rd Semester Tuition 2020](306494.md) | 111,499 | 111,134 | 365 | 0 | 99.67 | 0.33 | 0.00 |
 | [Omit the NHS from any future trade deal with the US](307339.md) | 111,076 | 109,790 | 1,286 | 0 | 98.84 | 1.16 | 0.00 |
 | [Revoke the TV licence using legislation](300118.md) | 110,838 | 109,801 | 1,037 | 0 | 99.06 | 0.94 | 0.00 |
 | [Fund research for childhood cancers with the worst survival rates](300027.md) | 109,178 | 108,378 | 800 | 0 | 99.27 | 0.73 | 0.00 |
