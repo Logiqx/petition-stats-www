@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-01-29 23:00:20
+Last refreshed 2021-01-30 00:00:23
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -13,6 +13,7 @@ Last refreshed 2021-01-29 23:00:20
 | [Implement UK lockdown for preventing spread of COVID19](301397.md) | 409,473 | 406,897 | 2,576 | 0 | 99.37 | 0.63 | 0.00 |
 | [Reimburse all students of this year’s fees due to strikes and COVID-19](302855.md) | 353,129 | 351,855 | 1,274 | 0 | 99.64 | 0.36 | 0.00 |
 | [Limit the Sale and Use of Fireworks to Organisers of Licensed Displays Only](319891.md) | 301,600 | 300,317 | 1,283 | 0 | 99.57 | 0.43 | 0.00 |
+| [Require universities to partially refund tuition fees for 20/21 due to Covid-19](324762.md) | 270,656 | 269,488 | 1,168 | 0 | 99.57 | 0.43 | 0.00 |
 | [Teach Britain's colonial past as part of the UK's compulsory curriculum](324092.md) | 268,772 | 265,909 | 2,863 | 0 | 98.93 | 1.07 | 0.00 |
 | [Exempt golf courses from the list of venues required to close due to Covid-19](309851.md) | 257,267 | 256,932 | 335 | 0 | 99.87 | 0.13 | 0.00 |
 | [Make LGBT conversion therapy illegal in the UK](300976.md) | 256,392 | 253,566 | 2,826 | 0 | 98.90 | 1.10 | 0.00 |
@@ -57,4 +58,3 @@ Last refreshed 2021-01-29 23:00:20
 | [Give government workers a fair pay rise](328754.md) | 104,703 | 104,497 | 206 | 0 | 99.80 | 0.20 | 0.00 |
 | [Protect Retail Workers from Abuse, Threats and Violence.](328621.md) | 104,354 | 104,179 | 175 | 0 | 99.83 | 0.17 | 0.00 |
 | [Tougher sentences for hit and run drivers who cause death](323926.md) | 104,322 | 103,707 | 615 | 0 | 99.41 | 0.59 | 0.00 |
-| [Support the British aviation industry during the COVID-19 outbreak](303081.md) | 103,040 | 101,619 | 1,421 | 0 | 98.62 | 1.38 | 0.00 |
