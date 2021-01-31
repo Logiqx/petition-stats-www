@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-01-31 00:00:22
+Last refreshed 2021-01-31 01:00:20
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -28,7 +28,7 @@ Last refreshed 2021-01-31 00:00:22
 | [Reduce curriculum content for year 10 & 12 students who will sit exams in 2021.](320772.md) | 148,388 | 147,990 | 398 | 0 | 99.73 | 0.27 | 0.00 |
 | [Give all key workers a 100% tax and Nat. Ins. holiday through COVID-19 crisis](306845.md) | 146,351 | 146,074 | 277 | 0 | 99.81 | 0.19 | 0.00 |
 | [Impose sanctions on China over its treatment of Uyghur Muslims](300146.md) | 146,344 | 139,771 | 6,573 | 0 | 95.51 | 4.49 | 0.00 |
-| [Let Us Dance - Support nightclubs, dance music events and festivals](332789.md) | 146,185 | 145,351 | 834 | 0 | 99.43 | 0.57 | 0.00 |
+| [Let Us Dance - Support nightclubs, dance music events and festivals](332789.md) | 146,186 | 145,352 | 834 | 0 | 99.43 | 0.57 | 0.00 |
 | [Make pet theft crime a specific offence with custodial sentences.](300071.md) | 143,635 | 142,225 | 1,410 | 0 | 99.02 | 0.98 | 0.00 |
 | [Award all Nursing Staff in the NHS a pay rise of 10% backdated to 1 April 2020](316307.md) | 141,772 | 140,936 | 836 | 0 | 99.41 | 0.59 | 0.00 |
 | [Reform the Gender Recognition Act.](327108.md) | 137,271 | 135,228 | 2,043 | 0 | 98.51 | 1.49 | 0.00 |
