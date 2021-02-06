@@ -4,16 +4,16 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-02-06 05:00:05
+Last refreshed 2021-02-06 06:00:09
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [End child food poverty – no child should be going hungry](554276.md) | 1,110,721 | 1,098,038 | 12,683 | 0 | 98.86 | 1.14 | 0.00 |
 | [Prevent gyms closing due to a spike in Covid 19 cases](333869.md) | 621,194 | 620,582 | 612 | 0 | 99.90 | 0.10 | 0.00 |
 | [Reduce University student tuition fees from £9250 to £3000](550344.md) | 571,950 | 569,573 | 2,377 | 0 | 99.58 | 0.42 | 0.00 |
-| [Prioritise teachers, school and childcare staff for Covid-19 vaccination](554316.md) | 491,506 | 490,259 | 1,247 | 0 | 99.75 | 0.25 | 0.00 |
+| [Prioritise teachers, school and childcare staff for Covid-19 vaccination](554316.md) | 491,511 | 490,264 | 1,247 | 0 | 99.75 | 0.25 | 0.00 |
 | [Reclose schools and colleges due to increase in COVID-19 cases](550846.md) | 427,494 | 426,817 | 677 | 0 | 99.84 | 0.16 | 0.00 |
-| [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 283,315 | 276,972 | 6,343 | 0 | 97.76 | 2.24 | 0.00 |
+| [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 283,317 | 276,974 | 6,343 | 0 | 97.76 | 2.24 | 0.00 |
 | [Implement sanctions against the Nigerian Government and officials](554150.md) | 220,945 | 199,867 | 21,078 | 0 | 90.46 | 9.54 | 0.00 |
 | [Cancel GCSEs and A Levels in 2021](326066.md) | 211,760 | 210,543 | 1,217 | 0 | 99.43 | 0.57 | 0.00 |
 | [Create a Minister for Hospitality in the UK Government](552201.md) | 209,182 | 207,788 | 1,394 | 0 | 99.33 | 0.67 | 0.00 |
@@ -23,30 +23,30 @@ Last refreshed 2021-02-06 05:00:05
 | [Lower university tuition fees for students until online teaching ends](552911.md) | 170,407 | 169,738 | 669 | 0 | 99.61 | 0.39 | 0.00 |
 | [Cancel GCSE and A-levels in 2021 replace with Course Work and Teacher Assessment](564696.md) | 157,087 | 156,080 | 1,007 | 0 | 99.36 | 0.64 | 0.00 |
 | [Stop work on HS2 immediately and hold a new vote to repeal the legislation](563380.md) | 148,610 | 147,647 | 963 | 0 | 99.35 | 0.65 | 0.00 |
-| [FIONA'S LAW - Women should be allowed a yearly Cervical screening   ](317336.md) | 145,555 | 144,926 | 629 | 0 | 99.57 | 0.43 | 0.00 |
+| [FIONA'S LAW - Women should be allowed a yearly Cervical screening   ](317336.md) | 145,556 | 144,927 | 629 | 0 | 99.57 | 0.43 | 0.00 |
 | [Allow teacher predicted grades for BTEC students](548778.md) | 144,824 | 144,531 | 293 | 0 | 99.80 | 0.20 | 0.00 |
-| [Make dog theft a specific criminal offence](560216.md) | 144,722 | 143,825 | 897 | 0 | 99.38 | 0.62 | 0.00 |
-| [Extend the Stamp Duty Holiday for an additional 6 months after 31st March 2021](550545.md) | 142,589 | 142,174 | 415 | 0 | 99.71 | 0.29 | 0.00 |
+| [Make dog theft a specific criminal offence](560216.md) | 144,729 | 143,832 | 897 | 0 | 99.38 | 0.62 | 0.00 |
+| [Extend the Stamp Duty Holiday for an additional 6 months after 31st March 2021](550545.md) | 142,592 | 142,177 | 415 | 0 | 99.71 | 0.29 | 0.00 |
 | [Allow golf to be played with appropriate safety measures](557167.md) | 132,087 | 131,965 | 122 | 0 | 99.91 | 0.09 | 0.00 |
 | [Implement a two week school lockdown before 24 December to save Christmas](549015.md) | 125,202 | 125,076 | 126 | 0 | 99.90 | 0.10 | 0.00 |
-| [Trigger Article 16. We want unfettered GB-NI Trade.](573209.md) | 120,522 | 119,695 | 827 | 0 | 99.31 | 0.69 | 0.00 |
+| [Trigger Article 16. We want unfettered GB-NI Trade.](573209.md) | 120,616 | 119,785 | 831 | 0 | 99.31 | 0.69 | 0.00 |
 | [Hold a public inquiry into Government contracts granted during Covid-19](328408.md) | 117,865 | 116,329 | 1,536 | 0 | 98.70 | 1.30 | 0.00 |
-| [Urge the Indian Government to ensure safety of protestors & press freedom](563473.md) | 112,865 | 110,798 | 2,067 | 0 | 98.17 | 1.83 | 0.00 |
+| [Urge the Indian Government to ensure safety of protestors & press freedom](563473.md) | 112,871 | 110,802 | 2,069 | 0 | 98.17 | 1.83 | 0.00 |
 | [Shut all nurseries and early years settings during lockdown](566718.md) | 103,023 | 102,844 | 179 | 0 | 99.83 | 0.17 | 0.00 |
-| [Ban the shooting of badgers immediately](333693.md) | 99,278 | 98,205 | 1,073 | 0 | 98.92 | 1.08 | 0.00 |
-| [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 88,147 | 88,090 | 57 | 0 | 99.94 | 0.06 | 0.00 |
-| [Make it a criminal offence for MPs to mislead the public](561730.md) | 87,636 | 85,782 | 1,854 | 0 | 97.88 | 2.12 | 0.00 |
-| [Continue the ban on the use of Neonicotinoids](563943.md) | 86,582 | 85,812 | 770 | 0 | 99.11 | 0.89 | 0.00 |
-| [Do not give consent for another Scottish Independence Referendum ](570779.md) | 83,626 | 83,110 | 516 | 0 | 99.38 | 0.62 | 0.00 |
-| [Tom’s Law - Give police the power to suspend driving licences](548682.md) | 77,908 | 77,452 | 456 | 0 | 99.41 | 0.59 | 0.00 |
-| [Protect the UK's dwindling hedgehog population before it's too late.](550379.md) | 74,880 | 74,292 | 588 | 0 | 99.21 | 0.79 | 0.00 |
+| [Ban the shooting of badgers immediately](333693.md) | 99,281 | 98,208 | 1,073 | 0 | 98.92 | 1.08 | 0.00 |
+| [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 88,156 | 88,099 | 57 | 0 | 99.94 | 0.06 | 0.00 |
+| [Make it a criminal offence for MPs to mislead the public](561730.md) | 87,642 | 85,788 | 1,854 | 0 | 97.88 | 2.12 | 0.00 |
+| [Continue the ban on the use of Neonicotinoids](563943.md) | 86,583 | 85,813 | 770 | 0 | 99.11 | 0.89 | 0.00 |
+| [Do not give consent for another Scottish Independence Referendum ](570779.md) | 83,639 | 83,122 | 517 | 0 | 99.38 | 0.62 | 0.00 |
+| [Tom’s Law - Give police the power to suspend driving licences](548682.md) | 77,954 | 77,498 | 456 | 0 | 99.42 | 0.58 | 0.00 |
+| [Protect the UK's dwindling hedgehog population before it's too late.](550379.md) | 74,881 | 74,293 | 588 | 0 | 99.21 | 0.79 | 0.00 |
 | [Enable all students to end university tenancy agreements early due to Covid-19.](553285.md) | 67,685 | 67,390 | 295 | 0 | 99.56 | 0.44 | 0.00 |
 | [To Seek a 1 year Extension to the Brexit Transition Period & a Second Referendum](554492.md) | 65,674 | 62,358 | 3,316 | 0 | 94.95 | 5.05 | 0.00 |
-| [Stop Forestry England granting licenses for Fox & Hare hunts](552017.md) | 64,237 | 63,223 | 1,014 | 0 | 98.42 | 1.58 | 0.00 |
+| [Stop Forestry England granting licenses for Fox & Hare hunts](552017.md) | 64,238 | 63,224 | 1,014 | 0 | 98.42 | 1.58 | 0.00 |
 | [Extend driving theory test certificates expiring in 2020/21 by 12 months](558160.md) | 63,180 | 63,102 | 78 | 0 | 99.88 | 0.12 | 0.00 |
-| [Prioritise COVID-19 vaccines for first responders (police, fire, ambulance)](564155.md) | 61,252 | 61,014 | 238 | 0 | 99.61 | 0.39 | 0.00 |
+| [Prioritise COVID-19 vaccines for first responders (police, fire, ambulance)](564155.md) | 61,253 | 61,015 | 238 | 0 | 99.61 | 0.39 | 0.00 |
 | [Permit larger weddings based on guests testing negative for COVID-19](550498.md) | 60,943 | 60,768 | 175 | 0 | 99.71 | 0.29 | 0.00 |
-| [Allow driving instructors to pass learners unable to book a test](549207.md) | 56,542 | 56,453 | 89 | 0 | 99.84 | 0.16 | 0.00 |
+| [Allow driving instructors to pass learners unable to book a test](549207.md) | 56,543 | 56,454 | 89 | 0 | 99.84 | 0.16 | 0.00 |
 | [Extend paid maternity leave by at least four months   ](557195.md) | 55,410 | 55,345 | 65 | 0 | 99.88 | 0.12 | 0.00 |
 | [Reverse the change to Small Brewers Relief.](334066.md) | 51,597 | 51,287 | 310 | 0 | 99.40 | 0.60 | 0.00 |
 | [Extend furlough beyond October for the travel industry.](549014.md) | 51,481 | 51,168 | 313 | 0 | 99.39 | 0.61 | 0.00 |
@@ -56,5 +56,5 @@ Last refreshed 2021-02-06 05:00:05
 | [Ensure Student Nurses are paid whilst on placement](554624.md) | 48,080 | 47,888 | 192 | 0 | 99.60 | 0.40 | 0.00 |
 | [Save Community Sports Clubs and Leisure Facilities with a Sports Recovery Fund](553619.md) | 46,551 | 46,462 | 89 | 0 | 99.81 | 0.19 | 0.00 |
 | [Give further financial support to the Events and Hospitality industry](329985.md) | 45,900 | 45,675 | 225 | 0 | 99.51 | 0.49 | 0.00 |
-| [Ban the importation of dogs with cropped ears.](333456.md) | 44,536 | 44,105 | 431 | 0 | 99.03 | 0.97 | 0.00 |
-| [Overturn the decision to allow the use of neonicotinoid pesticides](569214.md) | 43,952 | 43,557 | 395 | 0 | 99.10 | 0.90 | 0.00 |
+| [Ban the importation of dogs with cropped ears.](333456.md) | 44,537 | 44,106 | 431 | 0 | 99.03 | 0.97 | 0.00 |
+| [Overturn the decision to allow the use of neonicotinoid pesticides](569214.md) | 43,976 | 43,581 | 395 | 0 | 99.10 | 0.90 | 0.00 |
