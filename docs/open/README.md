@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-03-01 04:00:07
+Last refreshed 2021-03-01 05:00:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -13,8 +13,8 @@ Last refreshed 2021-03-01 04:00:07
 | [Prioritise teachers, school and childcare staff for Covid-19 vaccination](554316.md) | 506,160 | 504,877 | 1,283 | 0 | 99.75 | 0.25 | 0.00 |
 | [Reclose schools and colleges due to increase in COVID-19 cases](550846.md) | 428,507 | 427,827 | 680 | 0 | 99.84 | 0.16 | 0.00 |
 | [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 285,180 | 278,794 | 6,386 | 0 | 97.76 | 2.24 | 0.00 |
-| [Do not rollout Covid-19 vaccine passports](569957.md) | 236,664 | 234,067 | 2,597 | 0 | 98.90 | 1.10 | 0.00 |
-| [Make dog theft a specific criminal offence](560216.md) | 234,098 | 232,757 | 1,341 | 0 | 99.43 | 0.57 | 0.00 |
+| [Do not rollout Covid-19 vaccine passports](569957.md) | 236,691 | 234,093 | 2,598 | 0 | 98.90 | 1.10 | 0.00 |
+| [Make dog theft a specific criminal offence](560216.md) | 234,103 | 232,762 | 1,341 | 0 | 99.43 | 0.57 | 0.00 |
 | [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 227,909 | 227,740 | 169 | 0 | 99.93 | 0.07 | 0.00 |
 | [Implement sanctions against the Nigerian Government and officials](554150.md) | 221,083 | 199,995 | 21,088 | 0 | 90.46 | 9.54 | 0.00 |
 | [Create a Minister for Hospitality in the UK Government](552201.md) | 209,665 | 208,268 | 1,397 | 0 | 99.33 | 0.67 | 0.00 |
@@ -27,20 +27,20 @@ Last refreshed 2021-03-01 04:00:07
 | [Extend the Stamp Duty Holiday for an additional 6 months after 31st March 2021](550545.md) | 150,743 | 150,303 | 440 | 0 | 99.71 | 0.29 | 0.00 |
 | [FIONA'S LAW - Women should be allowed a yearly Cervical screening   ](317336.md) | 146,437 | 145,799 | 638 | 0 | 99.56 | 0.44 | 0.00 |
 | [Allow teacher predicted grades for BTEC students](548778.md) | 145,240 | 144,946 | 294 | 0 | 99.80 | 0.20 | 0.00 |
-| [Keep schools closed until May](573621.md) | 144,194 | 143,853 | 341 | 0 | 99.76 | 0.24 | 0.00 |
+| [Keep schools closed until May](573621.md) | 144,227 | 143,886 | 341 | 0 | 99.76 | 0.24 | 0.00 |
 | [Trigger Article 16. We want unfettered GB-NI Trade.](573209.md) | 142,995 | 141,904 | 1,091 | 0 | 99.24 | 0.76 | 0.00 |
 | [Allow golf to be played with appropriate safety measures](557167.md) | 132,474 | 132,351 | 123 | 0 | 99.91 | 0.09 | 0.00 |
 | [Hold a public inquiry into Government contracts granted during Covid-19](328408.md) | 126,753 | 125,169 | 1,584 | 0 | 98.75 | 1.25 | 0.00 |
 | [Implement a two week school lockdown before 24 December to save Christmas](549015.md) | 125,214 | 125,088 | 126 | 0 | 99.90 | 0.10 | 0.00 |
 | [Urge the Indian Government to ensure safety of protestors & press freedom](563473.md) | 115,485 | 113,386 | 2,099 | 0 | 98.18 | 1.82 | 0.00 |
 | [Do not give consent for another Scottish Independence Referendum ](570779.md) | 108,434 | 107,739 | 695 | 0 | 99.36 | 0.64 | 0.00 |
-| [Ban the shooting of badgers immediately](333693.md) | 104,975 | 103,832 | 1,143 | 0 | 98.91 | 1.09 | 0.00 |
+| [Ban the shooting of badgers immediately](333693.md) | 104,977 | 103,834 | 1,143 | 0 | 98.91 | 1.09 | 0.00 |
 | [Make it a criminal offence for MPs to mislead the public](561730.md) | 104,686 | 102,434 | 2,252 | 0 | 97.85 | 2.15 | 0.00 |
 | [Tom’s Law - Give police the power to suspend driving licences](548682.md) | 104,348 | 103,746 | 602 | 0 | 99.42 | 0.58 | 0.00 |
 | [Shut all nurseries and early years settings during lockdown](566718.md) | 103,092 | 102,913 | 179 | 0 | 99.83 | 0.17 | 0.00 |
 | [Continue the ban on the use of Neonicotinoids](563943.md) | 88,717 | 87,928 | 789 | 0 | 99.11 | 0.89 | 0.00 |
 | [Protect the UK's dwindling hedgehog population before it's too late.](550379.md) | 82,032 | 81,361 | 671 | 0 | 99.18 | 0.82 | 0.00 |
-| [Stop Forestry England granting licenses for Fox & Hare hunts](552017.md) | 77,888 | 76,666 | 1,222 | 0 | 98.43 | 1.57 | 0.00 |
+| [Stop Forestry England granting licenses for Fox & Hare hunts](552017.md) | 77,890 | 76,668 | 1,222 | 0 | 98.43 | 1.57 | 0.00 |
 | [Extend driving theory test certificates expiring in 2020/21 by 12 months](558160.md) | 70,754 | 70,667 | 87 | 0 | 99.88 | 0.12 | 0.00 |
 | [Enable all students to end university tenancy agreements early due to Covid-19.](553285.md) | 68,105 | 67,804 | 301 | 0 | 99.56 | 0.44 | 0.00 |
 | [Prioritise COVID-19 vaccines for first responders (police, fire, ambulance)](564155.md) | 67,857 | 67,581 | 276 | 0 | 99.59 | 0.41 | 0.00 |
