@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-03-04 20:00:20
+Last refreshed 2021-03-04 21:00:21
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -44,7 +44,7 @@ Last refreshed 2021-03-04 20:00:20
 | [Allow Zoos and Wildlife attractions to reopen with social distancing in place](323881.md) | 129,290 | 128,740 | 550 | 0 | 99.57 | 0.43 | 0.00 |
 | [Ban the exploitative import of young puppies for sale in the UK.](326261.md) | 128,549 | 127,383 | 1,166 | 0 | 99.09 | 0.91 | 0.00 |
 | [Encourage lenders, landlords and utilities to freeze payments during lockdown](302256.md) | 126,934 | 126,593 | 341 | 0 | 99.73 | 0.27 | 0.00 |
-| [Hold a public inquiry into Government contracts granted during Covid-19](328408.md) | 126,870 | 125,285 | 1,585 | 0 | 98.75 | 1.25 | 0.00 |
+| [Hold a public inquiry into Government contracts granted during Covid-19](328408.md) | 126,871 | 125,286 | 1,585 | 0 | 98.75 | 1.25 | 0.00 |
 | [Take action to stop illegal immigration and rapidly remove illegal immigrants](321862.md) | 126,440 | 124,924 | 1,516 | 0 | 98.80 | 1.20 | 0.00 |
 | [Close all universities down for an appropriate amount of time amidst COVID-19](300628.md) | 123,903 | 123,123 | 780 | 0 | 99.37 | 0.63 | 0.00 |
 | [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 121,166 | 119,596 | 1,570 | 0 | 98.70 | 1.30 | 0.00 |
