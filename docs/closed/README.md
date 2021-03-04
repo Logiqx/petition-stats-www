@@ -4,11 +4,11 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-03-04 16:00:20
+Last refreshed 2021-03-04 17:00:19
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Include self-employed in statutory sick pay during Coronavirus](300336.md) | 699,593 | 697,225 | 2,368 | 0 | 99.66 | 0.34 | 0.00 |
+| [Include self-employed in statutory sick pay during Coronavirus](300336.md) | 699,594 | 697,226 | 2,368 | 0 | 99.66 | 0.34 | 0.00 |
 | [Close Schools/Colleges down for an appropriate amount of time amidst COVID19.](300403.md) | 685,393 | 682,887 | 2,506 | 0 | 99.63 | 0.37 | 0.00 |
 | [Prevent gyms closing due to a spike in Covid 19 cases](333869.md) | 621,442 | 620,830 | 612 | 0 | 99.90 | 0.10 | 0.00 |
 | [Implement UK lockdown for preventing spread of COVID19](301397.md) | 409,473 | 406,897 | 2,576 | 0 | 99.37 | 0.63 | 0.00 |
@@ -44,13 +44,13 @@ Last refreshed 2021-03-04 16:00:20
 | [Allow Zoos and Wildlife attractions to reopen with social distancing in place](323881.md) | 129,290 | 128,740 | 550 | 0 | 99.57 | 0.43 | 0.00 |
 | [Ban the exploitative import of young puppies for sale in the UK.](326261.md) | 128,549 | 127,383 | 1,166 | 0 | 99.09 | 0.91 | 0.00 |
 | [Encourage lenders, landlords and utilities to freeze payments during lockdown](302256.md) | 126,934 | 126,593 | 341 | 0 | 99.73 | 0.27 | 0.00 |
-| [Hold a public inquiry into Government contracts granted during Covid-19](328408.md) | 126,868 | 125,283 | 1,585 | 0 | 98.75 | 1.25 | 0.00 |
+| [Hold a public inquiry into Government contracts granted during Covid-19](328408.md) | 126,869 | 125,284 | 1,585 | 0 | 98.75 | 1.25 | 0.00 |
 | [Take action to stop illegal immigration and rapidly remove illegal immigrants](321862.md) | 126,440 | 124,924 | 1,516 | 0 | 98.80 | 1.20 | 0.00 |
 | [Close all universities down for an appropriate amount of time amidst COVID-19](300628.md) | 123,903 | 123,123 | 780 | 0 | 99.37 | 0.63 | 0.00 |
 | [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 121,166 | 119,596 | 1,570 | 0 | 98.70 | 1.30 | 0.00 |
 | [Replace Breed Specific Legislation with a new statutory framework](300561.md) | 118,640 | 117,311 | 1,329 | 0 | 98.88 | 1.12 | 0.00 |
 | [The UK should ban the importation of Shark Fins.](300535.md) | 115,382 | 111,879 | 3,503 | 0 | 96.96 | 3.04 | 0.00 |
-| [Implement Universal Basic Income to give home & food security through Covid-19](302284.md) | 114,573 | 113,769 | 804 | 0 | 99.30 | 0.70 | 0.00 |
+| [Implement Universal Basic Income to give home & food security through Covid-19](302284.md) | 114,574 | 113,770 | 804 | 0 | 99.30 | 0.70 | 0.00 |
 | [Increase Number of Guests Permitted at Weddings, according to Venue Capacity](329339.md) | 113,401 | 113,070 | 331 | 0 | 99.71 | 0.29 | 0.00 |
 | [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 112,227 | 111,342 | 885 | 0 | 99.21 | 0.79 | 0.00 |
 | [Refund university students for 3rd Semester Tuition 2020](306494.md) | 111,499 | 111,134 | 365 | 0 | 99.67 | 0.33 | 0.00 |
