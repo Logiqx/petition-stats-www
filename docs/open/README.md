@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-03-08 03:00:09
+Last refreshed 2021-03-08 04:00:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -13,8 +13,8 @@ Last refreshed 2021-03-08 03:00:09
 | [Prioritise teachers, school and childcare staff for Covid-19 vaccination](554316.md) | 506,958 | 505,671 | 1,287 | 0 | 99.75 | 0.25 | 0.00 |
 | [Reclose schools and colleges due to increase in COVID-19 cases](550846.md) | 428,621 | 427,941 | 680 | 0 | 99.84 | 0.16 | 0.00 |
 | [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 285,305 | 278,917 | 6,388 | 0 | 97.76 | 2.24 | 0.00 |
-| [Do not rollout Covid-19 vaccine passports](569957.md) | 272,582 | 269,424 | 3,158 | 0 | 98.84 | 1.16 | 0.00 |
-| [Make dog theft a specific criminal offence](560216.md) | 253,328 | 251,911 | 1,417 | 0 | 99.44 | 0.56 | 0.00 |
+| [Do not rollout Covid-19 vaccine passports](569957.md) | 272,590 | 269,431 | 3,159 | 0 | 98.84 | 1.16 | 0.00 |
+| [Make dog theft a specific criminal offence](560216.md) | 253,334 | 251,917 | 1,417 | 0 | 99.44 | 0.56 | 0.00 |
 | [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 228,364 | 228,195 | 169 | 0 | 99.93 | 0.07 | 0.00 |
 | [Implement sanctions against the Nigerian Government and officials](554150.md) | 221,110 | 200,020 | 21,090 | 0 | 90.46 | 9.54 | 0.00 |
 | [Create a Minister for Hospitality in the UK Government](552201.md) | 209,713 | 208,314 | 1,399 | 0 | 99.33 | 0.67 | 0.00 |
@@ -24,8 +24,8 @@ Last refreshed 2021-03-08 03:00:09
 | [Lower university tuition fees for students until online teaching ends](552911.md) | 170,851 | 170,178 | 673 | 0 | 99.61 | 0.39 | 0.00 |
 | [Cancel GCSE and A-levels in 2021 replace with Course Work and Teacher Assessment](564696.md) | 157,526 | 156,516 | 1,010 | 0 | 99.36 | 0.64 | 0.00 |
 | [Stop work on HS2 immediately and hold a new vote to repeal the legislation](563380.md) | 151,813 | 150,825 | 988 | 0 | 99.35 | 0.65 | 0.00 |
-| [Extend the Stamp Duty Holiday for an additional 6 months after 31st March 2021](550545.md) | 150,917 | 150,476 | 441 | 0 | 99.71 | 0.29 | 0.00 |
-| [Keep schools closed until May](573621.md) | 148,532 | 148,181 | 351 | 0 | 99.76 | 0.24 | 0.00 |
+| [Extend the Stamp Duty Holiday for an additional 6 months after 31st March 2021](550545.md) | 150,918 | 150,477 | 441 | 0 | 99.71 | 0.29 | 0.00 |
+| [Keep schools closed until May](573621.md) | 148,534 | 148,183 | 351 | 0 | 99.76 | 0.24 | 0.00 |
 | [Trigger Article 16. We want unfettered GB-NI Trade.](573209.md) | 143,121 | 142,025 | 1,096 | 0 | 99.23 | 0.77 | 0.00 |
 | [Allow golf to be played with appropriate safety measures](557167.md) | 132,494 | 132,371 | 123 | 0 | 99.91 | 0.09 | 0.00 |
 | [Implement a two week school lockdown before 24 December to save Christmas](549015.md) | 125,218 | 125,092 | 126 | 0 | 99.90 | 0.10 | 0.00 |
@@ -37,13 +37,13 @@ Last refreshed 2021-03-08 03:00:09
 | [Shut all nurseries and early years settings during lockdown](566718.md) | 103,097 | 102,918 | 179 | 0 | 99.83 | 0.17 | 0.00 |
 | [Continue the ban on the use of Neonicotinoids](563943.md) | 88,988 | 88,198 | 790 | 0 | 99.11 | 0.89 | 0.00 |
 | [Protect the UK's dwindling hedgehog population before it's too late.](550379.md) | 87,510 | 86,796 | 714 | 0 | 99.18 | 0.82 | 0.00 |
-| [Stop Forestry England granting licenses for Fox & Hare hunts](552017.md) | 83,789 | 82,433 | 1,356 | 0 | 98.38 | 1.62 | 0.00 |
-| [Extend driving theory test certificates expiring in 2020/21 by 12 months](558160.md) | 72,200 | 72,109 | 91 | 0 | 99.87 | 0.13 | 0.00 |
+| [Stop Forestry England granting licenses for Fox & Hare hunts](552017.md) | 83,790 | 82,434 | 1,356 | 0 | 98.38 | 1.62 | 0.00 |
+| [Extend driving theory test certificates expiring in 2020/21 by 12 months](558160.md) | 72,202 | 72,111 | 91 | 0 | 99.87 | 0.13 | 0.00 |
 | [Enable all students to end university tenancy agreements early due to Covid-19.](553285.md) | 68,143 | 67,842 | 301 | 0 | 99.56 | 0.44 | 0.00 |
-| [Prioritise COVID-19 vaccines for first responders (police, fire, ambulance)](564155.md) | 68,115 | 67,838 | 277 | 0 | 99.59 | 0.41 | 0.00 |
+| [Prioritise COVID-19 vaccines for first responders (police, fire, ambulance)](564155.md) | 68,116 | 67,839 | 277 | 0 | 99.59 | 0.41 | 0.00 |
 | [To Seek a 1 year Extension to the Brexit Transition Period & a Second Referendum](554492.md) | 65,761 | 62,441 | 3,320 | 0 | 94.95 | 5.05 | 0.00 |
 | [Permit larger weddings based on guests testing negative for COVID-19](550498.md) | 64,413 | 64,227 | 186 | 0 | 99.71 | 0.29 | 0.00 |
-| [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 58,687 | 58,153 | 534 | 0 | 99.09 | 0.91 | 0.00 |
+| [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 58,690 | 58,156 | 534 | 0 | 99.09 | 0.91 | 0.00 |
 | [Allow driving instructors to pass learners unable to book a test](549207.md) | 58,054 | 57,962 | 92 | 0 | 99.84 | 0.16 | 0.00 |
 | [Extend paid maternity leave by at least four months   ](557195.md) | 56,350 | 56,280 | 70 | 0 | 99.88 | 0.12 | 0.00 |
 | [Ban greyhound racing to end unnecessary deaths & suffering of racing dogs](554073.md) | 52,118 | 51,316 | 802 | 0 | 98.46 | 1.54 | 0.00 |
