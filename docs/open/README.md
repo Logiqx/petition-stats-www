@@ -4,17 +4,17 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-03-11 05:00:08
+Last refreshed 2021-03-11 06:00:21
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [End child food poverty – no child should be going hungry](554276.md) | 1,112,421 | 1,099,693 | 12,728 | 0 | 98.86 | 1.14 | 0.00 |
 | [Reduce University student tuition fees from £9250 to £3000](550344.md) | 579,090 | 576,643 | 2,447 | 0 | 99.58 | 0.42 | 0.00 |
 | [Prioritise teachers, school and childcare staff for Covid-19 vaccination](554316.md) | 507,190 | 505,902 | 1,288 | 0 | 99.75 | 0.25 | 0.00 |
-| [Reclose schools and colleges due to increase in COVID-19 cases](550846.md) | 428,655 | 427,975 | 680 | 0 | 99.84 | 0.16 | 0.00 |
+| [Reclose schools and colleges due to increase in COVID-19 cases](550846.md) | 428,656 | 427,976 | 680 | 0 | 99.84 | 0.16 | 0.00 |
 | [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 285,340 | 278,950 | 6,390 | 0 | 97.76 | 2.24 | 0.00 |
-| [Do not rollout Covid-19 vaccine passports](569957.md) | 280,366 | 277,074 | 3,292 | 0 | 98.83 | 1.17 | 0.00 |
-| [Make dog theft a specific criminal offence](560216.md) | 256,061 | 254,625 | 1,436 | 0 | 99.44 | 0.56 | 0.00 |
+| [Do not rollout Covid-19 vaccine passports](569957.md) | 280,379 | 277,087 | 3,292 | 0 | 98.83 | 1.17 | 0.00 |
+| [Make dog theft a specific criminal offence](560216.md) | 256,069 | 254,632 | 1,437 | 0 | 99.44 | 0.56 | 0.00 |
 | [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 228,761 | 228,592 | 169 | 0 | 99.93 | 0.07 | 0.00 |
 | [Implement sanctions against the Nigerian Government and officials](554150.md) | 221,116 | 200,026 | 21,090 | 0 | 90.46 | 9.54 | 0.00 |
 | [Create a Minister for Hospitality in the UK Government](552201.md) | 209,731 | 208,332 | 1,399 | 0 | 99.33 | 0.67 | 0.00 |
@@ -33,19 +33,19 @@ Last refreshed 2021-03-11 05:00:08
 | [Do not give consent for another Scottish Independence Referendum ](570779.md) | 109,206 | 108,507 | 699 | 0 | 99.36 | 0.64 | 0.00 |
 | [Ban the shooting of badgers immediately](333693.md) | 105,365 | 104,213 | 1,152 | 0 | 98.91 | 1.09 | 0.00 |
 | [Make it a criminal offence for MPs to mislead the public](561730.md) | 105,172 | 102,915 | 2,257 | 0 | 97.85 | 2.15 | 0.00 |
-| [Tom’s Law - Give police the power to suspend driving licences](548682.md) | 104,666 | 104,064 | 602 | 0 | 99.42 | 0.58 | 0.00 |
+| [Tom’s Law - Give police the power to suspend driving licences](548682.md) | 104,667 | 104,065 | 602 | 0 | 99.42 | 0.58 | 0.00 |
 | [Shut all nurseries and early years settings during lockdown](566718.md) | 103,098 | 102,919 | 179 | 0 | 99.83 | 0.17 | 0.00 |
-| [Protect the UK's dwindling hedgehog population before it's too late.](550379.md) | 92,071 | 91,331 | 740 | 0 | 99.20 | 0.80 | 0.00 |
+| [Protect the UK's dwindling hedgehog population before it's too late.](550379.md) | 92,080 | 91,339 | 741 | 0 | 99.20 | 0.80 | 0.00 |
 | [Continue the ban on the use of Neonicotinoids](563943.md) | 89,122 | 88,330 | 792 | 0 | 99.11 | 0.89 | 0.00 |
-| [Stop Forestry England granting licenses for Fox & Hare hunts](552017.md) | 86,211 | 84,801 | 1,410 | 0 | 98.36 | 1.64 | 0.00 |
+| [Stop Forestry England granting licenses for Fox & Hare hunts](552017.md) | 86,214 | 84,804 | 1,410 | 0 | 98.36 | 1.64 | 0.00 |
 | [Extend driving theory test certificates expiring in 2020/21 by 12 months](558160.md) | 73,094 | 73,002 | 92 | 0 | 99.87 | 0.13 | 0.00 |
 | [Prioritise COVID-19 vaccines for first responders (police, fire, ambulance)](564155.md) | 68,184 | 67,907 | 277 | 0 | 99.59 | 0.41 | 0.00 |
 | [Enable all students to end university tenancy agreements early due to Covid-19.](553285.md) | 68,159 | 67,858 | 301 | 0 | 99.56 | 0.44 | 0.00 |
 | [To Seek a 1 year Extension to the Brexit Transition Period & a Second Referendum](554492.md) | 65,771 | 62,451 | 3,320 | 0 | 94.95 | 5.05 | 0.00 |
 | [Permit larger weddings based on guests testing negative for COVID-19](550498.md) | 64,457 | 64,271 | 186 | 0 | 99.71 | 0.29 | 0.00 |
-| [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 61,633 | 61,072 | 561 | 0 | 99.09 | 0.91 | 0.00 |
+| [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 61,634 | 61,073 | 561 | 0 | 99.09 | 0.91 | 0.00 |
 | [Extend paid maternity leave by at least four months   ](557195.md) | 56,407 | 56,336 | 71 | 0 | 99.87 | 0.13 | 0.00 |
-| [Ban greyhound racing to end unnecessary deaths & suffering of racing dogs](554073.md) | 53,975 | 53,140 | 835 | 0 | 98.45 | 1.55 | 0.00 |
+| [Ban greyhound racing to end unnecessary deaths & suffering of racing dogs](554073.md) | 53,986 | 53,151 | 835 | 0 | 98.45 | 1.55 | 0.00 |
 | [Ban Supertrawlers from UK waters after leaving the EUs  Common Fisheries Policy](550730.md) | 51,438 | 50,736 | 702 | 0 | 98.64 | 1.36 | 0.00 |
 | [Overturn the decision to allow the use of neonicotinoid pesticides](569214.md) | 50,630 | 50,186 | 444 | 0 | 99.12 | 0.88 | 0.00 |
 | [Require negative covid test to enter the UK](564229.md) | 49,772 | 49,679 | 93 | 0 | 99.81 | 0.19 | 0.00 |
