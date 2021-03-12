@@ -4,11 +4,11 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-03-12 11:00:19
+Last refreshed 2021-03-12 12:00:21
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Include self-employed in statutory sick pay during Coronavirus](300336.md) | 699,594 | 697,226 | 2,368 | 0 | 99.66 | 0.34 | 0.00 |
+| [Include self-employed in statutory sick pay during Coronavirus](300336.md) | 699,595 | 697,227 | 2,368 | 0 | 99.66 | 0.34 | 0.00 |
 | [Close Schools/Colleges down for an appropriate amount of time amidst COVID19.](300403.md) | 685,393 | 682,887 | 2,506 | 0 | 99.63 | 0.37 | 0.00 |
 | [Prevent gyms closing due to a spike in Covid 19 cases](333869.md) | 621,442 | 620,830 | 612 | 0 | 99.90 | 0.10 | 0.00 |
 | [Implement UK lockdown for preventing spread of COVID19](301397.md) | 409,473 | 406,897 | 2,576 | 0 | 99.37 | 0.63 | 0.00 |
@@ -26,7 +26,7 @@ Last refreshed 2021-03-12 11:00:19
 | [Offer more support to the arts (particularly Theatres and Music) amidst COVID-19](320711.md) | 179,699 | 178,265 | 1,434 | 0 | 99.20 | 0.80 | 0.00 |
 | [Increase pay for NHS healthcare workers and recognise their work](300073.md) | 178,820 | 177,996 | 824 | 0 | 99.54 | 0.46 | 0.00 |
 | [Scrap removal of free transport for under-18s from TfL bailout](331453.md) | 171,010 | 170,426 | 584 | 0 | 99.66 | 0.34 | 0.00 |
-| [Government to offer economic assistance to the events industry during COVID-19](301186.md) | 154,814 | 153,902 | 912 | 0 | 99.41 | 0.59 | 0.00 |
+| [Government to offer economic assistance to the events industry during COVID-19](301186.md) | 154,815 | 153,903 | 912 | 0 | 99.41 | 0.59 | 0.00 |
 | [Review the decision to use previous data to calculate exam grades](306773.md) | 148,884 | 147,634 | 1,250 | 0 | 99.16 | 0.84 | 0.00 |
 | [Reduce curriculum content for year 10 & 12 students who will sit exams in 2021.](320772.md) | 148,388 | 147,990 | 398 | 0 | 99.73 | 0.27 | 0.00 |
 | [FIONA'S LAW - Women should be allowed a yearly Cervical screening   ](317336.md) | 146,632 | 145,993 | 639 | 0 | 99.56 | 0.44 | 0.00 |
@@ -43,10 +43,10 @@ Last refreshed 2021-03-12 11:00:19
 | [Don’t criminalise trespass](300139.md) | 134,932 | 133,246 | 1,686 | 0 | 98.75 | 1.25 | 0.00 |
 | [Release the Home Office's Grooming Gang Review in full](300239.md) | 131,625 | 128,711 | 2,914 | 0 | 97.79 | 2.21 | 0.00 |
 | [Introduce Mandatory Ethnicity Pay Gap Reporting](300105.md) | 130,567 | 129,644 | 923 | 0 | 99.29 | 0.71 | 0.00 |
-| [Allow Zoos and Wildlife attractions to reopen with social distancing in place](323881.md) | 129,290 | 128,740 | 550 | 0 | 99.57 | 0.43 | 0.00 |
+| [Allow Zoos and Wildlife attractions to reopen with social distancing in place](323881.md) | 129,291 | 128,741 | 550 | 0 | 99.57 | 0.43 | 0.00 |
 | [Ban the exploitative import of young puppies for sale in the UK.](326261.md) | 128,549 | 127,383 | 1,166 | 0 | 99.09 | 0.91 | 0.00 |
 | [Encourage lenders, landlords and utilities to freeze payments during lockdown](302256.md) | 126,934 | 126,593 | 341 | 0 | 99.73 | 0.27 | 0.00 |
-| [Hold a public inquiry into Government contracts granted during Covid-19](328408.md) | 126,871 | 125,286 | 1,585 | 0 | 98.75 | 1.25 | 0.00 |
+| [Hold a public inquiry into Government contracts granted during Covid-19](328408.md) | 126,872 | 125,287 | 1,585 | 0 | 98.75 | 1.25 | 0.00 |
 | [Take action to stop illegal immigration and rapidly remove illegal immigrants](321862.md) | 126,440 | 124,924 | 1,516 | 0 | 98.80 | 1.20 | 0.00 |
 | [Close all universities down for an appropriate amount of time amidst COVID-19](300628.md) | 123,903 | 123,123 | 780 | 0 | 99.37 | 0.63 | 0.00 |
 | [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 121,166 | 119,596 | 1,570 | 0 | 98.70 | 1.30 | 0.00 |
