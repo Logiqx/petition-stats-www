@@ -4,17 +4,17 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-03-14 05:00:05
+Last refreshed 2021-03-14 06:00:20
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [End child food poverty – no child should be going hungry](554276.md) | 1,112,600 | 1,099,872 | 12,728 | 0 | 98.86 | 1.14 | 0.00 |
-| [Reduce University student tuition fees from £9250 to £3000](550344.md) | 579,395 | 576,944 | 2,451 | 0 | 99.58 | 0.42 | 0.00 |
+| [Reduce University student tuition fees from £9250 to £3000](550344.md) | 579,396 | 576,945 | 2,451 | 0 | 99.58 | 0.42 | 0.00 |
 | [Prioritise teachers, school and childcare staff for Covid-19 vaccination](554316.md) | 507,418 | 506,129 | 1,289 | 0 | 99.75 | 0.25 | 0.00 |
 | [Reclose schools and colleges due to increase in COVID-19 cases](550846.md) | 428,681 | 428,001 | 680 | 0 | 99.84 | 0.16 | 0.00 |
-| [Do not rollout Covid-19 vaccine passports](569957.md) | 291,186 | 287,800 | 3,386 | 0 | 98.84 | 1.16 | 0.00 |
+| [Do not rollout Covid-19 vaccine passports](569957.md) | 291,208 | 287,820 | 3,388 | 0 | 98.84 | 1.16 | 0.00 |
 | [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 285,416 | 279,025 | 6,391 | 0 | 97.76 | 2.24 | 0.00 |
-| [Make dog theft a specific criminal offence](560216.md) | 259,594 | 258,143 | 1,451 | 0 | 99.44 | 0.56 | 0.00 |
+| [Make dog theft a specific criminal offence](560216.md) | 259,597 | 258,146 | 1,451 | 0 | 99.44 | 0.56 | 0.00 |
 | [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 228,881 | 228,712 | 169 | 0 | 99.93 | 0.07 | 0.00 |
 | [Implement sanctions against the Nigerian Government and officials](554150.md) | 221,127 | 200,037 | 21,090 | 0 | 90.46 | 9.54 | 0.00 |
 | [Create a Minister for Hospitality in the UK Government](552201.md) | 209,748 | 208,349 | 1,399 | 0 | 99.33 | 0.67 | 0.00 |
@@ -27,23 +27,23 @@ Last refreshed 2021-03-14 05:00:05
 | [Extend the Stamp Duty Holiday for an additional 6 months after 31st March 2021](550545.md) | 150,960 | 150,519 | 441 | 0 | 99.71 | 0.29 | 0.00 |
 | [Keep schools closed until May](573621.md) | 148,914 | 148,562 | 352 | 0 | 99.76 | 0.24 | 0.00 |
 | [Trigger Article 16. We want unfettered GB-NI Trade.](573209.md) | 143,252 | 142,154 | 1,098 | 0 | 99.23 | 0.77 | 0.00 |
-| [Make verified ID a requirement for opening a social media account.](575833.md) | 135,792 | 135,066 | 726 | 0 | 99.47 | 0.53 | 0.00 |
+| [Make verified ID a requirement for opening a social media account.](575833.md) | 135,817 | 135,091 | 726 | 0 | 99.47 | 0.53 | 0.00 |
 | [Allow golf to be played with appropriate safety measures](557167.md) | 132,514 | 132,391 | 123 | 0 | 99.91 | 0.09 | 0.00 |
 | [Implement a two week school lockdown before 24 December to save Christmas](549015.md) | 125,219 | 125,093 | 126 | 0 | 99.90 | 0.10 | 0.00 |
 | [Urge the Indian Government to ensure safety of protestors & press freedom](563473.md) | 115,924 | 113,816 | 2,108 | 0 | 98.18 | 1.82 | 0.00 |
 | [Do not give consent for another Scottish Independence Referendum ](570779.md) | 109,342 | 108,642 | 700 | 0 | 99.36 | 0.64 | 0.00 |
-| [Make it a criminal offence for MPs to mislead the public](561730.md) | 105,726 | 103,466 | 2,260 | 0 | 97.86 | 2.14 | 0.00 |
-| [Ban the shooting of badgers immediately](333693.md) | 105,511 | 104,358 | 1,153 | 0 | 98.91 | 1.09 | 0.00 |
+| [Make it a criminal offence for MPs to mislead the public](561730.md) | 105,737 | 103,475 | 2,262 | 0 | 97.86 | 2.14 | 0.00 |
+| [Ban the shooting of badgers immediately](333693.md) | 105,512 | 104,359 | 1,153 | 0 | 98.91 | 1.09 | 0.00 |
 | [Tom’s Law - Give police the power to suspend driving licences](548682.md) | 104,731 | 104,129 | 602 | 0 | 99.43 | 0.57 | 0.00 |
 | [Shut all nurseries and early years settings during lockdown](566718.md) | 103,101 | 102,922 | 179 | 0 | 99.83 | 0.17 | 0.00 |
-| [Protect the UK's dwindling hedgehog population before it's too late.](550379.md) | 97,446 | 96,674 | 772 | 0 | 99.21 | 0.79 | 0.00 |
+| [Protect the UK's dwindling hedgehog population before it's too late.](550379.md) | 97,452 | 96,680 | 772 | 0 | 99.21 | 0.79 | 0.00 |
 | [Continue the ban on the use of Neonicotinoids](563943.md) | 89,221 | 88,428 | 793 | 0 | 99.11 | 0.89 | 0.00 |
-| [Stop Forestry England granting licenses for Fox & Hare hunts](552017.md) | 87,875 | 86,431 | 1,444 | 0 | 98.36 | 1.64 | 0.00 |
+| [Stop Forestry England granting licenses for Fox & Hare hunts](552017.md) | 87,881 | 86,437 | 1,444 | 0 | 98.36 | 1.64 | 0.00 |
 | [Extend driving theory test certificates expiring in 2020/21 by 12 months](558160.md) | 73,624 | 73,531 | 93 | 0 | 99.87 | 0.13 | 0.00 |
 | [Prioritise COVID-19 vaccines for first responders (police, fire, ambulance)](564155.md) | 68,235 | 67,957 | 278 | 0 | 99.59 | 0.41 | 0.00 |
 | [Enable all students to end university tenancy agreements early due to Covid-19.](553285.md) | 68,176 | 67,875 | 301 | 0 | 99.56 | 0.44 | 0.00 |
 | [To Seek a 1 year Extension to the Brexit Transition Period & a Second Referendum](554492.md) | 65,776 | 62,456 | 3,320 | 0 | 94.95 | 5.05 | 0.00 |
-| [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 65,246 | 64,647 | 599 | 0 | 99.08 | 0.92 | 0.00 |
+| [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 65,254 | 64,655 | 599 | 0 | 99.08 | 0.92 | 0.00 |
 | [Permit larger weddings based on guests testing negative for COVID-19](550498.md) | 64,480 | 64,294 | 186 | 0 | 99.71 | 0.29 | 0.00 |
 | [Extend paid maternity leave by at least four months   ](557195.md) | 56,490 | 56,419 | 71 | 0 | 99.87 | 0.13 | 0.00 |
 | [Ban greyhound racing to end unnecessary deaths & suffering of racing dogs](554073.md) | 56,063 | 55,207 | 856 | 0 | 98.47 | 1.53 | 0.00 |
@@ -56,5 +56,5 @@ Last refreshed 2021-03-14 05:00:05
 | [Save Community Sports Clubs and Leisure Facilities with a Sports Recovery Fund](553619.md) | 46,700 | 46,609 | 91 | 0 | 99.81 | 0.19 | 0.00 |
 | [Make access to food a legal right - no one in the UK should go hungry](562838.md) | 46,125 | 45,788 | 337 | 0 | 99.27 | 0.73 | 0.00 |
 | [Cancel A-level and GCSE exams 2022](566760.md) | 43,429 | 43,286 | 143 | 0 | 99.67 | 0.33 | 0.00 |
-| [Referendum on re-joining the EU](550951.md) | 41,273 | 39,065 | 2,208 | 0 | 94.65 | 5.35 | 0.00 |
+| [Referendum on re-joining the EU](550951.md) | 41,274 | 39,066 | 2,208 | 0 | 94.65 | 5.35 | 0.00 |
 | [Create a one off Bank Holiday on Monday June 21st 2021.](555205.md) | 40,959 | 40,904 | 55 | 0 | 99.87 | 0.13 | 0.00 |
