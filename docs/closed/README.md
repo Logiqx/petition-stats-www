@@ -4,14 +4,14 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-03-23 14:00:19
+Last refreshed 2021-03-23 15:00:19
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Include self-employed in statutory sick pay during Coronavirus](300336.md) | 699,595 | 697,227 | 2,368 | 0 | 99.66 | 0.34 | 0.00 |
 | [Close Schools/Colleges down for an appropriate amount of time amidst COVID19.](300403.md) | 685,393 | 682,887 | 2,506 | 0 | 99.63 | 0.37 | 0.00 |
 | [Prevent gyms closing due to a spike in Covid 19 cases](333869.md) | 621,442 | 620,830 | 612 | 0 | 99.90 | 0.10 | 0.00 |
-| [Reclose schools and colleges due to increase in COVID-19 cases](550846.md) | 428,787 | 428,106 | 681 | 0 | 99.84 | 0.16 | 0.00 |
+| [Reclose schools and colleges due to increase in COVID-19 cases](550846.md) | 428,788 | 428,107 | 681 | 0 | 99.84 | 0.16 | 0.00 |
 | [Implement UK lockdown for preventing spread of COVID19](301397.md) | 409,473 | 406,897 | 2,576 | 0 | 99.37 | 0.63 | 0.00 |
 | [Reimburse all students of this year’s fees due to strikes and COVID-19](302855.md) | 353,129 | 351,855 | 1,274 | 0 | 99.64 | 0.36 | 0.00 |
 | [Prevent any restrictions on those who refuse a Covid-19 vaccination](323442.md) | 337,141 | 334,150 | 2,991 | 0 | 99.11 | 0.89 | 0.00 |
