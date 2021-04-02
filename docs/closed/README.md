@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-04-02 22:00:22
+Last refreshed 2021-04-02 23:00:20
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -51,10 +51,10 @@ Last refreshed 2021-04-02 22:00:22
 | [Encourage lenders, landlords and utilities to freeze payments during lockdown](302256.md) | 126,934 | 126,593 | 341 | 0 | 99.73 | 0.27 | 0.00 |
 | [Hold a public inquiry into Government contracts granted during Covid-19](328408.md) | 126,873 | 125,288 | 1,585 | 0 | 98.75 | 1.25 | 0.00 |
 | [Take action to stop illegal immigration and rapidly remove illegal immigrants](321862.md) | 126,440 | 124,924 | 1,516 | 0 | 98.80 | 1.20 | 0.00 |
+| [Implement a two week school lockdown before 24 December to save Christmas](549015.md) | 125,227 | 125,101 | 126 | 0 | 99.90 | 0.10 | 0.00 |
 | [Close all universities down for an appropriate amount of time amidst COVID-19](300628.md) | 123,903 | 123,123 | 780 | 0 | 99.37 | 0.63 | 0.00 |
 | [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 121,166 | 119,596 | 1,570 | 0 | 98.70 | 1.30 | 0.00 |
 | [Replace Breed Specific Legislation with a new statutory framework](300561.md) | 118,641 | 117,312 | 1,329 | 0 | 98.88 | 1.12 | 0.00 |
 | [The UK should ban the importation of Shark Fins.](300535.md) | 115,382 | 111,879 | 3,503 | 0 | 96.96 | 3.04 | 0.00 |
 | [Implement Universal Basic Income to give home & food security through Covid-19](302284.md) | 114,574 | 113,770 | 804 | 0 | 99.30 | 0.70 | 0.00 |
 | [Increase Number of Guests Permitted at Weddings, according to Venue Capacity](329339.md) | 113,401 | 113,070 | 331 | 0 | 99.71 | 0.29 | 0.00 |
-| [Fern’s Law: Compulsory to scan & check microchips to reunite stolen dogs, cats.](300010.md) | 112,227 | 111,342 | 885 | 0 | 99.21 | 0.79 | 0.00 |
