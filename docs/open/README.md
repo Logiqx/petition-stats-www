@@ -4,17 +4,17 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-04-03 02:00:07
+Last refreshed 2021-04-03 03:00:09
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [End child food poverty – no child should be going hungry](554276.md) | 1,113,538 | 1,100,800 | 12,738 | 0 | 98.86 | 1.14 | 0.00 |
 | [Reduce University student tuition fees from £9250 to £3000](550344.md) | 581,137 | 578,668 | 2,469 | 0 | 99.58 | 0.42 | 0.00 |
 | [Prioritise teachers, school and childcare staff for Covid-19 vaccination](554316.md) | 508,461 | 507,170 | 1,291 | 0 | 99.75 | 0.25 | 0.00 |
-| [Do not rollout Covid-19 vaccine passports](569957.md) | 320,671 | 316,956 | 3,715 | 0 | 98.84 | 1.16 | 0.00 |
+| [Do not rollout Covid-19 vaccine passports](569957.md) | 320,673 | 316,958 | 3,715 | 0 | 98.84 | 1.16 | 0.00 |
 | [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 285,728 | 279,321 | 6,407 | 0 | 97.76 | 2.24 | 0.00 |
-| [Make dog theft a specific criminal offence](560216.md) | 283,896 | 282,341 | 1,555 | 0 | 99.45 | 0.55 | 0.00 |
-| [Do not restrict our rights to peaceful protest.](579012.md) | 238,569 | 235,993 | 2,576 | 0 | 98.92 | 1.08 | 0.00 |
+| [Make dog theft a specific criminal offence](560216.md) | 283,897 | 282,342 | 1,555 | 0 | 99.45 | 0.55 | 0.00 |
+| [Do not restrict our rights to peaceful protest.](579012.md) | 238,575 | 235,998 | 2,577 | 0 | 98.92 | 1.08 | 0.00 |
 | [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 229,736 | 229,566 | 170 | 0 | 99.93 | 0.07 | 0.00 |
 | [Implement sanctions against the Nigerian Government and officials](554150.md) | 221,213 | 200,121 | 21,092 | 0 | 90.47 | 9.53 | 0.00 |
 | [Create a Minister for Hospitality in the UK Government](552201.md) | 209,964 | 208,565 | 1,399 | 0 | 99.33 | 0.67 | 0.00 |
@@ -32,23 +32,23 @@ Last refreshed 2021-04-03 02:00:07
 | [Make it a criminal offence for MPs to mislead the public](561730.md) | 108,927 | 106,641 | 2,286 | 0 | 97.90 | 2.10 | 0.00 |
 | [Stop Forestry England granting licenses for Fox & Hare hunts](552017.md) | 104,578 | 102,932 | 1,646 | 0 | 98.43 | 1.57 | 0.00 |
 | [Shut all nurseries and early years settings during lockdown](566718.md) | 103,142 | 102,962 | 180 | 0 | 99.83 | 0.17 | 0.00 |
-| [Allow international travel to visit partners and family](565102.md) | 91,768 | 89,213 | 2,555 | 0 | 97.22 | 2.78 | 0.00 |
-| [Continue the ban on the use of Neonicotinoids](563943.md) | 89,802 | 89,004 | 798 | 0 | 99.11 | 0.89 | 0.00 |
-| [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 86,357 | 85,606 | 751 | 0 | 99.13 | 0.87 | 0.00 |
-| [Extend driving theory test certificates expiring in 2020/21 by 12 months](558160.md) | 76,463 | 76,362 | 101 | 0 | 99.87 | 0.13 | 0.00 |
-| [Increase funding for urgent research into devastating motor neurone disease](564582.md) | 73,578 | 72,488 | 1,090 | 0 | 98.52 | 1.48 | 0.00 |
-| [Ban greyhound racing to end unnecessary deaths & suffering of racing dogs](554073.md) | 71,207 | 70,160 | 1,047 | 0 | 98.53 | 1.47 | 0.00 |
+| [Allow international travel to visit partners and family](565102.md) | 91,770 | 89,215 | 2,555 | 0 | 97.22 | 2.78 | 0.00 |
+| [Continue the ban on the use of Neonicotinoids](563943.md) | 89,803 | 89,005 | 798 | 0 | 99.11 | 0.89 | 0.00 |
+| [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 86,359 | 85,608 | 751 | 0 | 99.13 | 0.87 | 0.00 |
+| [Extend driving theory test certificates expiring in 2020/21 by 12 months](558160.md) | 76,466 | 76,365 | 101 | 0 | 99.87 | 0.13 | 0.00 |
+| [Increase funding for urgent research into devastating motor neurone disease](564582.md) | 73,586 | 72,495 | 1,091 | 0 | 98.52 | 1.48 | 0.00 |
+| [Ban greyhound racing to end unnecessary deaths & suffering of racing dogs](554073.md) | 71,217 | 70,169 | 1,048 | 0 | 98.53 | 1.47 | 0.00 |
 | [Prioritise COVID-19 vaccines for first responders (police, fire, ambulance)](564155.md) | 68,567 | 68,286 | 281 | 0 | 99.59 | 0.41 | 0.00 |
 | [Enable all students to end university tenancy agreements early due to Covid-19.](553285.md) | 68,268 | 67,966 | 302 | 0 | 99.56 | 0.44 | 0.00 |
 | [To Seek a 1 year Extension to the Brexit Transition Period & a Second Referendum](554492.md) | 65,842 | 62,521 | 3,321 | 0 | 94.96 | 5.04 | 0.00 |
 | [Permit larger weddings based on guests testing negative for COVID-19](550498.md) | 64,662 | 64,473 | 189 | 0 | 99.71 | 0.29 | 0.00 |
 | [Abolish time limits to bring charges for offences for acts of domestic violence](555276.md) | 59,339 | 58,548 | 791 | 0 | 98.67 | 1.33 | 0.00 |
 | [Extend paid maternity leave by at least four months   ](557195.md) | 56,742 | 56,671 | 71 | 0 | 99.87 | 0.13 | 0.00 |
-| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 54,458 | 54,088 | 370 | 0 | 99.32 | 0.68 | 0.00 |
+| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 54,471 | 54,101 | 370 | 0 | 99.32 | 0.68 | 0.00 |
 | [Repeal Coronavirus Act and end all Covid-19 restrictions](561995.md) | 51,519 | 51,131 | 388 | 0 | 99.25 | 0.75 | 0.00 |
 | [Overturn the decision to allow the use of neonicotinoid pesticides](569214.md) | 50,970 | 50,523 | 447 | 0 | 99.12 | 0.88 | 0.00 |
 | [Require negative covid test to enter the UK](564229.md) | 50,044 | 49,950 | 94 | 0 | 99.81 | 0.19 | 0.00 |
-| [Grant an urgent Amnesty to Undocumented Migrants living in the UK](567681.md) | 49,735 | 49,293 | 442 | 0 | 99.11 | 0.89 | 0.00 |
+| [Grant an urgent Amnesty to Undocumented Migrants living in the UK](567681.md) | 49,741 | 49,299 | 442 | 0 | 99.11 | 0.89 | 0.00 |
 | [All nurseries and places of education to stay closed after Xmas to 15 January](561988.md) | 49,380 | 49,299 | 81 | 0 | 99.84 | 0.16 | 0.00 |
 | [Ensure Student Nurses are paid whilst on placement](554624.md) | 49,211 | 49,015 | 196 | 0 | 99.60 | 0.40 | 0.00 |
 | [Prioritise Key Retail Workers, being offered the Covid Vaccine!](567426.md) | 47,520 | 47,450 | 70 | 0 | 99.85 | 0.15 | 0.00 |
