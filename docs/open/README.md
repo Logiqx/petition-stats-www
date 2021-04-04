@@ -4,17 +4,17 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-04-04 03:00:08
+Last refreshed 2021-04-04 04:00:08
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [End child food poverty – no child should be going hungry](554276.md) | 1,113,571 | 1,100,833 | 12,738 | 0 | 98.86 | 1.14 | 0.00 |
 | [Reduce University student tuition fees from £9250 to £3000](550344.md) | 581,176 | 578,706 | 2,470 | 0 | 99.57 | 0.43 | 0.00 |
 | [Prioritise teachers, school and childcare staff for Covid-19 vaccination](554316.md) | 508,489 | 507,198 | 1,291 | 0 | 99.75 | 0.25 | 0.00 |
-| [Do not rollout Covid-19 vaccine passports](569957.md) | 323,748 | 320,004 | 3,744 | 0 | 98.84 | 1.16 | 0.00 |
+| [Do not rollout Covid-19 vaccine passports](569957.md) | 323,766 | 320,021 | 3,745 | 0 | 98.84 | 1.16 | 0.00 |
 | [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 285,737 | 279,328 | 6,409 | 0 | 97.76 | 2.24 | 0.00 |
-| [Make dog theft a specific criminal offence](560216.md) | 284,381 | 282,823 | 1,558 | 0 | 99.45 | 0.55 | 0.00 |
-| [Do not restrict our rights to peaceful protest.](579012.md) | 240,303 | 237,701 | 2,602 | 0 | 98.92 | 1.08 | 0.00 |
+| [Make dog theft a specific criminal offence](560216.md) | 284,382 | 282,824 | 1,558 | 0 | 99.45 | 0.55 | 0.00 |
+| [Do not restrict our rights to peaceful protest.](579012.md) | 240,310 | 237,707 | 2,603 | 0 | 98.92 | 1.08 | 0.00 |
 | [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 229,748 | 229,578 | 170 | 0 | 99.93 | 0.07 | 0.00 |
 | [Implement sanctions against the Nigerian Government and officials](554150.md) | 221,214 | 200,122 | 21,092 | 0 | 90.47 | 9.53 | 0.00 |
 | [Create a Minister for Hospitality in the UK Government](552201.md) | 209,969 | 208,570 | 1,399 | 0 | 99.33 | 0.67 | 0.00 |
@@ -32,22 +32,22 @@ Last refreshed 2021-04-04 03:00:08
 | [Make it a criminal offence for MPs to mislead the public](561730.md) | 108,964 | 106,678 | 2,286 | 0 | 97.90 | 2.10 | 0.00 |
 | [Stop Forestry England granting licenses for Fox & Hare hunts](552017.md) | 104,605 | 102,959 | 1,646 | 0 | 98.43 | 1.57 | 0.00 |
 | [Shut all nurseries and early years settings during lockdown](566718.md) | 103,142 | 102,962 | 180 | 0 | 99.83 | 0.17 | 0.00 |
-| [Allow international travel to visit partners and family](565102.md) | 92,763 | 90,167 | 2,596 | 0 | 97.20 | 2.80 | 0.00 |
+| [Allow international travel to visit partners and family](565102.md) | 92,767 | 90,170 | 2,597 | 0 | 97.20 | 2.80 | 0.00 |
 | [Continue the ban on the use of Neonicotinoids](563943.md) | 89,832 | 89,034 | 798 | 0 | 99.11 | 0.89 | 0.00 |
-| [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 86,840 | 86,088 | 752 | 0 | 99.13 | 0.87 | 0.00 |
+| [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 86,842 | 86,090 | 752 | 0 | 99.13 | 0.87 | 0.00 |
 | [Extend driving theory test certificates expiring in 2020/21 by 12 months](558160.md) | 76,566 | 76,465 | 101 | 0 | 99.87 | 0.13 | 0.00 |
-| [Increase funding for urgent research into devastating motor neurone disease](564582.md) | 75,915 | 74,805 | 1,110 | 0 | 98.54 | 1.46 | 0.00 |
-| [Ban greyhound racing to end unnecessary deaths & suffering of racing dogs](554073.md) | 73,397 | 72,329 | 1,068 | 0 | 98.54 | 1.46 | 0.00 |
+| [Increase funding for urgent research into devastating motor neurone disease](564582.md) | 75,922 | 74,811 | 1,111 | 0 | 98.54 | 1.46 | 0.00 |
+| [Ban greyhound racing to end unnecessary deaths & suffering of racing dogs](554073.md) | 73,404 | 72,336 | 1,068 | 0 | 98.55 | 1.45 | 0.00 |
 | [Prioritise COVID-19 vaccines for first responders (police, fire, ambulance)](564155.md) | 68,572 | 68,291 | 281 | 0 | 99.59 | 0.41 | 0.00 |
 | [Enable all students to end university tenancy agreements early due to Covid-19.](553285.md) | 68,270 | 67,968 | 302 | 0 | 99.56 | 0.44 | 0.00 |
 | [To Seek a 1 year Extension to the Brexit Transition Period & a Second Referendum](554492.md) | 65,847 | 62,525 | 3,322 | 0 | 94.95 | 5.05 | 0.00 |
 | [Permit larger weddings based on guests testing negative for COVID-19](550498.md) | 64,663 | 64,474 | 189 | 0 | 99.71 | 0.29 | 0.00 |
-| [Abolish time limits to bring charges for offences for acts of domestic violence](555276.md) | 59,394 | 58,603 | 791 | 0 | 98.67 | 1.33 | 0.00 |
+| [Abolish time limits to bring charges for offences for acts of domestic violence](555276.md) | 59,395 | 58,604 | 791 | 0 | 98.67 | 1.33 | 0.00 |
 | [Extend paid maternity leave by at least four months   ](557195.md) | 56,750 | 56,679 | 71 | 0 | 99.87 | 0.13 | 0.00 |
-| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 55,646 | 55,270 | 376 | 0 | 99.32 | 0.68 | 0.00 |
-| [Repeal Coronavirus Act and end all Covid-19 restrictions](561995.md) | 51,558 | 51,170 | 388 | 0 | 99.25 | 0.75 | 0.00 |
+| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 55,652 | 55,276 | 376 | 0 | 99.32 | 0.68 | 0.00 |
+| [Repeal Coronavirus Act and end all Covid-19 restrictions](561995.md) | 51,559 | 51,171 | 388 | 0 | 99.25 | 0.75 | 0.00 |
 | [Overturn the decision to allow the use of neonicotinoid pesticides](569214.md) | 50,985 | 50,538 | 447 | 0 | 99.12 | 0.88 | 0.00 |
-| [Grant an urgent Amnesty to Undocumented Migrants living in the UK](567681.md) | 50,627 | 50,183 | 444 | 0 | 99.12 | 0.88 | 0.00 |
+| [Grant an urgent Amnesty to Undocumented Migrants living in the UK](567681.md) | 50,635 | 50,191 | 444 | 0 | 99.12 | 0.88 | 0.00 |
 | [Require negative covid test to enter the UK](564229.md) | 50,050 | 49,956 | 94 | 0 | 99.81 | 0.19 | 0.00 |
 | [All nurseries and places of education to stay closed after Xmas to 15 January](561988.md) | 49,380 | 49,299 | 81 | 0 | 99.84 | 0.16 | 0.00 |
 | [Ensure Student Nurses are paid whilst on placement](554624.md) | 49,217 | 49,021 | 196 | 0 | 99.60 | 0.40 | 0.00 |
