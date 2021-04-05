@@ -4,13 +4,14 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-04-05 22:00:23
+Last refreshed 2021-04-05 23:00:21
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Include self-employed in statutory sick pay during Coronavirus](300336.md) | 699,597 | 697,229 | 2,368 | 0 | 99.66 | 0.34 | 0.00 |
 | [Close Schools/Colleges down for an appropriate amount of time amidst COVID19.](300403.md) | 685,393 | 682,887 | 2,506 | 0 | 99.63 | 0.37 | 0.00 |
 | [Prevent gyms closing due to a spike in Covid 19 cases](333869.md) | 621,442 | 620,830 | 612 | 0 | 99.90 | 0.10 | 0.00 |
+| [Reduce University student tuition fees from £9250 to £3000](550344.md) | 581,281 | 578,810 | 2,471 | 0 | 99.57 | 0.43 | 0.00 |
 | [Reclose schools and colleges due to increase in COVID-19 cases](550846.md) | 428,788 | 428,107 | 681 | 0 | 99.84 | 0.16 | 0.00 |
 | [Implement UK lockdown for preventing spread of COVID19](301397.md) | 409,473 | 406,897 | 2,576 | 0 | 99.37 | 0.63 | 0.00 |
 | [Reimburse all students of this year’s fees due to strikes and COVID-19](302855.md) | 353,129 | 351,855 | 1,274 | 0 | 99.64 | 0.36 | 0.00 |
@@ -27,6 +28,7 @@ Last refreshed 2021-04-05 22:00:23
 | [Improve Maternal Mortality Rates and Health Care for Black Women in the U.K.](301079.md) | 187,519 | 185,952 | 1,567 | 0 | 99.16 | 0.84 | 0.00 |
 | [Offer more support to the arts (particularly Theatres and Music) amidst COVID-19](320711.md) | 179,699 | 178,265 | 1,434 | 0 | 99.20 | 0.80 | 0.00 |
 | [Increase pay for NHS healthcare workers and recognise their work](300073.md) | 178,819 | 177,995 | 824 | 0 | 99.54 | 0.46 | 0.00 |
+| [Lower university tuition fees for students until online teaching ends](552911.md) | 171,137 | 170,463 | 674 | 0 | 99.61 | 0.39 | 0.00 |
 | [Scrap removal of free transport for under-18s from TfL bailout](331453.md) | 171,010 | 170,426 | 584 | 0 | 99.66 | 0.34 | 0.00 |
 | [Government to offer economic assistance to the events industry during COVID-19](301186.md) | 154,815 | 153,903 | 912 | 0 | 99.41 | 0.59 | 0.00 |
 | [Extend the Stamp Duty Holiday for an additional 6 months after 31st March 2021](550545.md) | 151,126 | 150,685 | 441 | 0 | 99.71 | 0.29 | 0.00 |
@@ -56,5 +58,3 @@ Last refreshed 2021-04-05 22:00:23
 | [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 121,166 | 119,596 | 1,570 | 0 | 98.70 | 1.30 | 0.00 |
 | [Replace Breed Specific Legislation with a new statutory framework](300561.md) | 118,641 | 117,312 | 1,329 | 0 | 98.88 | 1.12 | 0.00 |
 | [The UK should ban the importation of Shark Fins.](300535.md) | 115,382 | 111,879 | 3,503 | 0 | 96.96 | 3.04 | 0.00 |
-| [Implement Universal Basic Income to give home & food security through Covid-19](302284.md) | 114,574 | 113,770 | 804 | 0 | 99.30 | 0.70 | 0.00 |
-| [Increase Number of Guests Permitted at Weddings, according to Venue Capacity](329339.md) | 113,401 | 113,070 | 331 | 0 | 99.71 | 0.29 | 0.00 |
