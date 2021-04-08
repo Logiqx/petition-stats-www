@@ -4,16 +4,16 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-04-08 03:00:07
+Last refreshed 2021-04-08 04:00:08
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [End child food poverty – no child should be going hungry](554276.md) | 1,113,698 | 1,100,959 | 12,739 | 0 | 98.86 | 1.14 | 0.00 |
 | [Prioritise teachers, school and childcare staff for Covid-19 vaccination](554316.md) | 508,620 | 507,329 | 1,291 | 0 | 99.75 | 0.25 | 0.00 |
-| [Do not rollout Covid-19 vaccine passports](569957.md) | 336,893 | 333,057 | 3,836 | 0 | 98.86 | 1.14 | 0.00 |
-| [Make dog theft a specific criminal offence](560216.md) | 291,691 | 290,107 | 1,584 | 0 | 99.46 | 0.54 | 0.00 |
+| [Do not rollout Covid-19 vaccine passports](569957.md) | 336,900 | 333,063 | 3,837 | 0 | 98.86 | 1.14 | 0.00 |
+| [Make dog theft a specific criminal offence](560216.md) | 291,693 | 290,109 | 1,584 | 0 | 99.46 | 0.54 | 0.00 |
 | [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 285,767 | 279,357 | 6,410 | 0 | 97.76 | 2.24 | 0.00 |
-| [Do not restrict our rights to peaceful protest.](579012.md) | 244,287 | 241,633 | 2,654 | 0 | 98.91 | 1.09 | 0.00 |
+| [Do not restrict our rights to peaceful protest.](579012.md) | 244,290 | 241,636 | 2,654 | 0 | 98.91 | 1.09 | 0.00 |
 | [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 229,778 | 229,608 | 170 | 0 | 99.93 | 0.07 | 0.00 |
 | [Implement sanctions against the Nigerian Government and officials](554150.md) | 221,226 | 200,134 | 21,092 | 0 | 90.47 | 9.53 | 0.00 |
 | [Close schools in Tier 4 areas](564209.md) | 194,760 | 194,555 | 205 | 0 | 99.89 | 0.11 | 0.00 |
@@ -28,19 +28,19 @@ Last refreshed 2021-04-08 03:00:07
 | [Do not give consent for another Scottish Independence Referendum ](570779.md) | 110,788 | 110,076 | 712 | 0 | 99.36 | 0.64 | 0.00 |
 | [Make it a criminal offence for MPs to mislead the public](561730.md) | 109,344 | 107,056 | 2,288 | 0 | 97.91 | 2.09 | 0.00 |
 | [Shut all nurseries and early years settings during lockdown](566718.md) | 103,146 | 102,966 | 180 | 0 | 99.83 | 0.17 | 0.00 |
-| [Allow international travel to visit partners and family](565102.md) | 97,142 | 94,394 | 2,748 | 0 | 97.17 | 2.83 | 0.00 |
-| [Increase funding for urgent research into devastating motor neurone disease](564582.md) | 91,021 | 89,735 | 1,286 | 0 | 98.59 | 1.41 | 0.00 |
-| [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 90,063 | 89,292 | 771 | 0 | 99.14 | 0.86 | 0.00 |
+| [Allow international travel to visit partners and family](565102.md) | 97,146 | 94,397 | 2,749 | 0 | 97.17 | 2.83 | 0.00 |
+| [Increase funding for urgent research into devastating motor neurone disease](564582.md) | 91,035 | 89,749 | 1,286 | 0 | 98.59 | 1.41 | 0.00 |
+| [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 90,067 | 89,296 | 771 | 0 | 99.14 | 0.86 | 0.00 |
 | [Continue the ban on the use of Neonicotinoids](563943.md) | 89,928 | 89,129 | 799 | 0 | 99.11 | 0.89 | 0.00 |
-| [Ban greyhound racing to end unnecessary deaths & suffering of racing dogs](554073.md) | 81,925 | 80,779 | 1,146 | 0 | 98.60 | 1.40 | 0.00 |
-| [Extend driving theory test certificates expiring in 2020/21 by 12 months](558160.md) | 77,297 | 77,195 | 102 | 0 | 99.87 | 0.13 | 0.00 |
+| [Ban greyhound racing to end unnecessary deaths & suffering of racing dogs](554073.md) | 81,932 | 80,786 | 1,146 | 0 | 98.60 | 1.40 | 0.00 |
+| [Extend driving theory test certificates expiring in 2020/21 by 12 months](558160.md) | 77,299 | 77,197 | 102 | 0 | 99.87 | 0.13 | 0.00 |
 | [Prioritise COVID-19 vaccines for first responders (police, fire, ambulance)](564155.md) | 68,610 | 68,328 | 282 | 0 | 99.59 | 0.41 | 0.00 |
 | [Enable all students to end university tenancy agreements early due to Covid-19.](553285.md) | 68,282 | 67,980 | 302 | 0 | 99.56 | 0.44 | 0.00 |
 | [To Seek a 1 year Extension to the Brexit Transition Period & a Second Referendum](554492.md) | 65,902 | 62,576 | 3,326 | 0 | 94.95 | 5.05 | 0.00 |
-| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 65,349 | 64,933 | 416 | 0 | 99.36 | 0.64 | 0.00 |
-| [Abolish time limits to bring charges for offences for acts of domestic violence](555276.md) | 59,991 | 59,198 | 793 | 0 | 98.68 | 1.32 | 0.00 |
+| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 65,351 | 64,935 | 416 | 0 | 99.36 | 0.64 | 0.00 |
+| [Abolish time limits to bring charges for offences for acts of domestic violence](555276.md) | 59,993 | 59,200 | 793 | 0 | 98.68 | 1.32 | 0.00 |
 | [Extend paid maternity leave by at least four months   ](557195.md) | 56,782 | 56,711 | 71 | 0 | 99.87 | 0.13 | 0.00 |
-| [Grant an urgent Amnesty to Undocumented Migrants living in the UK](567681.md) | 56,038 | 55,571 | 467 | 0 | 99.17 | 0.83 | 0.00 |
+| [Grant an urgent Amnesty to Undocumented Migrants living in the UK](567681.md) | 56,044 | 55,577 | 467 | 0 | 99.17 | 0.83 | 0.00 |
 | [Repeal Coronavirus Act and end all Covid-19 restrictions](561995.md) | 51,777 | 51,388 | 389 | 0 | 99.25 | 0.75 | 0.00 |
 | [Overturn the decision to allow the use of neonicotinoid pesticides](569214.md) | 51,027 | 50,579 | 448 | 0 | 99.12 | 0.88 | 0.00 |
 | [Require negative covid test to enter the UK](564229.md) | 50,085 | 49,991 | 94 | 0 | 99.81 | 0.19 | 0.00 |
