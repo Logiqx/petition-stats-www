@@ -4,10 +4,11 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-04-14 22:00:17
+Last refreshed 2021-04-14 23:00:17
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
+| [End child food poverty – no child should be going hungry](554276.md) | 1,113,877 | 1,101,138 | 12,739 | 0 | 98.86 | 1.14 | 0.00 |
 | [Include self-employed in statutory sick pay during Coronavirus](300336.md) | 699,597 | 697,229 | 2,368 | 0 | 99.66 | 0.34 | 0.00 |
 | [Close Schools/Colleges down for an appropriate amount of time amidst COVID19.](300403.md) | 685,393 | 682,887 | 2,506 | 0 | 99.63 | 0.37 | 0.00 |
 | [Prevent gyms closing due to a spike in Covid 19 cases](333869.md) | 621,442 | 620,830 | 612 | 0 | 99.90 | 0.10 | 0.00 |
@@ -57,4 +58,3 @@ Last refreshed 2021-04-14 22:00:17
 | [Implement a two week school lockdown before 24 December to save Christmas](549015.md) | 125,227 | 125,101 | 126 | 0 | 99.90 | 0.10 | 0.00 |
 | [Close all universities down for an appropriate amount of time amidst COVID-19](300628.md) | 123,903 | 123,123 | 780 | 0 | 99.37 | 0.63 | 0.00 |
 | [Vets to scan prior to euthanasia for Rescue Back up and confirm keeper details](300025.md) | 121,166 | 119,596 | 1,570 | 0 | 98.70 | 1.30 | 0.00 |
-| [Replace Breed Specific Legislation with a new statutory framework](300561.md) | 118,641 | 117,312 | 1,329 | 0 | 98.88 | 1.12 | 0.00 |
