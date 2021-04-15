@@ -4,15 +4,15 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-04-15 18:00:07
+Last refreshed 2021-04-15 19:00:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Prioritise teachers, school and childcare staff for Covid-19 vaccination](554316.md) | 508,753 | 507,462 | 1,291 | 0 | 99.75 | 0.25 | 0.00 |
-| [Do not rollout Covid-19 vaccine passports](569957.md) | 342,866 | 338,972 | 3,894 | 0 | 98.86 | 1.14 | 0.00 |
-| [Make dog theft a specific criminal offence](560216.md) | 295,936 | 294,327 | 1,609 | 0 | 99.46 | 0.54 | 0.00 |
+| [Do not rollout Covid-19 vaccine passports](569957.md) | 342,898 | 339,004 | 3,894 | 0 | 98.86 | 1.14 | 0.00 |
+| [Make dog theft a specific criminal offence](560216.md) | 295,966 | 294,357 | 1,609 | 0 | 99.46 | 0.54 | 0.00 |
 | [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 285,801 | 279,391 | 6,410 | 0 | 97.76 | 2.24 | 0.00 |
-| [Do not restrict our rights to peaceful protest.](579012.md) | 247,377 | 244,688 | 2,689 | 0 | 98.91 | 1.09 | 0.00 |
+| [Do not restrict our rights to peaceful protest.](579012.md) | 247,384 | 244,695 | 2,689 | 0 | 98.91 | 1.09 | 0.00 |
 | [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 229,819 | 229,649 | 170 | 0 | 99.93 | 0.07 | 0.00 |
 | [Implement sanctions against the Nigerian Government and officials](554150.md) | 221,245 | 200,153 | 21,092 | 0 | 90.47 | 9.53 | 0.00 |
 | [Close schools in Tier 4 areas](564209.md) | 194,770 | 194,565 | 205 | 0 | 99.89 | 0.11 | 0.00 |
@@ -24,37 +24,37 @@ Last refreshed 2021-04-15 18:00:07
 | [Trigger Article 16. We want unfettered GB-NI Trade.](573209.md) | 143,574 | 142,470 | 1,104 | 0 | 99.23 | 0.77 | 0.00 |
 | [Allow golf to be played with appropriate safety measures](557167.md) | 132,709 | 132,586 | 123 | 0 | 99.91 | 0.09 | 0.00 |
 | [Urge the Indian Government to ensure safety of protestors & press freedom](563473.md) | 116,208 | 114,091 | 2,117 | 0 | 98.18 | 1.82 | 0.00 |
-| [Do not give consent for another Scottish Independence Referendum ](570779.md) | 110,879 | 110,164 | 715 | 0 | 99.36 | 0.64 | 0.00 |
-| [Make it a criminal offence for MPs to mislead the public](561730.md) | 109,627 | 107,339 | 2,288 | 0 | 97.91 | 2.09 | 0.00 |
-| [Increase funding for urgent research into devastating motor neurone disease](564582.md) | 103,698 | 102,267 | 1,431 | 0 | 98.62 | 1.38 | 0.00 |
+| [Do not give consent for another Scottish Independence Referendum ](570779.md) | 110,881 | 110,166 | 715 | 0 | 99.36 | 0.64 | 0.00 |
+| [Make it a criminal offence for MPs to mislead the public](561730.md) | 109,628 | 107,340 | 2,288 | 0 | 97.91 | 2.09 | 0.00 |
+| [Increase funding for urgent research into devastating motor neurone disease](564582.md) | 103,710 | 102,279 | 1,431 | 0 | 98.62 | 1.38 | 0.00 |
 | [Shut all nurseries and early years settings during lockdown](566718.md) | 103,151 | 102,971 | 180 | 0 | 99.83 | 0.17 | 0.00 |
-| [Allow international travel to visit partners and family](565102.md) | 101,337 | 98,327 | 3,010 | 0 | 97.03 | 2.97 | 0.00 |
-| [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 98,824 | 98,007 | 817 | 0 | 99.17 | 0.83 | 0.00 |
-| [Ban greyhound racing to end unnecessary deaths & suffering of racing dogs](554073.md) | 97,780 | 96,383 | 1,397 | 0 | 98.57 | 1.43 | 0.00 |
-| [Continue the ban on the use of Neonicotinoids](563943.md) | 90,026 | 89,226 | 800 | 0 | 99.11 | 0.89 | 0.00 |
-| [Extend driving theory test certificates expiring in 2020/21 by 12 months](558160.md) | 79,054 | 78,948 | 106 | 0 | 99.87 | 0.13 | 0.00 |
-| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 72,808 | 72,360 | 448 | 0 | 99.38 | 0.62 | 0.00 |
+| [Allow international travel to visit partners and family](565102.md) | 101,344 | 98,334 | 3,010 | 0 | 97.03 | 2.97 | 0.00 |
+| [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 98,965 | 98,146 | 819 | 0 | 99.17 | 0.83 | 0.00 |
+| [Ban greyhound racing to end unnecessary deaths & suffering of racing dogs](554073.md) | 97,875 | 96,478 | 1,397 | 0 | 98.57 | 1.43 | 0.00 |
+| [Continue the ban on the use of Neonicotinoids](563943.md) | 90,027 | 89,227 | 800 | 0 | 99.11 | 0.89 | 0.00 |
+| [Extend driving theory test certificates expiring in 2020/21 by 12 months](558160.md) | 79,061 | 78,955 | 106 | 0 | 99.87 | 0.13 | 0.00 |
+| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 72,922 | 72,473 | 449 | 0 | 99.38 | 0.62 | 0.00 |
 | [Prioritise COVID-19 vaccines for first responders (police, fire, ambulance)](564155.md) | 68,673 | 68,391 | 282 | 0 | 99.59 | 0.41 | 0.00 |
-| [To Seek a 1 year Extension to the Brexit Transition Period & a Second Referendum](554492.md) | 65,934 | 62,606 | 3,328 | 0 | 94.95 | 5.05 | 0.00 |
-| [Grant an urgent Amnesty to Undocumented Migrants living in the UK](567681.md) | 62,868 | 62,344 | 524 | 0 | 99.17 | 0.83 | 0.00 |
-| [Abolish time limits to bring charges for offences for acts of domestic violence](555276.md) | 62,533 | 61,702 | 831 | 0 | 98.67 | 1.33 | 0.00 |
-| [Extend paid maternity leave by at least four months   ](557195.md) | 56,871 | 56,800 | 71 | 0 | 99.88 | 0.12 | 0.00 |
-| [Repeal Coronavirus Act and end all Covid-19 restrictions](561995.md) | 52,030 | 51,640 | 390 | 0 | 99.25 | 0.75 | 0.00 |
-| [Mandatory printing of car registration numbers on all Drive Thru packaging.](580772.md) | 51,905 | 51,671 | 234 | 0 | 99.55 | 0.45 | 0.00 |
+| [To Seek a 1 year Extension to the Brexit Transition Period & a Second Referendum](554492.md) | 65,935 | 62,607 | 3,328 | 0 | 94.95 | 5.05 | 0.00 |
+| [Grant an urgent Amnesty to Undocumented Migrants living in the UK](567681.md) | 62,906 | 62,382 | 524 | 0 | 99.17 | 0.83 | 0.00 |
+| [Abolish time limits to bring charges for offences for acts of domestic violence](555276.md) | 62,534 | 61,703 | 831 | 0 | 98.67 | 1.33 | 0.00 |
+| [Extend paid maternity leave by at least four months   ](557195.md) | 56,872 | 56,801 | 71 | 0 | 99.88 | 0.12 | 0.00 |
+| [Repeal Coronavirus Act and end all Covid-19 restrictions](561995.md) | 52,031 | 51,640 | 391 | 0 | 99.25 | 0.75 | 0.00 |
+| [Mandatory printing of car registration numbers on all Drive Thru packaging.](580772.md) | 52,018 | 51,783 | 235 | 0 | 99.55 | 0.45 | 0.00 |
 | [Overturn the decision to allow the use of neonicotinoid pesticides](569214.md) | 51,063 | 50,615 | 448 | 0 | 99.12 | 0.88 | 0.00 |
 | [Require negative covid test to enter the UK](564229.md) | 50,129 | 50,035 | 94 | 0 | 99.81 | 0.19 | 0.00 |
 | [All nurseries and places of education to stay closed after Xmas to 15 January](561988.md) | 49,381 | 49,300 | 81 | 0 | 99.84 | 0.16 | 0.00 |
 | [Ensure Student Nurses are paid whilst on placement](554624.md) | 49,316 | 49,120 | 196 | 0 | 99.60 | 0.40 | 0.00 |
-| [Prioritise Key Retail Workers, being offered the Covid Vaccine!](567426.md) | 47,686 | 47,616 | 70 | 0 | 99.85 | 0.15 | 0.00 |
+| [Prioritise Key Retail Workers, being offered the Covid Vaccine!](567426.md) | 47,688 | 47,618 | 70 | 0 | 99.85 | 0.15 | 0.00 |
 | [Make access to food a legal right - no one in the UK should go hungry](562838.md) | 47,021 | 46,680 | 341 | 0 | 99.27 | 0.73 | 0.00 |
 | [Save Community Sports Clubs and Leisure Facilities with a Sports Recovery Fund](553619.md) | 46,759 | 46,668 | 91 | 0 | 99.81 | 0.19 | 0.00 |
 | [Cancel A-level and GCSE exams 2022](566760.md) | 44,764 | 44,611 | 153 | 0 | 99.66 | 0.34 | 0.00 |
-| [Create a one off Bank Holiday on Monday June 21st 2021.](555205.md) | 41,582 | 41,527 | 55 | 0 | 99.87 | 0.13 | 0.00 |
+| [Create a one off Bank Holiday on Monday June 21st 2021.](555205.md) | 41,583 | 41,528 | 55 | 0 | 99.87 | 0.13 | 0.00 |
 | [Revoke rules for refusing or cancelling permission to stay for rough sleepers](561884.md) | 40,564 | 40,249 | 315 | 0 | 99.22 | 0.78 | 0.00 |
-| [Reimburse student rents for all accommodation not used during this academic year](560735.md) | 39,882 | 39,727 | 155 | 0 | 99.61 | 0.39 | 0.00 |
-| [Scrap the compulsory £210 home test kit when arriving in U.K.](577580.md) | 38,612 | 38,288 | 324 | 0 | 99.16 | 0.84 | 0.00 |
-| [Make glue traps illegal within the UK](560288.md) | 36,080 | 35,812 | 268 | 0 | 99.26 | 0.74 | 0.00 |
+| [Reimburse student rents for all accommodation not used during this academic year](560735.md) | 39,883 | 39,728 | 155 | 0 | 99.61 | 0.39 | 0.00 |
+| [Scrap the compulsory £210 home test kit when arriving in U.K.](577580.md) | 38,635 | 38,311 | 324 | 0 | 99.16 | 0.84 | 0.00 |
+| [Make glue traps illegal within the UK](560288.md) | 36,085 | 35,816 | 269 | 0 | 99.25 | 0.75 | 0.00 |
 | [Ensure student nurses and midwives are paid for working during Covid-19](558625.md) | 36,003 | 35,897 | 106 | 0 | 99.71 | 0.29 | 0.00 |
-| [Fund NHS scheme for women with Endometriosis to freeze their eggs](579802.md) | 35,050 | 34,920 | 130 | 0 | 99.63 | 0.37 | 0.00 |
+| [Fund NHS scheme for women with Endometriosis to freeze their eggs](579802.md) | 35,057 | 34,927 | 130 | 0 | 99.63 | 0.37 | 0.00 |
 | [Amend GCSE exam content for children that are now in year 9 and year 10](568162.md) | 34,136 | 34,093 | 43 | 0 | 99.87 | 0.13 | 0.00 |
-| [Ban the use of face masks in schools](577831.md) | 33,580 | 33,307 | 273 | 0 | 99.19 | 0.81 | 0.00 |
+| [Ban the use of face masks in schools](577831.md) | 33,615 | 33,342 | 273 | 0 | 99.19 | 0.81 | 0.00 |
