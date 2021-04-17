@@ -4,15 +4,15 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-04-17 02:00:06
+Last refreshed 2021-04-17 03:00:09
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Prioritise teachers, school and childcare staff for Covid-19 vaccination](554316.md) | 508,767 | 507,476 | 1,291 | 0 | 99.75 | 0.25 | 0.00 |
-| [Do not rollout Covid-19 vaccine passports](569957.md) | 343,289 | 339,392 | 3,897 | 0 | 98.86 | 1.14 | 0.00 |
+| [Do not rollout Covid-19 vaccine passports](569957.md) | 343,290 | 339,393 | 3,897 | 0 | 98.86 | 1.14 | 0.00 |
 | [Make dog theft a specific criminal offence](560216.md) | 296,315 | 294,703 | 1,612 | 0 | 99.46 | 0.54 | 0.00 |
 | [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 285,809 | 279,399 | 6,410 | 0 | 97.76 | 2.24 | 0.00 |
-| [Do not restrict our rights to peaceful protest.](579012.md) | 247,632 | 244,935 | 2,697 | 0 | 98.91 | 1.09 | 0.00 |
+| [Do not restrict our rights to peaceful protest.](579012.md) | 247,633 | 244,936 | 2,697 | 0 | 98.91 | 1.09 | 0.00 |
 | [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 229,825 | 229,655 | 170 | 0 | 99.93 | 0.07 | 0.00 |
 | [Implement sanctions against the Nigerian Government and officials](554150.md) | 221,248 | 200,156 | 21,092 | 0 | 90.47 | 9.53 | 0.00 |
 | [Close schools in Tier 4 areas](564209.md) | 194,771 | 194,566 | 205 | 0 | 99.89 | 0.11 | 0.00 |
@@ -25,21 +25,21 @@ Last refreshed 2021-04-17 02:00:06
 | [Allow golf to be played with appropriate safety measures](557167.md) | 132,710 | 132,587 | 123 | 0 | 99.91 | 0.09 | 0.00 |
 | [Urge the Indian Government to ensure safety of protestors & press freedom](563473.md) | 116,216 | 114,099 | 2,117 | 0 | 98.18 | 1.82 | 0.00 |
 | [Do not give consent for another Scottish Independence Referendum ](570779.md) | 110,893 | 110,178 | 715 | 0 | 99.36 | 0.64 | 0.00 |
-| [Make it a criminal offence for MPs to mislead the public](561730.md) | 109,661 | 107,373 | 2,288 | 0 | 97.91 | 2.09 | 0.00 |
+| [Make it a criminal offence for MPs to mislead the public](561730.md) | 109,662 | 107,374 | 2,288 | 0 | 97.91 | 2.09 | 0.00 |
 | [Increase funding for urgent research into devastating motor neurone disease](564582.md) | 103,895 | 102,463 | 1,432 | 0 | 98.62 | 1.38 | 0.00 |
 | [Shut all nurseries and early years settings during lockdown](566718.md) | 103,151 | 102,971 | 180 | 0 | 99.83 | 0.17 | 0.00 |
-| [Ban greyhound racing to end unnecessary deaths & suffering of racing dogs](554073.md) | 102,388 | 100,956 | 1,432 | 0 | 98.60 | 1.40 | 0.00 |
-| [Allow international travel to visit partners and family](565102.md) | 101,513 | 98,496 | 3,017 | 0 | 97.03 | 2.97 | 0.00 |
+| [Ban greyhound racing to end unnecessary deaths & suffering of racing dogs](554073.md) | 102,391 | 100,959 | 1,432 | 0 | 98.60 | 1.40 | 0.00 |
+| [Allow international travel to visit partners and family](565102.md) | 101,514 | 98,496 | 3,018 | 0 | 97.03 | 2.97 | 0.00 |
 | [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 100,837 | 99,999 | 838 | 0 | 99.17 | 0.83 | 0.00 |
 | [Continue the ban on the use of Neonicotinoids](563943.md) | 90,044 | 89,244 | 800 | 0 | 99.11 | 0.89 | 0.00 |
-| [Extend driving theory test certificates expiring in 2020/21 by 12 months](558160.md) | 79,384 | 79,278 | 106 | 0 | 99.87 | 0.13 | 0.00 |
-| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 74,710 | 74,244 | 466 | 0 | 99.38 | 0.62 | 0.00 |
+| [Extend driving theory test certificates expiring in 2020/21 by 12 months](558160.md) | 79,387 | 79,281 | 106 | 0 | 99.87 | 0.13 | 0.00 |
+| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 74,714 | 74,248 | 466 | 0 | 99.38 | 0.62 | 0.00 |
 | [Prioritise COVID-19 vaccines for first responders (police, fire, ambulance)](564155.md) | 68,676 | 68,394 | 282 | 0 | 99.59 | 0.41 | 0.00 |
 | [To Seek a 1 year Extension to the Brexit Transition Period & a Second Referendum](554492.md) | 65,937 | 62,609 | 3,328 | 0 | 94.95 | 5.05 | 0.00 |
-| [Grant an urgent Amnesty to Undocumented Migrants living in the UK](567681.md) | 63,772 | 63,243 | 529 | 0 | 99.17 | 0.83 | 0.00 |
+| [Grant an urgent Amnesty to Undocumented Migrants living in the UK](567681.md) | 63,785 | 63,256 | 529 | 0 | 99.17 | 0.83 | 0.00 |
 | [Abolish time limits to bring charges for offences for acts of domestic violence](555276.md) | 62,598 | 61,766 | 832 | 0 | 98.67 | 1.33 | 0.00 |
 | [Extend paid maternity leave by at least four months   ](557195.md) | 56,875 | 56,804 | 71 | 0 | 99.88 | 0.12 | 0.00 |
-| [Mandatory printing of car registration numbers on all Drive Thru packaging.](580772.md) | 53,694 | 53,446 | 248 | 0 | 99.54 | 0.46 | 0.00 |
+| [Mandatory printing of car registration numbers on all Drive Thru packaging.](580772.md) | 53,699 | 53,451 | 248 | 0 | 99.54 | 0.46 | 0.00 |
 | [Repeal Coronavirus Act and end all Covid-19 restrictions](561995.md) | 52,076 | 51,685 | 391 | 0 | 99.25 | 0.75 | 0.00 |
 | [Overturn the decision to allow the use of neonicotinoid pesticides](569214.md) | 51,079 | 50,631 | 448 | 0 | 99.12 | 0.88 | 0.00 |
 | [Require negative covid test to enter the UK](564229.md) | 50,134 | 50,040 | 94 | 0 | 99.81 | 0.19 | 0.00 |
@@ -56,5 +56,5 @@ Last refreshed 2021-04-17 02:00:06
 | [Make glue traps illegal within the UK](560288.md) | 36,176 | 35,906 | 270 | 0 | 99.25 | 0.75 | 0.00 |
 | [Ensure student nurses and midwives are paid for working during Covid-19](558625.md) | 36,004 | 35,897 | 107 | 0 | 99.70 | 0.30 | 0.00 |
 | [Fund NHS scheme for women with Endometriosis to freeze their eggs](579802.md) | 35,278 | 35,147 | 131 | 0 | 99.63 | 0.37 | 0.00 |
-| [Ban the use of face masks in schools](577831.md) | 34,360 | 34,085 | 275 | 0 | 99.20 | 0.80 | 0.00 |
+| [Ban the use of face masks in schools](577831.md) | 34,363 | 34,087 | 276 | 0 | 99.20 | 0.80 | 0.00 |
 | [Amend GCSE exam content for children that are now in year 9 and year 10](568162.md) | 34,146 | 34,103 | 43 | 0 | 99.87 | 0.13 | 0.00 |
