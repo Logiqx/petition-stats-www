@@ -4,14 +4,14 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-04-23 02:00:02
+Last refreshed 2021-04-23 03:00:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Do not rollout Covid-19 vaccine passports](569957.md) | 344,751 | 340,837 | 3,914 | 0 | 98.86 | 1.14 | 0.00 |
+| [Do not rollout Covid-19 vaccine passports](569957.md) | 344,752 | 340,838 | 3,914 | 0 | 98.86 | 1.14 | 0.00 |
 | [Make dog theft a specific criminal offence](560216.md) | 298,900 | 297,277 | 1,623 | 0 | 99.46 | 0.54 | 0.00 |
 | [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 285,841 | 279,429 | 6,412 | 0 | 97.76 | 2.24 | 0.00 |
-| [Do not restrict our rights to peaceful protest.](579012.md) | 248,576 | 245,857 | 2,719 | 0 | 98.91 | 1.09 | 0.00 |
+| [Do not restrict our rights to peaceful protest.](579012.md) | 248,578 | 245,859 | 2,719 | 0 | 98.91 | 1.09 | 0.00 |
 | [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 229,842 | 229,672 | 170 | 0 | 99.93 | 0.07 | 0.00 |
 | [Close schools in Tier 4 areas](564209.md) | 194,783 | 194,578 | 205 | 0 | 99.89 | 0.11 | 0.00 |
 | [Keep gyms open during Tier 4 lockdown](563904.md) | 180,122 | 180,020 | 102 | 0 | 99.94 | 0.06 | 0.00 |
@@ -28,14 +28,14 @@ Last refreshed 2021-04-23 02:00:02
 | [Increase funding for urgent research into devastating motor neurone disease](564582.md) | 104,347 | 102,900 | 1,447 | 0 | 98.61 | 1.39 | 0.00 |
 | [Shut all nurseries and early years settings during lockdown](566718.md) | 103,152 | 102,972 | 180 | 0 | 99.83 | 0.17 | 0.00 |
 | [Allow international travel to visit partners and family](565102.md) | 102,107 | 99,051 | 3,056 | 0 | 97.01 | 2.99 | 0.00 |
-| [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 101,920 | 101,074 | 846 | 0 | 99.17 | 0.83 | 0.00 |
+| [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 101,921 | 101,075 | 846 | 0 | 99.17 | 0.83 | 0.00 |
 | [Continue the ban on the use of Neonicotinoids](563943.md) | 90,139 | 89,339 | 800 | 0 | 99.11 | 0.89 | 0.00 |
-| [Extend driving theory test certificates expiring in 2020/21 by 12 months](558160.md) | 80,650 | 80,543 | 107 | 0 | 99.87 | 0.13 | 0.00 |
-| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 80,572 | 80,084 | 488 | 0 | 99.39 | 0.61 | 0.00 |
-| [Grant an urgent Amnesty to Undocumented Migrants living in the UK](567681.md) | 71,061 | 69,857 | 1,204 | 0 | 98.31 | 1.69 | 0.00 |
+| [Extend driving theory test certificates expiring in 2020/21 by 12 months](558160.md) | 80,651 | 80,544 | 107 | 0 | 99.87 | 0.13 | 0.00 |
+| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 80,576 | 80,088 | 488 | 0 | 99.39 | 0.61 | 0.00 |
+| [Grant an urgent Amnesty to Undocumented Migrants living in the UK](567681.md) | 71,072 | 69,865 | 1,207 | 0 | 98.30 | 1.70 | 0.00 |
 | [Prioritise COVID-19 vaccines for first responders (police, fire, ambulance)](564155.md) | 68,695 | 68,413 | 282 | 0 | 99.59 | 0.41 | 0.00 |
-| [Abolish time limits to bring charges for offences for acts of domestic violence](555276.md) | 63,720 | 62,874 | 846 | 0 | 98.67 | 1.33 | 0.00 |
-| [Extend paid maternity leave by at least four months   ](557195.md) | 56,901 | 56,830 | 71 | 0 | 99.88 | 0.12 | 0.00 |
+| [Abolish time limits to bring charges for offences for acts of domestic violence](555276.md) | 63,724 | 62,878 | 846 | 0 | 98.67 | 1.33 | 0.00 |
+| [Extend paid maternity leave by at least four months   ](557195.md) | 56,902 | 56,831 | 71 | 0 | 99.88 | 0.12 | 0.00 |
 | [Mandatory printing of car registration numbers on all Drive Thru packaging.](580772.md) | 56,854 | 56,591 | 263 | 0 | 99.54 | 0.46 | 0.00 |
 | [Repeal Coronavirus Act and end all Covid-19 restrictions](561995.md) | 52,180 | 51,787 | 393 | 0 | 99.25 | 0.75 | 0.00 |
 | [Overturn the decision to allow the use of neonicotinoid pesticides](569214.md) | 51,141 | 50,693 | 448 | 0 | 99.12 | 0.88 | 0.00 |
@@ -46,7 +46,7 @@ Last refreshed 2021-04-23 02:00:02
 | [Save Community Sports Clubs and Leisure Facilities with a Sports Recovery Fund](553619.md) | 46,764 | 46,673 | 91 | 0 | 99.81 | 0.19 | 0.00 |
 | [Cancel A-level and GCSE exams 2022](566760.md) | 44,930 | 44,772 | 158 | 0 | 99.65 | 0.35 | 0.00 |
 | [Create a one off Bank Holiday on Monday June 21st 2021.](555205.md) | 41,657 | 41,602 | 55 | 0 | 99.87 | 0.13 | 0.00 |
-| [Scrap the compulsory £210 home test kit when arriving in U.K.](577580.md) | 41,023 | 40,640 | 383 | 0 | 99.07 | 0.93 | 0.00 |
+| [Scrap the compulsory £210 home test kit when arriving in U.K.](577580.md) | 41,024 | 40,641 | 383 | 0 | 99.07 | 0.93 | 0.00 |
 | [Revoke rules for refusing or cancelling permission to stay for rough sleepers](561884.md) | 40,597 | 40,282 | 315 | 0 | 99.22 | 0.78 | 0.00 |
 | [Reimburse student rents for all accommodation not used during this academic year](560735.md) | 39,932 | 39,777 | 155 | 0 | 99.61 | 0.39 | 0.00 |
 | [Fund NHS scheme for women with Endometriosis to freeze their eggs](579802.md) | 36,950 | 36,813 | 137 | 0 | 99.63 | 0.37 | 0.00 |
@@ -55,6 +55,6 @@ Last refreshed 2021-04-23 02:00:02
 | [Ensure student nurses and midwives are paid for working during Covid-19](558625.md) | 36,016 | 35,909 | 107 | 0 | 99.70 | 0.30 | 0.00 |
 | [Amend GCSE exam content for children that are now in year 9 and year 10](568162.md) | 34,169 | 34,126 | 43 | 0 | 99.87 | 0.13 | 0.00 |
 | [Tuition Fee Compensation for International Students in UK Universities](572202.md) | 34,107 | 32,483 | 1,624 | 0 | 95.24 | 4.76 | 0.00 |
-| [End all requirements to wear face coverings immediately](581316.md) | 32,841 | 32,631 | 210 | 0 | 99.36 | 0.64 | 0.00 |
+| [End all requirements to wear face coverings immediately](581316.md) | 32,886 | 32,674 | 212 | 0 | 99.36 | 0.64 | 0.00 |
 | [Allow open-air swimming pools, lidos & lakes to open in a new Covid-19 lockdown](555079.md) | 31,733 | 31,647 | 86 | 0 | 99.73 | 0.27 | 0.00 |
 | [Make it legal to carry non-lethal self defence weapons](577568.md) | 31,216 | 31,044 | 172 | 0 | 99.45 | 0.55 | 0.00 |
