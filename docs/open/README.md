@@ -4,14 +4,14 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-04-24 03:00:06
+Last refreshed 2021-04-24 04:00:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Do not rollout Covid-19 vaccine passports](569957.md) | 345,090 | 341,168 | 3,922 | 0 | 98.86 | 1.14 | 0.00 |
-| [Make dog theft a specific criminal offence](560216.md) | 299,093 | 297,469 | 1,624 | 0 | 99.46 | 0.54 | 0.00 |
+| [Do not rollout Covid-19 vaccine passports](569957.md) | 345,093 | 341,171 | 3,922 | 0 | 98.86 | 1.14 | 0.00 |
+| [Make dog theft a specific criminal offence](560216.md) | 299,095 | 297,471 | 1,624 | 0 | 99.46 | 0.54 | 0.00 |
 | [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 285,848 | 279,435 | 6,413 | 0 | 97.76 | 2.24 | 0.00 |
-| [Do not restrict our rights to peaceful protest.](579012.md) | 248,739 | 246,019 | 2,720 | 0 | 98.91 | 1.09 | 0.00 |
+| [Do not restrict our rights to peaceful protest.](579012.md) | 248,740 | 246,020 | 2,720 | 0 | 98.91 | 1.09 | 0.00 |
 | [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 229,842 | 229,672 | 170 | 0 | 99.93 | 0.07 | 0.00 |
 | [Close schools in Tier 4 areas](564209.md) | 194,786 | 194,581 | 205 | 0 | 99.89 | 0.11 | 0.00 |
 | [Keep gyms open during Tier 4 lockdown](563904.md) | 180,123 | 180,021 | 102 | 0 | 99.94 | 0.06 | 0.00 |
@@ -30,12 +30,12 @@ Last refreshed 2021-04-24 03:00:06
 | [Allow international travel to visit partners and family](565102.md) | 102,185 | 99,125 | 3,060 | 0 | 97.01 | 2.99 | 0.00 |
 | [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 101,972 | 101,126 | 846 | 0 | 99.17 | 0.83 | 0.00 |
 | [Continue the ban on the use of Neonicotinoids](563943.md) | 90,146 | 89,346 | 800 | 0 | 99.11 | 0.89 | 0.00 |
-| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 81,620 | 81,125 | 495 | 0 | 99.39 | 0.61 | 0.00 |
-| [Extend driving theory test certificates expiring in 2020/21 by 12 months](558160.md) | 80,856 | 80,749 | 107 | 0 | 99.87 | 0.13 | 0.00 |
-| [Grant an urgent Amnesty to Undocumented Migrants living in the UK](567681.md) | 72,057 | 70,820 | 1,237 | 0 | 98.28 | 1.72 | 0.00 |
+| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 81,633 | 81,138 | 495 | 0 | 99.39 | 0.61 | 0.00 |
+| [Extend driving theory test certificates expiring in 2020/21 by 12 months](558160.md) | 80,857 | 80,750 | 107 | 0 | 99.87 | 0.13 | 0.00 |
+| [Grant an urgent Amnesty to Undocumented Migrants living in the UK](567681.md) | 72,071 | 70,834 | 1,237 | 0 | 98.28 | 1.72 | 0.00 |
 | [Prioritise COVID-19 vaccines for first responders (police, fire, ambulance)](564155.md) | 68,698 | 68,416 | 282 | 0 | 99.59 | 0.41 | 0.00 |
 | [Abolish time limits to bring charges for offences for acts of domestic violence](555276.md) | 64,002 | 63,154 | 848 | 0 | 98.68 | 1.32 | 0.00 |
-| [Mandatory printing of car registration numbers on all Drive Thru packaging.](580772.md) | 57,012 | 56,749 | 263 | 0 | 99.54 | 0.46 | 0.00 |
+| [Mandatory printing of car registration numbers on all Drive Thru packaging.](580772.md) | 57,013 | 56,750 | 263 | 0 | 99.54 | 0.46 | 0.00 |
 | [Extend paid maternity leave by at least four months   ](557195.md) | 56,909 | 56,838 | 71 | 0 | 99.88 | 0.12 | 0.00 |
 | [Repeal Coronavirus Act and end all Covid-19 restrictions](561995.md) | 52,202 | 51,809 | 393 | 0 | 99.25 | 0.75 | 0.00 |
 | [Overturn the decision to allow the use of neonicotinoid pesticides](569214.md) | 51,146 | 50,697 | 449 | 0 | 99.12 | 0.88 | 0.00 |
@@ -49,8 +49,8 @@ Last refreshed 2021-04-24 03:00:06
 | [Scrap the compulsory £210 home test kit when arriving in U.K.](577580.md) | 41,155 | 40,767 | 388 | 0 | 99.06 | 0.94 | 0.00 |
 | [Revoke rules for refusing or cancelling permission to stay for rough sleepers](561884.md) | 40,608 | 40,293 | 315 | 0 | 99.22 | 0.78 | 0.00 |
 | [Reimburse student rents for all accommodation not used during this academic year](560735.md) | 39,934 | 39,779 | 155 | 0 | 99.61 | 0.39 | 0.00 |
-| [End all requirements to wear face coverings immediately](581316.md) | 38,032 | 37,776 | 256 | 0 | 99.33 | 0.67 | 0.00 |
-| [Fund NHS scheme for women with Endometriosis to freeze their eggs](579802.md) | 37,016 | 36,878 | 138 | 0 | 99.63 | 0.37 | 0.00 |
+| [End all requirements to wear face coverings immediately](581316.md) | 38,036 | 37,780 | 256 | 0 | 99.33 | 0.67 | 0.00 |
+| [Fund NHS scheme for women with Endometriosis to freeze their eggs](579802.md) | 37,017 | 36,879 | 138 | 0 | 99.63 | 0.37 | 0.00 |
 | [Make glue traps illegal within the UK](560288.md) | 36,611 | 36,325 | 286 | 0 | 99.22 | 0.78 | 0.00 |
 | [Ban the use of face masks in schools](577831.md) | 36,334 | 36,041 | 293 | 0 | 99.19 | 0.81 | 0.00 |
 | [Ensure student nurses and midwives are paid for working during Covid-19](558625.md) | 36,018 | 35,911 | 107 | 0 | 99.70 | 0.30 | 0.00 |
