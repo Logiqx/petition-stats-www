@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-05-06 22:00:18
+Last refreshed 2021-05-06 23:00:17
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -50,6 +50,7 @@ Last refreshed 2021-05-06 22:00:18
 | [Allow gyms and leisure centres to reopen](307146.md) | 136,163 | 136,001 | 162 | 0 | 99.88 | 0.12 | 0.00 |
 | [Provide financial help to zoos, aquariums, & rescue centres during the pandemic.](308733.md) | 135,481 | 134,863 | 618 | 0 | 99.54 | 0.46 | 0.00 |
 | [Don’t criminalise trespass](300139.md) | 134,933 | 133,247 | 1,686 | 0 | 98.75 | 1.25 | 0.00 |
+| [Allow golf to be played with appropriate safety measures](557167.md) | 132,727 | 132,604 | 123 | 0 | 99.91 | 0.09 | 0.00 |
 | [Release the Home Office's Grooming Gang Review in full](300239.md) | 131,625 | 128,711 | 2,914 | 0 | 97.79 | 2.21 | 0.00 |
 | [Introduce Mandatory Ethnicity Pay Gap Reporting](300105.md) | 130,567 | 129,644 | 923 | 0 | 99.29 | 0.71 | 0.00 |
 | [Allow Zoos and Wildlife attractions to reopen with social distancing in place](323881.md) | 129,291 | 128,741 | 550 | 0 | 99.57 | 0.43 | 0.00 |
@@ -57,4 +58,3 @@ Last refreshed 2021-05-06 22:00:18
 | [Encourage lenders, landlords and utilities to freeze payments during lockdown](302256.md) | 126,934 | 126,593 | 341 | 0 | 99.73 | 0.27 | 0.00 |
 | [Hold a public inquiry into Government contracts granted during Covid-19](328408.md) | 126,873 | 125,288 | 1,585 | 0 | 98.75 | 1.25 | 0.00 |
 | [Take action to stop illegal immigration and rapidly remove illegal immigrants](321862.md) | 126,440 | 124,924 | 1,516 | 0 | 98.80 | 1.20 | 0.00 |
-| [Implement a two week school lockdown before 24 December to save Christmas](549015.md) | 125,227 | 125,101 | 126 | 0 | 99.90 | 0.10 | 0.00 |
