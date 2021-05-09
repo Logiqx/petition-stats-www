@@ -4,11 +4,11 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-05-09 03:00:10
+Last refreshed 2021-05-09 04:00:08
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Do not rollout Covid-19 vaccine passports](569957.md) | 349,118 | 345,130 | 3,988 | 0 | 98.86 | 1.14 | 0.00 |
+| [Do not rollout Covid-19 vaccine passports](569957.md) | 349,119 | 345,131 | 3,988 | 0 | 98.86 | 1.14 | 0.00 |
 | [Make dog theft a specific criminal offence](560216.md) | 304,342 | 302,692 | 1,650 | 0 | 99.46 | 0.54 | 0.00 |
 | [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 285,994 | 279,580 | 6,414 | 0 | 97.76 | 2.24 | 0.00 |
 | [Do not restrict our rights to peaceful protest.](579012.md) | 250,281 | 247,537 | 2,744 | 0 | 98.90 | 1.10 | 0.00 |
@@ -20,7 +20,7 @@ Last refreshed 2021-05-09 03:00:10
 | [Stop work on HS2 immediately and hold a new vote to repeal the legislation](563380.md) | 153,944 | 152,935 | 1,009 | 0 | 99.34 | 0.66 | 0.00 |
 | [Keep schools closed until May](573621.md) | 149,401 | 149,043 | 358 | 0 | 99.76 | 0.24 | 0.00 |
 | [Trigger Article 16. We want unfettered GB-NI Trade.](573209.md) | 143,682 | 142,577 | 1,105 | 0 | 99.23 | 0.77 | 0.00 |
-| [Make non-binary a legally recognised gender identity in the UK](580220.md) | 133,941 | 132,160 | 1,781 | 0 | 98.67 | 1.33 | 0.00 |
+| [Make non-binary a legally recognised gender identity in the UK](580220.md) | 133,944 | 132,162 | 1,782 | 0 | 98.67 | 1.33 | 0.00 |
 | [Urge the Indian Government to ensure safety of protestors & press freedom](563473.md) | 116,347 | 114,228 | 2,119 | 0 | 98.18 | 1.82 | 0.00 |
 | [Do not give consent for another Scottish Independence Referendum ](570779.md) | 111,257 | 110,539 | 718 | 0 | 99.35 | 0.65 | 0.00 |
 | [Make it a criminal offence for MPs to mislead the public](561730.md) | 110,185 | 107,893 | 2,292 | 0 | 97.92 | 2.08 | 0.00 |
@@ -29,13 +29,13 @@ Last refreshed 2021-05-09 03:00:10
 | [Shut all nurseries and early years settings during lockdown](566718.md) | 103,154 | 102,974 | 180 | 0 | 99.83 | 0.17 | 0.00 |
 | [Allow international travel to visit partners and family](565102.md) | 102,784 | 99,700 | 3,084 | 0 | 97.00 | 3.00 | 0.00 |
 | [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 102,521 | 101,668 | 853 | 0 | 99.17 | 0.83 | 0.00 |
-| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 98,307 | 97,743 | 564 | 0 | 99.43 | 0.57 | 0.00 |
+| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 98,312 | 97,747 | 565 | 0 | 99.43 | 0.57 | 0.00 |
 | [Continue the ban on the use of Neonicotinoids](563943.md) | 90,333 | 89,532 | 801 | 0 | 99.11 | 0.89 | 0.00 |
-| [Grant an urgent Amnesty to Undocumented Migrants living in the UK](567681.md) | 86,426 | 84,893 | 1,533 | 0 | 98.23 | 1.77 | 0.00 |
+| [Grant an urgent Amnesty to Undocumented Migrants living in the UK](567681.md) | 86,443 | 84,909 | 1,534 | 0 | 98.23 | 1.77 | 0.00 |
 | [Extend driving theory test certificates expiring in 2020/21 by 12 months](558160.md) | 82,866 | 82,757 | 109 | 0 | 99.87 | 0.13 | 0.00 |
 | [Prioritise COVID-19 vaccines for first responders (police, fire, ambulance)](564155.md) | 68,779 | 68,497 | 282 | 0 | 99.59 | 0.41 | 0.00 |
-| [End all requirements to wear face coverings immediately](581316.md) | 63,349 | 62,868 | 481 | 0 | 99.24 | 0.76 | 0.00 |
-| [Mandatory printing of car registration numbers on all Drive Thru packaging.](580772.md) | 57,970 | 57,704 | 266 | 0 | 99.54 | 0.46 | 0.00 |
+| [End all requirements to wear face coverings immediately](581316.md) | 63,351 | 62,869 | 482 | 0 | 99.24 | 0.76 | 0.00 |
+| [Mandatory printing of car registration numbers on all Drive Thru packaging.](580772.md) | 57,971 | 57,705 | 266 | 0 | 99.54 | 0.46 | 0.00 |
 | [Extend paid maternity leave by at least four months   ](557195.md) | 56,986 | 56,915 | 71 | 0 | 99.88 | 0.12 | 0.00 |
 | [Repeal Coronavirus Act and end all Covid-19 restrictions](561995.md) | 52,517 | 52,117 | 400 | 0 | 99.24 | 0.76 | 0.00 |
 | [Overturn the decision to allow the use of neonicotinoid pesticides](569214.md) | 51,248 | 50,799 | 449 | 0 | 99.12 | 0.88 | 0.00 |
@@ -47,7 +47,7 @@ Last refreshed 2021-05-09 03:00:10
 | [Scrap the compulsory £210 home test kit when arriving in U.K.](577580.md) | 44,159 | 43,721 | 438 | 0 | 99.01 | 0.99 | 0.00 |
 | [Revoke rules for refusing or cancelling permission to stay for rough sleepers](561884.md) | 40,752 | 40,436 | 316 | 0 | 99.22 | 0.78 | 0.00 |
 | [Reimburse student rents for all accommodation not used during this academic year](560735.md) | 39,970 | 39,815 | 155 | 0 | 99.61 | 0.39 | 0.00 |
-| [Stricter laws governing the purchase/acquisition/possession of crossbows](583762.md) | 38,472 | 38,218 | 254 | 0 | 99.34 | 0.66 | 0.00 |
+| [Stricter laws governing the purchase/acquisition/possession of crossbows](583762.md) | 38,473 | 38,219 | 254 | 0 | 99.34 | 0.66 | 0.00 |
 | [Fund NHS scheme for women with Endometriosis to freeze their eggs](579802.md) | 38,365 | 38,221 | 144 | 0 | 99.62 | 0.38 | 0.00 |
 | [Make glue traps illegal within the UK](560288.md) | 37,756 | 37,464 | 292 | 0 | 99.23 | 0.77 | 0.00 |
 | [Ban the use of face masks in schools](577831.md) | 37,288 | 36,989 | 299 | 0 | 99.20 | 0.80 | 0.00 |
