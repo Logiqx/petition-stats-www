@@ -4,12 +4,12 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-05-18 11:00:20
+Last refreshed 2021-05-18 12:00:22
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [End child food poverty – no child should be going hungry](554276.md) | 1,113,879 | 1,101,140 | 12,739 | 0 | 98.86 | 1.14 | 0.00 |
-| [Include self-employed in statutory sick pay during Coronavirus](300336.md) | 699,597 | 697,229 | 2,368 | 0 | 99.66 | 0.34 | 0.00 |
+| [Include self-employed in statutory sick pay during Coronavirus](300336.md) | 699,598 | 697,230 | 2,368 | 0 | 99.66 | 0.34 | 0.00 |
 | [Close Schools/Colleges down for an appropriate amount of time amidst COVID19.](300403.md) | 685,393 | 682,887 | 2,506 | 0 | 99.63 | 0.37 | 0.00 |
 | [Prevent gyms closing due to a spike in Covid 19 cases](333869.md) | 621,442 | 620,830 | 612 | 0 | 99.90 | 0.10 | 0.00 |
 | [Reduce University student tuition fees from £9250 to £3000](550344.md) | 581,286 | 578,815 | 2,471 | 0 | 99.57 | 0.43 | 0.00 |
@@ -40,7 +40,7 @@ Last refreshed 2021-05-18 11:00:20
 | [Reduce curriculum content for year 10 & 12 students who will sit exams in 2021.](320772.md) | 148,388 | 147,990 | 398 | 0 | 99.73 | 0.27 | 0.00 |
 | [FIONA'S LAW - Women should be allowed a yearly Cervical screening   ](317336.md) | 146,632 | 145,993 | 639 | 0 | 99.56 | 0.44 | 0.00 |
 | [Give all key workers a 100% tax and Nat. Ins. holiday through COVID-19 crisis](306845.md) | 146,351 | 146,074 | 277 | 0 | 99.81 | 0.19 | 0.00 |
-| [Impose sanctions on China over its treatment of Uyghur Muslims](300146.md) | 146,345 | 139,772 | 6,573 | 0 | 95.51 | 4.49 | 0.00 |
+| [Impose sanctions on China over its treatment of Uyghur Muslims](300146.md) | 146,346 | 139,773 | 6,573 | 0 | 95.51 | 4.49 | 0.00 |
 | [Let Us Dance - Support nightclubs, dance music events and festivals](332789.md) | 146,187 | 145,353 | 834 | 0 | 99.43 | 0.57 | 0.00 |
 | [Allow teacher predicted grades for BTEC students](548778.md) | 145,336 | 145,042 | 294 | 0 | 99.80 | 0.20 | 0.00 |
 | [Make pet theft crime a specific offence with custodial sentences.](300071.md) | 143,635 | 142,225 | 1,410 | 0 | 99.02 | 0.98 | 0.00 |
