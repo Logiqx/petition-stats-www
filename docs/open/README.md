@@ -4,57 +4,57 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-05-31 13:00:08
+Last refreshed 2021-05-31 14:00:08
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Introduce sanctions against Israel](585314.md) | 383,897 | 378,938 | 4,959 | 0 | 98.71 | 1.29 | 0.00 |
-| [Do not rollout Covid-19 vaccine passports](569957.md) | 352,077 | 348,048 | 4,029 | 0 | 98.86 | 1.14 | 0.00 |
-| [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 286,683 | 280,253 | 6,430 | 0 | 97.76 | 2.24 | 0.00 |
-| [Do not restrict our rights to peaceful protest.](579012.md) | 251,645 | 248,885 | 2,760 | 0 | 98.90 | 1.10 | 0.00 |
+| [Introduce sanctions against Israel](585314.md) | 383,910 | 378,951 | 4,959 | 0 | 98.71 | 1.29 | 0.00 |
+| [Do not rollout Covid-19 vaccine passports](569957.md) | 352,086 | 348,057 | 4,029 | 0 | 98.86 | 1.14 | 0.00 |
+| [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 286,685 | 280,255 | 6,430 | 0 | 97.76 | 2.24 | 0.00 |
+| [Do not restrict our rights to peaceful protest.](579012.md) | 251,646 | 248,886 | 2,760 | 0 | 98.90 | 1.10 | 0.00 |
 | [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 229,911 | 229,740 | 171 | 0 | 99.93 | 0.07 | 0.00 |
 | [Close schools in Tier 4 areas](564209.md) | 194,855 | 194,650 | 205 | 0 | 99.89 | 0.11 | 0.00 |
 | [Keep gyms open during Tier 4 lockdown](563904.md) | 180,163 | 180,060 | 103 | 0 | 99.94 | 0.06 | 0.00 |
-| [Make verified ID a requirement for opening a social media account.](575833.md) | 173,479 | 172,370 | 1,109 | 0 | 99.36 | 0.64 | 0.00 |
+| [Make verified ID a requirement for opening a social media account.](575833.md) | 173,480 | 172,371 | 1,109 | 0 | 99.36 | 0.64 | 0.00 |
 | [Cancel GCSE and A-levels in 2021 replace with Course Work and Teacher Assessment](564696.md) | 157,765 | 156,753 | 1,012 | 0 | 99.36 | 0.64 | 0.00 |
-| [Stop work on HS2 immediately and hold a new vote to repeal the legislation](563380.md) | 154,536 | 153,523 | 1,013 | 0 | 99.34 | 0.66 | 0.00 |
+| [Stop work on HS2 immediately and hold a new vote to repeal the legislation](563380.md) | 154,537 | 153,524 | 1,013 | 0 | 99.34 | 0.66 | 0.00 |
 | [Keep schools closed until May](573621.md) | 149,418 | 149,060 | 358 | 0 | 99.76 | 0.24 | 0.00 |
 | [Trigger Article 16. We want unfettered GB-NI Trade.](573209.md) | 143,787 | 142,682 | 1,105 | 0 | 99.23 | 0.77 | 0.00 |
 | [Introduce an Independent Regulator for Football in England by December 2021](584632.md) | 142,450 | 138,571 | 3,879 | 0 | 97.28 | 2.72 | 0.00 |
-| [Make non-binary a legally recognised gender identity in the UK](580220.md) | 137,078 | 135,233 | 1,845 | 0 | 98.65 | 1.35 | 0.00 |
-| [UK Government to formally recognise the State of Palestine](585313.md) | 128,414 | 127,246 | 1,168 | 0 | 99.09 | 0.91 | 0.00 |
+| [Make non-binary a legally recognised gender identity in the UK](580220.md) | 137,080 | 135,235 | 1,845 | 0 | 98.65 | 1.35 | 0.00 |
+| [UK Government to formally recognise the State of Palestine](585313.md) | 128,422 | 127,254 | 1,168 | 0 | 99.09 | 0.91 | 0.00 |
 | [Urge the Indian Government to ensure safety of protestors & press freedom](563473.md) | 116,458 | 114,337 | 2,121 | 0 | 98.18 | 1.82 | 0.00 |
 | [Do not give consent for another Scottish Independence Referendum ](570779.md) | 111,683 | 110,965 | 718 | 0 | 99.36 | 0.64 | 0.00 |
 | [Enforce the “50+1” Rule for professional football club ownership in the UK](583310.md) | 106,784 | 100,854 | 5,930 | 0 | 94.45 | 5.55 | 0.00 |
-| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 106,418 | 105,808 | 610 | 0 | 99.43 | 0.57 | 0.00 |
+| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 106,424 | 105,814 | 610 | 0 | 99.43 | 0.57 | 0.00 |
 | [Increase funding for urgent research into devastating motor neurone disease](564582.md) | 106,072 | 104,605 | 1,467 | 0 | 98.62 | 1.38 | 0.00 |
 | [Allow international travel to visit partners and family](565102.md) | 105,043 | 101,691 | 3,352 | 0 | 96.81 | 3.19 | 0.00 |
-| [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 104,040 | 103,167 | 873 | 0 | 99.16 | 0.84 | 0.00 |
+| [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 104,042 | 103,169 | 873 | 0 | 99.16 | 0.84 | 0.00 |
 | [Shut all nurseries and early years settings during lockdown](566718.md) | 103,163 | 102,983 | 180 | 0 | 99.83 | 0.17 | 0.00 |
-| [Grant an urgent Amnesty to Undocumented Migrants living in the UK](567681.md) | 101,404 | 99,680 | 1,724 | 0 | 98.30 | 1.70 | 0.00 |
+| [Grant an urgent Amnesty to Undocumented Migrants living in the UK](567681.md) | 101,408 | 99,684 | 1,724 | 0 | 98.30 | 1.70 | 0.00 |
 | [Continue the ban on the use of Neonicotinoids](563943.md) | 90,666 | 89,860 | 806 | 0 | 99.11 | 0.89 | 0.00 |
-| [Scrap the Voter ID requirement introduced in the Election Integrity Bill](576024.md) | 89,139 | 88,076 | 1,063 | 0 | 98.81 | 1.19 | 0.00 |
+| [Scrap the Voter ID requirement introduced in the Election Integrity Bill](576024.md) | 89,145 | 88,082 | 1,063 | 0 | 98.81 | 1.19 | 0.00 |
 | [Prioritise COVID-19 vaccines for first responders (police, fire, ambulance)](564155.md) | 68,921 | 68,639 | 282 | 0 | 99.59 | 0.41 | 0.00 |
-| [End all requirements to wear face coverings immediately](581316.md) | 68,850 | 68,326 | 524 | 0 | 99.24 | 0.76 | 0.00 |
-| [Scrap the compulsory £210 home test kit when arriving in U.K.](577580.md) | 64,841 | 64,305 | 536 | 0 | 99.17 | 0.83 | 0.00 |
+| [End all requirements to wear face coverings immediately](581316.md) | 68,854 | 68,330 | 524 | 0 | 99.24 | 0.76 | 0.00 |
+| [Scrap the compulsory £210 home test kit when arriving in U.K.](577580.md) | 64,844 | 64,308 | 536 | 0 | 99.17 | 0.83 | 0.00 |
 | [Mandatory printing of car registration numbers on all Drive Thru packaging.](580772.md) | 58,876 | 58,607 | 269 | 0 | 99.54 | 0.46 | 0.00 |
-| [Repeal Coronavirus Act and end all Covid-19 restrictions](561995.md) | 52,940 | 52,536 | 404 | 0 | 99.24 | 0.76 | 0.00 |
+| [Repeal Coronavirus Act and end all Covid-19 restrictions](561995.md) | 52,941 | 52,537 | 404 | 0 | 99.24 | 0.76 | 0.00 |
 | [Overturn the decision to allow the use of neonicotinoid pesticides](569214.md) | 51,415 | 50,964 | 451 | 0 | 99.12 | 0.88 | 0.00 |
-| [Make access to food a legal right - no one in the UK should go hungry](562838.md) | 50,959 | 50,564 | 395 | 0 | 99.22 | 0.78 | 0.00 |
-| [Require negative covid test to enter the UK](564229.md) | 50,427 | 50,331 | 96 | 0 | 99.81 | 0.19 | 0.00 |
-| [Allow non-professional singing in groups of more than six indoors](586559.md) | 50,211 | 50,016 | 195 | 0 | 99.61 | 0.39 | 0.00 |
+| [Make access to food a legal right - no one in the UK should go hungry](562838.md) | 50,963 | 50,568 | 395 | 0 | 99.22 | 0.78 | 0.00 |
+| [Require negative covid test to enter the UK](564229.md) | 50,428 | 50,332 | 96 | 0 | 99.81 | 0.19 | 0.00 |
+| [Allow non-professional singing in groups of more than six indoors](586559.md) | 50,266 | 50,071 | 195 | 0 | 99.61 | 0.39 | 0.00 |
 | [All nurseries and places of education to stay closed after Xmas to 15 January](561988.md) | 49,386 | 49,305 | 81 | 0 | 99.84 | 0.16 | 0.00 |
 | [Prioritise Key Retail Workers, being offered the Covid Vaccine!](567426.md) | 47,890 | 47,819 | 71 | 0 | 99.85 | 0.15 | 0.00 |
-| [Cancel A-level and GCSE exams 2022](566760.md) | 46,650 | 46,483 | 167 | 0 | 99.64 | 0.36 | 0.00 |
-| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 41,449 | 40,942 | 507 | 0 | 98.78 | 1.22 | 0.00 |
+| [Cancel A-level and GCSE exams 2022](566760.md) | 46,653 | 46,486 | 167 | 0 | 99.64 | 0.36 | 0.00 |
+| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 41,468 | 40,960 | 508 | 0 | 98.77 | 1.23 | 0.00 |
 | [Revoke rules for refusing or cancelling permission to stay for rough sleepers](561884.md) | 41,170 | 40,850 | 320 | 0 | 99.22 | 0.78 | 0.00 |
 | [Stricter laws governing the purchase/acquisition/possession of crossbows](583762.md) | 40,248 | 39,969 | 279 | 0 | 99.31 | 0.69 | 0.00 |
 | [Fund NHS scheme for women with Endometriosis to freeze their eggs](579802.md) | 39,008 | 38,860 | 148 | 0 | 99.62 | 0.38 | 0.00 |
 | [Ban the use of face masks in schools](577831.md) | 37,452 | 37,149 | 303 | 0 | 99.19 | 0.81 | 0.00 |
 | [Do not cut UK higher education Arts Funding](572300.md) | 36,376 | 36,002 | 374 | 0 | 98.97 | 1.03 | 0.00 |
-| [Tuition Fee Compensation for International Students in UK Universities](572202.md) | 35,820 | 34,141 | 1,679 | 0 | 95.31 | 4.69 | 0.00 |
-| [Remove Pakistan from red list for travel](581974.md) | 34,959 | 34,496 | 463 | 0 | 98.68 | 1.32 | 0.00 |
-| [Ban Water Companies discharging raw sewage into water courses.](582336.md) | 34,824 | 34,667 | 157 | 0 | 99.55 | 0.45 | 0.00 |
+| [Tuition Fee Compensation for International Students in UK Universities](572202.md) | 35,821 | 34,142 | 1,679 | 0 | 95.31 | 4.69 | 0.00 |
+| [Remove Pakistan from red list for travel](581974.md) | 34,970 | 34,507 | 463 | 0 | 98.68 | 1.32 | 0.00 |
+| [Ban Water Companies discharging raw sewage into water courses.](582336.md) | 34,826 | 34,669 | 157 | 0 | 99.55 | 0.45 | 0.00 |
 | [Amend GCSE exam content for children that are now in year 9 and year 10](568162.md) | 34,327 | 34,284 | 43 | 0 | 99.87 | 0.13 | 0.00 |
-| [Make it legal to carry non-lethal self defence weapons](577568.md) | 32,730 | 32,550 | 180 | 0 | 99.45 | 0.55 | 0.00 |
-| [Create a public register of people banned from keeping animals in the UK](573147.md) | 32,283 | 32,058 | 225 | 0 | 99.30 | 0.70 | 0.00 |
+| [Make it legal to carry non-lethal self defence weapons](577568.md) | 32,732 | 32,552 | 180 | 0 | 99.45 | 0.55 | 0.00 |
+| [Create a public register of people banned from keeping animals in the UK](573147.md) | 32,285 | 32,060 | 225 | 0 | 99.30 | 0.70 | 0.00 |
