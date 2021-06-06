@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-06-06 04:00:08
+Last refreshed 2021-06-06 05:00:07
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -15,7 +15,7 @@ Last refreshed 2021-06-06 04:00:08
 | [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 229,922 | 229,751 | 171 | 0 | 99.93 | 0.07 | 0.00 |
 | [Close schools in Tier 4 areas](564209.md) | 194,863 | 194,658 | 205 | 0 | 99.89 | 0.11 | 0.00 |
 | [Keep gyms open during Tier 4 lockdown](563904.md) | 180,163 | 180,060 | 103 | 0 | 99.94 | 0.06 | 0.00 |
-| [Make verified ID a requirement for opening a social media account.](575833.md) | 173,566 | 172,457 | 1,109 | 0 | 99.36 | 0.64 | 0.00 |
+| [Make verified ID a requirement for opening a social media account.](575833.md) | 173,567 | 172,458 | 1,109 | 0 | 99.36 | 0.64 | 0.00 |
 | [Cancel GCSE and A-levels in 2021 replace with Course Work and Teacher Assessment](564696.md) | 157,774 | 156,762 | 1,012 | 0 | 99.36 | 0.64 | 0.00 |
 | [Stop work on HS2 immediately and hold a new vote to repeal the legislation](563380.md) | 154,678 | 153,663 | 1,015 | 0 | 99.34 | 0.66 | 0.00 |
 | [Keep schools closed until May](573621.md) | 149,419 | 149,061 | 358 | 0 | 99.76 | 0.24 | 0.00 |
@@ -29,32 +29,32 @@ Last refreshed 2021-06-06 04:00:08
 | [Enforce the “50+1” Rule for professional football club ownership in the UK](583310.md) | 106,806 | 100,876 | 5,930 | 0 | 94.45 | 5.55 | 0.00 |
 | [Increase funding for urgent research into devastating motor neurone disease](564582.md) | 106,620 | 105,141 | 1,479 | 0 | 98.61 | 1.39 | 0.00 |
 | [Allow international travel to visit partners and family](565102.md) | 105,266 | 101,894 | 3,372 | 0 | 96.80 | 3.20 | 0.00 |
-| [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 104,203 | 103,329 | 874 | 0 | 99.16 | 0.84 | 0.00 |
+| [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 104,204 | 103,330 | 874 | 0 | 99.16 | 0.84 | 0.00 |
 | [Shut all nurseries and early years settings during lockdown](566718.md) | 103,163 | 102,983 | 180 | 0 | 99.83 | 0.17 | 0.00 |
 | [Grant an urgent Amnesty to Undocumented Migrants living in the UK](567681.md) | 101,558 | 99,834 | 1,724 | 0 | 98.30 | 1.70 | 0.00 |
 | [Continue the ban on the use of Neonicotinoids](563943.md) | 90,787 | 89,980 | 807 | 0 | 99.11 | 0.89 | 0.00 |
+| [Commission an independent review of childcare funding and affordability](586700.md) | 89,286 | 89,081 | 205 | 0 | 99.77 | 0.23 | 0.00 |
 | [Scrap the Voter ID requirement introduced in the Election Integrity Bill](576024.md) | 89,274 | 88,208 | 1,066 | 0 | 98.81 | 1.19 | 0.00 |
-| [Commission an independent review of childcare funding and affordability](586700.md) | 89,240 | 89,035 | 205 | 0 | 99.77 | 0.23 | 0.00 |
-| [End all requirements to wear face coverings immediately](581316.md) | 70,484 | 69,948 | 536 | 0 | 99.24 | 0.76 | 0.00 |
+| [End all requirements to wear face coverings immediately](581316.md) | 70,485 | 69,949 | 536 | 0 | 99.24 | 0.76 | 0.00 |
 | [Prioritise COVID-19 vaccines for first responders (police, fire, ambulance)](564155.md) | 68,934 | 68,652 | 282 | 0 | 99.59 | 0.41 | 0.00 |
 | [Scrap the compulsory £210 home test kit when arriving in U.K.](577580.md) | 65,613 | 65,072 | 541 | 0 | 99.18 | 0.82 | 0.00 |
 | [Mandatory printing of car registration numbers on all Drive Thru packaging.](580772.md) | 58,927 | 58,657 | 270 | 0 | 99.54 | 0.46 | 0.00 |
-| [Allow non-professional singing in groups of more than six indoors](586559.md) | 55,530 | 55,325 | 205 | 0 | 99.63 | 0.37 | 0.00 |
+| [Allow non-professional singing in groups of more than six indoors](586559.md) | 55,532 | 55,327 | 205 | 0 | 99.63 | 0.37 | 0.00 |
 | [Overturn the decision to allow the use of neonicotinoid pesticides](569214.md) | 51,440 | 50,989 | 451 | 0 | 99.12 | 0.88 | 0.00 |
 | [Make access to food a legal right - no one in the UK should go hungry](562838.md) | 51,401 | 51,001 | 400 | 0 | 99.22 | 0.78 | 0.00 |
 | [Require negative covid test to enter the UK](564229.md) | 50,485 | 50,388 | 97 | 0 | 99.81 | 0.19 | 0.00 |
 | [Prioritise Key Retail Workers, being offered the Covid Vaccine!](567426.md) | 47,907 | 47,836 | 71 | 0 | 99.85 | 0.15 | 0.00 |
 | [Cancel A-level and GCSE exams 2022](566760.md) | 46,948 | 46,778 | 170 | 0 | 99.64 | 0.36 | 0.00 |
-| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 46,505 | 45,941 | 564 | 0 | 98.79 | 1.21 | 0.00 |
-| [Increase sentences relating to knife crime](563199.md) | 44,631 | 44,408 | 223 | 0 | 99.50 | 0.50 | 0.00 |
+| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 46,508 | 45,944 | 564 | 0 | 98.79 | 1.21 | 0.00 |
+| [Increase sentences relating to knife crime](563199.md) | 44,637 | 44,414 | 223 | 0 | 99.50 | 0.50 | 0.00 |
 | [Stricter laws governing the purchase/acquisition/possession of crossbows](583762.md) | 40,340 | 40,059 | 281 | 0 | 99.30 | 0.70 | 0.00 |
 | [Fund NHS scheme for women with Endometriosis to freeze their eggs](579802.md) | 39,051 | 38,903 | 148 | 0 | 99.62 | 0.38 | 0.00 |
 | [Ban the use of face masks in schools](577831.md) | 37,474 | 37,171 | 303 | 0 | 99.19 | 0.81 | 0.00 |
-| [Remove Pakistan from red list for travel](581974.md) | 36,625 | 36,122 | 503 | 0 | 98.63 | 1.37 | 0.00 |
+| [Remove Pakistan from red list for travel](581974.md) | 36,627 | 36,124 | 503 | 0 | 98.63 | 1.37 | 0.00 |
 | [Do not cut UK higher education Arts Funding](572300.md) | 36,438 | 36,063 | 375 | 0 | 98.97 | 1.03 | 0.00 |
 | [Tuition Fee Compensation for International Students in UK Universities](572202.md) | 35,849 | 34,169 | 1,680 | 0 | 95.31 | 4.69 | 0.00 |
 | [Ban Water Companies discharging raw sewage into water courses.](582336.md) | 35,190 | 35,033 | 157 | 0 | 99.55 | 0.45 | 0.00 |
 | [Amend GCSE exam content for children that are now in year 9 and year 10](568162.md) | 34,354 | 34,311 | 43 | 0 | 99.87 | 0.13 | 0.00 |
-| [Make it legal to carry non-lethal self defence weapons](577568.md) | 32,884 | 32,704 | 180 | 0 | 99.45 | 0.55 | 0.00 |
-| [Create a public register of people banned from keeping animals in the UK](573147.md) | 32,426 | 32,194 | 232 | 0 | 99.28 | 0.72 | 0.00 |
-| [Cancel plans to commission a new Royal Yacht](584822.md) | 31,721 | 31,260 | 461 | 0 | 98.55 | 1.45 | 0.00 |
+| [Make it legal to carry non-lethal self defence weapons](577568.md) | 32,885 | 32,705 | 180 | 0 | 99.45 | 0.55 | 0.00 |
+| [Create a public register of people banned from keeping animals in the UK](573147.md) | 32,428 | 32,196 | 232 | 0 | 99.28 | 0.72 | 0.00 |
+| [Cancel plans to commission a new Royal Yacht](584822.md) | 31,723 | 31,262 | 461 | 0 | 98.55 | 1.45 | 0.00 |
