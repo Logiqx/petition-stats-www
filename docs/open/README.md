@@ -4,14 +4,14 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-06-06 01:00:08
+Last refreshed 2021-06-06 02:00:08
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Introduce sanctions against Israel](585314.md) | 384,708 | 379,729 | 4,979 | 0 | 98.71 | 1.29 | 0.00 |
-| [Do not rollout Covid-19 vaccine passports](569957.md) | 352,496 | 348,460 | 4,036 | 0 | 98.86 | 1.14 | 0.00 |
+| [Introduce sanctions against Israel](585314.md) | 384,710 | 379,731 | 4,979 | 0 | 98.71 | 1.29 | 0.00 |
+| [Do not rollout Covid-19 vaccine passports](569957.md) | 352,497 | 348,461 | 4,036 | 0 | 98.86 | 1.14 | 0.00 |
 | [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 286,727 | 280,297 | 6,430 | 0 | 97.76 | 2.24 | 0.00 |
-| [Do not restrict our rights to peaceful protest.](579012.md) | 251,888 | 249,126 | 2,762 | 0 | 98.90 | 1.10 | 0.00 |
+| [Do not restrict our rights to peaceful protest.](579012.md) | 251,890 | 249,128 | 2,762 | 0 | 98.90 | 1.10 | 0.00 |
 | [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 229,922 | 229,751 | 171 | 0 | 99.93 | 0.07 | 0.00 |
 | [Close schools in Tier 4 areas](564209.md) | 194,863 | 194,658 | 205 | 0 | 99.89 | 0.11 | 0.00 |
 | [Keep gyms open during Tier 4 lockdown](563904.md) | 180,163 | 180,060 | 103 | 0 | 99.94 | 0.06 | 0.00 |
@@ -34,24 +34,24 @@ Last refreshed 2021-06-06 01:00:08
 | [Grant an urgent Amnesty to Undocumented Migrants living in the UK](567681.md) | 101,558 | 99,834 | 1,724 | 0 | 98.30 | 1.70 | 0.00 |
 | [Continue the ban on the use of Neonicotinoids](563943.md) | 90,787 | 89,980 | 807 | 0 | 99.11 | 0.89 | 0.00 |
 | [Scrap the Voter ID requirement introduced in the Election Integrity Bill](576024.md) | 89,274 | 88,208 | 1,066 | 0 | 98.81 | 1.19 | 0.00 |
-| [Commission an independent review of childcare funding and affordability](586700.md) | 89,159 | 88,954 | 205 | 0 | 99.77 | 0.23 | 0.00 |
-| [End all requirements to wear face coverings immediately](581316.md) | 70,481 | 69,945 | 536 | 0 | 99.24 | 0.76 | 0.00 |
+| [Commission an independent review of childcare funding and affordability](586700.md) | 89,186 | 88,981 | 205 | 0 | 99.77 | 0.23 | 0.00 |
+| [End all requirements to wear face coverings immediately](581316.md) | 70,482 | 69,946 | 536 | 0 | 99.24 | 0.76 | 0.00 |
 | [Prioritise COVID-19 vaccines for first responders (police, fire, ambulance)](564155.md) | 68,934 | 68,652 | 282 | 0 | 99.59 | 0.41 | 0.00 |
-| [Scrap the compulsory £210 home test kit when arriving in U.K.](577580.md) | 65,612 | 65,071 | 541 | 0 | 99.18 | 0.82 | 0.00 |
+| [Scrap the compulsory £210 home test kit when arriving in U.K.](577580.md) | 65,613 | 65,072 | 541 | 0 | 99.18 | 0.82 | 0.00 |
 | [Mandatory printing of car registration numbers on all Drive Thru packaging.](580772.md) | 58,927 | 58,657 | 270 | 0 | 99.54 | 0.46 | 0.00 |
 | [Allow non-professional singing in groups of more than six indoors](586559.md) | 55,529 | 55,324 | 205 | 0 | 99.63 | 0.37 | 0.00 |
 | [Overturn the decision to allow the use of neonicotinoid pesticides](569214.md) | 51,440 | 50,989 | 451 | 0 | 99.12 | 0.88 | 0.00 |
-| [Make access to food a legal right - no one in the UK should go hungry](562838.md) | 51,396 | 50,996 | 400 | 0 | 99.22 | 0.78 | 0.00 |
+| [Make access to food a legal right - no one in the UK should go hungry](562838.md) | 51,397 | 50,997 | 400 | 0 | 99.22 | 0.78 | 0.00 |
 | [Require negative covid test to enter the UK](564229.md) | 50,485 | 50,388 | 97 | 0 | 99.81 | 0.19 | 0.00 |
 | [Prioritise Key Retail Workers, being offered the Covid Vaccine!](567426.md) | 47,907 | 47,836 | 71 | 0 | 99.85 | 0.15 | 0.00 |
 | [Cancel A-level and GCSE exams 2022](566760.md) | 46,948 | 46,778 | 170 | 0 | 99.64 | 0.36 | 0.00 |
-| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 46,488 | 45,924 | 564 | 0 | 98.79 | 1.21 | 0.00 |
-| [Increase sentences relating to knife crime](563199.md) | 44,608 | 44,385 | 223 | 0 | 99.50 | 0.50 | 0.00 |
+| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 46,495 | 45,931 | 564 | 0 | 98.79 | 1.21 | 0.00 |
+| [Increase sentences relating to knife crime](563199.md) | 44,620 | 44,397 | 223 | 0 | 99.50 | 0.50 | 0.00 |
 | [Stricter laws governing the purchase/acquisition/possession of crossbows](583762.md) | 40,339 | 40,058 | 281 | 0 | 99.30 | 0.70 | 0.00 |
 | [Fund NHS scheme for women with Endometriosis to freeze their eggs](579802.md) | 39,050 | 38,902 | 148 | 0 | 99.62 | 0.38 | 0.00 |
 | [Ban the use of face masks in schools](577831.md) | 37,474 | 37,171 | 303 | 0 | 99.19 | 0.81 | 0.00 |
-| [Remove Pakistan from red list for travel](581974.md) | 36,616 | 36,114 | 502 | 0 | 98.63 | 1.37 | 0.00 |
-| [Do not cut UK higher education Arts Funding](572300.md) | 36,437 | 36,062 | 375 | 0 | 98.97 | 1.03 | 0.00 |
+| [Remove Pakistan from red list for travel](581974.md) | 36,617 | 36,115 | 502 | 0 | 98.63 | 1.37 | 0.00 |
+| [Do not cut UK higher education Arts Funding](572300.md) | 36,438 | 36,063 | 375 | 0 | 98.97 | 1.03 | 0.00 |
 | [Tuition Fee Compensation for International Students in UK Universities](572202.md) | 35,849 | 34,169 | 1,680 | 0 | 95.31 | 4.69 | 0.00 |
 | [Ban Water Companies discharging raw sewage into water courses.](582336.md) | 35,190 | 35,033 | 157 | 0 | 99.55 | 0.45 | 0.00 |
 | [Amend GCSE exam content for children that are now in year 9 and year 10](568162.md) | 34,354 | 34,311 | 43 | 0 | 99.87 | 0.13 | 0.00 |
