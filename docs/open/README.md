@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-06-08 03:00:08
+Last refreshed 2021-06-08 04:00:07
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -25,14 +25,14 @@ Last refreshed 2021-06-08 03:00:08
 | [UK Government to formally recognise the State of Palestine](585313.md) | 129,236 | 128,041 | 1,195 | 0 | 99.08 | 0.92 | 0.00 |
 | [Urge the Indian Government to ensure safety of protestors & press freedom](563473.md) | 116,477 | 114,354 | 2,123 | 0 | 98.18 | 1.82 | 0.00 |
 | [Do not give consent for another Scottish Independence Referendum ](570779.md) | 111,803 | 111,085 | 718 | 0 | 99.36 | 0.64 | 0.00 |
-| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 108,100 | 107,476 | 624 | 0 | 99.42 | 0.58 | 0.00 |
-| [Increase funding for urgent research into devastating motor neurone disease](564582.md) | 106,856 | 105,375 | 1,481 | 0 | 98.61 | 1.39 | 0.00 |
+| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 108,101 | 107,477 | 624 | 0 | 99.42 | 0.58 | 0.00 |
+| [Increase funding for urgent research into devastating motor neurone disease](564582.md) | 106,857 | 105,376 | 1,481 | 0 | 98.61 | 1.39 | 0.00 |
 | [Enforce the “50+1” Rule for professional football club ownership in the UK](583310.md) | 106,824 | 100,894 | 5,930 | 0 | 94.45 | 5.55 | 0.00 |
 | [Allow international travel to visit partners and family](565102.md) | 105,374 | 101,985 | 3,389 | 0 | 96.78 | 3.22 | 0.00 |
 | [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 104,311 | 103,437 | 874 | 0 | 99.16 | 0.84 | 0.00 |
 | [Shut all nurseries and early years settings during lockdown](566718.md) | 103,164 | 102,984 | 180 | 0 | 99.83 | 0.17 | 0.00 |
 | [Grant an urgent Amnesty to Undocumented Migrants living in the UK](567681.md) | 101,593 | 99,868 | 1,725 | 0 | 98.30 | 1.70 | 0.00 |
-| [Commission an independent review of childcare funding and affordability](586700.md) | 100,688 | 100,454 | 234 | 0 | 99.77 | 0.23 | 0.00 |
+| [Commission an independent review of childcare funding and affordability](586700.md) | 100,704 | 100,470 | 234 | 0 | 99.77 | 0.23 | 0.00 |
 | [Continue the ban on the use of Neonicotinoids](563943.md) | 90,828 | 90,019 | 809 | 0 | 99.11 | 0.89 | 0.00 |
 | [Scrap the Voter ID requirement introduced in the Election Integrity Bill](576024.md) | 89,350 | 88,284 | 1,066 | 0 | 98.81 | 1.19 | 0.00 |
 | [End all requirements to wear face coverings immediately](581316.md) | 70,970 | 70,431 | 539 | 0 | 99.24 | 0.76 | 0.00 |
@@ -40,21 +40,21 @@ Last refreshed 2021-06-08 03:00:08
 | [Scrap the compulsory £210 home test kit when arriving in U.K.](577580.md) | 65,825 | 65,283 | 542 | 0 | 99.18 | 0.82 | 0.00 |
 | [Mandatory printing of car registration numbers on all Drive Thru packaging.](580772.md) | 58,948 | 58,678 | 270 | 0 | 99.54 | 0.46 | 0.00 |
 | [Allow non-professional singing in groups of more than six indoors](586559.md) | 56,373 | 56,165 | 208 | 0 | 99.63 | 0.37 | 0.00 |
-| [Make access to food a legal right - no one in the UK should go hungry](562838.md) | 51,777 | 51,372 | 405 | 0 | 99.22 | 0.78 | 0.00 |
+| [Make access to food a legal right - no one in the UK should go hungry](562838.md) | 51,778 | 51,373 | 405 | 0 | 99.22 | 0.78 | 0.00 |
 | [Overturn the decision to allow the use of neonicotinoid pesticides](569214.md) | 51,452 | 51,001 | 451 | 0 | 99.12 | 0.88 | 0.00 |
 | [Require negative covid test to enter the UK](564229.md) | 50,494 | 50,397 | 97 | 0 | 99.81 | 0.19 | 0.00 |
-| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 49,773 | 49,171 | 602 | 0 | 98.79 | 1.21 | 0.00 |
-| [Increase sentences relating to knife crime](563199.md) | 48,275 | 48,033 | 242 | 0 | 99.50 | 0.50 | 0.00 |
+| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 49,777 | 49,175 | 602 | 0 | 98.79 | 1.21 | 0.00 |
+| [Increase sentences relating to knife crime](563199.md) | 48,286 | 48,043 | 243 | 0 | 99.50 | 0.50 | 0.00 |
 | [Prioritise Key Retail Workers, being offered the Covid Vaccine!](567426.md) | 47,910 | 47,839 | 71 | 0 | 99.85 | 0.15 | 0.00 |
 | [Cancel A-level and GCSE exams 2022](566760.md) | 47,088 | 46,914 | 174 | 0 | 99.63 | 0.37 | 0.00 |
 | [Stricter laws governing the purchase/acquisition/possession of crossbows](583762.md) | 40,376 | 40,095 | 281 | 0 | 99.30 | 0.70 | 0.00 |
 | [Fund NHS scheme for women with Endometriosis to freeze their eggs](579802.md) | 39,067 | 38,919 | 148 | 0 | 99.62 | 0.38 | 0.00 |
 | [Ban the use of face masks in schools](577831.md) | 37,488 | 37,185 | 303 | 0 | 99.19 | 0.81 | 0.00 |
-| [Remove Pakistan from red list for travel](581974.md) | 37,238 | 36,725 | 513 | 0 | 98.62 | 1.38 | 0.00 |
+| [Remove Pakistan from red list for travel](581974.md) | 37,242 | 36,729 | 513 | 0 | 98.62 | 1.38 | 0.00 |
 | [Do not cut UK higher education Arts Funding](572300.md) | 36,444 | 36,069 | 375 | 0 | 98.97 | 1.03 | 0.00 |
 | [Tuition Fee Compensation for International Students in UK Universities](572202.md) | 35,870 | 34,190 | 1,680 | 0 | 95.32 | 4.68 | 0.00 |
 | [Ban Water Companies discharging raw sewage into water courses.](582336.md) | 35,245 | 35,087 | 158 | 0 | 99.55 | 0.45 | 0.00 |
 | [Amend GCSE exam content for children that are now in year 9 and year 10](568162.md) | 34,374 | 34,331 | 43 | 0 | 99.87 | 0.13 | 0.00 |
 | [Make it legal to carry non-lethal self defence weapons](577568.md) | 32,950 | 32,769 | 181 | 0 | 99.45 | 0.55 | 0.00 |
-| [Mini’s law - Protect the public and animals from hunting activities](584076.md) | 32,822 | 32,312 | 510 | 0 | 98.45 | 1.55 | 0.00 |
-| [Create a public register of people banned from keeping animals in the UK](573147.md) | 32,542 | 32,305 | 237 | 0 | 99.27 | 0.73 | 0.00 |
+| [Mini’s law - Protect the public and animals from hunting activities](584076.md) | 32,824 | 32,314 | 510 | 0 | 98.45 | 1.55 | 0.00 |
+| [Create a public register of people banned from keeping animals in the UK](573147.md) | 32,543 | 32,306 | 237 | 0 | 99.27 | 0.73 | 0.00 |
