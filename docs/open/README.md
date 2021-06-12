@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-06-12 04:00:08
+Last refreshed 2021-06-12 05:00:08
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -19,7 +19,7 @@ Last refreshed 2021-06-12 04:00:08
 | [Cancel GCSE and A-levels in 2021 replace with Course Work and Teacher Assessment](564696.md) | 157,783 | 156,771 | 1,012 | 0 | 99.36 | 0.64 | 0.00 |
 | [Stop work on HS2 immediately and hold a new vote to repeal the legislation](563380.md) | 154,807 | 153,791 | 1,016 | 0 | 99.34 | 0.66 | 0.00 |
 | [Keep schools closed until May](573621.md) | 149,422 | 149,064 | 358 | 0 | 99.76 | 0.24 | 0.00 |
-| [Trigger Article 16. We want unfettered GB-NI Trade.](573209.md) | 143,902 | 142,797 | 1,105 | 0 | 99.23 | 0.77 | 0.00 |
+| [Trigger Article 16. We want unfettered GB-NI Trade.](573209.md) | 143,903 | 142,798 | 1,105 | 0 | 99.23 | 0.77 | 0.00 |
 | [Introduce an Independent Regulator for Football in England by December 2021](584632.md) | 142,593 | 138,709 | 3,884 | 0 | 97.28 | 2.72 | 0.00 |
 | [Make non-binary a legally recognised gender identity in the UK](580220.md) | 137,602 | 135,751 | 1,851 | 0 | 98.65 | 1.35 | 0.00 |
 | [UK Government to formally recognise the State of Palestine](585313.md) | 129,689 | 128,482 | 1,207 | 0 | 99.07 | 0.93 | 0.00 |
@@ -35,14 +35,14 @@ Last refreshed 2021-06-12 04:00:08
 | [Grant an urgent Amnesty to Undocumented Migrants living in the UK](567681.md) | 101,688 | 99,958 | 1,730 | 0 | 98.30 | 1.70 | 0.00 |
 | [Continue the ban on the use of Neonicotinoids](563943.md) | 90,891 | 90,081 | 810 | 0 | 99.11 | 0.89 | 0.00 |
 | [Scrap the Voter ID requirement introduced in the Election Integrity Bill](576024.md) | 89,414 | 88,348 | 1,066 | 0 | 98.81 | 1.19 | 0.00 |
-| [End all requirements to wear face coverings immediately](581316.md) | 71,691 | 71,150 | 541 | 0 | 99.25 | 0.75 | 0.00 |
+| [End all requirements to wear face coverings immediately](581316.md) | 71,692 | 71,151 | 541 | 0 | 99.25 | 0.75 | 0.00 |
 | [Prioritise COVID-19 vaccines for first responders (police, fire, ambulance)](564155.md) | 68,944 | 68,662 | 282 | 0 | 99.59 | 0.41 | 0.00 |
 | [Scrap the compulsory £210 home test kit when arriving in U.K.](577580.md) | 66,438 | 65,890 | 548 | 0 | 99.18 | 0.82 | 0.00 |
 | [Mandatory printing of car registration numbers on all Drive Thru packaging.](580772.md) | 58,975 | 58,704 | 271 | 0 | 99.54 | 0.46 | 0.00 |
-| [Allow non-professional singing in groups of more than six indoors](586559.md) | 57,442 | 57,231 | 211 | 0 | 99.63 | 0.37 | 0.00 |
-| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 53,421 | 52,779 | 642 | 0 | 98.80 | 1.20 | 0.00 |
+| [Allow non-professional singing in groups of more than six indoors](586559.md) | 57,443 | 57,232 | 211 | 0 | 99.63 | 0.37 | 0.00 |
+| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 53,428 | 52,786 | 642 | 0 | 98.80 | 1.20 | 0.00 |
 | [Overturn the decision to allow the use of neonicotinoid pesticides](569214.md) | 51,476 | 51,025 | 451 | 0 | 99.12 | 0.88 | 0.00 |
-| [Increase sentences relating to knife crime](563199.md) | 50,794 | 50,542 | 252 | 0 | 99.50 | 0.50 | 0.00 |
+| [Increase sentences relating to knife crime](563199.md) | 50,797 | 50,545 | 252 | 0 | 99.50 | 0.50 | 0.00 |
 | [Require negative covid test to enter the UK](564229.md) | 50,515 | 50,418 | 97 | 0 | 99.81 | 0.19 | 0.00 |
 | [Prioritise Key Retail Workers, being offered the Covid Vaccine!](567426.md) | 47,916 | 47,845 | 71 | 0 | 99.85 | 0.15 | 0.00 |
 | [Cancel A-level and GCSE exams 2022](566760.md) | 47,282 | 47,105 | 177 | 0 | 99.63 | 0.37 | 0.00 |
@@ -52,9 +52,9 @@ Last refreshed 2021-06-12 04:00:08
 | [Ban the use of face masks in schools](577831.md) | 37,515 | 37,212 | 303 | 0 | 99.19 | 0.81 | 0.00 |
 | [Do not cut UK higher education Arts Funding](572300.md) | 36,464 | 36,089 | 375 | 0 | 98.97 | 1.03 | 0.00 |
 | [Tuition Fee Compensation for International Students in UK Universities](572202.md) | 35,879 | 34,199 | 1,680 | 0 | 95.32 | 4.68 | 0.00 |
-| [Ban Water Companies discharging raw sewage into water courses.](582336.md) | 35,441 | 35,283 | 158 | 0 | 99.55 | 0.45 | 0.00 |
+| [Ban Water Companies discharging raw sewage into water courses.](582336.md) | 35,442 | 35,284 | 158 | 0 | 99.55 | 0.45 | 0.00 |
 | [Amend GCSE exam content for children that are now in year 9 and year 10](568162.md) | 34,386 | 34,343 | 43 | 0 | 99.87 | 0.13 | 0.00 |
-| [Mini’s law - Protect the public and animals from hunting activities](584076.md) | 33,738 | 33,219 | 519 | 0 | 98.46 | 1.54 | 0.00 |
-| [Make it legal to carry non-lethal self defence weapons](577568.md) | 33,091 | 32,909 | 182 | 0 | 99.45 | 0.55 | 0.00 |
-| [Create a public register of people banned from keeping animals in the UK](573147.md) | 32,699 | 32,456 | 243 | 0 | 99.26 | 0.74 | 0.00 |
-| [Cancel plans to commission a new Royal Yacht](584822.md) | 32,057 | 31,590 | 467 | 0 | 98.54 | 1.46 | 0.00 |
+| [Mini’s law - Protect the public and animals from hunting activities](584076.md) | 33,740 | 33,221 | 519 | 0 | 98.46 | 1.54 | 0.00 |
+| [Make it legal to carry non-lethal self defence weapons](577568.md) | 33,092 | 32,910 | 182 | 0 | 99.45 | 0.55 | 0.00 |
+| [Create a public register of people banned from keeping animals in the UK](573147.md) | 32,700 | 32,457 | 243 | 0 | 99.26 | 0.74 | 0.00 |
+| [Cancel plans to commission a new Royal Yacht](584822.md) | 32,058 | 31,591 | 467 | 0 | 98.54 | 1.46 | 0.00 |
