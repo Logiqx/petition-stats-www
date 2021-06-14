@@ -4,11 +4,11 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-06-14 02:00:06
+Last refreshed 2021-06-14 03:00:09
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Introduce sanctions against Israel](585314.md) | 386,155 | 381,132 | 5,023 | 0 | 98.70 | 1.30 | 0.00 |
+| [Introduce sanctions against Israel](585314.md) | 386,156 | 381,133 | 5,023 | 0 | 98.70 | 1.30 | 0.00 |
 | [Do not rollout Covid-19 vaccine passports](569957.md) | 353,232 | 349,186 | 4,046 | 0 | 98.85 | 1.15 | 0.00 |
 | [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 286,758 | 280,326 | 6,432 | 0 | 97.76 | 2.24 | 0.00 |
 | [Do not restrict our rights to peaceful protest.](579012.md) | 252,114 | 249,351 | 2,763 | 0 | 98.90 | 1.10 | 0.00 |
@@ -26,7 +26,7 @@ Last refreshed 2021-06-14 02:00:06
 | [Urge the Indian Government to ensure safety of protestors & press freedom](563473.md) | 116,487 | 114,363 | 2,124 | 0 | 98.18 | 1.82 | 0.00 |
 | [Do not give consent for another Scottish Independence Referendum ](570779.md) | 111,868 | 111,148 | 720 | 0 | 99.36 | 0.64 | 0.00 |
 | [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 108,962 | 108,330 | 632 | 0 | 99.42 | 0.58 | 0.00 |
-| [Commission an independent review of childcare funding and affordability](586700.md) | 107,345 | 107,092 | 253 | 0 | 99.76 | 0.24 | 0.00 |
+| [Commission an independent review of childcare funding and affordability](586700.md) | 107,346 | 107,093 | 253 | 0 | 99.76 | 0.24 | 0.00 |
 | [Increase funding for urgent research into devastating motor neurone disease](564582.md) | 107,111 | 105,629 | 1,482 | 0 | 98.62 | 1.38 | 0.00 |
 | [Enforce the “50+1” Rule for professional football club ownership in the UK](583310.md) | 106,843 | 100,912 | 5,931 | 0 | 94.45 | 5.55 | 0.00 |
 | [Allow international travel to visit partners and family](565102.md) | 105,922 | 102,522 | 3,400 | 0 | 96.79 | 3.21 | 0.00 |
@@ -37,10 +37,10 @@ Last refreshed 2021-06-14 02:00:06
 | [Scrap the Voter ID requirement introduced in the Election Integrity Bill](576024.md) | 89,429 | 88,363 | 1,066 | 0 | 98.81 | 1.19 | 0.00 |
 | [End all requirements to wear face coverings immediately](581316.md) | 71,819 | 71,278 | 541 | 0 | 99.25 | 0.75 | 0.00 |
 | [Prioritise COVID-19 vaccines for first responders (police, fire, ambulance)](564155.md) | 68,946 | 68,664 | 282 | 0 | 99.59 | 0.41 | 0.00 |
-| [Scrap the compulsory £210 home test kit when arriving in U.K.](577580.md) | 66,806 | 66,252 | 554 | 0 | 99.17 | 0.83 | 0.00 |
+| [Scrap the compulsory £210 home test kit when arriving in U.K.](577580.md) | 66,807 | 66,253 | 554 | 0 | 99.17 | 0.83 | 0.00 |
 | [Mandatory printing of car registration numbers on all Drive Thru packaging.](580772.md) | 58,992 | 58,720 | 272 | 0 | 99.54 | 0.46 | 0.00 |
 | [Allow non-professional singing in groups of more than six indoors](586559.md) | 57,684 | 57,470 | 214 | 0 | 99.63 | 0.37 | 0.00 |
-| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 54,390 | 53,737 | 653 | 0 | 98.80 | 1.20 | 0.00 |
+| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 54,391 | 53,738 | 653 | 0 | 98.80 | 1.20 | 0.00 |
 | [Overturn the decision to allow the use of neonicotinoid pesticides](569214.md) | 51,498 | 51,047 | 451 | 0 | 99.12 | 0.88 | 0.00 |
 | [Increase sentences relating to knife crime](563199.md) | 51,474 | 51,219 | 255 | 0 | 99.50 | 0.50 | 0.00 |
 | [Require negative covid test to enter the UK](564229.md) | 50,522 | 50,425 | 97 | 0 | 99.81 | 0.19 | 0.00 |
@@ -48,7 +48,7 @@ Last refreshed 2021-06-14 02:00:06
 | [Cancel A-level and GCSE exams 2022](566760.md) | 47,326 | 47,149 | 177 | 0 | 99.63 | 0.37 | 0.00 |
 | [Stricter laws governing the purchase/acquisition/possession of crossbows](583762.md) | 40,535 | 40,249 | 286 | 0 | 99.29 | 0.71 | 0.00 |
 | [Fund NHS scheme for women with Endometriosis to freeze their eggs](579802.md) | 39,118 | 38,970 | 148 | 0 | 99.62 | 0.38 | 0.00 |
-| [Remove Pakistan from red list for travel](581974.md) | 39,018 | 38,474 | 544 | 0 | 98.61 | 1.39 | 0.00 |
+| [Remove Pakistan from red list for travel](581974.md) | 39,019 | 38,475 | 544 | 0 | 98.61 | 1.39 | 0.00 |
 | [Ban the use of face masks in schools](577831.md) | 37,521 | 37,218 | 303 | 0 | 99.19 | 0.81 | 0.00 |
 | [Do not cut UK higher education Arts Funding](572300.md) | 36,473 | 36,098 | 375 | 0 | 98.97 | 1.03 | 0.00 |
 | [Tuition Fee Compensation for International Students in UK Universities](572202.md) | 35,882 | 34,202 | 1,680 | 0 | 95.32 | 4.68 | 0.00 |
