@@ -4,17 +4,17 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-06-17 03:00:09
+Last refreshed 2021-06-17 04:00:08
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Introduce sanctions against Israel](585314.md) | 386,414 | 381,384 | 5,030 | 0 | 98.70 | 1.30 | 0.00 |
+| [Introduce sanctions against Israel](585314.md) | 386,415 | 381,385 | 5,030 | 0 | 98.70 | 1.30 | 0.00 |
 | [Do not rollout Covid-19 vaccine passports](569957.md) | 353,631 | 349,579 | 4,052 | 0 | 98.85 | 1.15 | 0.00 |
 | [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 286,773 | 280,341 | 6,432 | 0 | 97.76 | 2.24 | 0.00 |
 | [Do not restrict our rights to peaceful protest.](579012.md) | 252,199 | 249,435 | 2,764 | 0 | 98.90 | 1.10 | 0.00 |
 | [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 229,935 | 229,764 | 171 | 0 | 99.93 | 0.07 | 0.00 |
 | [Close schools in Tier 4 areas](564209.md) | 194,875 | 194,670 | 205 | 0 | 99.89 | 0.11 | 0.00 |
-| [Make verified ID a requirement for opening a social media account.](575833.md) | 181,961 | 180,782 | 1,179 | 0 | 99.35 | 0.65 | 0.00 |
+| [Make verified ID a requirement for opening a social media account.](575833.md) | 181,962 | 180,783 | 1,179 | 0 | 99.35 | 0.65 | 0.00 |
 | [Keep gyms open during Tier 4 lockdown](563904.md) | 180,171 | 180,068 | 103 | 0 | 99.94 | 0.06 | 0.00 |
 | [Cancel GCSE and A-levels in 2021 replace with Course Work and Teacher Assessment](564696.md) | 157,789 | 156,777 | 1,012 | 0 | 99.36 | 0.64 | 0.00 |
 | [Stop work on HS2 immediately and hold a new vote to repeal the legislation](563380.md) | 154,887 | 153,871 | 1,016 | 0 | 99.34 | 0.66 | 0.00 |
@@ -39,7 +39,7 @@ Last refreshed 2021-06-17 03:00:09
 | [Prioritise COVID-19 vaccines for first responders (police, fire, ambulance)](564155.md) | 68,950 | 68,668 | 282 | 0 | 99.59 | 0.41 | 0.00 |
 | [Scrap the compulsory £210 home test kit when arriving in U.K.](577580.md) | 67,357 | 66,803 | 554 | 0 | 99.18 | 0.82 | 0.00 |
 | [Mandatory printing of car registration numbers on all Drive Thru packaging.](580772.md) | 59,027 | 58,755 | 272 | 0 | 99.54 | 0.46 | 0.00 |
-| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 58,694 | 58,008 | 686 | 0 | 98.83 | 1.17 | 0.00 |
+| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 58,695 | 58,009 | 686 | 0 | 98.83 | 1.17 | 0.00 |
 | [Allow non-professional singing in groups of more than six indoors](586559.md) | 58,048 | 57,834 | 214 | 0 | 99.63 | 0.37 | 0.00 |
 | [Overturn the decision to allow the use of neonicotinoid pesticides](569214.md) | 51,515 | 51,063 | 452 | 0 | 99.12 | 0.88 | 0.00 |
 | [Require negative covid test to enter the UK](564229.md) | 50,528 | 50,431 | 97 | 0 | 99.81 | 0.19 | 0.00 |
