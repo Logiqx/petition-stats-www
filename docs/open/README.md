@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-06-18 03:00:09
+Last refreshed 2021-06-18 04:00:09
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -14,7 +14,7 @@ Last refreshed 2021-06-18 03:00:09
 | [Do not restrict our rights to peaceful protest.](579012.md) | 252,236 | 249,472 | 2,764 | 0 | 98.90 | 1.10 | 0.00 |
 | [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 229,937 | 229,766 | 171 | 0 | 99.93 | 0.07 | 0.00 |
 | [Close schools in Tier 4 areas](564209.md) | 194,877 | 194,672 | 205 | 0 | 99.89 | 0.11 | 0.00 |
-| [Make verified ID a requirement for opening a social media account.](575833.md) | 182,043 | 180,863 | 1,180 | 0 | 99.35 | 0.65 | 0.00 |
+| [Make verified ID a requirement for opening a social media account.](575833.md) | 182,044 | 180,864 | 1,180 | 0 | 99.35 | 0.65 | 0.00 |
 | [Keep gyms open during Tier 4 lockdown](563904.md) | 180,171 | 180,068 | 103 | 0 | 99.94 | 0.06 | 0.00 |
 | [Cancel GCSE and A-levels in 2021 replace with Course Work and Teacher Assessment](564696.md) | 157,789 | 156,777 | 1,012 | 0 | 99.36 | 0.64 | 0.00 |
 | [Keep schools closed until May](573621.md) | 149,426 | 149,068 | 358 | 0 | 99.76 | 0.24 | 0.00 |
@@ -36,7 +36,7 @@ Last refreshed 2021-06-18 03:00:09
 | [End all requirements to wear face coverings immediately](581316.md) | 72,405 | 71,861 | 544 | 0 | 99.25 | 0.75 | 0.00 |
 | [Prioritise COVID-19 vaccines for first responders (police, fire, ambulance)](564155.md) | 68,952 | 68,670 | 282 | 0 | 99.59 | 0.41 | 0.00 |
 | [Scrap the compulsory £210 home test kit when arriving in U.K.](577580.md) | 67,515 | 66,960 | 555 | 0 | 99.18 | 0.82 | 0.00 |
-| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 59,445 | 58,750 | 695 | 0 | 98.83 | 1.17 | 0.00 |
+| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 59,447 | 58,752 | 695 | 0 | 98.83 | 1.17 | 0.00 |
 | [Mandatory printing of car registration numbers on all Drive Thru packaging.](580772.md) | 59,034 | 58,762 | 272 | 0 | 99.54 | 0.46 | 0.00 |
 | [Allow non-professional singing in groups of more than six indoors](586559.md) | 58,117 | 57,903 | 214 | 0 | 99.63 | 0.37 | 0.00 |
 | [Overturn the decision to allow the use of neonicotinoid pesticides](569214.md) | 51,524 | 51,072 | 452 | 0 | 99.12 | 0.88 | 0.00 |
@@ -44,7 +44,7 @@ Last refreshed 2021-06-18 03:00:09
 | [Prioritise Key Retail Workers, being offered the Covid Vaccine!](567426.md) | 47,923 | 47,852 | 71 | 0 | 99.85 | 0.15 | 0.00 |
 | [Cancel A-level and GCSE exams 2022](566760.md) | 47,526 | 47,347 | 179 | 0 | 99.62 | 0.38 | 0.00 |
 | [Stricter laws governing the purchase/acquisition/possession of crossbows](583762.md) | 40,634 | 40,347 | 287 | 0 | 99.29 | 0.71 | 0.00 |
-| [Remove Pakistan from red list for travel](581974.md) | 40,346 | 39,770 | 576 | 0 | 98.57 | 1.43 | 0.00 |
+| [Remove Pakistan from red list for travel](581974.md) | 40,350 | 39,773 | 577 | 0 | 98.57 | 1.43 | 0.00 |
 | [Fund NHS scheme for women with Endometriosis to freeze their eggs](579802.md) | 39,144 | 38,996 | 148 | 0 | 99.62 | 0.38 | 0.00 |
 | [Ban the use of face masks in schools](577831.md) | 37,549 | 37,245 | 304 | 0 | 99.19 | 0.81 | 0.00 |
 | [Do not cut UK higher education Arts Funding](572300.md) | 36,497 | 36,122 | 375 | 0 | 98.97 | 1.03 | 0.00 |
@@ -54,7 +54,7 @@ Last refreshed 2021-06-18 03:00:09
 | [Mini’s law - Protect the public and animals from hunting activities](584076.md) | 34,244 | 33,723 | 521 | 0 | 98.48 | 1.52 | 0.00 |
 | [Make it legal to carry non-lethal self defence weapons](577568.md) | 33,244 | 33,061 | 183 | 0 | 99.45 | 0.55 | 0.00 |
 | [Create a public register of people banned from keeping animals in the UK](573147.md) | 32,818 | 32,571 | 247 | 0 | 99.25 | 0.75 | 0.00 |
-| [Cancel plans to commission a new Royal Yacht](584822.md) | 32,215 | 31,745 | 470 | 0 | 98.54 | 1.46 | 0.00 |
-| [Outlaw discrimination against those who do not get a Covid-19 vaccination](575801.md) | 30,802 | 30,536 | 266 | 0 | 99.14 | 0.86 | 0.00 |
+| [Cancel plans to commission a new Royal Yacht](584822.md) | 32,217 | 31,747 | 470 | 0 | 98.54 | 1.46 | 0.00 |
+| [Outlaw discrimination against those who do not get a Covid-19 vaccination](575801.md) | 30,806 | 30,540 | 266 | 0 | 99.14 | 0.86 | 0.00 |
 | [Ban the sale of artificial grass](585520.md) | 30,377 | 29,985 | 392 | 0 | 98.71 | 1.29 | 0.00 |
 | [Lower the price of the £210 COVID Home Test Kits for travellers entering the UK](575509.md) | 30,023 | 29,285 | 738 | 0 | 97.54 | 2.46 | 0.00 |
