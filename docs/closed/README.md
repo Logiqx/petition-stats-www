@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-06-22 22:00:21
+Last refreshed 2021-06-22 23:00:21
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -20,6 +20,7 @@ Last refreshed 2021-06-22 22:00:21
 | [Prevent any restrictions on those who refuse a Covid-19 vaccination](323442.md) | 337,143 | 334,152 | 2,991 | 0 | 99.11 | 0.89 | 0.00 |
 | [Make dog theft a specific criminal offence](560216.md) | 316,533 | 314,856 | 1,677 | 0 | 99.47 | 0.53 | 0.00 |
 | [Limit the Sale and Use of Fireworks to Organisers of Licensed Displays Only](319891.md) | 301,605 | 300,322 | 1,283 | 0 | 99.57 | 0.43 | 0.00 |
+| [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 286,794 | 280,360 | 6,434 | 0 | 97.76 | 2.24 | 0.00 |
 | [Require universities to partially refund tuition fees for 20/21 due to Covid-19](324762.md) | 270,660 | 269,492 | 1,168 | 0 | 99.57 | 0.43 | 0.00 |
 | [Teach Britain's colonial past as part of the UK's compulsory curriculum](324092.md) | 268,772 | 265,909 | 2,863 | 0 | 98.93 | 1.07 | 0.00 |
 | [Exempt golf courses from the list of venues required to close due to Covid-19](309851.md) | 257,267 | 256,932 | 335 | 0 | 99.87 | 0.13 | 0.00 |
@@ -57,4 +58,3 @@ Last refreshed 2021-06-22 22:00:21
 | [Allow golf to be played with appropriate safety measures](557167.md) | 132,727 | 132,604 | 123 | 0 | 99.91 | 0.09 | 0.00 |
 | [Release the Home Office's Grooming Gang Review in full](300239.md) | 131,625 | 128,711 | 2,914 | 0 | 97.79 | 2.21 | 0.00 |
 | [Introduce Mandatory Ethnicity Pay Gap Reporting](300105.md) | 130,567 | 129,644 | 923 | 0 | 99.29 | 0.71 | 0.00 |
-| [Allow Zoos and Wildlife attractions to reopen with social distancing in place](323881.md) | 129,291 | 128,741 | 550 | 0 | 99.57 | 0.43 | 0.00 |
