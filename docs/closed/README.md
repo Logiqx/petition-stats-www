@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-06-24 09:00:22
+Last refreshed 2021-06-24 10:00:19
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -18,7 +18,7 @@ Last refreshed 2021-06-24 09:00:22
 | [Implement UK lockdown for preventing spread of COVID19](301397.md) | 409,473 | 406,897 | 2,576 | 0 | 99.37 | 0.63 | 0.00 |
 | [Reimburse all students of this year’s fees due to strikes and COVID-19](302855.md) | 353,130 | 351,856 | 1,274 | 0 | 99.64 | 0.36 | 0.00 |
 | [Prevent any restrictions on those who refuse a Covid-19 vaccination](323442.md) | 337,143 | 334,152 | 2,991 | 0 | 99.11 | 0.89 | 0.00 |
-| [Make dog theft a specific criminal offence](560216.md) | 316,533 | 314,856 | 1,677 | 0 | 99.47 | 0.53 | 0.00 |
+| [Make dog theft a specific criminal offence](560216.md) | 316,535 | 314,858 | 1,677 | 0 | 99.47 | 0.53 | 0.00 |
 | [Limit the Sale and Use of Fireworks to Organisers of Licensed Displays Only](319891.md) | 301,605 | 300,322 | 1,283 | 0 | 99.57 | 0.43 | 0.00 |
 | [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 286,794 | 280,360 | 6,434 | 0 | 97.76 | 2.24 | 0.00 |
 | [Require universities to partially refund tuition fees for 20/21 due to Covid-19](324762.md) | 270,660 | 269,492 | 1,168 | 0 | 99.57 | 0.43 | 0.00 |
@@ -48,7 +48,7 @@ Last refreshed 2021-06-24 09:00:22
 | [Impose sanctions on China over its treatment of Uyghur Muslims](300146.md) | 146,346 | 139,773 | 6,573 | 0 | 95.51 | 4.49 | 0.00 |
 | [Let Us Dance - Support nightclubs, dance music events and festivals](332789.md) | 146,187 | 145,353 | 834 | 0 | 99.43 | 0.57 | 0.00 |
 | [Allow teacher predicted grades for BTEC students](548778.md) | 145,336 | 145,042 | 294 | 0 | 99.80 | 0.20 | 0.00 |
-| [Make pet theft crime a specific offence with custodial sentences.](300071.md) | 143,635 | 142,225 | 1,410 | 0 | 99.02 | 0.98 | 0.00 |
+| [Make pet theft crime a specific offence with custodial sentences.](300071.md) | 143,637 | 142,227 | 1,410 | 0 | 99.02 | 0.98 | 0.00 |
 | [Award all Nursing Staff in the NHS a pay rise of 10% backdated to 1 April 2020](316307.md) | 141,772 | 140,936 | 836 | 0 | 99.41 | 0.59 | 0.00 |
 | [Reform the Gender Recognition Act.](327108.md) | 137,271 | 135,228 | 2,043 | 0 | 98.51 | 1.49 | 0.00 |
 | [Require universities to reimburse students' tuition fees during strike action](300528.md) | 136,749 | 136,429 | 320 | 0 | 99.77 | 0.23 | 0.00 |
