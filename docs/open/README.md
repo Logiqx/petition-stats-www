@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-06-26 03:00:08
+Last refreshed 2021-06-26 04:00:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -12,7 +12,7 @@ Last refreshed 2021-06-26 03:00:08
 | [Do not rollout Covid-19 vaccine passports](569957.md) | 355,869 | 351,796 | 4,073 | 0 | 98.86 | 1.14 | 0.00 |
 | [Do not restrict our rights to peaceful protest.](579012.md) | 252,520 | 249,755 | 2,765 | 0 | 98.91 | 1.09 | 0.00 |
 | [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 229,951 | 229,780 | 171 | 0 | 99.93 | 0.07 | 0.00 |
-| [Make verified ID a requirement for opening a social media account.](575833.md) | 182,301 | 181,118 | 1,183 | 0 | 99.35 | 0.65 | 0.00 |
+| [Make verified ID a requirement for opening a social media account.](575833.md) | 182,302 | 181,119 | 1,183 | 0 | 99.35 | 0.65 | 0.00 |
 | [Cancel GCSE and A-levels in 2021 replace with Course Work and Teacher Assessment](564696.md) | 157,805 | 156,793 | 1,012 | 0 | 99.36 | 0.64 | 0.00 |
 | [Keep schools closed until May](573621.md) | 149,430 | 149,072 | 358 | 0 | 99.76 | 0.24 | 0.00 |
 | [Trigger Article 16. We want unfettered GB-NI Trade.](573209.md) | 144,014 | 142,908 | 1,106 | 0 | 99.23 | 0.77 | 0.00 |
@@ -30,27 +30,27 @@ Last refreshed 2021-06-26 03:00:08
 | [Grant an urgent Amnesty to Undocumented Migrants living in the UK](567681.md) | 101,889 | 100,154 | 1,735 | 0 | 98.30 | 1.70 | 0.00 |
 | [Continue the ban on the use of Neonicotinoids](563943.md) | 91,078 | 90,267 | 811 | 0 | 99.11 | 0.89 | 0.00 |
 | [Scrap the Voter ID requirement introduced in the Election Integrity Bill](576024.md) | 89,606 | 88,539 | 1,067 | 0 | 98.81 | 1.19 | 0.00 |
-| [Increase curriculum content about water safety as part of swimming lessons](576563.md) | 82,665 | 82,019 | 646 | 0 | 99.22 | 0.78 | 0.00 |
-| [End all requirements to wear face coverings immediately](581316.md) | 73,291 | 72,743 | 548 | 0 | 99.25 | 0.75 | 0.00 |
+| [Increase curriculum content about water safety as part of swimming lessons](576563.md) | 82,718 | 82,068 | 650 | 0 | 99.21 | 0.79 | 0.00 |
+| [End all requirements to wear face coverings immediately](581316.md) | 73,292 | 72,744 | 548 | 0 | 99.25 | 0.75 | 0.00 |
 | [Prioritise COVID-19 vaccines for first responders (police, fire, ambulance)](564155.md) | 68,962 | 68,680 | 282 | 0 | 99.59 | 0.41 | 0.00 |
 | [Scrap the compulsory £210 home test kit when arriving in U.K.](577580.md) | 68,465 | 67,894 | 571 | 0 | 99.17 | 0.83 | 0.00 |
 | [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 61,536 | 60,819 | 717 | 0 | 98.83 | 1.17 | 0.00 |
-| [Do not require health and social care workers to take covid-19 vaccination](577842.md) | 61,164 | 60,754 | 410 | 0 | 99.33 | 0.67 | 0.00 |
+| [Do not require health and social care workers to take covid-19 vaccination](577842.md) | 61,169 | 60,759 | 410 | 0 | 99.33 | 0.67 | 0.00 |
 | [Mandatory printing of car registration numbers on all Drive Thru packaging.](580772.md) | 59,097 | 58,825 | 272 | 0 | 99.54 | 0.46 | 0.00 |
 | [Allow non-professional singing in groups of more than six indoors](586559.md) | 58,743 | 58,528 | 215 | 0 | 99.63 | 0.37 | 0.00 |
 | [Overturn the decision to allow the use of neonicotinoid pesticides](569214.md) | 51,568 | 51,115 | 453 | 0 | 99.12 | 0.88 | 0.00 |
 | [Require negative covid test to enter the UK](564229.md) | 50,564 | 50,467 | 97 | 0 | 99.81 | 0.19 | 0.00 |
 | [Cancel A-level and GCSE exams 2022](566760.md) | 48,123 | 47,943 | 180 | 0 | 99.63 | 0.37 | 0.00 |
 | [Prioritise Key Retail Workers, being offered the Covid Vaccine!](567426.md) | 47,928 | 47,857 | 71 | 0 | 99.85 | 0.15 | 0.00 |
-| [Remove Pakistan from red list for travel](581974.md) | 44,821 | 44,167 | 654 | 0 | 98.54 | 1.46 | 0.00 |
+| [Remove Pakistan from red list for travel](581974.md) | 44,824 | 44,170 | 654 | 0 | 98.54 | 1.46 | 0.00 |
 | [Stricter laws governing the purchase/acquisition/possession of crossbows](583762.md) | 40,835 | 40,542 | 293 | 0 | 99.28 | 0.72 | 0.00 |
-| [Mark Allen's Law - we want throwline stations around all bodies of open water](575967.md) | 40,611 | 40,544 | 67 | 0 | 99.84 | 0.16 | 0.00 |
+| [Mark Allen's Law - we want throwline stations around all bodies of open water](575967.md) | 40,626 | 40,558 | 68 | 0 | 99.83 | 0.17 | 0.00 |
 | [Fund NHS scheme for women with Endometriosis to freeze their eggs](579802.md) | 39,774 | 39,618 | 156 | 0 | 99.61 | 0.39 | 0.00 |
 | [Ban the use of face masks in schools](577831.md) | 37,641 | 37,337 | 304 | 0 | 99.19 | 0.81 | 0.00 |
 | [Ban Water Companies discharging raw sewage into water courses.](582336.md) | 36,940 | 36,769 | 171 | 0 | 99.54 | 0.46 | 0.00 |
 | [Do not cut UK higher education Arts Funding](572300.md) | 36,540 | 36,164 | 376 | 0 | 98.97 | 1.03 | 0.00 |
 | [Tuition Fee Compensation for International Students in UK Universities](572202.md) | 35,915 | 34,233 | 1,682 | 0 | 95.32 | 4.68 | 0.00 |
-| [Outlaw discrimination against those who do not get a Covid-19 vaccination](575801.md) | 34,751 | 34,453 | 298 | 0 | 99.14 | 0.86 | 0.00 |
+| [Outlaw discrimination against those who do not get a Covid-19 vaccination](575801.md) | 34,753 | 34,455 | 298 | 0 | 99.14 | 0.86 | 0.00 |
 | [Mini’s law - Protect the public and animals from hunting activities](584076.md) | 34,542 | 34,019 | 523 | 0 | 98.49 | 1.51 | 0.00 |
 | [Amend GCSE exam content for children that are now in year 9 and year 10](568162.md) | 34,470 | 34,427 | 43 | 0 | 99.88 | 0.12 | 0.00 |
 | [Cancel plans to commission a new Royal Yacht](584822.md) | 33,487 | 32,993 | 494 | 0 | 98.52 | 1.48 | 0.00 |
