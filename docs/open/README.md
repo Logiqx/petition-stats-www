@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-06-27 02:00:08
+Last refreshed 2021-06-27 03:00:09
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -28,13 +28,13 @@ Last refreshed 2021-06-27 02:00:08
 | [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 104,779 | 103,899 | 880 | 0 | 99.16 | 0.84 | 0.00 |
 | [Shut all nurseries and early years settings during lockdown](566718.md) | 103,173 | 102,993 | 180 | 0 | 99.83 | 0.17 | 0.00 |
 | [Grant an urgent Amnesty to Undocumented Migrants living in the UK](567681.md) | 101,903 | 100,168 | 1,735 | 0 | 98.30 | 1.70 | 0.00 |
-| [Increase curriculum content about water safety as part of swimming lessons](576563.md) | 91,271 | 90,505 | 766 | 0 | 99.16 | 0.84 | 0.00 |
+| [Increase curriculum content about water safety as part of swimming lessons](576563.md) | 91,307 | 90,540 | 767 | 0 | 99.16 | 0.84 | 0.00 |
 | [Continue the ban on the use of Neonicotinoids](563943.md) | 91,088 | 90,277 | 811 | 0 | 99.11 | 0.89 | 0.00 |
 | [Scrap the Voter ID requirement introduced in the Election Integrity Bill](576024.md) | 89,613 | 88,546 | 1,067 | 0 | 98.81 | 1.19 | 0.00 |
 | [End all requirements to wear face coverings immediately](581316.md) | 73,354 | 72,806 | 548 | 0 | 99.25 | 0.75 | 0.00 |
 | [Prioritise COVID-19 vaccines for first responders (police, fire, ambulance)](564155.md) | 68,963 | 68,681 | 282 | 0 | 99.59 | 0.41 | 0.00 |
 | [Scrap the compulsory £210 home test kit when arriving in U.K.](577580.md) | 68,530 | 67,952 | 578 | 0 | 99.16 | 0.84 | 0.00 |
-| [Do not require health and social care workers to take covid-19 vaccination](577842.md) | 61,857 | 61,443 | 414 | 0 | 99.33 | 0.67 | 0.00 |
+| [Do not require health and social care workers to take covid-19 vaccination](577842.md) | 61,862 | 61,448 | 414 | 0 | 99.33 | 0.67 | 0.00 |
 | [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 61,650 | 60,932 | 718 | 0 | 98.84 | 1.16 | 0.00 |
 | [Mandatory printing of car registration numbers on all Drive Thru packaging.](580772.md) | 59,108 | 58,836 | 272 | 0 | 99.54 | 0.46 | 0.00 |
 | [Allow non-professional singing in groups of more than six indoors](586559.md) | 58,774 | 58,559 | 215 | 0 | 99.63 | 0.37 | 0.00 |
@@ -42,8 +42,8 @@ Last refreshed 2021-06-27 02:00:08
 | [Require negative covid test to enter the UK](564229.md) | 50,571 | 50,474 | 97 | 0 | 99.81 | 0.19 | 0.00 |
 | [Cancel A-level and GCSE exams 2022](566760.md) | 48,187 | 48,007 | 180 | 0 | 99.63 | 0.37 | 0.00 |
 | [Prioritise Key Retail Workers, being offered the Covid Vaccine!](567426.md) | 47,928 | 47,857 | 71 | 0 | 99.85 | 0.15 | 0.00 |
-| [Remove Pakistan from red list for travel](581974.md) | 45,205 | 44,540 | 665 | 0 | 98.53 | 1.47 | 0.00 |
-| [Mark Allen's Law - we want throwline stations around all bodies of open water](575967.md) | 43,203 | 43,128 | 75 | 0 | 99.83 | 0.17 | 0.00 |
+| [Remove Pakistan from red list for travel](581974.md) | 45,208 | 44,543 | 665 | 0 | 98.53 | 1.47 | 0.00 |
+| [Mark Allen's Law - we want throwline stations around all bodies of open water](575967.md) | 43,216 | 43,141 | 75 | 0 | 99.83 | 0.17 | 0.00 |
 | [Stricter laws governing the purchase/acquisition/possession of crossbows](583762.md) | 40,864 | 40,569 | 295 | 0 | 99.28 | 0.72 | 0.00 |
 | [Fund NHS scheme for women with Endometriosis to freeze their eggs](579802.md) | 39,789 | 39,633 | 156 | 0 | 99.61 | 0.39 | 0.00 |
 | [Ban the use of face masks in schools](577831.md) | 37,656 | 37,352 | 304 | 0 | 99.19 | 0.81 | 0.00 |
@@ -56,5 +56,5 @@ Last refreshed 2021-06-27 02:00:08
 | [Cancel plans to commission a new Royal Yacht](584822.md) | 33,504 | 33,010 | 494 | 0 | 98.53 | 1.47 | 0.00 |
 | [Make it legal to carry non-lethal self defence weapons](577568.md) | 33,438 | 33,254 | 184 | 0 | 99.45 | 0.55 | 0.00 |
 | [Create a public register of people banned from keeping animals in the UK](573147.md) | 32,919 | 32,670 | 249 | 0 | 99.24 | 0.76 | 0.00 |
-| [Introduce charges on carbon emissions to tackle climate crisis and air pollution](574678.md) | 31,052 | 30,861 | 191 | 0 | 99.38 | 0.62 | 0.00 |
+| [Introduce charges on carbon emissions to tackle climate crisis and air pollution](574678.md) | 31,053 | 30,862 | 191 | 0 | 99.38 | 0.62 | 0.00 |
 | [Ban the sale of artificial grass](585520.md) | 30,842 | 30,449 | 393 | 0 | 98.73 | 1.27 | 0.00 |
