@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-06-29 22:00:21
+Last refreshed 2021-06-29 23:00:22
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -38,6 +38,7 @@ Last refreshed 2021-06-29 22:00:21
 | [Increase pay for NHS healthcare workers and recognise their work](300073.md) | 178,820 | 177,996 | 824 | 0 | 99.54 | 0.46 | 0.00 |
 | [Lower university tuition fees for students until online teaching ends](552911.md) | 171,137 | 170,463 | 674 | 0 | 99.61 | 0.39 | 0.00 |
 | [Scrap removal of free transport for under-18s from TfL bailout](331453.md) | 171,010 | 170,426 | 584 | 0 | 99.66 | 0.34 | 0.00 |
+| [Cancel GCSE and A-levels in 2021 replace with Course Work and Teacher Assessment](564696.md) | 157,810 | 156,798 | 1,012 | 0 | 99.36 | 0.64 | 0.00 |
 | [Stop work on HS2 immediately and hold a new vote to repeal the legislation](563380.md) | 155,247 | 154,231 | 1,016 | 0 | 99.35 | 0.65 | 0.00 |
 | [Government to offer economic assistance to the events industry during COVID-19](301186.md) | 154,816 | 153,904 | 912 | 0 | 99.41 | 0.59 | 0.00 |
 | [Extend the Stamp Duty Holiday for an additional 6 months after 31st March 2021](550545.md) | 151,126 | 150,685 | 441 | 0 | 99.71 | 0.29 | 0.00 |
@@ -57,4 +58,3 @@ Last refreshed 2021-06-29 22:00:21
 | [Don’t criminalise trespass](300139.md) | 134,933 | 133,247 | 1,686 | 0 | 98.75 | 1.25 | 0.00 |
 | [Allow golf to be played with appropriate safety measures](557167.md) | 132,727 | 132,604 | 123 | 0 | 99.91 | 0.09 | 0.00 |
 | [Release the Home Office's Grooming Gang Review in full](300239.md) | 131,625 | 128,711 | 2,914 | 0 | 97.79 | 2.21 | 0.00 |
-| [Introduce Mandatory Ethnicity Pay Gap Reporting](300105.md) | 130,567 | 129,644 | 923 | 0 | 99.29 | 0.71 | 0.00 |
