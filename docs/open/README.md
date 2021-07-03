@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-07-03 02:00:08
+Last refreshed 2021-07-03 03:00:09
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -32,19 +32,19 @@ Last refreshed 2021-07-03 02:00:08
 | [Scrap the Voter ID requirement introduced in the Election Integrity Bill](576024.md) | 89,662 | 88,595 | 1,067 | 0 | 98.81 | 1.19 | 0.00 |
 | [End all requirements to wear face coverings immediately](581316.md) | 73,668 | 73,117 | 551 | 0 | 99.25 | 0.75 | 0.00 |
 | [Scrap the compulsory £210 home test kit when arriving in U.K.](577580.md) | 69,392 | 68,807 | 585 | 0 | 99.16 | 0.84 | 0.00 |
-| [Do not require health and social care workers to take covid-19 vaccination](577842.md) | 67,191 | 66,750 | 441 | 0 | 99.34 | 0.66 | 0.00 |
-| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 62,477 | 61,754 | 723 | 0 | 98.84 | 1.16 | 0.00 |
+| [Do not require health and social care workers to take covid-19 vaccination](577842.md) | 67,195 | 66,754 | 441 | 0 | 99.34 | 0.66 | 0.00 |
+| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 62,478 | 61,755 | 723 | 0 | 98.84 | 1.16 | 0.00 |
 | [Mandatory printing of car registration numbers on all Drive Thru packaging.](580772.md) | 59,153 | 58,881 | 272 | 0 | 99.54 | 0.46 | 0.00 |
 | [Allow non-professional singing in groups of more than six indoors](586559.md) | 58,991 | 58,776 | 215 | 0 | 99.64 | 0.36 | 0.00 |
 | [Overturn the decision to allow the use of neonicotinoid pesticides](569214.md) | 51,604 | 51,151 | 453 | 0 | 99.12 | 0.88 | 0.00 |
-| [Mark Allen's Law - we want throwline stations around all bodies of open water](575967.md) | 48,829 | 48,746 | 83 | 0 | 99.83 | 0.17 | 0.00 |
+| [Mark Allen's Law - we want throwline stations around all bodies of open water](575967.md) | 48,842 | 48,758 | 84 | 0 | 99.83 | 0.17 | 0.00 |
 | [Cancel A-level and GCSE exams 2022](566760.md) | 48,514 | 48,333 | 181 | 0 | 99.63 | 0.37 | 0.00 |
 | [Prioritise Key Retail Workers, being offered the Covid Vaccine!](567426.md) | 47,934 | 47,863 | 71 | 0 | 99.85 | 0.15 | 0.00 |
-| [Remove Pakistan from red list for travel](581974.md) | 47,692 | 46,967 | 725 | 0 | 98.48 | 1.52 | 0.00 |
-| [Increase funding for NHS transgender services](572455.md) | 41,612 | 41,359 | 253 | 0 | 99.39 | 0.61 | 0.00 |
+| [Remove Pakistan from red list for travel](581974.md) | 47,697 | 46,972 | 725 | 0 | 98.48 | 1.52 | 0.00 |
+| [Increase funding for NHS transgender services](572455.md) | 41,622 | 41,369 | 253 | 0 | 99.39 | 0.61 | 0.00 |
 | [Stricter laws governing the purchase/acquisition/possession of crossbows](583762.md) | 40,960 | 40,664 | 296 | 0 | 99.28 | 0.72 | 0.00 |
-| [Fund NHS scheme for women with Endometriosis to freeze their eggs](579802.md) | 39,870 | 39,714 | 156 | 0 | 99.61 | 0.39 | 0.00 |
-| [Mini’s law - Protect the public and animals from hunting activities](584076.md) | 38,767 | 38,181 | 586 | 0 | 98.49 | 1.51 | 0.00 |
+| [Fund NHS scheme for women with Endometriosis to freeze their eggs](579802.md) | 39,871 | 39,715 | 156 | 0 | 99.61 | 0.39 | 0.00 |
+| [Mini’s law - Protect the public and animals from hunting activities](584076.md) | 38,768 | 38,182 | 586 | 0 | 98.49 | 1.51 | 0.00 |
 | [Ban the use of face masks in schools](577831.md) | 37,707 | 37,402 | 305 | 0 | 99.19 | 0.81 | 0.00 |
 | [Ban Water Companies discharging raw sewage into water courses.](582336.md) | 37,223 | 37,051 | 172 | 0 | 99.54 | 0.46 | 0.00 |
 | [Do not cut UK higher education Arts Funding](572300.md) | 36,576 | 36,200 | 376 | 0 | 98.97 | 1.03 | 0.00 |
@@ -54,7 +54,7 @@ Last refreshed 2021-07-03 02:00:08
 | [Make it legal to carry non-lethal self defence weapons](577568.md) | 33,603 | 33,419 | 184 | 0 | 99.45 | 0.55 | 0.00 |
 | [Cancel plans to commission a new Royal Yacht](584822.md) | 33,586 | 33,091 | 495 | 0 | 98.53 | 1.47 | 0.00 |
 | [Create a public register of people banned from keeping animals in the UK](573147.md) | 32,995 | 32,743 | 252 | 0 | 99.24 | 0.76 | 0.00 |
-| [Introduce charges on carbon emissions to tackle climate crisis and air pollution](574678.md) | 31,488 | 31,296 | 192 | 0 | 99.39 | 0.61 | 0.00 |
+| [Introduce charges on carbon emissions to tackle climate crisis and air pollution](574678.md) | 31,491 | 31,299 | 192 | 0 | 99.39 | 0.61 | 0.00 |
 | [Increase funding to provide support and research into Tourettes Syndrome](575370.md) | 31,085 | 30,297 | 788 | 0 | 97.47 | 2.53 | 0.00 |
 | [Ban the sale of artificial grass](585520.md) | 30,963 | 30,568 | 395 | 0 | 98.72 | 1.28 | 0.00 |
 | [3-day quarantine for fully vaccinated, returning to the UK from amber countries](586077.md) | 30,484 | 29,440 | 1,044 | 0 | 96.58 | 3.42 | 0.00 |
