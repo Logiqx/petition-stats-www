@@ -4,17 +4,17 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-07-18 03:00:08
+Last refreshed 2021-07-18 04:00:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Make verified ID a requirement for opening a social media account.](575833.md) | 685,991 | 680,197 | 5,794 | 0 | 99.16 | 0.84 | 0.00 |
+| [Make verified ID a requirement for opening a social media account.](575833.md) | 685,993 | 680,198 | 5,795 | 0 | 99.16 | 0.84 | 0.00 |
 | [Introduce sanctions against Israel](585314.md) | 387,334 | 382,272 | 5,062 | 0 | 98.69 | 1.31 | 0.00 |
 | [Give the UK a Bank Holiday on Monday July 12th if England win Euro 2020](590282.md) | 364,631 | 364,174 | 457 | 0 | 99.87 | 0.13 | 0.00 |
-| [Do not rollout Covid-19 vaccine passports](569957.md) | 360,886 | 356,765 | 4,121 | 0 | 98.86 | 1.14 | 0.00 |
+| [Do not rollout Covid-19 vaccine passports](569957.md) | 360,887 | 356,766 | 4,121 | 0 | 98.86 | 1.14 | 0.00 |
 | [Do not restrict our rights to peaceful protest.](579012.md) | 254,562 | 251,782 | 2,780 | 0 | 98.91 | 1.09 | 0.00 |
 | [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 230,008 | 229,837 | 171 | 0 | 99.93 | 0.07 | 0.00 |
-| [Ban Animal Testing - Fund, accept & promote alternatives to animal testing](581641.md) | 225,466 | 211,846 | 13,620 | 0 | 93.96 | 6.04 | 0.00 |
+| [Ban Animal Testing - Fund, accept & promote alternatives to animal testing](581641.md) | 225,482 | 211,855 | 13,627 | 0 | 93.96 | 6.04 | 0.00 |
 | [Keep schools closed until May](573621.md) | 149,453 | 149,095 | 358 | 0 | 99.76 | 0.24 | 0.00 |
 | [Trigger Article 16. We want unfettered GB-NI Trade.](573209.md) | 144,337 | 143,228 | 1,109 | 0 | 99.23 | 0.77 | 0.00 |
 | [Introduce an Independent Regulator for Football in England by December 2021](584632.md) | 142,760 | 138,872 | 3,888 | 0 | 97.28 | 2.72 | 0.00 |
@@ -27,34 +27,34 @@ Last refreshed 2021-07-18 03:00:08
 | [Enforce the “50+1” Rule for professional football club ownership in the UK](583310.md) | 106,954 | 101,021 | 5,933 | 0 | 94.45 | 5.55 | 0.00 |
 | [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 105,160 | 104,274 | 886 | 0 | 99.16 | 0.84 | 0.00 |
 | [Scrap the Voter ID requirement introduced in the Election Integrity Bill](576024.md) | 101,419 | 100,210 | 1,209 | 0 | 98.81 | 1.19 | 0.00 |
-| [Do not require health and social care workers to take covid-19 vaccination](577842.md) | 95,400 | 94,673 | 727 | 0 | 99.24 | 0.76 | 0.00 |
+| [Do not require health and social care workers to take covid-19 vaccination](577842.md) | 95,404 | 94,677 | 727 | 0 | 99.24 | 0.76 | 0.00 |
 | [End all requirements to wear face coverings immediately](581316.md) | 74,417 | 73,861 | 556 | 0 | 99.25 | 0.75 | 0.00 |
 | [Scrap the compulsory £210 home test kit when arriving in U.K.](577580.md) | 70,992 | 70,378 | 614 | 0 | 99.14 | 0.86 | 0.00 |
 | [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 65,210 | 64,457 | 753 | 0 | 98.85 | 1.15 | 0.00 |
-| [Outlaw discrimination against those who do not get a Covid-19 vaccination](575801.md) | 61,638 | 61,065 | 573 | 0 | 99.07 | 0.93 | 0.00 |
+| [Outlaw discrimination against those who do not get a Covid-19 vaccination](575801.md) | 61,640 | 61,067 | 573 | 0 | 99.07 | 0.93 | 0.00 |
 | [Mandatory printing of car registration numbers on all Drive Thru packaging.](580772.md) | 59,418 | 59,143 | 275 | 0 | 99.54 | 0.46 | 0.00 |
 | [Allow non-professional singing in groups of more than six indoors](586559.md) | 59,137 | 58,921 | 216 | 0 | 99.63 | 0.37 | 0.00 |
-| [Mark Allen's Law - we want throwline stations around all bodies of open water](575967.md) | 52,994 | 52,900 | 94 | 0 | 99.82 | 0.18 | 0.00 |
-| [Remove Pakistan from red list for travel](581974.md) | 52,993 | 52,206 | 787 | 0 | 98.51 | 1.49 | 0.00 |
-| [Increase funding for NHS transgender services](572455.md) | 48,123 | 47,817 | 306 | 0 | 99.36 | 0.64 | 0.00 |
-| [Allow ALL vaccinated British Expats to visit the UK without quarantining](585438.md) | 48,048 | 24,703 | 23,345 | 0 | 51.41 | 48.59 | 0.00 |
-| [Amend PCSC Bill to withdraw power to seize vehicles used as mobile homes](583903.md) | 45,499 | 45,110 | 389 | 0 | 99.15 | 0.85 | 0.00 |
+| [Mark Allen's Law - we want throwline stations around all bodies of open water](575967.md) | 52,998 | 52,904 | 94 | 0 | 99.82 | 0.18 | 0.00 |
+| [Remove Pakistan from red list for travel](581974.md) | 52,994 | 52,207 | 787 | 0 | 98.51 | 1.49 | 0.00 |
+| [Increase funding for NHS transgender services](572455.md) | 48,124 | 47,818 | 306 | 0 | 99.36 | 0.64 | 0.00 |
+| [Allow ALL vaccinated British Expats to visit the UK without quarantining](585438.md) | 48,054 | 24,706 | 23,348 | 0 | 51.41 | 48.59 | 0.00 |
+| [Amend PCSC Bill to withdraw power to seize vehicles used as mobile homes](583903.md) | 45,502 | 45,113 | 389 | 0 | 99.15 | 0.85 | 0.00 |
 | [Mini’s law - Protect the public and animals from hunting activities](584076.md) | 41,824 | 41,193 | 631 | 0 | 98.49 | 1.51 | 0.00 |
-| [Move the State Pension age back to 60 for both men & women](581736.md) | 41,390 | 41,079 | 311 | 0 | 99.25 | 0.75 | 0.00 |
+| [Move the State Pension age back to 60 for both men & women](581736.md) | 41,396 | 41,085 | 311 | 0 | 99.25 | 0.75 | 0.00 |
 | [Stricter laws governing the purchase/acquisition/possession of crossbows](583762.md) | 41,113 | 40,815 | 298 | 0 | 99.28 | 0.72 | 0.00 |
 | [Fund NHS scheme for women with Endometriosis to freeze their eggs](579802.md) | 41,012 | 40,853 | 159 | 0 | 99.61 | 0.39 | 0.00 |
-| [Increase funding to provide support and research into Tourettes Syndrome](575370.md) | 39,523 | 38,582 | 941 | 0 | 97.62 | 2.38 | 0.00 |
-| [Ban Water Companies discharging raw sewage into water courses.](582336.md) | 39,085 | 38,907 | 178 | 0 | 99.54 | 0.46 | 0.00 |
+| [Increase funding to provide support and research into Tourettes Syndrome](575370.md) | 39,528 | 38,586 | 942 | 0 | 97.62 | 2.38 | 0.00 |
+| [Ban Water Companies discharging raw sewage into water courses.](582336.md) | 39,087 | 38,909 | 178 | 0 | 99.54 | 0.46 | 0.00 |
 | [Ban the use of face masks in schools](577831.md) | 37,788 | 37,483 | 305 | 0 | 99.19 | 0.81 | 0.00 |
-| [Introduce charges on carbon emissions to tackle climate crisis and air pollution](574678.md) | 36,682 | 36,470 | 212 | 0 | 99.42 | 0.58 | 0.00 |
+| [Introduce charges on carbon emissions to tackle climate crisis and air pollution](574678.md) | 36,683 | 36,471 | 212 | 0 | 99.42 | 0.58 | 0.00 |
 | [Do not cut UK higher education Arts Funding](572300.md) | 36,626 | 36,249 | 377 | 0 | 98.97 | 1.03 | 0.00 |
 | [Tuition Fee Compensation for International Students in UK Universities](572202.md) | 35,977 | 34,288 | 1,689 | 0 | 95.31 | 4.69 | 0.00 |
 | [Amend GCSE exam content for children that are now in year 9 and year 10](568162.md) | 34,613 | 34,570 | 43 | 0 | 99.88 | 0.12 | 0.00 |
 | [Make it legal to carry non-lethal self defence weapons](577568.md) | 34,104 | 33,917 | 187 | 0 | 99.45 | 0.55 | 0.00 |
 | [Cancel plans to commission a new Royal Yacht](584822.md) | 33,765 | 33,265 | 500 | 0 | 98.52 | 1.48 | 0.00 |
-| [To allow non-prescribed storage of Salbutamol Inhalers in Commercial Kitchens](578676.md) | 33,439 | 33,111 | 328 | 0 | 99.02 | 0.98 | 0.00 |
+| [To allow non-prescribed storage of Salbutamol Inhalers in Commercial Kitchens](578676.md) | 33,440 | 33,112 | 328 | 0 | 99.02 | 0.98 | 0.00 |
 | [Create a public register of people banned from keeping animals in the UK](573147.md) | 33,233 | 32,977 | 256 | 0 | 99.23 | 0.77 | 0.00 |
 | [Remove Turkey from the red list](587179.md) | 32,675 | 31,988 | 687 | 0 | 97.90 | 2.10 | 0.00 |
-| [#Reggieslaw - Regulate online animal sales](587654.md) | 32,063 | 31,953 | 110 | 0 | 99.66 | 0.34 | 0.00 |
+| [#Reggieslaw - Regulate online animal sales](587654.md) | 32,064 | 31,954 | 110 | 0 | 99.66 | 0.34 | 0.00 |
 | [Ban the sale of artificial grass](585520.md) | 31,159 | 30,762 | 397 | 0 | 98.73 | 1.27 | 0.00 |
 | [Extend statutory bereavement leave to pregnancy loss before 24 weeks](574455.md) | 30,983 | 30,856 | 127 | 0 | 99.59 | 0.41 | 0.00 |
