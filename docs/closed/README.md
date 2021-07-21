@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-07-21 09:00:23
+Last refreshed 2021-07-21 10:00:22
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -16,7 +16,7 @@ Last refreshed 2021-07-21 09:00:23
 | [Prioritise teachers, school and childcare staff for Covid-19 vaccination](554316.md) | 508,829 | 507,538 | 1,291 | 0 | 99.75 | 0.25 | 0.00 |
 | [Reclose schools and colleges due to increase in COVID-19 cases](550846.md) | 428,788 | 428,107 | 681 | 0 | 99.84 | 0.16 | 0.00 |
 | [Implement UK lockdown for preventing spread of COVID19](301397.md) | 409,473 | 406,897 | 2,576 | 0 | 99.37 | 0.63 | 0.00 |
-| [Do not rollout Covid-19 vaccine passports](569957.md) | 375,132 | 370,966 | 4,166 | 0 | 98.89 | 1.11 | 0.00 |
+| [Do not rollout Covid-19 vaccine passports](569957.md) | 375,150 | 370,984 | 4,166 | 0 | 98.89 | 1.11 | 0.00 |
 | [Reimburse all students of this year’s fees due to strikes and COVID-19](302855.md) | 353,130 | 351,856 | 1,274 | 0 | 99.64 | 0.36 | 0.00 |
 | [Prevent any restrictions on those who refuse a Covid-19 vaccination](323442.md) | 337,143 | 334,152 | 2,991 | 0 | 99.11 | 0.89 | 0.00 |
 | [Make dog theft a specific criminal offence](560216.md) | 316,536 | 314,859 | 1,677 | 0 | 99.47 | 0.53 | 0.00 |
@@ -27,7 +27,7 @@ Last refreshed 2021-07-21 09:00:23
 | [Exempt golf courses from the list of venues required to close due to Covid-19](309851.md) | 257,267 | 256,932 | 335 | 0 | 99.87 | 0.13 | 0.00 |
 | [Make LGBT conversion therapy illegal in the UK](300976.md) | 256,392 | 253,566 | 2,826 | 0 | 98.90 | 1.10 | 0.00 |
 | [Extend maternity leave by 3 months with pay in light of COVID-19](306691.md) | 238,884 | 238,439 | 445 | 0 | 99.81 | 0.19 | 0.00 |
-| [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 230,019 | 229,848 | 171 | 0 | 99.93 | 0.07 | 0.00 |
+| [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 230,020 | 229,849 | 171 | 0 | 99.93 | 0.07 | 0.00 |
 | [Implement sanctions against the Nigerian Government and officials](554150.md) | 221,258 | 200,166 | 21,092 | 0 | 90.47 | 9.53 | 0.00 |
 | [Cancel GCSEs and A Levels in 2021](326066.md) | 211,974 | 210,752 | 1,222 | 0 | 99.42 | 0.58 | 0.00 |
 | [Broker a ceasefire for all sides in Yemen to carry out humanitarian aid](326932.md) | 211,848 | 209,517 | 2,331 | 0 | 98.90 | 1.10 | 0.00 |
