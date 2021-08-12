@@ -4,53 +4,53 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-08-12 18:00:10
+Last refreshed 2021-08-12 19:00:09
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Make verified ID a requirement for opening a social media account.](575833.md) | 696,204 | 690,281 | 5,923 | 0 | 99.15 | 0.85 | 0.00 |
-| [Introduce sanctions against Israel](585314.md) | 387,743 | 382,670 | 5,073 | 0 | 98.69 | 1.31 | 0.00 |
+| [Make verified ID a requirement for opening a social media account.](575833.md) | 696,206 | 690,282 | 5,924 | 0 | 99.15 | 0.85 | 0.00 |
+| [Introduce sanctions against Israel](585314.md) | 387,744 | 382,671 | 5,073 | 0 | 98.69 | 1.31 | 0.00 |
 | [Give the UK a Bank Holiday on Monday July 12th if England win Euro 2020](590282.md) | 364,697 | 364,240 | 457 | 0 | 99.87 | 0.13 | 0.00 |
-| [Outlaw discrimination against those who do not get a Covid-19 vaccination](575801.md) | 345,002 | 342,524 | 2,478 | 0 | 99.28 | 0.72 | 0.00 |
-| [Do not restrict our rights to peaceful protest.](579012.md) | 255,899 | 253,112 | 2,787 | 0 | 98.91 | 1.09 | 0.00 |
-| [Ban Animal Testing - Fund, accept & promote alternatives to animal testing](581641.md) | 230,978 | 217,101 | 13,877 | 0 | 93.99 | 6.01 | 0.00 |
+| [Outlaw discrimination against those who do not get a Covid-19 vaccination](575801.md) | 345,016 | 342,538 | 2,478 | 0 | 99.28 | 0.72 | 0.00 |
+| [Do not restrict our rights to peaceful protest.](579012.md) | 255,900 | 253,113 | 2,787 | 0 | 98.91 | 1.09 | 0.00 |
+| [Ban Animal Testing - Fund, accept & promote alternatives to animal testing](581641.md) | 231,078 | 217,200 | 13,878 | 0 | 93.99 | 6.01 | 0.00 |
 | [Introduce an Independent Regulator for Football in England by December 2021](584632.md) | 142,814 | 138,925 | 3,889 | 0 | 97.28 | 2.72 | 0.00 |
-| [Make non-binary a legally recognised gender identity in the UK](580220.md) | 139,536 | 137,644 | 1,892 | 0 | 98.64 | 1.36 | 0.00 |
-| [Remove Pakistan from red list for travel](581974.md) | 131,672 | 129,406 | 2,266 | 0 | 98.28 | 1.72 | 0.00 |
-| [UK Government to formally recognise the State of Palestine](585313.md) | 130,735 | 129,503 | 1,232 | 0 | 99.06 | 0.94 | 0.00 |
-| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 121,164 | 120,462 | 702 | 0 | 99.42 | 0.58 | 0.00 |
+| [Make non-binary a legally recognised gender identity in the UK](580220.md) | 139,537 | 137,645 | 1,892 | 0 | 98.64 | 1.36 | 0.00 |
+| [Remove Pakistan from red list for travel](581974.md) | 131,686 | 129,420 | 2,266 | 0 | 98.28 | 1.72 | 0.00 |
+| [UK Government to formally recognise the State of Palestine](585313.md) | 130,736 | 129,504 | 1,232 | 0 | 99.06 | 0.94 | 0.00 |
+| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 121,213 | 120,511 | 702 | 0 | 99.42 | 0.58 | 0.00 |
 | [Commission an independent review of childcare funding and affordability](586700.md) | 112,065 | 111,797 | 268 | 0 | 99.76 | 0.24 | 0.00 |
-| [Increase curriculum content about water safety as part of swimming lessons](576563.md) | 108,050 | 107,102 | 948 | 0 | 99.12 | 0.88 | 0.00 |
+| [Increase curriculum content about water safety as part of swimming lessons](576563.md) | 108,051 | 107,103 | 948 | 0 | 99.12 | 0.88 | 0.00 |
 | [Enforce the “50+1” Rule for professional football club ownership in the UK](583310.md) | 106,987 | 101,053 | 5,934 | 0 | 94.45 | 5.55 | 0.00 |
 | [Stop the rising number of ear-cropped dogs in the UK](574305.md) | 105,552 | 104,665 | 887 | 0 | 99.16 | 0.84 | 0.00 |
-| [Do not require health and social care workers to take covid-19 vaccination](577842.md) | 103,420 | 102,628 | 792 | 0 | 99.23 | 0.77 | 0.00 |
+| [Do not require health and social care workers to take covid-19 vaccination](577842.md) | 103,427 | 102,635 | 792 | 0 | 99.23 | 0.77 | 0.00 |
 | [Scrap the Voter ID requirement introduced in the Election Integrity Bill](576024.md) | 102,012 | 100,795 | 1,217 | 0 | 98.81 | 1.19 | 0.00 |
-| [Exempt dogs assessed by experts as safe from breed specific legislation](592813.md) | 90,313 | 89,417 | 896 | 0 | 99.01 | 0.99 | 0.00 |
-| [Make lying in the House of Commons a criminal offence](576886.md) | 88,165 | 86,203 | 1,962 | 0 | 97.77 | 2.23 | 0.00 |
-| [Move the State Pension age back to 60 for both men & women](581736.md) | 76,701 | 76,151 | 550 | 0 | 99.28 | 0.72 | 0.00 |
+| [Exempt dogs assessed by experts as safe from breed specific legislation](592813.md) | 90,604 | 89,708 | 896 | 0 | 99.01 | 0.99 | 0.00 |
+| [Make lying in the House of Commons a criminal offence](576886.md) | 88,187 | 86,225 | 1,962 | 0 | 97.78 | 2.22 | 0.00 |
+| [Move the State Pension age back to 60 for both men & women](581736.md) | 76,731 | 76,181 | 550 | 0 | 99.28 | 0.72 | 0.00 |
 | [End all requirements to wear face coverings immediately](581316.md) | 74,899 | 74,339 | 560 | 0 | 99.25 | 0.75 | 0.00 |
-| [Scrap the compulsory £210 home test kit when arriving in U.K.](577580.md) | 72,121 | 71,476 | 645 | 0 | 99.11 | 0.89 | 0.00 |
-| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 67,997 | 67,228 | 769 | 0 | 98.87 | 1.13 | 0.00 |
-| [Allow ALL vaccinated British Expats to visit the UK without quarantining](585438.md) | 63,273 | 32,760 | 30,513 | 0 | 51.78 | 48.22 | 0.00 |
+| [Scrap the compulsory £210 home test kit when arriving in U.K.](577580.md) | 72,124 | 71,479 | 645 | 0 | 99.11 | 0.89 | 0.00 |
+| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 67,998 | 67,229 | 769 | 0 | 98.87 | 1.13 | 0.00 |
+| [Allow ALL vaccinated British Expats to visit the UK without quarantining](585438.md) | 63,274 | 32,760 | 30,514 | 0 | 51.77 | 48.23 | 0.00 |
 | [Mark Allen's Law - we want throwline stations around all bodies of open water](575967.md) | 61,911 | 61,793 | 118 | 0 | 99.81 | 0.19 | 0.00 |
-| [Change the law to include laboratory animals in the Animal Welfare Act.](591775.md) | 61,022 | 59,679 | 1,343 | 0 | 97.80 | 2.20 | 0.00 |
-| [Increase funding to provide support and research into Tourettes Syndrome](575370.md) | 60,747 | 59,480 | 1,267 | 0 | 97.91 | 2.09 | 0.00 |
-| [Mandatory printing of car registration numbers on all Drive Thru packaging.](580772.md) | 59,696 | 59,420 | 276 | 0 | 99.54 | 0.46 | 0.00 |
+| [Change the law to include laboratory animals in the Animal Welfare Act.](591775.md) | 61,087 | 59,744 | 1,343 | 0 | 97.80 | 2.20 | 0.00 |
+| [Increase funding to provide support and research into Tourettes Syndrome](575370.md) | 60,852 | 59,585 | 1,267 | 0 | 97.92 | 2.08 | 0.00 |
+| [Mandatory printing of car registration numbers on all Drive Thru packaging.](580772.md) | 59,697 | 59,421 | 276 | 0 | 99.54 | 0.46 | 0.00 |
 | [Allow non-professional singing in groups of more than six indoors](586559.md) | 59,187 | 58,970 | 217 | 0 | 99.63 | 0.37 | 0.00 |
-| [Introduce charges on carbon emissions to tackle climate crisis and air pollution](574678.md) | 58,019 | 57,647 | 372 | 0 | 99.36 | 0.64 | 0.00 |
-| [#Reggieslaw - Regulate online animal sales](587654.md) | 54,713 | 54,503 | 210 | 0 | 99.62 | 0.38 | 0.00 |
-| [Mini’s law - Protect the public and animals from hunting activities](584076.md) | 53,232 | 52,436 | 796 | 0 | 98.50 | 1.50 | 0.00 |
-| [Amend PCSC Bill to withdraw power to seize vehicles used as mobile homes](583903.md) | 51,818 | 51,364 | 454 | 0 | 99.12 | 0.88 | 0.00 |
-| [Ban Water Companies discharging raw sewage into water courses.](582336.md) | 48,748 | 48,522 | 226 | 0 | 99.54 | 0.46 | 0.00 |
-| [Allow fully vaccinated people coming from red list countries to isolate at home](588072.md) | 44,508 | 42,976 | 1,532 | 0 | 96.56 | 3.44 | 0.00 |
-| [We demand that the Gurkhas receive equal pensions](594155.md) | 44,134 | 43,188 | 946 | 0 | 97.86 | 2.14 | 0.00 |
-| [End the Cage Age for all farmed animals](593775.md) | 43,117 | 42,873 | 244 | 0 | 99.43 | 0.57 | 0.00 |
-| [Remove Turkey from the red list](587179.md) | 42,634 | 41,696 | 938 | 0 | 97.80 | 2.20 | 0.00 |
+| [Introduce charges on carbon emissions to tackle climate crisis and air pollution](574678.md) | 58,209 | 57,833 | 376 | 0 | 99.35 | 0.65 | 0.00 |
+| [#Reggieslaw - Regulate online animal sales](587654.md) | 54,726 | 54,516 | 210 | 0 | 99.62 | 0.38 | 0.00 |
+| [Mini’s law - Protect the public and animals from hunting activities](584076.md) | 53,240 | 52,444 | 796 | 0 | 98.50 | 1.50 | 0.00 |
+| [Amend PCSC Bill to withdraw power to seize vehicles used as mobile homes](583903.md) | 51,823 | 51,369 | 454 | 0 | 99.12 | 0.88 | 0.00 |
+| [Ban Water Companies discharging raw sewage into water courses.](582336.md) | 48,753 | 48,527 | 226 | 0 | 99.54 | 0.46 | 0.00 |
+| [We demand that the Gurkhas receive equal pensions](594155.md) | 45,225 | 44,263 | 962 | 0 | 97.87 | 2.13 | 0.00 |
+| [Allow fully vaccinated people coming from red list countries to isolate at home](588072.md) | 44,523 | 42,988 | 1,535 | 0 | 96.55 | 3.45 | 0.00 |
+| [End the Cage Age for all farmed animals](593775.md) | 43,433 | 43,188 | 245 | 0 | 99.44 | 0.56 | 0.00 |
+| [Remove Turkey from the red list](587179.md) | 42,639 | 41,701 | 938 | 0 | 97.80 | 2.20 | 0.00 |
 | [Stricter laws governing the purchase/acquisition/possession of crossbows](583762.md) | 41,407 | 41,105 | 302 | 0 | 99.27 | 0.73 | 0.00 |
 | [Fund NHS scheme for women with Endometriosis to freeze their eggs](579802.md) | 41,264 | 41,105 | 159 | 0 | 99.61 | 0.39 | 0.00 |
-| [Provide more funding for stalking advocates for victims of stalking](593769.md) | 40,321 | 40,149 | 172 | 0 | 99.57 | 0.43 | 0.00 |
-| [Shift to a Wellbeing Economy: put the health of people and planet first](580646.md) | 40,165 | 39,733 | 432 | 0 | 98.92 | 1.08 | 0.00 |
-| [Plan to phase out animal experiments](590216.md) | 38,486 | 38,113 | 373 | 0 | 99.03 | 0.97 | 0.00 |
+| [Provide more funding for stalking advocates for victims of stalking](593769.md) | 40,386 | 40,214 | 172 | 0 | 99.57 | 0.43 | 0.00 |
+| [Shift to a Wellbeing Economy: put the health of people and planet first](580646.md) | 40,167 | 39,735 | 432 | 0 | 98.92 | 1.08 | 0.00 |
+| [Plan to phase out animal experiments](590216.md) | 39,070 | 38,694 | 376 | 0 | 99.04 | 0.96 | 0.00 |
 | [Ban the use of face masks in schools](577831.md) | 37,913 | 37,607 | 306 | 0 | 99.19 | 0.81 | 0.00 |
 | [Do not cut UK higher education Arts Funding](572300.md) | 37,077 | 36,699 | 378 | 0 | 98.98 | 1.02 | 0.00 |
 | [Tuition Fee Compensation for International Students in UK Universities](572202.md) | 36,190 | 34,480 | 1,710 | 0 | 95.27 | 4.73 | 0.00 |
