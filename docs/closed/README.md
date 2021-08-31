@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-08-31 16:00:21
+Last refreshed 2021-08-31 17:00:22
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -48,7 +48,7 @@ Last refreshed 2021-08-31 16:00:21
 | [Keep schools closed until May](573621.md) | 149,470 | 149,111 | 359 | 0 | 99.76 | 0.24 | 0.00 |
 | [Review the decision to use previous data to calculate exam grades](306773.md) | 148,884 | 147,634 | 1,250 | 0 | 99.16 | 0.84 | 0.00 |
 | [Reduce curriculum content for year 10 & 12 students who will sit exams in 2021.](320772.md) | 148,388 | 147,990 | 398 | 0 | 99.73 | 0.27 | 0.00 |
-| [FIONA'S LAW - Women should be allowed a yearly Cervical screening   ](317336.md) | 146,633 | 145,994 | 639 | 0 | 99.56 | 0.44 | 0.00 |
+| [FIONA'S LAW - Women should be allowed a yearly Cervical screening   ](317336.md) | 146,634 | 145,995 | 639 | 0 | 99.56 | 0.44 | 0.00 |
 | [Give all key workers a 100% tax and Nat. Ins. holiday through COVID-19 crisis](306845.md) | 146,351 | 146,074 | 277 | 0 | 99.81 | 0.19 | 0.00 |
 | [Impose sanctions on China over its treatment of Uyghur Muslims](300146.md) | 146,346 | 139,773 | 6,573 | 0 | 95.51 | 4.49 | 0.00 |
 | [Let Us Dance - Support nightclubs, dance music events and festivals](332789.md) | 146,187 | 145,353 | 834 | 0 | 99.43 | 0.57 | 0.00 |
