@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-09-03 03:00:10
+Last refreshed 2021-09-03 04:00:09
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -25,25 +25,25 @@ Last refreshed 2021-09-03 03:00:10
 | [We demand that the Gurkhas receive equal pensions](594155.md) | 105,736 | 103,453 | 2,283 | 0 | 97.84 | 2.16 | 0.00 |
 | [Do not require health and social care workers to take covid-19 vaccination](577842.md) | 105,658 | 104,846 | 812 | 0 | 99.23 | 0.77 | 0.00 |
 | [Scrap the Voter ID requirement introduced in the Election Integrity Bill](576024.md) | 102,099 | 100,880 | 1,219 | 0 | 98.81 | 1.19 | 0.00 |
-| [Move the State Pension age back to 60 for both men & women](581736.md) | 80,898 | 80,321 | 577 | 0 | 99.29 | 0.71 | 0.00 |
+| [Move the State Pension age back to 60 for both men & women](581736.md) | 80,899 | 80,322 | 577 | 0 | 99.29 | 0.71 | 0.00 |
 | [End all requirements to wear face coverings immediately](581316.md) | 75,725 | 75,159 | 566 | 0 | 99.25 | 0.75 | 0.00 |
-| [Mark Allen's Law - we want throwline stations around all bodies of open water](575967.md) | 72,960 | 72,824 | 136 | 0 | 99.81 | 0.19 | 0.00 |
+| [Mark Allen's Law - we want throwline stations around all bodies of open water](575967.md) | 72,961 | 72,825 | 136 | 0 | 99.81 | 0.19 | 0.00 |
 | [Scrap the compulsory £210 home test kit when arriving in U.K.](577580.md) | 72,757 | 72,091 | 666 | 0 | 99.08 | 0.92 | 0.00 |
-| [To allow non-prescribed storage of Salbutamol Inhalers in Commercial Kitchens](578676.md) | 70,541 | 69,825 | 716 | 0 | 98.98 | 1.02 | 0.00 |
+| [To allow non-prescribed storage of Salbutamol Inhalers in Commercial Kitchens](578676.md) | 70,542 | 69,826 | 716 | 0 | 98.99 | 1.01 | 0.00 |
 | [Plan to phase out animal experiments](590216.md) | 70,403 | 69,606 | 797 | 0 | 98.87 | 1.13 | 0.00 |
-| [Change the law to include laboratory animals in the Animal Welfare Act.](591775.md) | 69,691 | 68,142 | 1,549 | 0 | 97.78 | 2.22 | 0.00 |
+| [Change the law to include laboratory animals in the Animal Welfare Act.](591775.md) | 69,692 | 68,143 | 1,549 | 0 | 97.78 | 2.22 | 0.00 |
 | [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 69,533 | 68,746 | 787 | 0 | 98.87 | 1.13 | 0.00 |
-| [Mini’s law - Protect the public and animals from hunting activities](584076.md) | 65,949 | 64,997 | 952 | 0 | 98.56 | 1.44 | 0.00 |
+| [Mini’s law - Protect the public and animals from hunting activities](584076.md) | 65,951 | 64,999 | 952 | 0 | 98.56 | 1.44 | 0.00 |
 | [Allow ALL vaccinated British Expats to visit the UK without quarantining](585438.md) | 64,115 | 33,326 | 30,789 | 0 | 51.98 | 48.02 | 0.00 |
 | [Mandatory printing of car registration numbers on all Drive Thru packaging.](580772.md) | 59,844 | 59,568 | 276 | 0 | 99.54 | 0.46 | 0.00 |
 | [Allow non-professional singing in groups of more than six indoors](586559.md) | 59,210 | 58,993 | 217 | 0 | 99.63 | 0.37 | 0.00 |
-| [End the Cage Age for all farmed animals](593775.md) | 57,632 | 57,285 | 347 | 0 | 99.40 | 0.60 | 0.00 |
-| [#Reggieslaw - Regulate online animal sales](587654.md) | 57,442 | 57,201 | 241 | 0 | 99.58 | 0.42 | 0.00 |
+| [End the Cage Age for all farmed animals](593775.md) | 57,633 | 57,286 | 347 | 0 | 99.40 | 0.60 | 0.00 |
+| [#Reggieslaw - Regulate online animal sales](587654.md) | 57,443 | 57,202 | 241 | 0 | 99.58 | 0.42 | 0.00 |
 | [Amend PCSC Bill to withdraw power to seize vehicles used as mobile homes](583903.md) | 52,891 | 52,429 | 462 | 0 | 99.13 | 0.87 | 0.00 |
 | [Ban Water Companies discharging raw sewage into water courses.](582336.md) | 51,487 | 51,252 | 235 | 0 | 99.54 | 0.46 | 0.00 |
-| [Shift to a Wellbeing Economy: put the health of people and planet first](580646.md) | 48,511 | 47,978 | 533 | 0 | 98.90 | 1.10 | 0.00 |
-| [Allow fully vaccinated people coming from red list countries to isolate at home](588072.md) | 47,804 | 46,122 | 1,682 | 0 | 96.48 | 3.52 | 0.00 |
-| [Provide more funding for stalking advocates for victims of stalking](593769.md) | 46,484 | 46,268 | 216 | 0 | 99.54 | 0.46 | 0.00 |
+| [Shift to a Wellbeing Economy: put the health of people and planet first](580646.md) | 48,518 | 47,985 | 533 | 0 | 98.90 | 1.10 | 0.00 |
+| [Allow fully vaccinated people coming from red list countries to isolate at home](588072.md) | 47,805 | 46,123 | 1,682 | 0 | 96.48 | 3.52 | 0.00 |
+| [Provide more funding for stalking advocates for victims of stalking](593769.md) | 46,489 | 46,273 | 216 | 0 | 99.54 | 0.46 | 0.00 |
 | [Remove Turkey from the red list](587179.md) | 45,365 | 44,341 | 1,024 | 0 | 97.74 | 2.26 | 0.00 |
 | [Stricter laws governing the purchase/acquisition/possession of crossbows](583762.md) | 41,620 | 41,314 | 306 | 0 | 99.26 | 0.74 | 0.00 |
 | [Fund NHS scheme for women with Endometriosis to freeze their eggs](579802.md) | 41,573 | 41,413 | 160 | 0 | 99.62 | 0.38 | 0.00 |
@@ -55,6 +55,6 @@ Last refreshed 2021-09-03 03:00:10
 | [Ban the sale of artificial grass](585520.md) | 31,863 | 31,463 | 400 | 0 | 98.74 | 1.26 | 0.00 |
 | [3-day quarantine for fully vaccinated, returning to the UK from amber countries](586077.md) | 31,436 | 30,326 | 1,110 | 0 | 96.47 | 3.53 | 0.00 |
 | [Remove South Africa from the travel 'Red List'](589382.md) | 30,564 | 25,693 | 4,871 | 0 | 84.06 | 15.94 | 0.00 |
-| [Identify and sanction any Pakistani individuals involved in money laundering](594611.md) | 29,766 | 27,841 | 1,925 | 0 | 93.53 | 6.47 | 0.00 |
+| [Identify and sanction any Pakistani individuals involved in money laundering](594611.md) | 29,767 | 27,842 | 1,925 | 0 | 93.53 | 6.47 | 0.00 |
 | [Protect the title Nurse in UK law](587939.md) | 27,111 | 26,827 | 284 | 0 | 98.95 | 1.05 | 0.00 |
-| [Recall Parliament to debate vaccination of children before this is rolled out](594272.md) | 26,342 | 26,057 | 285 | 0 | 98.92 | 1.08 | 0.00 |
+| [Recall Parliament to debate vaccination of children before this is rolled out](594272.md) | 26,343 | 26,058 | 285 | 0 | 98.92 | 1.08 | 0.00 |
