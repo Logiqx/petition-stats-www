@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-09-03 12:00:23
+Last refreshed 2021-09-03 13:00:22
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -20,7 +20,7 @@ Last refreshed 2021-09-03 12:00:23
 | [Reimburse all students of this year’s fees due to strikes and COVID-19](302855.md) | 353,130 | 351,856 | 1,274 | 0 | 99.64 | 0.36 | 0.00 |
 | [Outlaw discrimination against those who do not get a Covid-19 vaccination](575801.md) | 347,513 | 344,996 | 2,517 | 0 | 99.28 | 0.72 | 0.00 |
 | [Prevent any restrictions on those who refuse a Covid-19 vaccination](323442.md) | 337,144 | 334,153 | 2,991 | 0 | 99.11 | 0.89 | 0.00 |
-| [Make dog theft a specific criminal offence](560216.md) | 316,539 | 314,862 | 1,677 | 0 | 99.47 | 0.53 | 0.00 |
+| [Make dog theft a specific criminal offence](560216.md) | 316,540 | 314,863 | 1,677 | 0 | 99.47 | 0.53 | 0.00 |
 | [Limit the Sale and Use of Fireworks to Organisers of Licensed Displays Only](319891.md) | 301,609 | 300,326 | 1,283 | 0 | 99.57 | 0.43 | 0.00 |
 | [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 286,797 | 280,363 | 6,434 | 0 | 97.76 | 2.24 | 0.00 |
 | [Require universities to partially refund tuition fees for 20/21 due to Covid-19](324762.md) | 270,660 | 269,492 | 1,168 | 0 | 99.57 | 0.43 | 0.00 |
@@ -41,9 +41,9 @@ Last refreshed 2021-09-03 12:00:23
 | [Increase pay for NHS healthcare workers and recognise their work](300073.md) | 178,820 | 177,996 | 824 | 0 | 99.54 | 0.46 | 0.00 |
 | [Lower university tuition fees for students until online teaching ends](552911.md) | 171,137 | 170,463 | 674 | 0 | 99.61 | 0.39 | 0.00 |
 | [Scrap removal of free transport for under-18s from TfL bailout](331453.md) | 171,010 | 170,426 | 584 | 0 | 99.66 | 0.34 | 0.00 |
-| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 167,446 | 166,492 | 954 | 0 | 99.43 | 0.57 | 0.00 |
+| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 167,452 | 166,498 | 954 | 0 | 99.43 | 0.57 | 0.00 |
 | [Cancel GCSE and A-levels in 2021 replace with Course Work and Teacher Assessment](564696.md) | 157,810 | 156,798 | 1,012 | 0 | 99.36 | 0.64 | 0.00 |
-| [Stop work on HS2 immediately and hold a new vote to repeal the legislation](563380.md) | 155,251 | 154,235 | 1,016 | 0 | 99.35 | 0.65 | 0.00 |
+| [Stop work on HS2 immediately and hold a new vote to repeal the legislation](563380.md) | 155,252 | 154,236 | 1,016 | 0 | 99.35 | 0.65 | 0.00 |
 | [Government to offer economic assistance to the events industry during COVID-19](301186.md) | 154,816 | 153,904 | 912 | 0 | 99.41 | 0.59 | 0.00 |
 | [Extend the Stamp Duty Holiday for an additional 6 months after 31st March 2021](550545.md) | 151,127 | 150,686 | 441 | 0 | 99.71 | 0.29 | 0.00 |
 | [Keep schools closed until May](573621.md) | 149,470 | 149,111 | 359 | 0 | 99.76 | 0.24 | 0.00 |
