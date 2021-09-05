@@ -4,12 +4,13 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-09-05 22:00:22
+Last refreshed 2021-09-05 23:00:21
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [End child food poverty – no child should be going hungry](554276.md) | 1,113,888 | 1,101,149 | 12,739 | 0 | 98.86 | 1.14 | 0.00 |
 | [Include self-employed in statutory sick pay during Coronavirus](300336.md) | 699,597 | 697,229 | 2,368 | 0 | 99.66 | 0.34 | 0.00 |
+| [Make verified ID a requirement for opening a social media account.](575833.md) | 696,980 | 691,039 | 5,941 | 0 | 99.15 | 0.85 | 0.00 |
 | [Close Schools/Colleges down for an appropriate amount of time amidst COVID19.](300403.md) | 685,394 | 682,888 | 2,506 | 0 | 99.63 | 0.37 | 0.00 |
 | [Prevent gyms closing due to a spike in Covid 19 cases](333869.md) | 621,442 | 620,830 | 612 | 0 | 99.90 | 0.10 | 0.00 |
 | [Reduce University student tuition fees from £9250 to £3000](550344.md) | 581,287 | 578,816 | 2,471 | 0 | 99.57 | 0.43 | 0.00 |
@@ -57,4 +58,3 @@ Last refreshed 2021-09-05 22:00:22
 | [Trigger Article 16. We want unfettered GB-NI Trade.](573209.md) | 144,631 | 143,518 | 1,113 | 0 | 99.23 | 0.77 | 0.00 |
 | [Make pet theft crime a specific offence with custodial sentences.](300071.md) | 143,637 | 142,227 | 1,410 | 0 | 99.02 | 0.98 | 0.00 |
 | [Award all Nursing Staff in the NHS a pay rise of 10% backdated to 1 April 2020](316307.md) | 141,772 | 140,936 | 836 | 0 | 99.41 | 0.59 | 0.00 |
-| [Reform the Gender Recognition Act.](327108.md) | 137,271 | 135,228 | 2,043 | 0 | 98.51 | 1.49 | 0.00 |
