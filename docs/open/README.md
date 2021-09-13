@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-09-13 17:00:09
+Last refreshed 2021-09-13 18:00:10
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -14,47 +14,47 @@ Last refreshed 2021-09-13 17:00:09
 | [Ban Animal Testing - Fund, accept & promote alternatives to animal testing](581641.md) | 234,500 | 220,579 | 13,921 | 0 | 94.06 | 5.94 | 0.00 |
 | [Introduce an Independent Regulator for Football in England by December 2021](584632.md) | 142,871 | 138,980 | 3,891 | 0 | 97.28 | 2.72 | 0.00 |
 | [Make non-binary a legally recognised gender identity in the UK](580220.md) | 140,026 | 138,127 | 1,899 | 0 | 98.64 | 1.36 | 0.00 |
-| [Remove Pakistan from red list for travel](581974.md) | 134,400 | 132,046 | 2,354 | 0 | 98.25 | 1.75 | 0.00 |
-| [Make lying in the House of Commons a criminal offence](576886.md) | 131,465 | 128,577 | 2,888 | 0 | 97.80 | 2.20 | 0.00 |
+| [Remove Pakistan from red list for travel](581974.md) | 134,407 | 132,053 | 2,354 | 0 | 98.25 | 1.75 | 0.00 |
+| [Make lying in the House of Commons a criminal offence](576886.md) | 131,466 | 128,578 | 2,888 | 0 | 97.80 | 2.20 | 0.00 |
 | [UK Government to formally recognise the State of Palestine](585313.md) | 130,896 | 129,662 | 1,234 | 0 | 99.06 | 0.94 | 0.00 |
-| [Exempt dogs assessed by experts as safe from breed specific legislation](592813.md) | 122,582 | 121,441 | 1,141 | 0 | 99.07 | 0.93 | 0.00 |
-| [Commission an independent review of childcare funding and affordability](586700.md) | 112,917 | 112,645 | 272 | 0 | 99.76 | 0.24 | 0.00 |
+| [Exempt dogs assessed by experts as safe from breed specific legislation](592813.md) | 122,615 | 121,474 | 1,141 | 0 | 99.07 | 0.93 | 0.00 |
+| [Commission an independent review of childcare funding and affordability](586700.md) | 112,944 | 112,672 | 272 | 0 | 99.76 | 0.24 | 0.00 |
 | [Enforce the “50+1” Rule for professional football club ownership in the UK](583310.md) | 107,022 | 101,086 | 5,936 | 0 | 94.45 | 5.55 | 0.00 |
-| [Do not require health and social care workers to take covid-19 vaccination](577842.md) | 106,701 | 105,884 | 817 | 0 | 99.23 | 0.77 | 0.00 |
-| [We demand that the Gurkhas receive equal pensions](594155.md) | 106,024 | 103,730 | 2,294 | 0 | 97.84 | 2.16 | 0.00 |
+| [Do not require health and social care workers to take covid-19 vaccination](577842.md) | 106,708 | 105,891 | 817 | 0 | 99.23 | 0.77 | 0.00 |
+| [We demand that the Gurkhas receive equal pensions](594155.md) | 106,027 | 103,733 | 2,294 | 0 | 97.84 | 2.16 | 0.00 |
 | [Scrap the Voter ID requirement introduced in the Election Integrity Bill](576024.md) | 102,354 | 101,133 | 1,221 | 0 | 98.81 | 1.19 | 0.00 |
-| [To allow non-prescribed storage of Salbutamol Inhalers in Commercial Kitchens](578676.md) | 92,220 | 91,389 | 831 | 0 | 99.10 | 0.90 | 0.00 |
-| [Move the State Pension age back to 60 for both men & women](581736.md) | 84,232 | 83,623 | 609 | 0 | 99.28 | 0.72 | 0.00 |
-| [Mark Allen's Law - we want throwline stations around all bodies of open water](575967.md) | 78,512 | 78,359 | 153 | 0 | 99.81 | 0.19 | 0.00 |
+| [To allow non-prescribed storage of Salbutamol Inhalers in Commercial Kitchens](578676.md) | 92,243 | 91,412 | 831 | 0 | 99.10 | 0.90 | 0.00 |
+| [Move the State Pension age back to 60 for both men & women](581736.md) | 84,242 | 83,633 | 609 | 0 | 99.28 | 0.72 | 0.00 |
+| [Mark Allen's Law - we want throwline stations around all bodies of open water](575967.md) | 78,670 | 78,517 | 153 | 0 | 99.81 | 0.19 | 0.00 |
 | [End all requirements to wear face coverings immediately](581316.md) | 75,851 | 75,283 | 568 | 0 | 99.25 | 0.75 | 0.00 |
-| [Plan to phase out animal experiments](590216.md) | 75,742 | 74,892 | 850 | 0 | 98.88 | 1.12 | 0.00 |
-| [Mini’s law - Protect the public and animals from hunting activities](584076.md) | 73,263 | 72,245 | 1,018 | 0 | 98.61 | 1.39 | 0.00 |
-| [Change the law to include laboratory animals in the Animal Welfare Act.](591775.md) | 73,061 | 71,426 | 1,635 | 0 | 97.76 | 2.24 | 0.00 |
-| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 71,707 | 70,892 | 815 | 0 | 98.86 | 1.14 | 0.00 |
+| [Plan to phase out animal experiments](590216.md) | 75,760 | 74,910 | 850 | 0 | 98.88 | 1.12 | 0.00 |
+| [Mini’s law - Protect the public and animals from hunting activities](584076.md) | 73,283 | 72,265 | 1,018 | 0 | 98.61 | 1.39 | 0.00 |
+| [Change the law to include laboratory animals in the Animal Welfare Act.](591775.md) | 73,076 | 71,440 | 1,636 | 0 | 97.76 | 2.24 | 0.00 |
+| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 71,730 | 70,915 | 815 | 0 | 98.86 | 1.14 | 0.00 |
 | [Allow ALL vaccinated British Expats to visit the UK without quarantining](585438.md) | 64,325 | 33,469 | 30,856 | 0 | 52.03 | 47.97 | 0.00 |
-| [#Reggieslaw - Regulate online animal sales](587654.md) | 61,221 | 60,958 | 263 | 0 | 99.57 | 0.43 | 0.00 |
+| [#Reggieslaw - Regulate online animal sales](587654.md) | 61,269 | 61,006 | 263 | 0 | 99.57 | 0.43 | 0.00 |
 | [Mandatory printing of car registration numbers on all Drive Thru packaging.](580772.md) | 59,883 | 59,607 | 276 | 0 | 99.54 | 0.46 | 0.00 |
-| [Allow non-professional singing in groups of more than six indoors](586559.md) | 59,217 | 58,999 | 218 | 0 | 99.63 | 0.37 | 0.00 |
-| [End the Cage Age for all farmed animals](593775.md) | 58,686 | 58,318 | 368 | 0 | 99.37 | 0.63 | 0.00 |
-| [Shift to a Wellbeing Economy: put the health of people and planet first](580646.md) | 57,119 | 56,499 | 620 | 0 | 98.91 | 1.09 | 0.00 |
-| [Ban Water Companies discharging raw sewage into water courses.](582336.md) | 55,231 | 54,961 | 270 | 0 | 99.51 | 0.49 | 0.00 |
-| [Amend PCSC Bill to withdraw power to seize vehicles used as mobile homes](583903.md) | 53,069 | 52,605 | 464 | 0 | 99.13 | 0.87 | 0.00 |
-| [Allow fully vaccinated people coming from red list countries to isolate at home](588072.md) | 49,311 | 47,598 | 1,713 | 0 | 96.53 | 3.47 | 0.00 |
-| [Remove Turkey from the red list](587179.md) | 48,519 | 47,398 | 1,121 | 0 | 97.69 | 2.31 | 0.00 |
-| [Provide more funding for stalking advocates for victims of stalking](593769.md) | 47,527 | 47,305 | 222 | 0 | 99.53 | 0.47 | 0.00 |
+| [Allow non-professional singing in groups of more than six indoors](586559.md) | 59,218 | 59,000 | 218 | 0 | 99.63 | 0.37 | 0.00 |
+| [End the Cage Age for all farmed animals](593775.md) | 58,689 | 58,321 | 368 | 0 | 99.37 | 0.63 | 0.00 |
+| [Shift to a Wellbeing Economy: put the health of people and planet first](580646.md) | 57,128 | 56,508 | 620 | 0 | 98.91 | 1.09 | 0.00 |
+| [Ban Water Companies discharging raw sewage into water courses.](582336.md) | 55,279 | 55,009 | 270 | 0 | 99.51 | 0.49 | 0.00 |
+| [Amend PCSC Bill to withdraw power to seize vehicles used as mobile homes](583903.md) | 53,071 | 52,607 | 464 | 0 | 99.13 | 0.87 | 0.00 |
+| [Allow fully vaccinated people coming from red list countries to isolate at home](588072.md) | 49,336 | 47,623 | 1,713 | 0 | 96.53 | 3.47 | 0.00 |
+| [Remove Turkey from the red list](587179.md) | 48,522 | 47,401 | 1,121 | 0 | 97.69 | 2.31 | 0.00 |
+| [Provide more funding for stalking advocates for victims of stalking](593769.md) | 47,530 | 47,308 | 222 | 0 | 99.53 | 0.47 | 0.00 |
 | [Stricter laws governing the purchase/acquisition/possession of crossbows](583762.md) | 41,698 | 41,392 | 306 | 0 | 99.27 | 0.73 | 0.00 |
 | [Fund NHS scheme for women with Endometriosis to freeze their eggs](579802.md) | 41,644 | 41,483 | 161 | 0 | 99.61 | 0.39 | 0.00 |
 | [Ban the use of face masks in schools](577831.md) | 38,024 | 37,715 | 309 | 0 | 99.19 | 0.81 | 0.00 |
 | [Do not cut UK higher education Arts Funding](572300.md) | 37,152 | 36,772 | 380 | 0 | 98.98 | 1.02 | 0.00 |
-| [Ban urban and garden pesticides to protect bees, other wildlife and human health](590309.md) | 36,928 | 36,624 | 304 | 0 | 99.18 | 0.82 | 0.00 |
-| [Cancel plans to commission a new Royal Yacht](584822.md) | 34,795 | 34,278 | 517 | 0 | 98.51 | 1.49 | 0.00 |
-| [Remove South Africa from the travel 'Red List'](589382.md) | 33,151 | 27,877 | 5,274 | 0 | 84.09 | 15.91 | 0.00 |
+| [Ban urban and garden pesticides to protect bees, other wildlife and human health](590309.md) | 36,932 | 36,628 | 304 | 0 | 99.18 | 0.82 | 0.00 |
+| [Cancel plans to commission a new Royal Yacht](584822.md) | 34,796 | 34,279 | 517 | 0 | 98.51 | 1.49 | 0.00 |
+| [Remove South Africa from the travel 'Red List'](589382.md) | 33,165 | 27,888 | 5,277 | 0 | 84.09 | 15.91 | 0.00 |
 | [Ban the sale of artificial grass](585520.md) | 32,030 | 31,628 | 402 | 0 | 98.74 | 1.26 | 0.00 |
 | [3-day quarantine for fully vaccinated, returning to the UK from amber countries](586077.md) | 31,442 | 30,331 | 1,111 | 0 | 96.47 | 3.53 | 0.00 |
-| [Introduce national limits on horse breeding](585547.md) | 30,557 | 30,120 | 437 | 0 | 98.57 | 1.43 | 0.00 |
-| [Identify and sanction any Pakistani individuals involved in money laundering](594611.md) | 30,223 | 28,267 | 1,956 | 0 | 93.53 | 6.47 | 0.00 |
+| [Introduce national limits on horse breeding](585547.md) | 30,597 | 30,160 | 437 | 0 | 98.57 | 1.43 | 0.00 |
+| [Identify and sanction any Pakistani individuals involved in money laundering](594611.md) | 30,224 | 28,267 | 1,957 | 0 | 93.53 | 6.47 | 0.00 |
 | [Protect the title Nurse in UK law](587939.md) | 28,185 | 27,887 | 298 | 0 | 98.94 | 1.06 | 0.00 |
-| [Repeal the Coronavirus Act](592632.md) | 27,916 | 27,592 | 324 | 0 | 98.84 | 1.16 | 0.00 |
-| [Recall Parliament to debate vaccination of children before this is rolled out](594272.md) | 26,909 | 26,617 | 292 | 0 | 98.91 | 1.09 | 0.00 |
+| [Repeal the Coronavirus Act](592632.md) | 27,926 | 27,602 | 324 | 0 | 98.84 | 1.16 | 0.00 |
+| [Recall Parliament to debate vaccination of children before this is rolled out](594272.md) | 26,915 | 26,623 | 292 | 0 | 98.92 | 1.08 | 0.00 |
 | [Increase Carers Allowance to equal 35hrs at National Minimum Wage](579692.md) | 26,226 | 26,142 | 84 | 0 | 99.68 | 0.32 | 0.00 |
-| [Allow Disabled People to Keep All Their Benefits if They Move in With a Partner](575206.md) | 26,072 | 25,850 | 222 | 0 | 99.15 | 0.85 | 0.00 |
+| [Allow Disabled People to Keep All Their Benefits if They Move in With a Partner](575206.md) | 26,075 | 25,853 | 222 | 0 | 99.15 | 0.85 | 0.00 |
