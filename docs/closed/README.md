@@ -4,24 +4,24 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-09-15 09:00:22
+Last refreshed 2021-09-15 10:00:21
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [End child food poverty – no child should be going hungry](554276.md) | 1,113,888 | 1,101,149 | 12,739 | 0 | 98.86 | 1.14 | 0.00 |
-| [Include self-employed in statutory sick pay during Coronavirus](300336.md) | 699,597 | 697,229 | 2,368 | 0 | 99.66 | 0.34 | 0.00 |
-| [Make verified ID a requirement for opening a social media account.](575833.md) | 696,983 | 691,042 | 5,941 | 0 | 99.15 | 0.85 | 0.00 |
+| [End child food poverty – no child should be going hungry](554276.md) | 1,113,889 | 1,101,150 | 12,739 | 0 | 98.86 | 1.14 | 0.00 |
+| [Include self-employed in statutory sick pay during Coronavirus](300336.md) | 699,598 | 697,230 | 2,368 | 0 | 99.66 | 0.34 | 0.00 |
+| [Make verified ID a requirement for opening a social media account.](575833.md) | 696,984 | 691,043 | 5,941 | 0 | 99.15 | 0.85 | 0.00 |
 | [Close Schools/Colleges down for an appropriate amount of time amidst COVID19.](300403.md) | 685,394 | 682,888 | 2,506 | 0 | 99.63 | 0.37 | 0.00 |
 | [Prevent gyms closing due to a spike in Covid 19 cases](333869.md) | 621,442 | 620,830 | 612 | 0 | 99.90 | 0.10 | 0.00 |
 | [Reduce University student tuition fees from £9250 to £3000](550344.md) | 581,287 | 578,816 | 2,471 | 0 | 99.57 | 0.43 | 0.00 |
 | [Prioritise teachers, school and childcare staff for Covid-19 vaccination](554316.md) | 508,830 | 507,539 | 1,291 | 0 | 99.75 | 0.25 | 0.00 |
 | [Reclose schools and colleges due to increase in COVID-19 cases](550846.md) | 428,788 | 428,107 | 681 | 0 | 99.84 | 0.16 | 0.00 |
 | [Implement UK lockdown for preventing spread of COVID19](301397.md) | 409,473 | 406,897 | 2,576 | 0 | 99.37 | 0.63 | 0.00 |
-| [Do not rollout Covid-19 vaccine passports](569957.md) | 375,210 | 371,043 | 4,167 | 0 | 98.89 | 1.11 | 0.00 |
+| [Do not rollout Covid-19 vaccine passports](569957.md) | 375,209 | 371,042 | 4,167 | 0 | 98.89 | 1.11 | 0.00 |
 | [Reimburse all students of this year’s fees due to strikes and COVID-19](302855.md) | 353,130 | 351,856 | 1,274 | 0 | 99.64 | 0.36 | 0.00 |
 | [Outlaw discrimination against those who do not get a Covid-19 vaccination](575801.md) | 347,514 | 344,997 | 2,517 | 0 | 99.28 | 0.72 | 0.00 |
 | [Prevent any restrictions on those who refuse a Covid-19 vaccination](323442.md) | 337,145 | 334,154 | 2,991 | 0 | 99.11 | 0.89 | 0.00 |
-| [Make dog theft a specific criminal offence](560216.md) | 316,543 | 314,866 | 1,677 | 0 | 99.47 | 0.53 | 0.00 |
+| [Make dog theft a specific criminal offence](560216.md) | 316,544 | 314,867 | 1,677 | 0 | 99.47 | 0.53 | 0.00 |
 | [Limit the Sale and Use of Fireworks to Organisers of Licensed Displays Only](319891.md) | 301,609 | 300,326 | 1,283 | 0 | 99.57 | 0.43 | 0.00 |
 | [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 286,797 | 280,363 | 6,434 | 0 | 97.76 | 2.24 | 0.00 |
 | [Require universities to partially refund tuition fees for 20/21 due to Covid-19](324762.md) | 270,660 | 269,492 | 1,168 | 0 | 99.57 | 0.43 | 0.00 |
@@ -48,9 +48,9 @@ Last refreshed 2021-09-15 09:00:22
 | [Government to offer economic assistance to the events industry during COVID-19](301186.md) | 154,816 | 153,904 | 912 | 0 | 99.41 | 0.59 | 0.00 |
 | [Extend the Stamp Duty Holiday for an additional 6 months after 31st March 2021](550545.md) | 151,127 | 150,686 | 441 | 0 | 99.71 | 0.29 | 0.00 |
 | [Keep schools closed until May](573621.md) | 149,470 | 149,111 | 359 | 0 | 99.76 | 0.24 | 0.00 |
-| [Review the decision to use previous data to calculate exam grades](306773.md) | 148,884 | 147,634 | 1,250 | 0 | 99.16 | 0.84 | 0.00 |
+| [Review the decision to use previous data to calculate exam grades](306773.md) | 148,885 | 147,635 | 1,250 | 0 | 99.16 | 0.84 | 0.00 |
 | [Reduce curriculum content for year 10 & 12 students who will sit exams in 2021.](320772.md) | 148,388 | 147,990 | 398 | 0 | 99.73 | 0.27 | 0.00 |
-| [FIONA'S LAW - Women should be allowed a yearly Cervical screening   ](317336.md) | 146,636 | 145,997 | 639 | 0 | 99.56 | 0.44 | 0.00 |
+| [FIONA'S LAW - Women should be allowed a yearly Cervical screening   ](317336.md) | 146,637 | 145,998 | 639 | 0 | 99.56 | 0.44 | 0.00 |
 | [Give all key workers a 100% tax and Nat. Ins. holiday through COVID-19 crisis](306845.md) | 146,351 | 146,074 | 277 | 0 | 99.81 | 0.19 | 0.00 |
 | [Impose sanctions on China over its treatment of Uyghur Muslims](300146.md) | 146,346 | 139,773 | 6,573 | 0 | 95.51 | 4.49 | 0.00 |
 | [Let Us Dance - Support nightclubs, dance music events and festivals](332789.md) | 146,188 | 145,354 | 834 | 0 | 99.43 | 0.57 | 0.00 |
