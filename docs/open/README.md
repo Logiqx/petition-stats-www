@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-09-25 02:00:09
+Last refreshed 2021-09-25 03:00:11
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -24,13 +24,13 @@ Last refreshed 2021-09-25 02:00:09
 | [Scrap the Voter ID requirement introduced in the Election Integrity Bill](576024.md) | 102,412 | 101,188 | 1,224 | 0 | 98.80 | 1.20 | 0.00 |
 | [To allow non-prescribed storage of Salbutamol Inhalers in Commercial Kitchens](578676.md) | 101,895 | 100,989 | 906 | 0 | 99.11 | 0.89 | 0.00 |
 | [Move the State Pension age back to 60 for both men & women](581736.md) | 86,312 | 85,683 | 629 | 0 | 99.27 | 0.73 | 0.00 |
-| [Mini’s law - Protect the public and animals from hunting activities](584076.md) | 78,809 | 77,742 | 1,067 | 0 | 98.65 | 1.35 | 0.00 |
-| [Plan to phase out animal experiments](590216.md) | 77,801 | 76,919 | 882 | 0 | 98.87 | 1.13 | 0.00 |
-| [Change the law to include laboratory animals in the Animal Welfare Act.](591775.md) | 77,377 | 75,656 | 1,721 | 0 | 97.78 | 2.22 | 0.00 |
+| [Mini’s law - Protect the public and animals from hunting activities](584076.md) | 78,810 | 77,743 | 1,067 | 0 | 98.65 | 1.35 | 0.00 |
+| [Plan to phase out animal experiments](590216.md) | 77,802 | 76,920 | 882 | 0 | 98.87 | 1.13 | 0.00 |
+| [Change the law to include laboratory animals in the Animal Welfare Act.](591775.md) | 77,378 | 75,657 | 1,721 | 0 | 97.78 | 2.22 | 0.00 |
 | [End all requirements to wear face coverings immediately](581316.md) | 75,974 | 75,404 | 570 | 0 | 99.25 | 0.75 | 0.00 |
 | [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 72,876 | 72,046 | 830 | 0 | 98.86 | 1.14 | 0.00 |
 | [End the Cage Age for all farmed animals](593775.md) | 70,141 | 69,474 | 667 | 0 | 99.05 | 0.95 | 0.00 |
-| [#Reggieslaw - Regulate online animal sales](587654.md) | 67,640 | 67,323 | 317 | 0 | 99.53 | 0.47 | 0.00 |
+| [#Reggieslaw - Regulate online animal sales](587654.md) | 67,651 | 67,334 | 317 | 0 | 99.53 | 0.47 | 0.00 |
 | [Shift to a Wellbeing Economy: put the health of people and planet first](580646.md) | 65,360 | 64,661 | 699 | 0 | 98.93 | 1.07 | 0.00 |
 | [Allow ALL vaccinated British Expats to visit the UK without quarantining](585438.md) | 64,489 | 33,583 | 30,906 | 0 | 52.08 | 47.92 | 0.00 |
 | [Ban Water Companies discharging raw sewage into water courses.](582336.md) | 61,853 | 61,502 | 351 | 0 | 99.43 | 0.57 | 0.00 |
@@ -49,12 +49,12 @@ Last refreshed 2021-09-25 02:00:09
 | [Ban the sale of artificial grass](585520.md) | 32,350 | 31,944 | 406 | 0 | 98.74 | 1.26 | 0.00 |
 | [3-day quarantine for fully vaccinated, returning to the UK from amber countries](586077.md) | 31,450 | 30,339 | 1,111 | 0 | 96.47 | 3.53 | 0.00 |
 | [Identify and sanction any Pakistani individuals involved in money laundering](594611.md) | 31,432 | 29,443 | 1,989 | 0 | 93.67 | 6.33 | 0.00 |
-| [VALERIE'S LAW Compulsory Training for Agencies Supporting Black DV Victims](578416.md) | 31,223 | 30,809 | 414 | 0 | 98.67 | 1.33 | 0.00 |
+| [VALERIE'S LAW Compulsory Training for Agencies Supporting Black DV Victims](578416.md) | 31,224 | 30,810 | 414 | 0 | 98.67 | 1.33 | 0.00 |
 | [Repeal the Coronavirus Act](592632.md) | 29,852 | 29,511 | 341 | 0 | 98.86 | 1.14 | 0.00 |
 | [Protect the title Nurse in UK law](587939.md) | 28,495 | 28,195 | 300 | 0 | 98.95 | 1.05 | 0.00 |
 | [Make the use of free-running snares illegal for trapping wildlife](581402.md) | 27,732 | 27,473 | 259 | 0 | 99.07 | 0.93 | 0.00 |
 | [Recall Parliament to debate vaccination of children before this is rolled out](594272.md) | 27,374 | 27,077 | 297 | 0 | 98.92 | 1.08 | 0.00 |
 | [Increase minimum and maximum sentences for all sexual offences](577443.md) | 24,084 | 23,934 | 150 | 0 | 99.38 | 0.62 | 0.00 |
-| [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 22,991 | 22,525 | 466 | 0 | 97.97 | 2.03 | 0.00 |
-| [Protect student choice: do not withdraw funding for BTEC qualifications](592642.md) | 22,932 | 22,854 | 78 | 0 | 99.66 | 0.34 | 0.00 |
+| [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 22,995 | 22,528 | 467 | 0 | 97.97 | 2.03 | 0.00 |
+| [Protect student choice: do not withdraw funding for BTEC qualifications](592642.md) | 22,933 | 22,855 | 78 | 0 | 99.66 | 0.34 | 0.00 |
 | [Strengthen laws protecting seals](584224.md) | 21,498 | 21,338 | 160 | 0 | 99.26 | 0.74 | 0.00 |
