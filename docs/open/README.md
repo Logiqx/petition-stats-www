@@ -4,31 +4,31 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-09-28 02:00:09
+Last refreshed 2021-09-28 03:00:10
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Introduce sanctions against Israel](585314.md) | 388,181 | 383,097 | 5,084 | 0 | 98.69 | 1.31 | 0.00 |
 | [Give the UK a Bank Holiday on Monday July 12th if England win Euro 2020](590282.md) | 364,726 | 364,268 | 458 | 0 | 99.87 | 0.13 | 0.00 |
-| [Ban Animal Testing - Fund, accept & promote alternatives to animal testing](581641.md) | 235,201 | 221,273 | 13,928 | 0 | 94.08 | 5.92 | 0.00 |
+| [Ban Animal Testing - Fund, accept & promote alternatives to animal testing](581641.md) | 235,203 | 221,274 | 13,929 | 0 | 94.08 | 5.92 | 0.00 |
 | [Introduce an Independent Regulator for Football in England by December 2021](584632.md) | 142,884 | 138,993 | 3,891 | 0 | 97.28 | 2.72 | 0.00 |
 | [Make non-binary a legally recognised gender identity in the UK](580220.md) | 140,224 | 138,324 | 1,900 | 0 | 98.65 | 1.35 | 0.00 |
 | [Remove Pakistan from red list for travel](581974.md) | 134,656 | 132,299 | 2,357 | 0 | 98.25 | 1.75 | 0.00 |
 | [Make lying in the House of Commons a criminal offence](576886.md) | 132,142 | 129,240 | 2,902 | 0 | 97.80 | 2.20 | 0.00 |
 | [UK Government to formally recognise the State of Palestine](585313.md) | 130,971 | 129,736 | 1,235 | 0 | 99.06 | 0.94 | 0.00 |
-| [Exempt dogs assessed by experts as safe from breed specific legislation](592813.md) | 126,090 | 124,915 | 1,175 | 0 | 99.07 | 0.93 | 0.00 |
+| [Exempt dogs assessed by experts as safe from breed specific legislation](592813.md) | 126,092 | 124,917 | 1,175 | 0 | 99.07 | 0.93 | 0.00 |
 | [Commission an independent review of childcare funding and affordability](586700.md) | 113,432 | 113,159 | 273 | 0 | 99.76 | 0.24 | 0.00 |
 | [Enforce the “50+1” Rule for professional football club ownership in the UK](583310.md) | 107,039 | 101,102 | 5,937 | 0 | 94.45 | 5.55 | 0.00 |
 | [We demand that the Gurkhas receive equal pensions](594155.md) | 106,277 | 103,975 | 2,302 | 0 | 97.83 | 2.17 | 0.00 |
 | [Mark Allen's Law - we want throwline stations around all bodies of open water](575967.md) | 103,503 | 103,275 | 228 | 0 | 99.78 | 0.22 | 0.00 |
 | [Scrap the Voter ID requirement introduced in the Election Integrity Bill](576024.md) | 102,420 | 101,196 | 1,224 | 0 | 98.80 | 1.20 | 0.00 |
 | [To allow non-prescribed storage of Salbutamol Inhalers in Commercial Kitchens](578676.md) | 101,932 | 101,026 | 906 | 0 | 99.11 | 0.89 | 0.00 |
-| [Move the State Pension age back to 60 for both men & women](581736.md) | 86,537 | 85,907 | 630 | 0 | 99.27 | 0.73 | 0.00 |
-| [Mini’s law - Protect the public and animals from hunting activities](584076.md) | 80,830 | 79,743 | 1,087 | 0 | 98.66 | 1.34 | 0.00 |
-| [Change the law to include laboratory animals in the Animal Welfare Act.](591775.md) | 78,574 | 76,831 | 1,743 | 0 | 97.78 | 2.22 | 0.00 |
+| [Move the State Pension age back to 60 for both men & women](581736.md) | 86,538 | 85,908 | 630 | 0 | 99.27 | 0.73 | 0.00 |
+| [Mini’s law - Protect the public and animals from hunting activities](584076.md) | 80,831 | 79,744 | 1,087 | 0 | 98.66 | 1.34 | 0.00 |
+| [Change the law to include laboratory animals in the Animal Welfare Act.](591775.md) | 78,575 | 76,832 | 1,743 | 0 | 97.78 | 2.22 | 0.00 |
 | [Plan to phase out animal experiments](590216.md) | 78,525 | 77,638 | 887 | 0 | 98.87 | 1.13 | 0.00 |
 | [End all requirements to wear face coverings immediately](581316.md) | 75,992 | 75,421 | 571 | 0 | 99.25 | 0.75 | 0.00 |
-| [#Reggieslaw - Regulate online animal sales](587654.md) | 73,242 | 72,851 | 391 | 0 | 99.47 | 0.53 | 0.00 |
+| [#Reggieslaw - Regulate online animal sales](587654.md) | 73,247 | 72,856 | 391 | 0 | 99.47 | 0.53 | 0.00 |
 | [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 72,931 | 72,101 | 830 | 0 | 98.86 | 1.14 | 0.00 |
 | [End the Cage Age for all farmed animals](593775.md) | 70,618 | 69,944 | 674 | 0 | 99.05 | 0.95 | 0.00 |
 | [Allow ALL vaccinated British Expats to visit the UK without quarantining](585438.md) | 64,505 | 33,595 | 30,910 | 0 | 52.08 | 47.92 | 0.00 |
@@ -50,7 +50,7 @@ Last refreshed 2021-09-28 02:00:09
 | [Identify and sanction any Pakistani individuals involved in money laundering](594611.md) | 31,705 | 29,711 | 1,994 | 0 | 93.71 | 6.29 | 0.00 |
 | [3-day quarantine for fully vaccinated, returning to the UK from amber countries](586077.md) | 31,451 | 30,340 | 1,111 | 0 | 96.47 | 3.53 | 0.00 |
 | [Repeal the Coronavirus Act](592632.md) | 30,051 | 29,707 | 344 | 0 | 98.86 | 1.14 | 0.00 |
-| [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 29,815 | 29,071 | 744 | 0 | 97.50 | 2.50 | 0.00 |
+| [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 29,820 | 29,073 | 747 | 0 | 97.49 | 2.51 | 0.00 |
 | [Protect the title Nurse in UK law](587939.md) | 28,548 | 28,247 | 301 | 0 | 98.95 | 1.05 | 0.00 |
 | [Make the use of free-running snares illegal for trapping wildlife](581402.md) | 28,388 | 28,122 | 266 | 0 | 99.06 | 0.94 | 0.00 |
 | [Recall Parliament to debate vaccination of children before this is rolled out](594272.md) | 27,395 | 27,097 | 298 | 0 | 98.91 | 1.09 | 0.00 |
