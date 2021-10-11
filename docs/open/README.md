@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-10-11 05:00:08
+Last refreshed 2021-10-11 06:00:24
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -15,44 +15,44 @@ Last refreshed 2021-10-11 05:00:08
 | [Make non-binary a legally recognised gender identity in the UK](580220.md) | 140,461 | 138,561 | 1,900 | 0 | 98.65 | 1.35 | 0.00 |
 | [Make lying in the House of Commons a criminal offence](576886.md) | 132,754 | 129,845 | 2,909 | 0 | 97.81 | 2.19 | 0.00 |
 | [UK Government to formally recognise the State of Palestine](585313.md) | 131,023 | 129,788 | 1,235 | 0 | 99.06 | 0.94 | 0.00 |
-| [Exempt dogs assessed by experts as safe from breed specific legislation](592813.md) | 126,277 | 125,101 | 1,176 | 0 | 99.07 | 0.93 | 0.00 |
+| [Exempt dogs assessed by experts as safe from breed specific legislation](592813.md) | 126,278 | 125,102 | 1,176 | 0 | 99.07 | 0.93 | 0.00 |
 | [Commission an independent review of childcare funding and affordability](586700.md) | 113,481 | 113,208 | 273 | 0 | 99.76 | 0.24 | 0.00 |
 | [Dedicate funding for research into Fibrodysplasia Ossificans Progressiva (FOP)](590405.md) | 110,890 | 110,231 | 659 | 0 | 99.41 | 0.59 | 0.00 |
 | [Enforce the “50+1” Rule for professional football club ownership in the UK](583310.md) | 107,056 | 101,118 | 5,938 | 0 | 94.45 | 5.55 | 0.00 |
 | [We demand that the Gurkhas receive equal pensions](594155.md) | 106,409 | 104,105 | 2,304 | 0 | 97.83 | 2.17 | 0.00 |
 | [To allow non-prescribed storage of Salbutamol Inhalers in Commercial Kitchens](578676.md) | 102,044 | 101,137 | 907 | 0 | 99.11 | 0.89 | 0.00 |
-| [Change the law to include laboratory animals in the Animal Welfare Act.](591775.md) | 89,867 | 87,829 | 2,038 | 0 | 97.73 | 2.27 | 0.00 |
-| [Mini’s law - Protect the public and animals from hunting activities](584076.md) | 89,092 | 87,945 | 1,147 | 0 | 98.71 | 1.29 | 0.00 |
-| [#Reggieslaw - Regulate online animal sales](587654.md) | 88,824 | 88,245 | 579 | 0 | 99.35 | 0.65 | 0.00 |
-| [Move the State Pension age back to 60 for both men & women](581736.md) | 87,848 | 87,211 | 637 | 0 | 99.27 | 0.73 | 0.00 |
+| [Change the law to include laboratory animals in the Animal Welfare Act.](591775.md) | 89,876 | 87,838 | 2,038 | 0 | 97.73 | 2.27 | 0.00 |
+| [Mini’s law - Protect the public and animals from hunting activities](584076.md) | 89,103 | 87,956 | 1,147 | 0 | 98.71 | 1.29 | 0.00 |
+| [#Reggieslaw - Regulate online animal sales](587654.md) | 88,857 | 88,277 | 580 | 0 | 99.35 | 0.65 | 0.00 |
+| [Move the State Pension age back to 60 for both men & women](581736.md) | 87,849 | 87,212 | 637 | 0 | 99.27 | 0.73 | 0.00 |
 | [Plan to phase out animal experiments](590216.md) | 81,593 | 80,628 | 965 | 0 | 98.82 | 1.18 | 0.00 |
 | [End all requirements to wear face coverings immediately](581316.md) | 76,128 | 75,555 | 573 | 0 | 99.25 | 0.75 | 0.00 |
-| [Ban Water Companies discharging raw sewage into water courses.](582336.md) | 74,312 | 73,843 | 469 | 0 | 99.37 | 0.63 | 0.00 |
-| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 73,157 | 72,325 | 832 | 0 | 98.86 | 1.14 | 0.00 |
+| [Ban Water Companies discharging raw sewage into water courses.](582336.md) | 74,410 | 73,939 | 471 | 0 | 99.37 | 0.63 | 0.00 |
+| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 73,158 | 72,326 | 832 | 0 | 98.86 | 1.14 | 0.00 |
 | [End the Cage Age for all farmed animals](593775.md) | 72,690 | 71,963 | 727 | 0 | 99.00 | 1.00 | 0.00 |
 | [Allow ALL vaccinated British Expats to visit the UK without quarantining](585438.md) | 64,591 | 33,653 | 30,938 | 0 | 52.10 | 47.90 | 0.00 |
 | [Allow non-professional singing in groups of more than six indoors](586559.md) | 59,232 | 59,014 | 218 | 0 | 99.63 | 0.37 | 0.00 |
 | [Amend PCSC Bill to withdraw power to seize vehicles used as mobile homes](583903.md) | 53,400 | 52,929 | 471 | 0 | 99.12 | 0.88 | 0.00 |
 | [Allow fully vaccinated people coming from red list countries to isolate at home](588072.md) | 51,179 | 49,347 | 1,832 | 0 | 96.42 | 3.58 | 0.00 |
-| [Provide more funding for stalking advocates for victims of stalking](593769.md) | 48,951 | 48,721 | 230 | 0 | 99.53 | 0.47 | 0.00 |
+| [Provide more funding for stalking advocates for victims of stalking](593769.md) | 48,953 | 48,723 | 230 | 0 | 99.53 | 0.47 | 0.00 |
 | [Remove Turkey from the red list](587179.md) | 48,845 | 47,715 | 1,130 | 0 | 97.69 | 2.31 | 0.00 |
-| [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 44,187 | 42,852 | 1,335 | 0 | 96.98 | 3.02 | 0.00 |
+| [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 44,206 | 42,871 | 1,335 | 0 | 96.98 | 3.02 | 0.00 |
 | [Stricter laws governing the purchase/acquisition/possession of crossbows](583762.md) | 41,988 | 41,680 | 308 | 0 | 99.27 | 0.73 | 0.00 |
 | [Remove South Africa from the travel 'Red List'](589382.md) | 39,642 | 33,559 | 6,083 | 0 | 84.66 | 15.34 | 0.00 |
 | [Ban urban and garden pesticides to protect bees, other wildlife and human health](590309.md) | 38,760 | 38,437 | 323 | 0 | 99.17 | 0.83 | 0.00 |
-| [Invest urgently in the NHS cancer workforce in the autumn Spending Review](596566.md) | 36,664 | 36,478 | 186 | 0 | 99.49 | 0.51 | 0.00 |
-| [VALERIE'S LAW Compulsory Training for Agencies Supporting Black DV Victims](578416.md) | 35,565 | 35,123 | 442 | 0 | 98.76 | 1.24 | 0.00 |
-| [Introduce national limits on horse breeding](585547.md) | 35,062 | 34,578 | 484 | 0 | 98.62 | 1.38 | 0.00 |
-| [Cancel plans to commission a new Royal Yacht](584822.md) | 34,936 | 34,419 | 517 | 0 | 98.52 | 1.48 | 0.00 |
-| [Make the use of free-running snares illegal for trapping wildlife](581402.md) | 34,778 | 34,456 | 322 | 0 | 99.07 | 0.93 | 0.00 |
+| [Invest urgently in the NHS cancer workforce in the autumn Spending Review](596566.md) | 36,694 | 36,508 | 186 | 0 | 99.49 | 0.51 | 0.00 |
+| [VALERIE'S LAW Compulsory Training for Agencies Supporting Black DV Victims](578416.md) | 35,567 | 35,125 | 442 | 0 | 98.76 | 1.24 | 0.00 |
+| [Introduce national limits on horse breeding](585547.md) | 35,064 | 34,579 | 485 | 0 | 98.62 | 1.38 | 0.00 |
+| [Cancel plans to commission a new Royal Yacht](584822.md) | 34,937 | 34,420 | 517 | 0 | 98.52 | 1.48 | 0.00 |
+| [Make the use of free-running snares illegal for trapping wildlife](581402.md) | 34,780 | 34,458 | 322 | 0 | 99.07 | 0.93 | 0.00 |
 | [Ban the sale of artificial grass](585520.md) | 32,455 | 32,048 | 407 | 0 | 98.75 | 1.25 | 0.00 |
 | [Identify and sanction any Pakistani individuals involved in money laundering](594611.md) | 32,315 | 30,312 | 2,003 | 0 | 93.80 | 6.20 | 0.00 |
 | [3-day quarantine for fully vaccinated, returning to the UK from amber countries](586077.md) | 31,457 | 30,346 | 1,111 | 0 | 96.47 | 3.53 | 0.00 |
 | [Repeal the Coronavirus Act](592632.md) | 30,383 | 30,036 | 347 | 0 | 98.86 | 1.14 | 0.00 |
-| [Protect student choice: do not withdraw funding for BTEC qualifications](592642.md) | 29,776 | 29,663 | 113 | 0 | 99.62 | 0.38 | 0.00 |
+| [Protect student choice: do not withdraw funding for BTEC qualifications](592642.md) | 29,780 | 29,667 | 113 | 0 | 99.62 | 0.38 | 0.00 |
 | [Protect the title Nurse in UK law](587939.md) | 29,265 | 28,959 | 306 | 0 | 98.95 | 1.05 | 0.00 |
 | [Recall Parliament to debate vaccination of children before this is rolled out](594272.md) | 27,443 | 27,143 | 300 | 0 | 98.91 | 1.09 | 0.00 |
-| [Do not put fluoride in all tap water.](597714.md) | 25,783 | 25,636 | 147 | 0 | 99.43 | 0.57 | 0.00 |
+| [Do not put fluoride in all tap water.](597714.md) | 25,798 | 25,651 | 147 | 0 | 99.43 | 0.57 | 0.00 |
 | [Strengthen laws protecting seals](584224.md) | 22,819 | 22,643 | 176 | 0 | 99.23 | 0.77 | 0.00 |
 | [Make the £20 per week uplift to Universal Credit permanent.](593104.md) | 21,669 | 21,499 | 170 | 0 | 99.22 | 0.78 | 0.00 |
 | [Stop measuring the height and weight of children in primary school](586810.md) | 21,341 | 21,248 | 93 | 0 | 99.56 | 0.44 | 0.00 |
