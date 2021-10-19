@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-10-19 05:00:09
+Last refreshed 2021-10-19 06:00:22
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -18,43 +18,43 @@ Last refreshed 2021-10-19 05:00:09
 | [Dedicate funding for research into Fibrodysplasia Ossificans Progressiva (FOP)](590405.md) | 111,011 | 110,352 | 659 | 0 | 99.41 | 0.59 | 0.00 |
 | [Enforce the “50+1” Rule for professional football club ownership in the UK](583310.md) | 107,066 | 101,127 | 5,939 | 0 | 94.45 | 5.55 | 0.00 |
 | [We demand that the Gurkhas receive equal pensions](594155.md) | 106,488 | 104,182 | 2,306 | 0 | 97.83 | 2.17 | 0.00 |
-| [#Reggieslaw - Regulate online animal sales](587654.md) | 104,699 | 103,737 | 962 | 0 | 99.08 | 0.92 | 0.00 |
-| [Change the law to include laboratory animals in the Animal Welfare Act.](591775.md) | 95,072 | 92,962 | 2,110 | 0 | 97.78 | 2.22 | 0.00 |
-| [Mini’s law - Protect the public and animals from hunting activities](584076.md) | 95,051 | 93,858 | 1,193 | 0 | 98.74 | 1.26 | 0.00 |
-| [Move the State Pension age back to 60 for both men & women](581736.md) | 89,165 | 88,509 | 656 | 0 | 99.26 | 0.74 | 0.00 |
-| [Plan to phase out animal experiments](590216.md) | 83,275 | 82,276 | 999 | 0 | 98.80 | 1.20 | 0.00 |
+| [#Reggieslaw - Regulate online animal sales](587654.md) | 104,701 | 103,739 | 962 | 0 | 99.08 | 0.92 | 0.00 |
+| [Mini’s law - Protect the public and animals from hunting activities](584076.md) | 95,101 | 93,908 | 1,193 | 0 | 98.75 | 1.25 | 0.00 |
+| [Change the law to include laboratory animals in the Animal Welfare Act.](591775.md) | 95,083 | 92,973 | 2,110 | 0 | 97.78 | 2.22 | 0.00 |
+| [Move the State Pension age back to 60 for both men & women](581736.md) | 89,172 | 88,516 | 656 | 0 | 99.26 | 0.74 | 0.00 |
+| [Plan to phase out animal experiments](590216.md) | 83,279 | 82,280 | 999 | 0 | 98.80 | 1.20 | 0.00 |
 | [End all requirements to wear face coverings immediately](581316.md) | 76,197 | 75,623 | 574 | 0 | 99.25 | 0.75 | 0.00 |
 | [End the Cage Age for all farmed animals](593775.md) | 76,189 | 75,384 | 805 | 0 | 98.94 | 1.06 | 0.00 |
-| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 73,299 | 72,465 | 834 | 0 | 98.86 | 1.14 | 0.00 |
-| [Referendum in the United Kingdom to abolish the Coronavirus Act.](597665.md) | 66,479 | 65,719 | 760 | 0 | 98.86 | 1.14 | 0.00 |
+| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 73,301 | 72,467 | 834 | 0 | 98.86 | 1.14 | 0.00 |
+| [Referendum in the United Kingdom to abolish the Coronavirus Act.](597665.md) | 66,535 | 65,772 | 763 | 0 | 98.85 | 1.15 | 0.00 |
 | [Allow ALL vaccinated British Expats to visit the UK without quarantining](585438.md) | 64,599 | 33,658 | 30,941 | 0 | 52.10 | 47.90 | 0.00 |
 | [Allow non-professional singing in groups of more than six indoors](586559.md) | 59,235 | 59,017 | 218 | 0 | 99.63 | 0.37 | 0.00 |
-| [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 55,836 | 55,735 | 101 | 0 | 99.82 | 0.18 | 0.00 |
+| [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 56,242 | 56,139 | 103 | 0 | 99.82 | 0.18 | 0.00 |
 | [Amend PCSC Bill to withdraw power to seize vehicles used as mobile homes](583903.md) | 53,459 | 52,987 | 472 | 0 | 99.12 | 0.88 | 0.00 |
-| [Make the use of free-running snares illegal for trapping wildlife](581402.md) | 51,265 | 50,487 | 778 | 0 | 98.48 | 1.52 | 0.00 |
-| [Invest urgently in the NHS cancer workforce in the autumn Spending Review](596566.md) | 51,230 | 50,958 | 272 | 0 | 99.47 | 0.53 | 0.00 |
+| [Make the use of free-running snares illegal for trapping wildlife](581402.md) | 51,278 | 50,500 | 778 | 0 | 98.48 | 1.52 | 0.00 |
+| [Invest urgently in the NHS cancer workforce in the autumn Spending Review](596566.md) | 51,234 | 50,962 | 272 | 0 | 99.47 | 0.53 | 0.00 |
 | [Allow fully vaccinated people coming from red list countries to isolate at home](588072.md) | 51,211 | 49,379 | 1,832 | 0 | 96.42 | 3.58 | 0.00 |
-| [Provide more funding for stalking advocates for victims of stalking](593769.md) | 49,172 | 48,940 | 232 | 0 | 99.53 | 0.47 | 0.00 |
+| [Provide more funding for stalking advocates for victims of stalking](593769.md) | 49,174 | 48,942 | 232 | 0 | 99.53 | 0.47 | 0.00 |
 | [Remove Turkey from the red list](587179.md) | 48,848 | 47,718 | 1,130 | 0 | 97.69 | 2.31 | 0.00 |
-| [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 47,501 | 46,068 | 1,433 | 0 | 96.98 | 3.02 | 0.00 |
+| [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 47,505 | 46,072 | 1,433 | 0 | 96.98 | 3.02 | 0.00 |
 | [Stricter laws governing the purchase/acquisition/possession of crossbows](583762.md) | 42,024 | 41,715 | 309 | 0 | 99.26 | 0.74 | 0.00 |
 | [Remove South Africa from the travel 'Red List'](589382.md) | 39,649 | 33,565 | 6,084 | 0 | 84.66 | 15.34 | 0.00 |
 | [Ban urban and garden pesticides to protect bees, other wildlife and human health](590309.md) | 39,048 | 38,724 | 324 | 0 | 99.17 | 0.83 | 0.00 |
-| [VALERIE'S LAW Compulsory Training for Agencies Supporting Black DV Victims](578416.md) | 38,130 | 37,675 | 455 | 0 | 98.81 | 1.19 | 0.00 |
-| [Protect student choice: do not withdraw funding for BTEC qualifications](592642.md) | 37,810 | 37,676 | 134 | 0 | 99.65 | 0.35 | 0.00 |
-| [Introduce national limits on horse breeding](585547.md) | 36,238 | 35,735 | 503 | 0 | 98.61 | 1.39 | 0.00 |
+| [VALERIE'S LAW Compulsory Training for Agencies Supporting Black DV Victims](578416.md) | 38,134 | 37,679 | 455 | 0 | 98.81 | 1.19 | 0.00 |
+| [Protect student choice: do not withdraw funding for BTEC qualifications](592642.md) | 37,825 | 37,691 | 134 | 0 | 99.65 | 0.35 | 0.00 |
+| [Introduce national limits on horse breeding](585547.md) | 36,240 | 35,737 | 503 | 0 | 98.61 | 1.39 | 0.00 |
 | [Cancel plans to commission a new Royal Yacht](584822.md) | 34,986 | 34,469 | 517 | 0 | 98.52 | 1.48 | 0.00 |
 | [Identify and sanction any Pakistani individuals involved in money laundering](594611.md) | 32,810 | 30,804 | 2,006 | 0 | 93.89 | 6.11 | 0.00 |
 | [Ban the sale of artificial grass](585520.md) | 32,511 | 32,103 | 408 | 0 | 98.75 | 1.25 | 0.00 |
 | [3-day quarantine for fully vaccinated, returning to the UK from amber countries](586077.md) | 31,457 | 30,346 | 1,111 | 0 | 96.47 | 3.53 | 0.00 |
-| [Repeal the Coronavirus Act](592632.md) | 30,646 | 30,298 | 348 | 0 | 98.86 | 1.14 | 0.00 |
+| [Repeal the Coronavirus Act](592632.md) | 30,647 | 30,299 | 348 | 0 | 98.86 | 1.14 | 0.00 |
 | [Protect the title Nurse in UK law](587939.md) | 29,920 | 29,610 | 310 | 0 | 98.96 | 1.04 | 0.00 |
-| [Do not put fluoride in all tap water.](597714.md) | 29,453 | 29,289 | 164 | 0 | 99.44 | 0.56 | 0.00 |
+| [Do not put fluoride in all tap water.](597714.md) | 29,503 | 29,338 | 165 | 0 | 99.44 | 0.56 | 0.00 |
 | [Recall Parliament to debate vaccination of children before this is rolled out](594272.md) | 27,462 | 27,162 | 300 | 0 | 98.91 | 1.09 | 0.00 |
-| [Strengthen laws protecting seals](584224.md) | 23,542 | 23,357 | 185 | 0 | 99.21 | 0.79 | 0.00 |
+| [Strengthen laws protecting seals](584224.md) | 23,545 | 23,360 | 185 | 0 | 99.21 | 0.79 | 0.00 |
 | [Make the £20 per week uplift to Universal Credit permanent.](593104.md) | 22,103 | 21,933 | 170 | 0 | 99.23 | 0.77 | 0.00 |
 | [Stop measuring the height and weight of children in primary school](586810.md) | 21,369 | 21,276 | 93 | 0 | 99.56 | 0.44 | 0.00 |
 | [An public inquiry into the causes surrounding missing Black people](583220.md) | 21,199 | 21,109 | 90 | 0 | 99.58 | 0.42 | 0.00 |
 | [Run a public awareness campaign to address driver aggression toward cyclists](588492.md) | 20,002 | 19,908 | 94 | 0 | 99.53 | 0.47 | 0.00 |
 | [Luke’s Law: Ban 'free bets' and emails that entice gamblers to place 'free bets'](587806.md) | 19,803 | 19,506 | 297 | 0 | 98.50 | 1.50 | 0.00 |
-| [Add Sickle Cell to the Prescription Charge Exemption List](588355.md) | 19,787 | 19,704 | 83 | 0 | 99.58 | 0.42 | 0.00 |
+| [Add Sickle Cell to the Prescription Charge Exemption List](588355.md) | 19,788 | 19,705 | 83 | 0 | 99.58 | 0.42 | 0.00 |
