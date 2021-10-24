@@ -4,13 +4,13 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-10-24 04:00:08
+Last refreshed 2021-10-24 05:00:08
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Introduce sanctions against Israel](585314.md) | 388,388 | 383,301 | 5,087 | 0 | 98.69 | 1.31 | 0.00 |
 | [Give the UK a Bank Holiday on Monday July 12th if England win Euro 2020](590282.md) | 364,746 | 364,287 | 459 | 0 | 99.87 | 0.13 | 0.00 |
-| [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 165,814 | 165,460 | 354 | 0 | 99.79 | 0.21 | 0.00 |
+| [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 165,819 | 165,465 | 354 | 0 | 99.79 | 0.21 | 0.00 |
 | [Introduce an Independent Regulator for Football in England by December 2021](584632.md) | 142,917 | 139,026 | 3,891 | 0 | 97.28 | 2.72 | 0.00 |
 | [Make non-binary a legally recognised gender identity in the UK](580220.md) | 140,744 | 138,844 | 1,900 | 0 | 98.65 | 1.35 | 0.00 |
 | [UK Government to formally recognise the State of Palestine](585313.md) | 131,111 | 129,876 | 1,235 | 0 | 99.06 | 0.94 | 0.00 |
@@ -19,41 +19,41 @@ Last refreshed 2021-10-24 04:00:08
 | [Dedicate funding for research into Fibrodysplasia Ossificans Progressiva (FOP)](590405.md) | 111,046 | 110,387 | 659 | 0 | 99.41 | 0.59 | 0.00 |
 | [We demand that the Gurkhas receive equal pensions](594155.md) | 106,562 | 104,254 | 2,308 | 0 | 97.83 | 2.17 | 0.00 |
 | [#Reggieslaw - Regulate online animal sales](587654.md) | 105,555 | 104,575 | 980 | 0 | 99.07 | 0.93 | 0.00 |
-| [Change the law to include laboratory animals in the Animal Welfare Act.](591775.md) | 101,242 | 99,029 | 2,213 | 0 | 97.81 | 2.19 | 0.00 |
-| [Mini’s law - Protect the public and animals from hunting activities](584076.md) | 101,146 | 99,882 | 1,264 | 0 | 98.75 | 1.25 | 0.00 |
+| [Change the law to include laboratory animals in the Animal Welfare Act.](591775.md) | 101,246 | 99,033 | 2,213 | 0 | 97.81 | 2.19 | 0.00 |
+| [Mini’s law - Protect the public and animals from hunting activities](584076.md) | 101,152 | 99,888 | 1,264 | 0 | 98.75 | 1.25 | 0.00 |
 | [Plan to phase out animal experiments](590216.md) | 83,850 | 82,843 | 1,007 | 0 | 98.80 | 1.20 | 0.00 |
 | [End the Cage Age for all farmed animals](593775.md) | 77,417 | 76,591 | 826 | 0 | 98.93 | 1.07 | 0.00 |
 | [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 73,428 | 72,594 | 834 | 0 | 98.86 | 1.14 | 0.00 |
-| [Referendum in the United Kingdom to abolish the Coronavirus Act.](597665.md) | 71,126 | 70,287 | 839 | 0 | 98.82 | 1.18 | 0.00 |
+| [Referendum in the United Kingdom to abolish the Coronavirus Act.](597665.md) | 71,128 | 70,289 | 839 | 0 | 98.82 | 1.18 | 0.00 |
 | [Allow ALL vaccinated British Expats to visit the UK without quarantining](585438.md) | 64,612 | 33,667 | 30,945 | 0 | 52.11 | 47.89 | 0.00 |
 | [Allow non-professional singing in groups of more than six indoors](586559.md) | 59,240 | 59,022 | 218 | 0 | 99.63 | 0.37 | 0.00 |
-| [VALERIE'S LAW Compulsory Training for Agencies Supporting Black DV Victims](578416.md) | 56,628 | 55,889 | 739 | 0 | 98.69 | 1.31 | 0.00 |
-| [Make the use of free-running snares illegal for trapping wildlife](581402.md) | 53,515 | 52,693 | 822 | 0 | 98.46 | 1.54 | 0.00 |
+| [VALERIE'S LAW Compulsory Training for Agencies Supporting Black DV Victims](578416.md) | 56,633 | 55,894 | 739 | 0 | 98.70 | 1.30 | 0.00 |
+| [Make the use of free-running snares illegal for trapping wildlife](581402.md) | 53,520 | 52,698 | 822 | 0 | 98.46 | 1.54 | 0.00 |
 | [Amend PCSC Bill to withdraw power to seize vehicles used as mobile homes](583903.md) | 53,488 | 53,016 | 472 | 0 | 99.12 | 0.88 | 0.00 |
-| [Provide more funding for stalking advocates for victims of stalking](593769.md) | 52,895 | 52,631 | 264 | 0 | 99.50 | 0.50 | 0.00 |
+| [Provide more funding for stalking advocates for victims of stalking](593769.md) | 52,896 | 52,632 | 264 | 0 | 99.50 | 0.50 | 0.00 |
 | [Invest urgently in the NHS cancer workforce in the autumn Spending Review](596566.md) | 52,729 | 52,449 | 280 | 0 | 99.47 | 0.53 | 0.00 |
 | [Allow fully vaccinated people coming from red list countries to isolate at home](588072.md) | 51,221 | 49,389 | 1,832 | 0 | 96.42 | 3.58 | 0.00 |
 | [Remove Turkey from the red list](587179.md) | 48,851 | 47,721 | 1,130 | 0 | 97.69 | 2.31 | 0.00 |
 | [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 48,289 | 46,841 | 1,448 | 0 | 97.00 | 3.00 | 0.00 |
-| [Protect student choice: do not withdraw funding for BTEC qualifications](592642.md) | 43,679 | 43,523 | 156 | 0 | 99.64 | 0.36 | 0.00 |
+| [Protect student choice: do not withdraw funding for BTEC qualifications](592642.md) | 43,693 | 43,537 | 156 | 0 | 99.64 | 0.36 | 0.00 |
 | [Stricter laws governing the purchase/acquisition/possession of crossbows](583762.md) | 42,061 | 41,752 | 309 | 0 | 99.27 | 0.73 | 0.00 |
 | [Remove South Africa from the travel 'Red List'](589382.md) | 39,649 | 33,565 | 6,084 | 0 | 84.66 | 15.34 | 0.00 |
 | [Ban urban and garden pesticides to protect bees, other wildlife and human health](590309.md) | 39,212 | 38,887 | 325 | 0 | 99.17 | 0.83 | 0.00 |
 | [Introduce national limits on horse breeding](585547.md) | 37,142 | 36,629 | 513 | 0 | 98.62 | 1.38 | 0.00 |
 | [Cancel plans to commission a new Royal Yacht](584822.md) | 35,015 | 34,497 | 518 | 0 | 98.52 | 1.48 | 0.00 |
-| [Do not put fluoride in all tap water.](597714.md) | 33,372 | 33,170 | 202 | 0 | 99.39 | 0.61 | 0.00 |
+| [Do not put fluoride in all tap water.](597714.md) | 33,373 | 33,171 | 202 | 0 | 99.39 | 0.61 | 0.00 |
 | [Identify and sanction any Pakistani individuals involved in money laundering](594611.md) | 33,101 | 31,094 | 2,007 | 0 | 93.94 | 6.06 | 0.00 |
 | [Ban the sale of artificial grass](585520.md) | 32,546 | 32,138 | 408 | 0 | 98.75 | 1.25 | 0.00 |
 | [3-day quarantine for fully vaccinated, returning to the UK from amber countries](586077.md) | 31,458 | 30,347 | 1,111 | 0 | 96.47 | 3.53 | 0.00 |
 | [Repeal the Coronavirus Act](592632.md) | 30,987 | 30,635 | 352 | 0 | 98.86 | 1.14 | 0.00 |
 | [Protect the title Nurse in UK law](587939.md) | 30,084 | 29,771 | 313 | 0 | 98.96 | 1.04 | 0.00 |
 | [Recall Parliament to debate vaccination of children before this is rolled out](594272.md) | 27,472 | 27,172 | 300 | 0 | 98.91 | 1.09 | 0.00 |
-| [Luke’s Law: Ban 'free bets' and emails that entice gamblers to place 'free bets'](587806.md) | 24,223 | 23,856 | 367 | 0 | 98.48 | 1.52 | 0.00 |
+| [Luke’s Law: Ban 'free bets' and emails that entice gamblers to place 'free bets'](587806.md) | 24,228 | 23,861 | 367 | 0 | 98.49 | 1.51 | 0.00 |
 | [Strengthen laws protecting seals](584224.md) | 24,010 | 23,824 | 186 | 0 | 99.23 | 0.77 | 0.00 |
-| [Amend the Health and Care Bill to protect the NHS.](592557.md) | 22,564 | 22,242 | 322 | 0 | 98.57 | 1.43 | 0.00 |
+| [Amend the Health and Care Bill to protect the NHS.](592557.md) | 22,565 | 22,243 | 322 | 0 | 98.57 | 1.43 | 0.00 |
 | [Make the £20 per week uplift to Universal Credit permanent.](593104.md) | 22,296 | 22,126 | 170 | 0 | 99.24 | 0.76 | 0.00 |
 | [Stop measuring the height and weight of children in primary school](586810.md) | 21,387 | 21,294 | 93 | 0 | 99.57 | 0.43 | 0.00 |
-| [Shakeel's Law - Reform laws on hit and run drivers    ](590271.md) | 20,313 | 20,247 | 66 | 0 | 99.68 | 0.32 | 0.00 |
+| [Shakeel's Law - Reform laws on hit and run drivers    ](590271.md) | 20,315 | 20,249 | 66 | 0 | 99.68 | 0.32 | 0.00 |
 | [Run a public awareness campaign to address driver aggression toward cyclists](588492.md) | 20,013 | 19,919 | 94 | 0 | 99.53 | 0.47 | 0.00 |
 | [Add Sickle Cell to the Prescription Charge Exemption List](588355.md) | 19,841 | 19,758 | 83 | 0 | 99.58 | 0.42 | 0.00 |
 | [Require all school staff receive training on SEN children](587365.md) | 19,648 | 19,607 | 41 | 0 | 99.79 | 0.21 | 0.00 |
