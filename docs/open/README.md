@@ -4,13 +4,13 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-11-01 03:00:09
+Last refreshed 2021-11-01 04:00:08
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Introduce sanctions against Israel](585314.md) | 388,453 | 383,366 | 5,087 | 0 | 98.69 | 1.31 | 0.00 |
 | [Give the UK a Bank Holiday on Monday July 12th if England win Euro 2020](590282.md) | 364,751 | 364,292 | 459 | 0 | 99.87 | 0.13 | 0.00 |
-| [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 171,363 | 170,973 | 390 | 0 | 99.77 | 0.23 | 0.00 |
+| [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 171,364 | 170,974 | 390 | 0 | 99.77 | 0.23 | 0.00 |
 | [Introduce an Independent Regulator for Football in England by December 2021](584632.md) | 142,928 | 139,037 | 3,891 | 0 | 97.28 | 2.72 | 0.00 |
 | [UK Government to formally recognise the State of Palestine](585313.md) | 131,177 | 129,939 | 1,238 | 0 | 99.06 | 0.94 | 0.00 |
 | [Exempt dogs assessed by experts as safe from breed specific legislation](592813.md) | 126,525 | 125,346 | 1,179 | 0 | 99.07 | 0.93 | 0.00 |
@@ -22,10 +22,10 @@ Last refreshed 2021-11-01 03:00:09
 | [Plan to phase out animal experiments](590216.md) | 84,379 | 83,362 | 1,017 | 0 | 98.79 | 1.21 | 0.00 |
 | [Provide more funding for stalking advocates for victims of stalking](593769.md) | 78,906 | 78,531 | 375 | 0 | 99.52 | 0.48 | 0.00 |
 | [End the Cage Age for all farmed animals](593775.md) | 77,641 | 76,810 | 831 | 0 | 98.93 | 1.07 | 0.00 |
-| [Referendum in the United Kingdom to abolish the Coronavirus Act.](597665.md) | 74,992 | 74,104 | 888 | 0 | 98.82 | 1.18 | 0.00 |
+| [Referendum in the United Kingdom to abolish the Coronavirus Act.](597665.md) | 74,994 | 74,106 | 888 | 0 | 98.82 | 1.18 | 0.00 |
 | [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 73,735 | 72,900 | 835 | 0 | 98.87 | 1.13 | 0.00 |
 | [Allow ALL vaccinated British Expats to visit the UK without quarantining](585438.md) | 64,618 | 33,671 | 30,947 | 0 | 52.11 | 47.89 | 0.00 |
-| [Make the use of free-running snares illegal for trapping wildlife](581402.md) | 61,655 | 60,667 | 988 | 0 | 98.40 | 1.60 | 0.00 |
+| [Make the use of free-running snares illegal for trapping wildlife](581402.md) | 61,672 | 60,684 | 988 | 0 | 98.40 | 1.60 | 0.00 |
 | [Allow non-professional singing in groups of more than six indoors](586559.md) | 59,242 | 59,024 | 218 | 0 | 99.63 | 0.37 | 0.00 |
 | [Invest urgently in the NHS cancer workforce in the autumn Spending Review](596566.md) | 53,672 | 53,388 | 284 | 0 | 99.47 | 0.53 | 0.00 |
 | [Amend PCSC Bill to withdraw power to seize vehicles used as mobile homes](583903.md) | 53,540 | 53,066 | 474 | 0 | 99.11 | 0.89 | 0.00 |
@@ -38,7 +38,7 @@ Last refreshed 2021-11-01 03:00:09
 | [Introduce national limits on horse breeding](585547.md) | 37,702 | 37,182 | 520 | 0 | 98.62 | 1.38 | 0.00 |
 | [Cancel plans to commission a new Royal Yacht](584822.md) | 35,066 | 34,547 | 519 | 0 | 98.52 | 1.48 | 0.00 |
 | [Do not put fluoride in all tap water.](597714.md) | 34,640 | 34,427 | 213 | 0 | 99.39 | 0.61 | 0.00 |
-| [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 34,298 | 33,914 | 384 | 0 | 98.88 | 1.12 | 0.00 |
+| [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 34,313 | 33,928 | 385 | 0 | 98.88 | 1.12 | 0.00 |
 | [Identify and sanction any Pakistani individuals involved in money laundering](594611.md) | 33,310 | 31,301 | 2,009 | 0 | 93.97 | 6.03 | 0.00 |
 | [Ban the sale of artificial grass](585520.md) | 32,613 | 32,205 | 408 | 0 | 98.75 | 1.25 | 0.00 |
 | [3-day quarantine for fully vaccinated, returning to the UK from amber countries](586077.md) | 31,461 | 30,350 | 1,111 | 0 | 96.47 | 3.53 | 0.00 |
