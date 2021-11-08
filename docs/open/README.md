@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-11-08 02:00:09
+Last refreshed 2021-11-08 03:00:11
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -28,10 +28,10 @@ Last refreshed 2021-11-08 02:00:09
 | [Allow non-professional singing in groups of more than six indoors](586559.md) | 59,253 | 59,035 | 218 | 0 | 99.63 | 0.37 | 0.00 |
 | [Invest urgently in the NHS cancer workforce in the autumn Spending Review](596566.md) | 54,243 | 53,954 | 289 | 0 | 99.47 | 0.53 | 0.00 |
 | [Amend PCSC Bill to withdraw power to seize vehicles used as mobile homes](583903.md) | 53,571 | 53,097 | 474 | 0 | 99.12 | 0.88 | 0.00 |
-| [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 51,377 | 49,601 | 1,776 | 0 | 96.54 | 3.46 | 0.00 |
+| [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 51,378 | 49,602 | 1,776 | 0 | 96.54 | 3.46 | 0.00 |
 | [Allow fully vaccinated people coming from red list countries to isolate at home](588072.md) | 51,231 | 49,398 | 1,833 | 0 | 96.42 | 3.58 | 0.00 |
-| [Protect student choice: do not withdraw funding for BTEC qualifications](592642.md) | 50,860 | 50,678 | 182 | 0 | 99.64 | 0.36 | 0.00 |
-| [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 50,799 | 50,228 | 571 | 0 | 98.88 | 1.12 | 0.00 |
+| [Protect student choice: do not withdraw funding for BTEC qualifications](592642.md) | 50,863 | 50,681 | 182 | 0 | 99.64 | 0.36 | 0.00 |
+| [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 50,809 | 50,238 | 571 | 0 | 98.88 | 1.12 | 0.00 |
 | [Remove Turkey from the red list](587179.md) | 48,857 | 47,727 | 1,130 | 0 | 97.69 | 2.31 | 0.00 |
 | [Remove South Africa from the travel 'Red List'](589382.md) | 39,652 | 33,568 | 6,084 | 0 | 84.66 | 15.34 | 0.00 |
 | [Ban urban and garden pesticides to protect bees, other wildlife and human health](590309.md) | 39,597 | 39,268 | 329 | 0 | 99.17 | 0.83 | 0.00 |
@@ -45,16 +45,16 @@ Last refreshed 2021-11-08 02:00:09
 | [Luke’s Law: Ban 'free bets' and emails that entice gamblers to place 'free bets'](587806.md) | 28,708 | 28,277 | 431 | 0 | 98.50 | 1.50 | 0.00 |
 | [Recall Parliament to debate vaccination of children before this is rolled out](594272.md) | 27,554 | 27,252 | 302 | 0 | 98.90 | 1.10 | 0.00 |
 | [Amend the Health and Care Bill to protect the NHS.](592557.md) | 24,544 | 24,179 | 365 | 0 | 98.51 | 1.49 | 0.00 |
-| [Shakeel's Law - Reform laws on hit and run drivers    ](590271.md) | 23,819 | 23,743 | 76 | 0 | 99.68 | 0.32 | 0.00 |
-| [Make the £20 per week uplift to Universal Credit permanent.](593104.md) | 22,989 | 22,814 | 175 | 0 | 99.24 | 0.76 | 0.00 |
+| [Shakeel's Law - Reform laws on hit and run drivers    ](590271.md) | 23,820 | 23,744 | 76 | 0 | 99.68 | 0.32 | 0.00 |
+| [Make the £20 per week uplift to Universal Credit permanent.](593104.md) | 22,990 | 22,815 | 175 | 0 | 99.24 | 0.76 | 0.00 |
 | [Stop measuring the height and weight of children in primary school](586810.md) | 21,418 | 21,325 | 93 | 0 | 99.57 | 0.43 | 0.00 |
 | [Add Sickle Cell to the Prescription Charge Exemption List](588355.md) | 20,474 | 20,388 | 86 | 0 | 99.58 | 0.42 | 0.00 |
-| [Do not impose any new requirements on parents who are home educating](594065.md) | 20,341 | 20,251 | 90 | 0 | 99.56 | 0.44 | 0.00 |
+| [Do not impose any new requirements on parents who are home educating](594065.md) | 20,343 | 20,253 | 90 | 0 | 99.56 | 0.44 | 0.00 |
 | [Run a public awareness campaign to address driver aggression toward cyclists](588492.md) | 20,051 | 19,957 | 94 | 0 | 99.53 | 0.47 | 0.00 |
 | [Require all school staff receive training on SEN children](587365.md) | 19,713 | 19,672 | 41 | 0 | 99.79 | 0.21 | 0.00 |
 | [Appoint an Allergy Tsar as a champion for people living with allergies](589716.md) | 19,225 | 19,108 | 117 | 0 | 99.39 | 0.61 | 0.00 |
 | [End reviews of PIP and ESA awards for people with lifelong illnesses](593296.md) | 19,136 | 19,044 | 92 | 0 | 99.52 | 0.48 | 0.00 |
-| [Process all asylum seekers off-shore using foreign aid budget](589479.md) | 19,107 | 18,862 | 245 | 0 | 98.72 | 1.28 | 0.00 |
+| [Process all asylum seekers off-shore using foreign aid budget](589479.md) | 19,108 | 18,863 | 245 | 0 | 98.72 | 1.28 | 0.00 |
 | [Create a legal right for patients to receive timely face-to-face GP appointments](587701.md) | 18,793 | 18,763 | 30 | 0 | 99.84 | 0.16 | 0.00 |
 | [Remove Brazil from the Red to the Amber list](596048.md) | 18,770 | 18,129 | 641 | 0 | 96.58 | 3.42 | 0.00 |
-| [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 18,588 | 18,578 | 10 | 0 | 99.95 | 0.05 | 0.00 |
+| [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 18,591 | 18,581 | 10 | 0 | 99.95 | 0.05 | 0.00 |
