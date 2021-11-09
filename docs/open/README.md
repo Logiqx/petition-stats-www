@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-11-09 22:00:08
+Last refreshed 2021-11-09 23:00:09
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -16,45 +16,45 @@ Last refreshed 2021-11-09 22:00:08
 | [Exempt dogs assessed by experts as safe from breed specific legislation](592813.md) | 126,634 | 125,455 | 1,179 | 0 | 99.07 | 0.93 | 0.00 |
 | [Commission an independent review of childcare funding and affordability](586700.md) | 113,638 | 113,363 | 275 | 0 | 99.76 | 0.24 | 0.00 |
 | [Dedicate funding for research into Fibrodysplasia Ossificans Progressiva (FOP)](590405.md) | 111,104 | 110,445 | 659 | 0 | 99.41 | 0.59 | 0.00 |
-| [#Reggieslaw - Regulate online animal sales](587654.md) | 107,044 | 106,046 | 998 | 0 | 99.07 | 0.93 | 0.00 |
+| [#Reggieslaw - Regulate online animal sales](587654.md) | 107,051 | 106,053 | 998 | 0 | 99.07 | 0.93 | 0.00 |
 | [We demand that the Gurkhas receive equal pensions](594155.md) | 106,732 | 104,423 | 2,309 | 0 | 97.84 | 2.16 | 0.00 |
-| [Change the law to include laboratory animals in the Animal Welfare Act.](591775.md) | 103,267 | 101,026 | 2,241 | 0 | 97.83 | 2.17 | 0.00 |
-| [Plan to phase out animal experiments](590216.md) | 84,790 | 83,770 | 1,020 | 0 | 98.80 | 1.20 | 0.00 |
-| [End the Cage Age for all farmed animals](593775.md) | 84,278 | 83,422 | 856 | 0 | 98.98 | 1.02 | 0.00 |
-| [Provide more funding for stalking advocates for victims of stalking](593769.md) | 79,400 | 79,020 | 380 | 0 | 99.52 | 0.48 | 0.00 |
-| [Referendum in the United Kingdom to abolish the Coronavirus Act.](597665.md) | 76,358 | 75,455 | 903 | 0 | 98.82 | 1.18 | 0.00 |
-| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 73,921 | 73,082 | 839 | 0 | 98.87 | 1.13 | 0.00 |
+| [Change the law to include laboratory animals in the Animal Welfare Act.](591775.md) | 103,268 | 101,026 | 2,242 | 0 | 97.83 | 2.17 | 0.00 |
+| [Plan to phase out animal experiments](590216.md) | 84,794 | 83,774 | 1,020 | 0 | 98.80 | 1.20 | 0.00 |
+| [End the Cage Age for all farmed animals](593775.md) | 84,547 | 83,690 | 857 | 0 | 98.99 | 1.01 | 0.00 |
+| [Provide more funding for stalking advocates for victims of stalking](593769.md) | 79,401 | 79,021 | 380 | 0 | 99.52 | 0.48 | 0.00 |
+| [Referendum in the United Kingdom to abolish the Coronavirus Act.](597665.md) | 76,367 | 75,464 | 903 | 0 | 98.82 | 1.18 | 0.00 |
+| [Do not vaccinate children against COVID-19 until Phase 3 trials are complete](586017.md) | 73,924 | 73,085 | 839 | 0 | 98.87 | 1.13 | 0.00 |
 | [Allow ALL vaccinated British Expats to visit the UK without quarantining](585438.md) | 64,640 | 33,685 | 30,955 | 0 | 52.11 | 47.89 | 0.00 |
 | [Allow non-professional singing in groups of more than six indoors](586559.md) | 59,254 | 59,036 | 218 | 0 | 99.63 | 0.37 | 0.00 |
-| [Invest urgently in the NHS cancer workforce in the autumn Spending Review](596566.md) | 54,383 | 54,092 | 291 | 0 | 99.46 | 0.54 | 0.00 |
-| [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 53,660 | 53,071 | 589 | 0 | 98.90 | 1.10 | 0.00 |
-| [Amend PCSC Bill to withdraw power to seize vehicles used as mobile homes](583903.md) | 53,585 | 53,111 | 474 | 0 | 99.12 | 0.88 | 0.00 |
-| [Protect student choice: do not withdraw funding for BTEC qualifications](592642.md) | 51,975 | 51,792 | 183 | 0 | 99.65 | 0.35 | 0.00 |
-| [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 51,716 | 49,924 | 1,792 | 0 | 96.53 | 3.47 | 0.00 |
+| [Invest urgently in the NHS cancer workforce in the autumn Spending Review](596566.md) | 54,384 | 54,093 | 291 | 0 | 99.46 | 0.54 | 0.00 |
+| [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 53,715 | 53,126 | 589 | 0 | 98.90 | 1.10 | 0.00 |
+| [Amend PCSC Bill to withdraw power to seize vehicles used as mobile homes](583903.md) | 53,586 | 53,112 | 474 | 0 | 99.12 | 0.88 | 0.00 |
+| [Protect student choice: do not withdraw funding for BTEC qualifications](592642.md) | 52,022 | 51,839 | 183 | 0 | 99.65 | 0.35 | 0.00 |
+| [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 51,731 | 49,939 | 1,792 | 0 | 96.54 | 3.46 | 0.00 |
 | [Allow fully vaccinated people coming from red list countries to isolate at home](588072.md) | 51,232 | 49,399 | 1,833 | 0 | 96.42 | 3.58 | 0.00 |
 | [Remove Turkey from the red list](587179.md) | 48,857 | 47,727 | 1,130 | 0 | 97.69 | 2.31 | 0.00 |
-| [Remove South Africa from the travel 'Red List'](589382.md) | 39,652 | 33,568 | 6,084 | 0 | 84.66 | 15.34 | 0.00 |
+| [Remove South Africa from the travel 'Red List'](589382.md) | 39,653 | 33,569 | 6,084 | 0 | 84.66 | 15.34 | 0.00 |
 | [Ban urban and garden pesticides to protect bees, other wildlife and human health](590309.md) | 39,614 | 39,285 | 329 | 0 | 99.17 | 0.83 | 0.00 |
-| [Introduce national limits on horse breeding](585547.md) | 39,138 | 38,574 | 564 | 0 | 98.56 | 1.44 | 0.00 |
-| [Do not put fluoride in all tap water.](597714.md) | 35,336 | 35,119 | 217 | 0 | 99.39 | 0.61 | 0.00 |
-| [Identify and sanction any Pakistani individuals involved in money laundering](594611.md) | 33,696 | 31,686 | 2,010 | 0 | 94.03 | 5.97 | 0.00 |
+| [Introduce national limits on horse breeding](585547.md) | 39,175 | 38,609 | 566 | 0 | 98.56 | 1.44 | 0.00 |
+| [Do not put fluoride in all tap water.](597714.md) | 35,342 | 35,125 | 217 | 0 | 99.39 | 0.61 | 0.00 |
+| [Identify and sanction any Pakistani individuals involved in money laundering](594611.md) | 33,702 | 31,692 | 2,010 | 0 | 94.04 | 5.96 | 0.00 |
 | [Ban the sale of artificial grass](585520.md) | 32,690 | 32,282 | 408 | 0 | 98.75 | 1.25 | 0.00 |
 | [3-day quarantine for fully vaccinated, returning to the UK from amber countries](586077.md) | 31,461 | 30,350 | 1,111 | 0 | 96.47 | 3.53 | 0.00 |
-| [Protect the title Nurse in UK law](587939.md) | 31,437 | 31,119 | 318 | 0 | 98.99 | 1.01 | 0.00 |
-| [Repeal the Coronavirus Act](592632.md) | 31,184 | 30,831 | 353 | 0 | 98.87 | 1.13 | 0.00 |
-| [Luke’s Law: Ban 'free bets' and emails that entice gamblers to place 'free bets'](587806.md) | 28,818 | 28,386 | 432 | 0 | 98.50 | 1.50 | 0.00 |
+| [Protect the title Nurse in UK law](587939.md) | 31,438 | 31,120 | 318 | 0 | 98.99 | 1.01 | 0.00 |
+| [Repeal the Coronavirus Act](592632.md) | 31,187 | 30,834 | 353 | 0 | 98.87 | 1.13 | 0.00 |
+| [Luke’s Law: Ban 'free bets' and emails that entice gamblers to place 'free bets'](587806.md) | 28,820 | 28,388 | 432 | 0 | 98.50 | 1.50 | 0.00 |
 | [Recall Parliament to debate vaccination of children before this is rolled out](594272.md) | 27,556 | 27,254 | 302 | 0 | 98.90 | 1.10 | 0.00 |
-| [Amend the Health and Care Bill to protect the NHS.](592557.md) | 24,813 | 24,446 | 367 | 0 | 98.52 | 1.48 | 0.00 |
-| [Shakeel's Law - Reform laws on hit and run drivers    ](590271.md) | 24,072 | 23,996 | 76 | 0 | 99.68 | 0.32 | 0.00 |
-| [Make the £20 per week uplift to Universal Credit permanent.](593104.md) | 23,062 | 22,887 | 175 | 0 | 99.24 | 0.76 | 0.00 |
+| [Amend the Health and Care Bill to protect the NHS.](592557.md) | 24,816 | 24,449 | 367 | 0 | 98.52 | 1.48 | 0.00 |
+| [Shakeel's Law - Reform laws on hit and run drivers    ](590271.md) | 24,075 | 23,999 | 76 | 0 | 99.68 | 0.32 | 0.00 |
+| [Make the £20 per week uplift to Universal Credit permanent.](593104.md) | 23,063 | 22,888 | 175 | 0 | 99.24 | 0.76 | 0.00 |
 | [Stop measuring the height and weight of children in primary school](586810.md) | 21,423 | 21,330 | 93 | 0 | 99.57 | 0.43 | 0.00 |
-| [Do not impose any new requirements on parents who are home educating](594065.md) | 20,754 | 20,664 | 90 | 0 | 99.57 | 0.43 | 0.00 |
+| [Do not impose any new requirements on parents who are home educating](594065.md) | 20,755 | 20,665 | 90 | 0 | 99.57 | 0.43 | 0.00 |
 | [Add Sickle Cell to the Prescription Charge Exemption List](588355.md) | 20,482 | 20,396 | 86 | 0 | 99.58 | 0.42 | 0.00 |
 | [Run a public awareness campaign to address driver aggression toward cyclists](588492.md) | 20,055 | 19,961 | 94 | 0 | 99.53 | 0.47 | 0.00 |
 | [Require all school staff receive training on SEN children](587365.md) | 19,717 | 19,676 | 41 | 0 | 99.79 | 0.21 | 0.00 |
-| [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 19,668 | 19,657 | 11 | 0 | 99.94 | 0.06 | 0.00 |
-| [Appoint an Allergy Tsar as a champion for people living with allergies](589716.md) | 19,284 | 19,166 | 118 | 0 | 99.39 | 0.61 | 0.00 |
+| [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 19,694 | 19,683 | 11 | 0 | 99.94 | 0.06 | 0.00 |
+| [Make fireworks illegal to buy, with the exception of public displays.](591501.md) | 19,342 | 19,302 | 40 | 0 | 99.79 | 0.21 | 0.00 |
+| [Appoint an Allergy Tsar as a champion for people living with allergies](589716.md) | 19,285 | 19,167 | 118 | 0 | 99.39 | 0.61 | 0.00 |
+| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 19,158 | 18,998 | 160 | 0 | 99.16 | 0.84 | 0.00 |
 | [End reviews of PIP and ESA awards for people with lifelong illnesses](593296.md) | 19,151 | 19,059 | 92 | 0 | 99.52 | 0.48 | 0.00 |
 | [Process all asylum seekers off-shore using foreign aid budget](589479.md) | 19,128 | 18,883 | 245 | 0 | 98.72 | 1.28 | 0.00 |
-| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 18,935 | 18,777 | 158 | 0 | 99.17 | 0.83 | 0.00 |
-| [Create a legal right for patients to receive timely face-to-face GP appointments](587701.md) | 18,836 | 18,805 | 31 | 0 | 99.84 | 0.16 | 0.00 |
