@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-11-15 00:00:24
+Last refreshed 2021-11-15 01:00:24
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -17,7 +17,7 @@ Last refreshed 2021-11-15 00:00:24
 | [Prioritise teachers, school and childcare staff for Covid-19 vaccination](554316.md) | 508,830 | 507,539 | 1,291 | 0 | 99.75 | 0.25 | 0.00 |
 | [Reclose schools and colleges due to increase in COVID-19 cases](550846.md) | 428,788 | 428,107 | 681 | 0 | 99.84 | 0.16 | 0.00 |
 | [Implement UK lockdown for preventing spread of COVID19](301397.md) | 409,474 | 406,898 | 2,576 | 0 | 99.37 | 0.63 | 0.00 |
-| [Introduce sanctions against Israel](585314.md) | 388,537 | 383,447 | 5,090 | 0 | 98.69 | 1.31 | 0.00 |
+| [Introduce sanctions against Israel](585314.md) | 388,538 | 383,448 | 5,090 | 0 | 98.69 | 1.31 | 0.00 |
 | [Do not rollout Covid-19 vaccine passports](569957.md) | 375,209 | 371,042 | 4,167 | 0 | 98.89 | 1.11 | 0.00 |
 | [Reimburse all students of this year’s fees due to strikes and COVID-19](302855.md) | 353,130 | 351,856 | 1,274 | 0 | 99.64 | 0.36 | 0.00 |
 | [Outlaw discrimination against those who do not get a Covid-19 vaccination](575801.md) | 347,514 | 344,997 | 2,517 | 0 | 99.28 | 0.72 | 0.00 |
