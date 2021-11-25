@@ -4,24 +4,24 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-11-25 01:00:09
+Last refreshed 2021-11-25 02:00:09
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Give the UK a Bank Holiday on Monday July 12th if England win Euro 2020](590282.md) | 364,767 | 364,308 | 459 | 0 | 99.87 | 0.13 | 0.00 |
-| [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 173,141 | 172,735 | 406 | 0 | 99.77 | 0.23 | 0.00 |
-| [Exempt dogs assessed by experts as safe from breed specific legislation](592813.md) | 126,930 | 125,747 | 1,183 | 0 | 99.07 | 0.93 | 0.00 |
-| [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 122,212 | 121,064 | 1,148 | 0 | 99.06 | 0.94 | 0.00 |
+| [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 173,143 | 172,737 | 406 | 0 | 99.77 | 0.23 | 0.00 |
+| [Exempt dogs assessed by experts as safe from breed specific legislation](592813.md) | 126,932 | 125,749 | 1,183 | 0 | 99.07 | 0.93 | 0.00 |
+| [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 122,221 | 121,073 | 1,148 | 0 | 99.06 | 0.94 | 0.00 |
 | [Commission an independent review of childcare funding and affordability](586700.md) | 113,699 | 113,424 | 275 | 0 | 99.76 | 0.24 | 0.00 |
 | [Dedicate funding for research into Fibrodysplasia Ossificans Progressiva (FOP)](590405.md) | 111,134 | 110,474 | 660 | 0 | 99.41 | 0.59 | 0.00 |
-| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 110,353 | 109,676 | 677 | 0 | 99.39 | 0.61 | 0.00 |
+| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 110,369 | 109,692 | 677 | 0 | 99.39 | 0.61 | 0.00 |
 | [#Reggieslaw - Regulate online animal sales](587654.md) | 107,774 | 106,767 | 1,007 | 0 | 99.07 | 0.93 | 0.00 |
-| [Change the law to include laboratory animals in the Animal Welfare Act.](591775.md) | 107,614 | 105,327 | 2,287 | 0 | 97.87 | 2.13 | 0.00 |
-| [We demand that the Gurkhas receive equal pensions](594155.md) | 107,270 | 104,942 | 2,328 | 0 | 97.83 | 2.17 | 0.00 |
-| [End the Cage Age for all farmed animals](593775.md) | 90,845 | 89,917 | 928 | 0 | 98.98 | 1.02 | 0.00 |
+| [Change the law to include laboratory animals in the Animal Welfare Act.](591775.md) | 107,618 | 105,330 | 2,288 | 0 | 97.87 | 2.13 | 0.00 |
+| [We demand that the Gurkhas receive equal pensions](594155.md) | 107,271 | 104,943 | 2,328 | 0 | 97.83 | 2.17 | 0.00 |
+| [End the Cage Age for all farmed animals](593775.md) | 90,846 | 89,918 | 928 | 0 | 98.98 | 1.02 | 0.00 |
 | [Plan to phase out animal experiments](590216.md) | 85,493 | 84,461 | 1,032 | 0 | 98.79 | 1.21 | 0.00 |
-| [Referendum in the United Kingdom to abolish the Coronavirus Act.](597665.md) | 82,429 | 81,420 | 1,009 | 0 | 98.78 | 1.22 | 0.00 |
-| [Provide more funding for stalking advocates for victims of stalking](593769.md) | 80,719 | 80,331 | 388 | 0 | 99.52 | 0.48 | 0.00 |
+| [Referendum in the United Kingdom to abolish the Coronavirus Act.](597665.md) | 82,433 | 81,423 | 1,010 | 0 | 98.77 | 1.23 | 0.00 |
+| [Provide more funding for stalking advocates for victims of stalking](593769.md) | 80,722 | 80,334 | 388 | 0 | 99.52 | 0.48 | 0.00 |
 | [Protect student choice: do not withdraw funding for BTEC qualifications](592642.md) | 60,676 | 60,470 | 206 | 0 | 99.66 | 0.34 | 0.00 |
 | [Invest urgently in the NHS cancer workforce in the autumn Spending Review](596566.md) | 54,688 | 54,395 | 293 | 0 | 99.46 | 0.54 | 0.00 |
 | [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 53,998 | 52,119 | 1,879 | 0 | 96.52 | 3.48 | 0.00 |
@@ -31,15 +31,15 @@ Last refreshed 2021-11-25 01:00:09
 | [Ban urban and garden pesticides to protect bees, other wildlife and human health](590309.md) | 40,017 | 39,685 | 332 | 0 | 99.17 | 0.83 | 0.00 |
 | [Remove South Africa from the travel 'Red List'](589382.md) | 39,654 | 33,570 | 6,084 | 0 | 84.66 | 15.34 | 0.00 |
 | [Do not put fluoride in all tap water.](597714.md) | 36,010 | 35,789 | 221 | 0 | 99.39 | 0.61 | 0.00 |
-| [Amend the Health and Care Bill to protect the NHS.](592557.md) | 35,590 | 35,115 | 475 | 0 | 98.67 | 1.33 | 0.00 |
-| [Make fireworks illegal to buy, with the exception of public displays.](591501.md) | 34,642 | 34,541 | 101 | 0 | 99.71 | 0.29 | 0.00 |
-| [Identify and sanction any Pakistani individuals involved in money laundering](594611.md) | 34,386 | 32,376 | 2,010 | 0 | 94.15 | 5.85 | 0.00 |
-| [Protect the title Nurse in UK law](587939.md) | 32,581 | 32,247 | 334 | 0 | 98.97 | 1.03 | 0.00 |
+| [Amend the Health and Care Bill to protect the NHS.](592557.md) | 35,593 | 35,118 | 475 | 0 | 98.67 | 1.33 | 0.00 |
+| [Make fireworks illegal to buy, with the exception of public displays.](591501.md) | 34,643 | 34,542 | 101 | 0 | 99.71 | 0.29 | 0.00 |
+| [Identify and sanction any Pakistani individuals involved in money laundering](594611.md) | 34,387 | 32,377 | 2,010 | 0 | 94.15 | 5.85 | 0.00 |
+| [Protect the title Nurse in UK law](587939.md) | 32,582 | 32,248 | 334 | 0 | 98.97 | 1.03 | 0.00 |
 | [Repeal the Coronavirus Act](592632.md) | 31,360 | 31,006 | 354 | 0 | 98.87 | 1.13 | 0.00 |
 | [Luke’s Law: Ban 'free bets' and emails that entice gamblers to place 'free bets'](587806.md) | 29,158 | 28,721 | 437 | 0 | 98.50 | 1.50 | 0.00 |
-| [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 27,811 | 27,794 | 17 | 0 | 99.94 | 0.06 | 0.00 |
+| [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 27,814 | 27,797 | 17 | 0 | 99.94 | 0.06 | 0.00 |
 | [Recall Parliament to debate vaccination of children before this is rolled out](594272.md) | 27,609 | 27,306 | 303 | 0 | 98.90 | 1.10 | 0.00 |
-| [Shakeel's Law - Reform laws on hit and run drivers    ](590271.md) | 26,720 | 26,633 | 87 | 0 | 99.67 | 0.33 | 0.00 |
+| [Shakeel's Law - Reform laws on hit and run drivers    ](590271.md) | 26,725 | 26,637 | 88 | 0 | 99.67 | 0.33 | 0.00 |
 | [Make the £20 per week uplift to Universal Credit permanent.](593104.md) | 23,447 | 23,272 | 175 | 0 | 99.25 | 0.75 | 0.00 |
 | [Do not impose any new requirements on parents who are home educating](594065.md) | 23,292 | 23,188 | 104 | 0 | 99.55 | 0.45 | 0.00 |
 | [Stop measuring the height and weight of children in primary school](586810.md) | 21,447 | 21,354 | 93 | 0 | 99.57 | 0.43 | 0.00 |
@@ -49,12 +49,12 @@ Last refreshed 2021-11-25 01:00:09
 | [Appoint an Allergy Tsar as a champion for people living with allergies](589716.md) | 19,588 | 19,468 | 120 | 0 | 99.39 | 0.61 | 0.00 |
 | [Process all asylum seekers off-shore using foreign aid budget](589479.md) | 19,433 | 19,187 | 246 | 0 | 98.73 | 1.27 | 0.00 |
 | [Hold a referendum on whether to keep the 2050 net zero target](599602.md) | 19,417 | 19,133 | 284 | 0 | 98.54 | 1.46 | 0.00 |
-| [End reviews of PIP and ESA awards for people with lifelong illnesses](593296.md) | 19,259 | 19,167 | 92 | 0 | 99.52 | 0.48 | 0.00 |
+| [End reviews of PIP and ESA awards for people with lifelong illnesses](593296.md) | 19,260 | 19,168 | 92 | 0 | 99.52 | 0.48 | 0.00 |
 | [Create a legal right for patients to receive timely face-to-face GP appointments](587701.md) | 19,141 | 19,110 | 31 | 0 | 99.84 | 0.16 | 0.00 |
 | [Remove Brazil from the Red to the Amber list](596048.md) | 18,773 | 18,132 | 641 | 0 | 96.59 | 3.41 | 0.00 |
 | [Require vaccine history be recorded on death certificates](587506.md) | 18,471 | 18,178 | 293 | 0 | 98.41 | 1.59 | 0.00 |
 | [Reform the VDPA 1979 to improve support for those harmed by covid-19 vaccines](587380.md) | 18,453 | 18,204 | 249 | 0 | 98.65 | 1.35 | 0.00 |
 | [Extend furlough for aviation sector](588433.md) | 17,150 | 17,010 | 140 | 0 | 99.18 | 0.82 | 0.00 |
 | [Allow dancing at weddings before the 21st June and if lockdown gets extended](587851.md) | 16,523 | 16,499 | 24 | 0 | 99.85 | 0.15 | 0.00 |
-| [Make the day of Diwali a public holiday](600808.md) | 16,007 | 15,941 | 66 | 0 | 99.59 | 0.41 | 0.00 |
+| [Make the day of Diwali a public holiday](600808.md) | 16,008 | 15,942 | 66 | 0 | 99.59 | 0.41 | 0.00 |
 | [Support the pension triple lock](591161.md) | 15,826 | 15,356 | 470 | 0 | 97.03 | 2.97 | 0.00 |
