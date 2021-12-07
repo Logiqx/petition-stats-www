@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-12-07 03:00:11
+Last refreshed 2021-12-07 04:00:10
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -12,17 +12,17 @@ Last refreshed 2021-12-07 03:00:11
 | [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 173,371 | 172,964 | 407 | 0 | 99.77 | 0.23 | 0.00 |
 | [Exempt dogs assessed by experts as safe from breed specific legislation](592813.md) | 127,103 | 125,913 | 1,190 | 0 | 99.06 | 0.94 | 0.00 |
 | [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 125,627 | 124,444 | 1,183 | 0 | 99.06 | 0.94 | 0.00 |
-| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 120,264 | 119,530 | 734 | 0 | 99.39 | 0.61 | 0.00 |
+| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 120,267 | 119,533 | 734 | 0 | 99.39 | 0.61 | 0.00 |
 | [Dedicate funding for research into Fibrodysplasia Ossificans Progressiva (FOP)](590405.md) | 111,189 | 110,529 | 660 | 0 | 99.41 | 0.59 | 0.00 |
 | [#Reggieslaw - Regulate online animal sales](587654.md) | 108,508 | 107,488 | 1,020 | 0 | 99.06 | 0.94 | 0.00 |
 | [Change the law to include laboratory animals in the Animal Welfare Act.](591775.md) | 108,461 | 106,164 | 2,297 | 0 | 97.88 | 2.12 | 0.00 |
 | [We demand that the Gurkhas receive equal pensions](594155.md) | 107,384 | 105,052 | 2,332 | 0 | 97.83 | 2.17 | 0.00 |
-| [Allow fully vaccinated people coming from red list countries to isolate at home](588072.md) | 99,190 | 95,946 | 3,244 | 0 | 96.73 | 3.27 | 0.00 |
+| [Allow fully vaccinated people coming from red list countries to isolate at home](588072.md) | 99,227 | 95,983 | 3,244 | 0 | 96.73 | 3.27 | 0.00 |
 | [End the Cage Age for all farmed animals](593775.md) | 91,984 | 91,034 | 950 | 0 | 98.97 | 1.03 | 0.00 |
-| [Referendum in the United Kingdom to abolish the Coronavirus Act.](597665.md) | 88,884 | 87,781 | 1,103 | 0 | 98.76 | 1.24 | 0.00 |
+| [Referendum in the United Kingdom to abolish the Coronavirus Act.](597665.md) | 88,888 | 87,785 | 1,103 | 0 | 98.76 | 1.24 | 0.00 |
 | [Plan to phase out animal experiments](590216.md) | 85,785 | 84,744 | 1,041 | 0 | 98.79 | 1.21 | 0.00 |
 | [Provide more funding for stalking advocates for victims of stalking](593769.md) | 82,179 | 81,776 | 403 | 0 | 99.51 | 0.49 | 0.00 |
-| [Protect student choice: do not withdraw funding for BTEC qualifications](592642.md) | 63,400 | 63,188 | 212 | 0 | 99.67 | 0.33 | 0.00 |
+| [Protect student choice: do not withdraw funding for BTEC qualifications](592642.md) | 63,401 | 63,189 | 212 | 0 | 99.67 | 0.33 | 0.00 |
 | [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 55,529 | 53,578 | 1,951 | 0 | 96.49 | 3.51 | 0.00 |
 | [Invest urgently in the NHS cancer workforce in the autumn Spending Review](596566.md) | 54,891 | 54,598 | 293 | 0 | 99.47 | 0.53 | 0.00 |
 | [Amend PCSC Bill to withdraw power to seize vehicles used as mobile homes](583903.md) | 54,008 | 53,529 | 479 | 0 | 99.11 | 0.89 | 0.00 |
@@ -40,7 +40,7 @@ Last refreshed 2021-12-07 03:00:11
 | [Recall Parliament to debate vaccination of children before this is rolled out](594272.md) | 27,670 | 27,367 | 303 | 0 | 98.90 | 1.10 | 0.00 |
 | [Make the £20 per week uplift to Universal Credit permanent.](593104.md) | 23,588 | 23,412 | 176 | 0 | 99.25 | 0.75 | 0.00 |
 | [Do not impose any new requirements on parents who are home educating](594065.md) | 23,485 | 23,381 | 104 | 0 | 99.56 | 0.44 | 0.00 |
-| [Add Sickle Cell to the Prescription Charge Exemption List](588355.md) | 21,730 | 21,634 | 96 | 0 | 99.56 | 0.44 | 0.00 |
+| [Add Sickle Cell to the Prescription Charge Exemption List](588355.md) | 21,731 | 21,635 | 96 | 0 | 99.56 | 0.44 | 0.00 |
 | [Process all asylum seekers off-shore using foreign aid budget](589479.md) | 20,781 | 20,524 | 257 | 0 | 98.76 | 1.24 | 0.00 |
 | [Hold a referendum on whether to keep the 2050 net zero target](599602.md) | 20,267 | 19,959 | 308 | 0 | 98.48 | 1.52 | 0.00 |
 | [Run a public awareness campaign to address driver aggression toward cyclists](588492.md) | 20,152 | 20,057 | 95 | 0 | 99.53 | 0.47 | 0.00 |
