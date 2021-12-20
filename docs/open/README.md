@@ -4,21 +4,21 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-12-20 03:00:12
+Last refreshed 2021-12-20 04:00:10
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Give the UK a Bank Holiday on Monday July 12th if England win Euro 2020](590282.md) | 364,796 | 364,337 | 459 | 0 | 99.87 | 0.13 | 0.00 |
-| [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 281,223 | 278,298 | 2,925 | 0 | 98.96 | 1.04 | 0.00 |
+| [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 281,278 | 278,352 | 2,926 | 0 | 98.96 | 1.04 | 0.00 |
 | [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 173,638 | 173,230 | 408 | 0 | 99.77 | 0.23 | 0.00 |
-| [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 130,235 | 128,979 | 1,256 | 0 | 99.04 | 0.96 | 0.00 |
-| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 129,747 | 128,939 | 808 | 0 | 99.38 | 0.62 | 0.00 |
-| [Exempt dogs assessed by experts as safe from breed specific legislation](592813.md) | 127,176 | 125,986 | 1,190 | 0 | 99.06 | 0.94 | 0.00 |
+| [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 130,240 | 128,984 | 1,256 | 0 | 99.04 | 0.96 | 0.00 |
+| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 129,749 | 128,941 | 808 | 0 | 99.38 | 0.62 | 0.00 |
+| [Exempt dogs assessed by experts as safe from breed specific legislation](592813.md) | 127,177 | 125,987 | 1,190 | 0 | 99.06 | 0.94 | 0.00 |
 | [Dedicate funding for research into Fibrodysplasia Ossificans Progressiva (FOP)](590405.md) | 111,223 | 110,563 | 660 | 0 | 99.41 | 0.59 | 0.00 |
 | [Change the law to include laboratory animals in the Animal Welfare Act.](591775.md) | 108,888 | 106,586 | 2,302 | 0 | 97.89 | 2.11 | 0.00 |
 | [We demand that the Gurkhas receive equal pensions](594155.md) | 107,562 | 105,226 | 2,336 | 0 | 97.83 | 2.17 | 0.00 |
 | [Referendum in the United Kingdom to abolish the Coronavirus Act.](597665.md) | 102,085 | 100,847 | 1,238 | 0 | 98.79 | 1.21 | 0.00 |
-| [Do not implement proposed new offences for vehicle "tampering"](600954.md) | 98,265 | 97,985 | 280 | 0 | 99.72 | 0.28 | 0.00 |
+| [Do not implement proposed new offences for vehicle "tampering"](600954.md) | 98,278 | 97,998 | 280 | 0 | 99.72 | 0.28 | 0.00 |
 | [End the Cage Age for all farmed animals](593775.md) | 94,517 | 93,548 | 969 | 0 | 98.97 | 1.03 | 0.00 |
 | [Plan to phase out animal experiments](590216.md) | 86,717 | 85,669 | 1,048 | 0 | 98.79 | 1.21 | 0.00 |
 | [Provide more funding for stalking advocates for victims of stalking](593769.md) | 82,895 | 82,490 | 405 | 0 | 99.51 | 0.49 | 0.00 |
@@ -35,7 +35,7 @@ Last refreshed 2021-12-20 03:00:12
 | [Repeal the Coronavirus Act](592632.md) | 32,213 | 31,850 | 363 | 0 | 98.87 | 1.13 | 0.00 |
 | [Luke’s Law: Ban 'free bets' and emails that entice gamblers to place 'free bets'](587806.md) | 31,065 | 30,606 | 459 | 0 | 98.52 | 1.48 | 0.00 |
 | [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 30,962 | 30,943 | 19 | 0 | 99.94 | 0.06 | 0.00 |
-| [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 28,536 | 28,242 | 294 | 0 | 98.97 | 1.03 | 0.00 |
+| [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 28,540 | 28,246 | 294 | 0 | 98.97 | 1.03 | 0.00 |
 | [Recall Parliament to debate vaccination of children before this is rolled out](594272.md) | 27,833 | 27,529 | 304 | 0 | 98.91 | 1.09 | 0.00 |
 | [Make the £20 per week uplift to Universal Credit permanent.](593104.md) | 23,746 | 23,569 | 177 | 0 | 99.25 | 0.75 | 0.00 |
 | [Do not impose any new requirements on parents who are home educating](594065.md) | 23,558 | 23,454 | 104 | 0 | 99.56 | 0.44 | 0.00 |
