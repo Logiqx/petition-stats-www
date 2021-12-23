@@ -4,36 +4,36 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-12-23 06:00:24
+Last refreshed 2021-12-23 07:00:11
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Give the UK a Bank Holiday on Monday July 12th if England win Euro 2020](590282.md) | 364,796 | 364,337 | 459 | 0 | 99.87 | 0.13 | 0.00 |
-| [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 294,375 | 291,356 | 3,019 | 0 | 98.97 | 1.03 | 0.00 |
+| [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 294,410 | 291,391 | 3,019 | 0 | 98.97 | 1.03 | 0.00 |
 | [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 173,679 | 173,271 | 408 | 0 | 99.77 | 0.23 | 0.00 |
-| [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 131,171 | 129,877 | 1,294 | 0 | 99.01 | 0.99 | 0.00 |
-| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 130,745 | 129,931 | 814 | 0 | 99.38 | 0.62 | 0.00 |
+| [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 131,177 | 129,883 | 1,294 | 0 | 99.01 | 0.99 | 0.00 |
+| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 130,748 | 129,934 | 814 | 0 | 99.38 | 0.62 | 0.00 |
 | [Exempt dogs assessed by experts as safe from breed specific legislation](592813.md) | 127,188 | 125,998 | 1,190 | 0 | 99.06 | 0.94 | 0.00 |
 | [Dedicate funding for research into Fibrodysplasia Ossificans Progressiva (FOP)](590405.md) | 111,227 | 110,567 | 660 | 0 | 99.41 | 0.59 | 0.00 |
-| [Change the law to include laboratory animals in the Animal Welfare Act.](591775.md) | 108,952 | 106,650 | 2,302 | 0 | 97.89 | 2.11 | 0.00 |
+| [Change the law to include laboratory animals in the Animal Welfare Act.](591775.md) | 108,953 | 106,651 | 2,302 | 0 | 97.89 | 2.11 | 0.00 |
 | [We demand that the Gurkhas receive equal pensions](594155.md) | 107,580 | 105,244 | 2,336 | 0 | 97.83 | 2.17 | 0.00 |
-| [Do not implement proposed new offences for vehicle "tampering"](600954.md) | 104,180 | 103,875 | 305 | 0 | 99.71 | 0.29 | 0.00 |
-| [Referendum in the United Kingdom to abolish the Coronavirus Act.](597665.md) | 102,410 | 101,168 | 1,242 | 0 | 98.79 | 1.21 | 0.00 |
-| [End the Cage Age for all farmed animals](593775.md) | 96,769 | 95,774 | 995 | 0 | 98.97 | 1.03 | 0.00 |
-| [Plan to phase out animal experiments](590216.md) | 87,253 | 86,195 | 1,058 | 0 | 98.79 | 1.21 | 0.00 |
+| [Do not implement proposed new offences for vehicle "tampering"](600954.md) | 104,185 | 103,880 | 305 | 0 | 99.71 | 0.29 | 0.00 |
+| [Referendum in the United Kingdom to abolish the Coronavirus Act.](597665.md) | 102,411 | 101,169 | 1,242 | 0 | 98.79 | 1.21 | 0.00 |
+| [End the Cage Age for all farmed animals](593775.md) | 96,786 | 95,791 | 995 | 0 | 98.97 | 1.03 | 0.00 |
+| [Plan to phase out animal experiments](590216.md) | 87,258 | 86,200 | 1,058 | 0 | 98.79 | 1.21 | 0.00 |
 | [Provide more funding for stalking advocates for victims of stalking](593769.md) | 82,959 | 82,554 | 405 | 0 | 99.51 | 0.49 | 0.00 |
 | [Protect student choice: do not withdraw funding for BTEC qualifications](592642.md) | 65,775 | 65,560 | 215 | 0 | 99.67 | 0.33 | 0.00 |
 | [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 56,845 | 54,798 | 2,047 | 0 | 96.40 | 3.60 | 0.00 |
 | [Invest urgently in the NHS cancer workforce in the autumn Spending Review](596566.md) | 55,122 | 54,829 | 293 | 0 | 99.47 | 0.53 | 0.00 |
-| [Amend the Health and Care Bill to protect the NHS.](592557.md) | 45,085 | 44,517 | 568 | 0 | 98.74 | 1.26 | 0.00 |
+| [Amend the Health and Care Bill to protect the NHS.](592557.md) | 45,086 | 44,518 | 568 | 0 | 98.74 | 1.26 | 0.00 |
 | [Remove South Africa from the travel 'Red List'](589382.md) | 41,627 | 35,390 | 6,237 | 0 | 85.02 | 14.98 | 0.00 |
 | [Ban urban and garden pesticides to protect bees, other wildlife and human health](590309.md) | 40,752 | 40,417 | 335 | 0 | 99.18 | 0.82 | 0.00 |
-| [Do not put fluoride in all tap water.](597714.md) | 37,092 | 36,863 | 229 | 0 | 99.38 | 0.62 | 0.00 |
+| [Do not put fluoride in all tap water.](597714.md) | 37,094 | 36,865 | 229 | 0 | 99.38 | 0.62 | 0.00 |
 | [Identify and sanction any Pakistani individuals involved in money laundering](594611.md) | 35,765 | 33,753 | 2,012 | 0 | 94.37 | 5.63 | 0.00 |
 | [Make fireworks illegal to buy, with the exception of public displays.](591501.md) | 35,468 | 35,364 | 104 | 0 | 99.71 | 0.29 | 0.00 |
-| [Shakeel's Law - Reform laws on hit and run drivers    ](590271.md) | 33,867 | 33,750 | 117 | 0 | 99.65 | 0.35 | 0.00 |
-| [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 33,278 | 32,932 | 346 | 0 | 98.96 | 1.04 | 0.00 |
-| [Repeal the Coronavirus Act](592632.md) | 32,414 | 32,048 | 366 | 0 | 98.87 | 1.13 | 0.00 |
+| [Shakeel's Law - Reform laws on hit and run drivers    ](590271.md) | 33,870 | 33,753 | 117 | 0 | 99.65 | 0.35 | 0.00 |
+| [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 33,339 | 32,992 | 347 | 0 | 98.96 | 1.04 | 0.00 |
+| [Repeal the Coronavirus Act](592632.md) | 32,415 | 32,049 | 366 | 0 | 98.87 | 1.13 | 0.00 |
 | [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 30,991 | 30,972 | 19 | 0 | 99.94 | 0.06 | 0.00 |
 | [Recall Parliament to debate vaccination of children before this is rolled out](594272.md) | 27,850 | 27,546 | 304 | 0 | 98.91 | 1.09 | 0.00 |
 | [Make the £20 per week uplift to Universal Credit permanent.](593104.md) | 23,773 | 23,596 | 177 | 0 | 99.26 | 0.74 | 0.00 |
@@ -46,15 +46,15 @@ Last refreshed 2021-12-23 06:00:24
 | [Require all school staff receive training on SEN children](587365.md) | 19,850 | 19,807 | 43 | 0 | 99.78 | 0.22 | 0.00 |
 | [Bring into effect a ban on research & testing on dogs in the UK](597559.md) | 19,702 | 19,543 | 159 | 0 | 99.19 | 0.81 | 0.00 |
 | [Remove Brazil from the Red to the Amber list](596048.md) | 18,778 | 18,137 | 641 | 0 | 96.59 | 3.41 | 0.00 |
-| [Do not make vaccination against Covid-19 mandatory](602282.md) | 18,647 | 18,500 | 147 | 0 | 99.21 | 0.79 | 0.00 |
-| [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 17,529 | 17,191 | 338 | 0 | 98.07 | 1.93 | 0.00 |
+| [Do not make vaccination against Covid-19 mandatory](602282.md) | 18,651 | 18,504 | 147 | 0 | 99.21 | 0.79 | 0.00 |
+| [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 17,543 | 17,205 | 338 | 0 | 98.07 | 1.93 | 0.00 |
 | [Make the day of Diwali a public holiday](600808.md) | 16,511 | 16,443 | 68 | 0 | 99.59 | 0.41 | 0.00 |
 | [Make it an offence to hit a cat and drive off](591698.md) | 16,247 | 16,172 | 75 | 0 | 99.54 | 0.46 | 0.00 |
 | [Stop Grooming Gang members accessing public funds to fight their convictions](590454.md) | 16,016 | 15,786 | 230 | 0 | 98.56 | 1.44 | 0.00 |
 | [Support the pension triple lock](591161.md) | 15,986 | 15,515 | 471 | 0 | 97.05 | 2.95 | 0.00 |
 | [Fund free drink spiking test kits for all bars](597143.md) | 15,869 | 15,824 | 45 | 0 | 99.72 | 0.28 | 0.00 |
-| [Prioritise funding for a new hospital for King's Lynn & West Norfolk](590390.md) | 15,676 | 15,649 | 27 | 0 | 99.83 | 0.17 | 0.00 |
+| [Prioritise funding for a new hospital for King's Lynn & West Norfolk](590390.md) | 15,677 | 15,650 | 27 | 0 | 99.83 | 0.17 | 0.00 |
 | [Increase dedicated funding for childhood cancer research](597620.md) | 15,649 | 15,494 | 155 | 0 | 99.01 | 0.99 | 0.00 |
-| [Abolish time limit for requesting sentences for child murder be reviewed](602869.md) | 15,400 | 15,350 | 50 | 0 | 99.68 | 0.32 | 0.00 |
+| [Abolish time limit for requesting sentences for child murder be reviewed](602869.md) | 15,409 | 15,359 | 50 | 0 | 99.68 | 0.32 | 0.00 |
 | [Add Poland to the green list for international travel](590080.md) | 14,853 | 14,707 | 146 | 0 | 99.02 | 0.98 | 0.00 |
 | [Grant PSV holders automatic Class 2 entitlement for free](590718.md) | 14,765 | 14,756 | 9 | 0 | 99.94 | 0.06 | 0.00 |
