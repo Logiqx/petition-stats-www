@@ -4,12 +4,12 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2021-12-27 03:00:10
+Last refreshed 2021-12-27 04:00:09
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Give the UK a Bank Holiday on Monday July 12th if England win Euro 2020](590282.md) | 364,800 | 364,341 | 459 | 0 | 99.87 | 0.13 | 0.00 |
-| [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 298,577 | 295,524 | 3,053 | 0 | 98.98 | 1.02 | 0.00 |
+| [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 298,585 | 295,531 | 3,054 | 0 | 98.98 | 1.02 | 0.00 |
 | [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 173,714 | 173,306 | 408 | 0 | 99.77 | 0.23 | 0.00 |
 | [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 132,159 | 130,846 | 1,313 | 0 | 99.01 | 0.99 | 0.00 |
 | [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 131,302 | 130,486 | 816 | 0 | 99.38 | 0.62 | 0.00 |
@@ -18,9 +18,9 @@ Last refreshed 2021-12-27 03:00:10
 | [Change the law to include laboratory animals in the Animal Welfare Act.](591775.md) | 108,999 | 106,696 | 2,303 | 0 | 97.89 | 2.11 | 0.00 |
 | [We demand that the Gurkhas receive equal pensions](594155.md) | 107,611 | 105,273 | 2,338 | 0 | 97.83 | 2.17 | 0.00 |
 | [Do not implement proposed new offences for vehicle "tampering"](600954.md) | 105,246 | 104,933 | 313 | 0 | 99.70 | 0.30 | 0.00 |
-| [Referendum in the United Kingdom to abolish the Coronavirus Act.](597665.md) | 102,539 | 101,294 | 1,245 | 0 | 98.79 | 1.21 | 0.00 |
+| [Referendum in the United Kingdom to abolish the Coronavirus Act.](597665.md) | 102,540 | 101,295 | 1,245 | 0 | 98.79 | 1.21 | 0.00 |
 | [End the Cage Age for all farmed animals](593775.md) | 98,322 | 97,321 | 1,001 | 0 | 98.98 | 1.02 | 0.00 |
-| [Plan to phase out animal experiments](590216.md) | 87,869 | 86,804 | 1,065 | 0 | 98.79 | 1.21 | 0.00 |
+| [Plan to phase out animal experiments](590216.md) | 87,870 | 86,805 | 1,065 | 0 | 98.79 | 1.21 | 0.00 |
 | [Provide more funding for stalking advocates for victims of stalking](593769.md) | 82,993 | 82,588 | 405 | 0 | 99.51 | 0.49 | 0.00 |
 | [Protect student choice: do not withdraw funding for BTEC qualifications](592642.md) | 65,810 | 65,595 | 215 | 0 | 99.67 | 0.33 | 0.00 |
 | [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 56,951 | 54,903 | 2,048 | 0 | 96.40 | 3.60 | 0.00 |
@@ -29,11 +29,11 @@ Last refreshed 2021-12-27 03:00:10
 | [Remove South Africa from the travel 'Red List'](589382.md) | 41,629 | 35,392 | 6,237 | 0 | 85.02 | 14.98 | 0.00 |
 | [Ban urban and garden pesticides to protect bees, other wildlife and human health](590309.md) | 40,773 | 40,438 | 335 | 0 | 99.18 | 0.82 | 0.00 |
 | [Do not put fluoride in all tap water.](597714.md) | 37,182 | 36,952 | 230 | 0 | 99.38 | 0.62 | 0.00 |
-| [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 36,531 | 36,152 | 379 | 0 | 98.96 | 1.04 | 0.00 |
+| [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 36,534 | 36,155 | 379 | 0 | 98.96 | 1.04 | 0.00 |
 | [Identify and sanction any Pakistani individuals involved in money laundering](594611.md) | 36,035 | 34,022 | 2,013 | 0 | 94.41 | 5.59 | 0.00 |
 | [Make fireworks illegal to buy, with the exception of public displays.](591501.md) | 35,500 | 35,396 | 104 | 0 | 99.71 | 0.29 | 0.00 |
-| [Shakeel's Law - Reform laws on hit and run drivers    ](590271.md) | 34,254 | 34,133 | 121 | 0 | 99.65 | 0.35 | 0.00 |
-| [Repeal the Coronavirus Act](592632.md) | 32,461 | 32,095 | 366 | 0 | 98.87 | 1.13 | 0.00 |
+| [Shakeel's Law - Reform laws on hit and run drivers    ](590271.md) | 34,257 | 34,136 | 121 | 0 | 99.65 | 0.35 | 0.00 |
+| [Repeal the Coronavirus Act](592632.md) | 32,463 | 32,097 | 366 | 0 | 98.87 | 1.13 | 0.00 |
 | [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 31,021 | 31,002 | 19 | 0 | 99.94 | 0.06 | 0.00 |
 | [Recall Parliament to debate vaccination of children before this is rolled out](594272.md) | 27,857 | 27,553 | 304 | 0 | 98.91 | 1.09 | 0.00 |
 | [Make the £20 per week uplift to Universal Credit permanent.](593104.md) | 23,783 | 23,606 | 177 | 0 | 99.26 | 0.74 | 0.00 |
@@ -41,10 +41,10 @@ Last refreshed 2021-12-27 03:00:10
 | [Create an emergency fund for ASD (autism) & ADHD assessments](589677.md) | 21,098 | 21,024 | 74 | 0 | 99.65 | 0.35 | 0.00 |
 | [Process all asylum seekers off-shore using foreign aid budget](589479.md) | 20,923 | 20,666 | 257 | 0 | 98.77 | 1.23 | 0.00 |
 | [Hold a referendum on whether to keep the 2050 net zero target](599602.md) | 20,582 | 20,270 | 312 | 0 | 98.48 | 1.52 | 0.00 |
-| [End reviews of PIP and ESA awards for people with lifelong illnesses](593296.md) | 20,263 | 20,168 | 95 | 0 | 99.53 | 0.47 | 0.00 |
-| [Appoint an Allergy Tsar as a champion for people living with allergies](589716.md) | 20,003 | 19,880 | 123 | 0 | 99.39 | 0.61 | 0.00 |
+| [End reviews of PIP and ESA awards for people with lifelong illnesses](593296.md) | 20,264 | 20,169 | 95 | 0 | 99.53 | 0.47 | 0.00 |
+| [Appoint an Allergy Tsar as a champion for people living with allergies](589716.md) | 20,004 | 19,881 | 123 | 0 | 99.39 | 0.61 | 0.00 |
 | [Bring into effect a ban on research & testing on dogs in the UK](597559.md) | 19,774 | 19,614 | 160 | 0 | 99.19 | 0.81 | 0.00 |
-| [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 19,665 | 19,294 | 371 | 0 | 98.11 | 1.89 | 0.00 |
+| [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 19,666 | 19,295 | 371 | 0 | 98.11 | 1.89 | 0.00 |
 | [Do not make vaccination against Covid-19 mandatory](602282.md) | 19,025 | 18,871 | 154 | 0 | 99.19 | 0.81 | 0.00 |
 | [Remove Brazil from the Red to the Amber list](596048.md) | 18,778 | 18,137 | 641 | 0 | 96.59 | 3.41 | 0.00 |
 | [Make the day of Diwali a public holiday](600808.md) | 16,518 | 16,450 | 68 | 0 | 99.59 | 0.41 | 0.00 |
@@ -55,6 +55,6 @@ Last refreshed 2021-12-27 03:00:10
 | [Abolish time limit for requesting sentences for child murder be reviewed](602869.md) | 15,717 | 15,666 | 51 | 0 | 99.68 | 0.32 | 0.00 |
 | [Prioritise funding for a new hospital for King's Lynn & West Norfolk](590390.md) | 15,695 | 15,668 | 27 | 0 | 99.83 | 0.17 | 0.00 |
 | [Increase dedicated funding for childhood cancer research](597620.md) | 15,653 | 15,498 | 155 | 0 | 99.01 | 0.99 | 0.00 |
-| [Repeal Breed Specific Legislation](603988.md) | 15,012 | 14,858 | 154 | 0 | 98.97 | 1.03 | 0.00 |
+| [Repeal Breed Specific Legislation](603988.md) | 15,040 | 14,883 | 157 | 0 | 98.96 | 1.04 | 0.00 |
 | [Add Poland to the green list for international travel](590080.md) | 14,857 | 14,711 | 146 | 0 | 99.02 | 0.98 | 0.00 |
 | [Grant PSV holders automatic Class 2 entitlement for free](590718.md) | 14,777 | 14,768 | 9 | 0 | 99.94 | 0.06 | 0.00 |
