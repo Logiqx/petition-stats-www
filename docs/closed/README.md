@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-01-06 14:00:22
+Last refreshed 2022-01-06 15:00:25
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -18,10 +18,10 @@ Last refreshed 2022-01-06 14:00:22
 | [Reclose schools and colleges due to increase in COVID-19 cases](550846.md) | 428,789 | 428,108 | 681 | 0 | 99.84 | 0.16 | 0.00 |
 | [Implement UK lockdown for preventing spread of COVID19](301397.md) | 409,474 | 406,898 | 2,576 | 0 | 99.37 | 0.63 | 0.00 |
 | [Introduce sanctions against Israel](585314.md) | 388,539 | 383,449 | 5,090 | 0 | 98.69 | 1.31 | 0.00 |
-| [Do not rollout Covid-19 vaccine passports](569957.md) | 375,210 | 371,043 | 4,167 | 0 | 98.89 | 1.11 | 0.00 |
-| [Reimburse all students of this year’s fees due to strikes and COVID-19](302855.md) | 353,130 | 351,856 | 1,274 | 0 | 99.64 | 0.36 | 0.00 |
+| [Do not rollout Covid-19 vaccine passports](569957.md) | 375,209 | 371,042 | 4,167 | 0 | 98.89 | 1.11 | 0.00 |
+| [Reimburse all students of this year’s fees due to strikes and COVID-19](302855.md) | 353,129 | 351,855 | 1,274 | 0 | 99.64 | 0.36 | 0.00 |
 | [Outlaw discrimination against those who do not get a Covid-19 vaccination](575801.md) | 347,514 | 344,997 | 2,517 | 0 | 99.28 | 0.72 | 0.00 |
-| [Prevent any restrictions on those who refuse a Covid-19 vaccination](323442.md) | 337,146 | 334,155 | 2,991 | 0 | 99.11 | 0.89 | 0.00 |
+| [Prevent any restrictions on those who refuse a Covid-19 vaccination](323442.md) | 337,145 | 334,154 | 2,991 | 0 | 99.11 | 0.89 | 0.00 |
 | [Make dog theft a specific criminal offence](560216.md) | 316,545 | 314,868 | 1,677 | 0 | 99.47 | 0.53 | 0.00 |
 | [Limit the Sale and Use of Fireworks to Organisers of Licensed Displays Only](319891.md) | 301,611 | 300,328 | 1,283 | 0 | 99.57 | 0.43 | 0.00 |
 | [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 286,797 | 280,363 | 6,434 | 0 | 97.76 | 2.24 | 0.00 |
