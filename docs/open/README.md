@@ -4,32 +4,32 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-01-14 04:00:08
+Last refreshed 2022-01-14 05:00:09
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 319,082 | 315,724 | 3,358 | 0 | 98.95 | 1.05 | 0.00 |
+| [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 319,083 | 315,725 | 3,358 | 0 | 98.95 | 1.05 | 0.00 |
 | [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 173,998 | 173,588 | 410 | 0 | 99.76 | 0.24 | 0.00 |
-| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 148,119 | 147,180 | 939 | 0 | 99.37 | 0.63 | 0.00 |
+| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 148,141 | 147,200 | 941 | 0 | 99.36 | 0.64 | 0.00 |
 | [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 134,270 | 132,919 | 1,351 | 0 | 98.99 | 1.01 | 0.00 |
-| [Exempt dogs assessed by experts as safe from breed specific legislation](592813.md) | 127,426 | 126,235 | 1,191 | 0 | 99.07 | 0.93 | 0.00 |
+| [Exempt dogs assessed by experts as safe from breed specific legislation](592813.md) | 127,427 | 126,236 | 1,191 | 0 | 99.07 | 0.93 | 0.00 |
 | [Change the law to include laboratory animals in the Animal Welfare Act.](591775.md) | 109,748 | 107,442 | 2,306 | 0 | 97.90 | 2.10 | 0.00 |
-| [Do not implement proposed new offences for vehicle "tampering"](600954.md) | 108,275 | 107,944 | 331 | 0 | 99.69 | 0.31 | 0.00 |
+| [Do not implement proposed new offences for vehicle "tampering"](600954.md) | 108,277 | 107,946 | 331 | 0 | 99.69 | 0.31 | 0.00 |
 | [We demand that the Gurkhas receive equal pensions](594155.md) | 108,033 | 105,691 | 2,342 | 0 | 97.83 | 2.17 | 0.00 |
 | [End the Cage Age for all farmed animals](593775.md) | 107,688 | 106,630 | 1,058 | 0 | 99.02 | 0.98 | 0.00 |
 | [Referendum in the United Kingdom to abolish the Coronavirus Act.](597665.md) | 105,758 | 104,475 | 1,283 | 0 | 98.79 | 1.21 | 0.00 |
 | [Provide more funding for stalking advocates for victims of stalking](593769.md) | 103,788 | 103,272 | 516 | 0 | 99.50 | 0.50 | 0.00 |
-| [Repeal Breed Specific Legislation](603988.md) | 84,683 | 83,930 | 753 | 0 | 99.11 | 0.89 | 0.00 |
-| [Protect student choice: do not withdraw funding for BTEC qualifications](592642.md) | 71,540 | 71,314 | 226 | 0 | 99.68 | 0.32 | 0.00 |
+| [Repeal Breed Specific Legislation](603988.md) | 84,694 | 83,941 | 753 | 0 | 99.11 | 0.89 | 0.00 |
+| [Protect student choice: do not withdraw funding for BTEC qualifications](592642.md) | 71,542 | 71,316 | 226 | 0 | 99.68 | 0.32 | 0.00 |
 | [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 62,145 | 61,447 | 698 | 0 | 98.88 | 1.12 | 0.00 |
-| [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 58,887 | 56,774 | 2,113 | 0 | 96.41 | 3.59 | 0.00 |
+| [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 58,888 | 56,775 | 2,113 | 0 | 96.41 | 3.59 | 0.00 |
 | [Invest urgently in the NHS cancer workforce in the autumn Spending Review](596566.md) | 55,529 | 55,236 | 293 | 0 | 99.47 | 0.53 | 0.00 |
 | [Make fireworks illegal to buy, with the exception of public displays.](591501.md) | 46,038 | 45,869 | 169 | 0 | 99.63 | 0.37 | 0.00 |
-| [Amend the Health and Care Bill to protect the NHS.](592557.md) | 45,767 | 45,196 | 571 | 0 | 98.75 | 1.25 | 0.00 |
+| [Amend the Health and Care Bill to protect the NHS.](592557.md) | 45,768 | 45,197 | 571 | 0 | 98.75 | 1.25 | 0.00 |
 | [Ban urban and garden pesticides to protect bees, other wildlife and human health](590309.md) | 43,548 | 43,193 | 355 | 0 | 99.18 | 0.82 | 0.00 |
-| [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 40,507 | 39,840 | 667 | 0 | 98.35 | 1.65 | 0.00 |
-| [Cancel GCSE and A-Level Exams for Summer 2022 due to lack of proper education](597282.md) | 39,809 | 39,261 | 548 | 0 | 98.62 | 1.38 | 0.00 |
-| [Protect free NHS prescriptions for over 60s](594390.md) | 38,276 | 38,148 | 128 | 0 | 99.67 | 0.33 | 0.00 |
+| [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 40,509 | 39,842 | 667 | 0 | 98.35 | 1.65 | 0.00 |
+| [Cancel GCSE and A-Level Exams for Summer 2022 due to lack of proper education](597282.md) | 39,810 | 39,262 | 548 | 0 | 98.62 | 1.38 | 0.00 |
+| [Protect free NHS prescriptions for over 60s](594390.md) | 38,277 | 38,149 | 128 | 0 | 99.67 | 0.33 | 0.00 |
 | [Do not put fluoride in all tap water.](597714.md) | 37,957 | 37,724 | 233 | 0 | 99.39 | 0.61 | 0.00 |
 | [Identify and sanction any Pakistani individuals involved in money laundering](594611.md) | 37,200 | 35,185 | 2,015 | 0 | 94.58 | 5.42 | 0.00 |
 | [Repeal the Coronavirus Act](592632.md) | 32,690 | 32,321 | 369 | 0 | 98.87 | 1.13 | 0.00 |
@@ -40,20 +40,20 @@ Last refreshed 2022-01-14 04:00:08
 | [Do not impose any new requirements on parents who are home educating](594065.md) | 23,635 | 23,530 | 105 | 0 | 99.56 | 0.44 | 0.00 |
 | [Bring into effect a ban on research & testing on dogs in the UK](597559.md) | 22,742 | 22,559 | 183 | 0 | 99.20 | 0.80 | 0.00 |
 | [Hold a referendum on whether to keep the 2050 net zero target](599602.md) | 20,943 | 20,626 | 317 | 0 | 98.49 | 1.51 | 0.00 |
-| [Revoke local government powers to charge CAZ, LEZ, and ULEZ.](599985.md) | 20,829 | 20,821 | 8 | 0 | 99.96 | 0.04 | 0.00 |
+| [Revoke local government powers to charge CAZ, LEZ, and ULEZ.](599985.md) | 20,830 | 20,822 | 8 | 0 | 99.96 | 0.04 | 0.00 |
 | [End reviews of PIP and ESA awards for people with lifelong illnesses](593296.md) | 20,820 | 20,724 | 96 | 0 | 99.54 | 0.46 | 0.00 |
 | [Appoint an Allergy Tsar as a champion for people living with allergies](589716.md) | 20,471 | 20,342 | 129 | 0 | 99.37 | 0.63 | 0.00 |
 | [Remove Brazil from the Red to the Amber list](596048.md) | 18,788 | 18,147 | 641 | 0 | 96.59 | 3.41 | 0.00 |
-| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 18,076 | 17,639 | 437 | 0 | 97.58 | 2.42 | 0.00 |
+| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 18,077 | 17,640 | 437 | 0 | 97.58 | 2.42 | 0.00 |
 | [Make it an offence to hit a cat and drive off](591698.md) | 16,724 | 16,649 | 75 | 0 | 99.55 | 0.45 | 0.00 |
 | [Make the day of Diwali a public holiday](600808.md) | 16,593 | 16,525 | 68 | 0 | 99.59 | 0.41 | 0.00 |
 | [Independent scrutiny of alleged breaches of the Ministerial Code by the PM](598145.md) | 16,329 | 15,926 | 403 | 0 | 97.53 | 2.47 | 0.00 |
 | [Fund free drink spiking test kits for all bars](597143.md) | 16,013 | 15,968 | 45 | 0 | 99.72 | 0.28 | 0.00 |
-| [Ban the Shooting of Critically Endangered Woodcocks.](595483.md) | 15,977 | 15,811 | 166 | 0 | 98.96 | 1.04 | 0.00 |
+| [Ban the Shooting of Critically Endangered Woodcocks.](595483.md) | 15,978 | 15,812 | 166 | 0 | 98.96 | 1.04 | 0.00 |
 | [Abolish time limit for requesting sentences for child murder be reviewed](602869.md) | 15,934 | 15,883 | 51 | 0 | 99.68 | 0.32 | 0.00 |
 | [Increase dedicated funding for childhood cancer research](597620.md) | 15,693 | 15,538 | 155 | 0 | 99.01 | 0.99 | 0.00 |
-| [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 15,377 | 15,038 | 339 | 0 | 97.80 | 2.20 | 0.00 |
-| [Close schools and bring back online learning until the end of Jan 2022](599364.md) | 14,610 | 14,452 | 158 | 0 | 98.92 | 1.08 | 0.00 |
+| [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 15,378 | 15,039 | 339 | 0 | 97.80 | 2.20 | 0.00 |
+| [Close schools and bring back online learning until the end of Jan 2022](599364.md) | 14,611 | 14,452 | 159 | 0 | 98.91 | 1.09 | 0.00 |
 | [Create new recycling and reuse requirements for local authorities](599622.md) | 14,182 | 14,129 | 53 | 0 | 99.63 | 0.37 | 0.00 |
 | [Ban the manufacture, import, sale and use of fireworks in the UK](599738.md) | 13,784 | 13,726 | 58 | 0 | 99.58 | 0.42 | 0.00 |
 | [Call an immediate general election due to authoritarian Coronavirus measures](596452.md) | 13,231 | 13,100 | 131 | 0 | 99.01 | 0.99 | 0.00 |
