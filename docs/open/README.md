@@ -4,12 +4,12 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-01-23 04:00:06
+Last refreshed 2022-01-23 05:00:08
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 320,228 | 316,853 | 3,375 | 0 | 98.95 | 1.05 | 0.00 |
-| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 206,197 | 205,041 | 1,156 | 0 | 99.44 | 0.56 | 0.00 |
+| [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 320,231 | 316,856 | 3,375 | 0 | 98.95 | 1.05 | 0.00 |
+| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 206,217 | 205,060 | 1,157 | 0 | 99.44 | 0.56 | 0.00 |
 | [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 174,135 | 173,725 | 410 | 0 | 99.76 | 0.24 | 0.00 |
 | [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 135,125 | 133,763 | 1,362 | 0 | 98.99 | 1.01 | 0.00 |
 | [Exempt dogs assessed by experts as safe from breed specific legislation](592813.md) | 127,492 | 126,301 | 1,191 | 0 | 99.07 | 0.93 | 0.00 |
@@ -17,27 +17,27 @@ Last refreshed 2022-01-23 04:00:06
 | [We demand that the Gurkhas receive equal pensions](594155.md) | 108,159 | 105,817 | 2,342 | 0 | 97.83 | 2.17 | 0.00 |
 | [End the Cage Age for all farmed animals](593775.md) | 108,073 | 107,009 | 1,064 | 0 | 99.02 | 0.98 | 0.00 |
 | [Referendum in the United Kingdom to abolish the Coronavirus Act.](597665.md) | 107,225 | 105,935 | 1,290 | 0 | 98.80 | 1.20 | 0.00 |
-| [Protect student choice: do not withdraw funding for BTEC qualifications](592642.md) | 107,077 | 106,764 | 313 | 0 | 99.71 | 0.29 | 0.00 |
+| [Protect student choice: do not withdraw funding for BTEC qualifications](592642.md) | 107,079 | 106,766 | 313 | 0 | 99.71 | 0.29 | 0.00 |
 | [Provide more funding for stalking advocates for victims of stalking](593769.md) | 105,498 | 104,970 | 528 | 0 | 99.50 | 0.50 | 0.00 |
-| [Repeal Breed Specific Legislation](603988.md) | 101,051 | 100,168 | 883 | 0 | 99.13 | 0.87 | 0.00 |
-| [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 64,510 | 63,780 | 730 | 0 | 98.87 | 1.13 | 0.00 |
-| [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 61,617 | 59,417 | 2,200 | 0 | 96.43 | 3.57 | 0.00 |
+| [Repeal Breed Specific Legislation](603988.md) | 101,052 | 100,169 | 883 | 0 | 99.13 | 0.87 | 0.00 |
+| [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 64,511 | 63,781 | 730 | 0 | 98.87 | 1.13 | 0.00 |
+| [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 61,620 | 59,419 | 2,201 | 0 | 96.43 | 3.57 | 0.00 |
 | [Invest urgently in the NHS cancer workforce in the autumn Spending Review](596566.md) | 55,649 | 55,356 | 293 | 0 | 99.47 | 0.53 | 0.00 |
-| [Ban urban and garden pesticides to protect bees, other wildlife and human health](590309.md) | 52,303 | 51,879 | 424 | 0 | 99.19 | 0.81 | 0.00 |
-| [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 51,036 | 50,203 | 833 | 0 | 98.37 | 1.63 | 0.00 |
+| [Ban urban and garden pesticides to protect bees, other wildlife and human health](590309.md) | 52,305 | 51,881 | 424 | 0 | 99.19 | 0.81 | 0.00 |
+| [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 51,040 | 50,206 | 834 | 0 | 98.37 | 1.63 | 0.00 |
 | [Amend the Health and Care Bill to protect the NHS.](592557.md) | 45,941 | 45,364 | 577 | 0 | 98.74 | 1.26 | 0.00 |
 | [Protect free NHS prescriptions for over 60s](594390.md) | 42,057 | 41,918 | 139 | 0 | 99.67 | 0.33 | 0.00 |
 | [Cancel GCSE and A-Level Exams for Summer 2022 due to lack of proper education](597282.md) | 41,925 | 41,291 | 634 | 0 | 98.49 | 1.51 | 0.00 |
 | [Do not put fluoride in all tap water.](597714.md) | 38,364 | 38,131 | 233 | 0 | 99.39 | 0.61 | 0.00 |
 | [Identify and sanction any Pakistani individuals involved in money laundering](594611.md) | 37,616 | 35,601 | 2,015 | 0 | 94.64 | 5.36 | 0.00 |
 | [Repeal the Coronavirus Act](592632.md) | 33,150 | 32,776 | 374 | 0 | 98.87 | 1.13 | 0.00 |
-| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 32,236 | 31,982 | 254 | 0 | 99.21 | 0.79 | 0.00 |
-| [Revoke local government powers to charge CAZ, LEZ, and ULEZ.](599985.md) | 31,961 | 31,942 | 19 | 0 | 99.94 | 0.06 | 0.00 |
+| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 32,248 | 31,994 | 254 | 0 | 99.21 | 0.79 | 0.00 |
+| [Revoke local government powers to charge CAZ, LEZ, and ULEZ.](599985.md) | 31,965 | 31,946 | 19 | 0 | 99.94 | 0.06 | 0.00 |
 | [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 31,654 | 31,634 | 20 | 0 | 99.94 | 0.06 | 0.00 |
 | [Recall Parliament to debate vaccination of children before this is rolled out](594272.md) | 28,027 | 27,721 | 306 | 0 | 98.91 | 1.09 | 0.00 |
 | [Do not make vaccination against Covid-19 mandatory](602282.md) | 25,450 | 25,257 | 193 | 0 | 99.24 | 0.76 | 0.00 |
-| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 25,242 | 24,676 | 566 | 0 | 97.76 | 2.24 | 0.00 |
-| [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 24,234 | 23,729 | 505 | 0 | 97.92 | 2.08 | 0.00 |
+| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 25,252 | 24,685 | 567 | 0 | 97.75 | 2.25 | 0.00 |
+| [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 24,236 | 23,731 | 505 | 0 | 97.92 | 2.08 | 0.00 |
 | [Bring into effect a ban on research & testing on dogs in the UK](597559.md) | 24,198 | 24,004 | 194 | 0 | 99.20 | 0.80 | 0.00 |
 | [Make the £20 per week uplift to Universal Credit permanent.](593104.md) | 24,157 | 23,979 | 178 | 0 | 99.26 | 0.74 | 0.00 |
 | [Do not impose any new requirements on parents who are home educating](594065.md) | 23,672 | 23,567 | 105 | 0 | 99.56 | 0.44 | 0.00 |
