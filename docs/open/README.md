@@ -4,12 +4,12 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-01-29 03:00:09
+Last refreshed 2022-01-29 04:00:09
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 321,159 | 317,758 | 3,401 | 0 | 98.94 | 1.06 | 0.00 |
-| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 228,541 | 227,198 | 1,343 | 0 | 99.41 | 0.59 | 0.00 |
+| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 228,542 | 227,199 | 1,343 | 0 | 99.41 | 0.59 | 0.00 |
 | [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 174,215 | 173,804 | 411 | 0 | 99.76 | 0.24 | 0.00 |
 | [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 135,425 | 134,057 | 1,368 | 0 | 98.99 | 1.01 | 0.00 |
 | [Do not implement proposed new offences for vehicle "tampering"](600954.md) | 110,281 | 109,934 | 347 | 0 | 99.69 | 0.31 | 0.00 |
@@ -19,24 +19,24 @@ Last refreshed 2022-01-29 03:00:09
 | [Provide more funding for stalking advocates for victims of stalking](593769.md) | 105,620 | 105,092 | 528 | 0 | 99.50 | 0.50 | 0.00 |
 | [Repeal Breed Specific Legislation](603988.md) | 102,701 | 101,795 | 906 | 0 | 99.12 | 0.88 | 0.00 |
 | [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 65,500 | 64,762 | 738 | 0 | 98.87 | 1.13 | 0.00 |
-| [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 63,301 | 61,015 | 2,286 | 0 | 96.39 | 3.61 | 0.00 |
-| [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 58,103 | 57,197 | 906 | 0 | 98.44 | 1.56 | 0.00 |
+| [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 63,302 | 61,016 | 2,286 | 0 | 96.39 | 3.61 | 0.00 |
+| [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 58,111 | 57,205 | 906 | 0 | 98.44 | 1.56 | 0.00 |
 | [Invest urgently in the NHS cancer workforce in the autumn Spending Review](596566.md) | 55,736 | 55,443 | 293 | 0 | 99.47 | 0.53 | 0.00 |
 | [Amend the Health and Care Bill to protect the NHS.](592557.md) | 46,021 | 45,444 | 577 | 0 | 98.75 | 1.25 | 0.00 |
-| [Protect free NHS prescriptions for over 60s](594390.md) | 43,144 | 43,005 | 139 | 0 | 99.68 | 0.32 | 0.00 |
-| [Cancel GCSE and A-Level Exams for Summer 2022 due to lack of proper education](597282.md) | 43,102 | 42,437 | 665 | 0 | 98.46 | 1.54 | 0.00 |
+| [Protect free NHS prescriptions for over 60s](594390.md) | 43,150 | 43,011 | 139 | 0 | 99.68 | 0.32 | 0.00 |
+| [Cancel GCSE and A-Level Exams for Summer 2022 due to lack of proper education](597282.md) | 43,103 | 42,438 | 665 | 0 | 98.46 | 1.54 | 0.00 |
 | [Do not put fluoride in all tap water.](597714.md) | 38,610 | 38,377 | 233 | 0 | 99.40 | 0.60 | 0.00 |
 | [Identify and sanction any Pakistani individuals involved in money laundering](594611.md) | 37,662 | 35,647 | 2,015 | 0 | 94.65 | 5.35 | 0.00 |
-| [Revoke local government powers to charge CAZ, LEZ, and ULEZ.](599985.md) | 36,617 | 36,596 | 21 | 0 | 99.94 | 0.06 | 0.00 |
-| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 36,002 | 35,701 | 301 | 0 | 99.16 | 0.84 | 0.00 |
+| [Revoke local government powers to charge CAZ, LEZ, and ULEZ.](599985.md) | 36,621 | 36,600 | 21 | 0 | 99.94 | 0.06 | 0.00 |
+| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 36,003 | 35,701 | 302 | 0 | 99.16 | 0.84 | 0.00 |
 | [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 31,758 | 31,738 | 20 | 0 | 99.94 | 0.06 | 0.00 |
-| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 30,581 | 29,898 | 683 | 0 | 97.77 | 2.23 | 0.00 |
+| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 30,585 | 29,901 | 684 | 0 | 97.76 | 2.24 | 0.00 |
 | [Recall Parliament to debate vaccination of children before this is rolled out](594272.md) | 28,115 | 27,808 | 307 | 0 | 98.91 | 1.09 | 0.00 |
 | [Do not make vaccination against Covid-19 mandatory](602282.md) | 26,293 | 26,098 | 195 | 0 | 99.26 | 0.74 | 0.00 |
 | [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 25,222 | 24,694 | 528 | 0 | 97.91 | 2.09 | 0.00 |
 | [Bring into effect a ban on research & testing on dogs in the UK](597559.md) | 25,193 | 24,991 | 202 | 0 | 99.20 | 0.80 | 0.00 |
 | [Do not impose any new requirements on parents who are home educating](594065.md) | 23,679 | 23,574 | 105 | 0 | 99.56 | 0.44 | 0.00 |
-| [Hold a referendum on whether to keep the 2050 net zero target](599602.md) | 21,261 | 20,936 | 325 | 0 | 98.47 | 1.53 | 0.00 |
+| [Hold a referendum on whether to keep the 2050 net zero target](599602.md) | 21,262 | 20,937 | 325 | 0 | 98.47 | 1.53 | 0.00 |
 | [Remove all COVID requirements for international travel to the UK](605858.md) | 19,416 | 19,151 | 265 | 0 | 98.64 | 1.36 | 0.00 |
 | [Remove Brazil from the Red to the Amber list](596048.md) | 18,791 | 18,150 | 641 | 0 | 96.59 | 3.41 | 0.00 |
 | [Independent scrutiny of alleged breaches of the Ministerial Code by the PM](598145.md) | 17,488 | 17,074 | 414 | 0 | 97.63 | 2.37 | 0.00 |
