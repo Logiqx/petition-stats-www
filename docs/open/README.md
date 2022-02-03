@@ -4,15 +4,15 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-02-03 04:00:09
+Last refreshed 2022-02-03 05:00:07
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 321,577 | 318,168 | 3,409 | 0 | 98.94 | 1.06 | 0.00 |
+| [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 321,578 | 318,169 | 3,409 | 0 | 98.94 | 1.06 | 0.00 |
 | [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 230,345 | 228,990 | 1,355 | 0 | 99.41 | 0.59 | 0.00 |
 | [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 174,264 | 173,853 | 411 | 0 | 99.76 | 0.24 | 0.00 |
-| [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 135,748 | 134,373 | 1,375 | 0 | 98.99 | 1.01 | 0.00 |
-| [Do not implement proposed new offences for vehicle "tampering"](600954.md) | 110,394 | 110,045 | 349 | 0 | 99.68 | 0.32 | 0.00 |
+| [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 135,749 | 134,374 | 1,375 | 0 | 98.99 | 1.01 | 0.00 |
+| [Do not implement proposed new offences for vehicle "tampering"](600954.md) | 110,395 | 110,046 | 349 | 0 | 99.68 | 0.32 | 0.00 |
 | [Referendum in the United Kingdom to abolish the Coronavirus Act.](597665.md) | 108,714 | 107,419 | 1,295 | 0 | 98.81 | 1.19 | 0.00 |
 | [End the Cage Age for all farmed animals](593775.md) | 108,504 | 107,426 | 1,078 | 0 | 99.01 | 0.99 | 0.00 |
 | [We demand that the Gurkhas receive equal pensions](594155.md) | 108,266 | 105,922 | 2,344 | 0 | 97.83 | 2.17 | 0.00 |
@@ -22,12 +22,12 @@ Last refreshed 2022-02-03 04:00:09
 | [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 64,000 | 61,675 | 2,325 | 0 | 96.37 | 3.63 | 0.00 |
 | [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 63,617 | 62,611 | 1,006 | 0 | 98.42 | 1.58 | 0.00 |
 | [Invest urgently in the NHS cancer workforce in the autumn Spending Review](596566.md) | 55,823 | 55,530 | 293 | 0 | 99.48 | 0.52 | 0.00 |
-| [Revoke local government powers to charge CAZ, LEZ, and ULEZ.](599985.md) | 48,295 | 48,269 | 26 | 0 | 99.95 | 0.05 | 0.00 |
+| [Revoke local government powers to charge CAZ, LEZ, and ULEZ.](599985.md) | 48,299 | 48,273 | 26 | 0 | 99.95 | 0.05 | 0.00 |
 | [Amend the Health and Care Bill to protect the NHS.](592557.md) | 46,104 | 45,526 | 578 | 0 | 98.75 | 1.25 | 0.00 |
-| [Protect free NHS prescriptions for over 60s](594390.md) | 44,203 | 44,062 | 141 | 0 | 99.68 | 0.32 | 0.00 |
+| [Protect free NHS prescriptions for over 60s](594390.md) | 44,204 | 44,063 | 141 | 0 | 99.68 | 0.32 | 0.00 |
 | [Cancel GCSE and A-Level Exams for Summer 2022 due to lack of proper education](597282.md) | 43,609 | 42,911 | 698 | 0 | 98.40 | 1.60 | 0.00 |
 | [Do not put fluoride in all tap water.](597714.md) | 39,029 | 38,794 | 235 | 0 | 99.40 | 0.60 | 0.00 |
-| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 38,087 | 37,771 | 316 | 0 | 99.17 | 0.83 | 0.00 |
+| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 38,088 | 37,772 | 316 | 0 | 99.17 | 0.83 | 0.00 |
 | [Identify and sanction any Pakistani individuals involved in money laundering](594611.md) | 37,676 | 35,659 | 2,017 | 0 | 94.65 | 5.35 | 0.00 |
 | [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 31,908 | 31,191 | 717 | 0 | 97.75 | 2.25 | 0.00 |
 | [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 31,844 | 31,824 | 20 | 0 | 99.94 | 0.06 | 0.00 |
@@ -53,7 +53,7 @@ Last refreshed 2022-02-03 04:00:09
 | [Ban the manufacture, import, sale and use of fireworks in the UK](599738.md) | 13,960 | 13,901 | 59 | 0 | 99.58 | 0.42 | 0.00 |
 | [Call an immediate general election due to authoritarian Coronavirus measures](596452.md) | 13,343 | 13,212 | 131 | 0 | 99.02 | 0.98 | 0.00 |
 | [Do not make COVID vaccination a requirement for health and social care workers](600872.md) | 13,024 | 12,953 | 71 | 0 | 99.45 | 0.55 | 0.00 |
-| [Increase the basic state pensions by £500 a year as an emergency measure](605503.md) | 12,878 | 12,741 | 137 | 0 | 98.94 | 1.06 | 0.00 |
+| [Increase the basic state pensions by £500 a year as an emergency measure](605503.md) | 12,887 | 12,750 | 137 | 0 | 98.94 | 1.06 | 0.00 |
 | [Revoke the UK's extradition treaty with India with immediate effect](596150.md) | 12,729 | 12,633 | 96 | 0 | 99.25 | 0.75 | 0.00 |
 | [Ban developments on Green belt and Greenfield sites across the country](600577.md) | 12,672 | 12,645 | 27 | 0 | 99.79 | 0.21 | 0.00 |
 | [Do not restrict our right to freedom of expression online. ](601932.md) | 12,272 | 12,121 | 151 | 0 | 98.77 | 1.23 | 0.00 |
