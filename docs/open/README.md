@@ -4,12 +4,12 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-03-01 02:00:04
+Last refreshed 2022-03-01 03:00:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 323,974 | 320,521 | 3,453 | 0 | 98.93 | 1.07 | 0.00 |
-| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 231,713 | 230,348 | 1,365 | 0 | 99.41 | 0.59 | 0.00 |
+| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 231,714 | 230,349 | 1,365 | 0 | 99.41 | 0.59 | 0.00 |
 | [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 174,506 | 174,095 | 411 | 0 | 99.76 | 0.24 | 0.00 |
 | [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 136,604 | 135,215 | 1,389 | 0 | 98.98 | 1.02 | 0.00 |
 | [Do not implement proposed new offences for vehicle "tampering"](600954.md) | 110,760 | 110,410 | 350 | 0 | 99.68 | 0.32 | 0.00 |
@@ -20,22 +20,22 @@ Last refreshed 2022-03-01 02:00:04
 | [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 67,976 | 67,213 | 763 | 0 | 98.88 | 1.12 | 0.00 |
 | [Invest urgently in the NHS cancer workforce in the autumn Spending Review](596566.md) | 56,557 | 56,263 | 294 | 0 | 99.48 | 0.52 | 0.00 |
 | [Revoke local government powers to charge CAZ, LEZ, and ULEZ.](599985.md) | 52,457 | 52,420 | 37 | 0 | 99.93 | 0.07 | 0.00 |
-| [Amend the Health and Care Bill to protect the NHS.](592557.md) | 46,612 | 46,032 | 580 | 0 | 98.76 | 1.24 | 0.00 |
-| [Cancel GCSE and A-Level Exams for Summer 2022 due to lack of proper education](597282.md) | 46,108 | 45,307 | 801 | 0 | 98.26 | 1.74 | 0.00 |
-| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 44,194 | 43,812 | 382 | 0 | 99.14 | 0.86 | 0.00 |
+| [Amend the Health and Care Bill to protect the NHS.](592557.md) | 46,613 | 46,033 | 580 | 0 | 98.76 | 1.24 | 0.00 |
+| [Cancel GCSE and A-Level Exams for Summer 2022 due to lack of proper education](597282.md) | 46,109 | 45,308 | 801 | 0 | 98.26 | 1.74 | 0.00 |
+| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 44,195 | 43,812 | 383 | 0 | 99.13 | 0.87 | 0.00 |
 | [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 42,349 | 41,488 | 861 | 0 | 97.97 | 2.03 | 0.00 |
 | [Do not put fluoride in all tap water.](597714.md) | 41,462 | 41,212 | 250 | 0 | 99.40 | 0.60 | 0.00 |
-| [Pledge any necessary military support to defend Ukraine](607314.md) | 38,838 | 37,058 | 1,780 | 0 | 95.42 | 4.58 | 0.00 |
-| [Do not reform the Human Rights Act](607712.md) | 38,206 | 37,737 | 469 | 0 | 98.77 | 1.23 | 0.00 |
-| [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 34,971 | 34,178 | 793 | 0 | 97.73 | 2.27 | 0.00 |
-| [Do not restrict our right to freedom of expression online. ](601932.md) | 32,732 | 32,329 | 403 | 0 | 98.77 | 1.23 | 0.00 |
+| [Pledge any necessary military support to defend Ukraine](607314.md) | 38,847 | 37,065 | 1,782 | 0 | 95.41 | 4.59 | 0.00 |
+| [Do not reform the Human Rights Act](607712.md) | 38,208 | 37,739 | 469 | 0 | 98.77 | 1.23 | 0.00 |
+| [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 34,972 | 34,179 | 793 | 0 | 97.73 | 2.27 | 0.00 |
+| [Do not restrict our right to freedom of expression online. ](601932.md) | 32,734 | 32,331 | 403 | 0 | 98.77 | 1.23 | 0.00 |
 | [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 32,630 | 32,610 | 20 | 0 | 99.94 | 0.06 | 0.00 |
 | [Bring into effect a ban on research & testing on dogs in the UK](597559.md) | 27,819 | 27,597 | 222 | 0 | 99.20 | 0.80 | 0.00 |
 | [Do not make vaccination against Covid-19 mandatory](602282.md) | 26,784 | 26,585 | 199 | 0 | 99.26 | 0.74 | 0.00 |
 | [Increase sentences for one punch assaults that kill to equal those for murder](604002.md) | 24,285 | 24,154 | 131 | 0 | 99.46 | 0.54 | 0.00 |
 | [Hold a referendum on whether to keep the 2050 net zero target](599602.md) | 22,718 | 22,374 | 344 | 0 | 98.49 | 1.51 | 0.00 |
 | [Remove all COVID requirements for international travel to the UK](605858.md) | 22,201 | 21,889 | 312 | 0 | 98.59 | 1.41 | 0.00 |
-| [Make SEND training mandatory for all teaching staff](607849.md) | 19,822 | 19,759 | 63 | 0 | 99.68 | 0.32 | 0.00 |
+| [Make SEND training mandatory for all teaching staff](607849.md) | 19,826 | 19,763 | 63 | 0 | 99.68 | 0.32 | 0.00 |
 | [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 19,065 | 18,930 | 135 | 0 | 99.29 | 0.71 | 0.00 |
 | [Remove Brazil from the Red to the Amber list](596048.md) | 18,793 | 18,152 | 641 | 0 | 96.59 | 3.41 | 0.00 |
 | [Free prescriptions for those with a long term and/or chronic condition.](608237.md) | 18,381 | 18,338 | 43 | 0 | 99.77 | 0.23 | 0.00 |
@@ -51,7 +51,7 @@ Last refreshed 2022-03-01 02:00:04
 | [Close schools and bring back online learning until the end of Jan 2022](599364.md) | 15,003 | 14,841 | 162 | 0 | 98.92 | 1.08 | 0.00 |
 | [Make self-employed people eligible for statutory adoption pay](601323.md) | 14,413 | 14,347 | 66 | 0 | 99.54 | 0.46 | 0.00 |
 | [Ban the manufacture, import, sale and use of fireworks in the UK](599738.md) | 14,096 | 14,036 | 60 | 0 | 99.57 | 0.43 | 0.00 |
-| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 13,900 | 13,887 | 13 | 0 | 99.91 | 0.09 | 0.00 |
+| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 13,903 | 13,890 | 13 | 0 | 99.91 | 0.09 | 0.00 |
 | [Call an immediate general election due to authoritarian Coronavirus measures](596452.md) | 13,390 | 13,259 | 131 | 0 | 99.02 | 0.98 | 0.00 |
 | [Do not end legal obligations to self-isolate if people test positive for covid](606834.md) | 13,335 | 13,238 | 97 | 0 | 99.27 | 0.73 | 0.00 |
 | [Do not make COVID vaccination a requirement for health and social care workers](600872.md) | 13,290 | 13,218 | 72 | 0 | 99.46 | 0.54 | 0.00 |
