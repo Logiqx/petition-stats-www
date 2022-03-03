@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-03-03 04:00:06
+Last refreshed 2022-03-03 05:00:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -15,21 +15,21 @@ Last refreshed 2022-03-03 04:00:06
 | [Do not implement proposed new offences for vehicle "tampering"](600954.md) | 111,035 | 110,684 | 351 | 0 | 99.68 | 0.32 | 0.00 |
 | [Referendum in the United Kingdom to abolish the Coronavirus Act.](597665.md) | 109,537 | 108,231 | 1,306 | 0 | 98.81 | 1.19 | 0.00 |
 | [Repeal Breed Specific Legislation](603988.md) | 103,383 | 102,467 | 916 | 0 | 99.11 | 0.89 | 0.00 |
-| [Waive visa requirement for Ukrainian refugees.](609530.md) | 101,091 | 99,068 | 2,023 | 0 | 98.00 | 2.00 | 0.00 |
+| [Waive visa requirement for Ukrainian refugees.](609530.md) | 101,167 | 99,136 | 2,031 | 0 | 97.99 | 2.01 | 0.00 |
 | [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 82,173 | 79,032 | 3,141 | 0 | 96.18 | 3.82 | 0.00 |
-| [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 74,692 | 73,510 | 1,182 | 0 | 98.42 | 1.58 | 0.00 |
+| [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 74,693 | 73,511 | 1,182 | 0 | 98.42 | 1.58 | 0.00 |
 | [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 68,172 | 67,406 | 766 | 0 | 98.88 | 1.12 | 0.00 |
 | [Invest urgently in the NHS cancer workforce in the autumn Spending Review](596566.md) | 56,678 | 56,384 | 294 | 0 | 99.48 | 0.52 | 0.00 |
 | [Revoke local government powers to charge CAZ, LEZ, and ULEZ.](599985.md) | 52,880 | 52,843 | 37 | 0 | 99.93 | 0.07 | 0.00 |
 | [Amend the Health and Care Bill to protect the NHS.](592557.md) | 46,685 | 46,104 | 581 | 0 | 98.76 | 1.24 | 0.00 |
-| [Cancel GCSE and A-Level Exams for Summer 2022 due to lack of proper education](597282.md) | 46,592 | 45,783 | 809 | 0 | 98.26 | 1.74 | 0.00 |
+| [Cancel GCSE and A-Level Exams for Summer 2022 due to lack of proper education](597282.md) | 46,593 | 45,784 | 809 | 0 | 98.26 | 1.74 | 0.00 |
 | [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 44,525 | 44,139 | 386 | 0 | 99.13 | 0.87 | 0.00 |
-| [Pledge any necessary military support to defend Ukraine](607314.md) | 44,104 | 42,218 | 1,886 | 0 | 95.72 | 4.28 | 0.00 |
-| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 43,686 | 42,758 | 928 | 0 | 97.88 | 2.12 | 0.00 |
+| [Pledge any necessary military support to defend Ukraine](607314.md) | 44,110 | 42,223 | 1,887 | 0 | 95.72 | 4.28 | 0.00 |
+| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 43,716 | 42,786 | 930 | 0 | 97.87 | 2.13 | 0.00 |
 | [Do not put fluoride in all tap water.](597714.md) | 41,890 | 41,639 | 251 | 0 | 99.40 | 0.60 | 0.00 |
 | [Do not reform the Human Rights Act](607712.md) | 39,576 | 39,091 | 485 | 0 | 98.77 | 1.23 | 0.00 |
 | [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 36,357 | 35,552 | 805 | 0 | 97.79 | 2.21 | 0.00 |
-| [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 33,566 | 33,546 | 20 | 0 | 99.94 | 0.06 | 0.00 |
+| [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 33,567 | 33,547 | 20 | 0 | 99.94 | 0.06 | 0.00 |
 | [Do not restrict our right to freedom of expression online. ](601932.md) | 32,893 | 32,490 | 403 | 0 | 98.77 | 1.23 | 0.00 |
 | [Bring into effect a ban on research & testing on dogs in the UK](597559.md) | 27,956 | 27,732 | 224 | 0 | 99.20 | 0.80 | 0.00 |
 | [Do not make vaccination against Covid-19 mandatory](602282.md) | 26,863 | 26,663 | 200 | 0 | 99.26 | 0.74 | 0.00 |
@@ -42,7 +42,7 @@ Last refreshed 2022-03-03 04:00:06
 | [Free prescriptions for those with a long term and/or chronic condition.](608237.md) | 18,522 | 18,479 | 43 | 0 | 99.77 | 0.23 | 0.00 |
 | [Independent scrutiny of alleged breaches of the Ministerial Code by the PM](598145.md) | 17,982 | 17,556 | 426 | 0 | 97.63 | 2.37 | 0.00 |
 | [Increase the basic state pensions by £500 a year as an emergency measure](605503.md) | 17,957 | 17,738 | 219 | 0 | 98.78 | 1.22 | 0.00 |
-| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 17,676 | 17,661 | 15 | 0 | 99.92 | 0.08 | 0.00 |
+| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 17,685 | 17,670 | 15 | 0 | 99.92 | 0.08 | 0.00 |
 | [Create a ‘National Sleep Strategy’ to end child bed poverty](604509.md) | 17,479 | 17,368 | 111 | 0 | 99.36 | 0.64 | 0.00 |
 | [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 17,336 | 17,253 | 83 | 0 | 99.52 | 0.48 | 0.00 |
 | [Make the day of Diwali a public holiday](600808.md) | 17,071 | 16,999 | 72 | 0 | 99.58 | 0.42 | 0.00 |
