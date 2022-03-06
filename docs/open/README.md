@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-03-06 00:00:07
+Last refreshed 2022-03-06 01:00:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -12,36 +12,36 @@ Last refreshed 2022-03-06 00:00:07
 | [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 232,188 | 230,817 | 1,371 | 0 | 99.41 | 0.59 | 0.00 |
 | [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 174,745 | 174,333 | 412 | 0 | 99.76 | 0.24 | 0.00 |
 | [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 136,904 | 135,512 | 1,392 | 0 | 98.98 | 1.02 | 0.00 |
-| [Waive visa requirement for Ukrainian refugees.](609530.md) | 124,510 | 122,047 | 2,463 | 0 | 98.02 | 1.98 | 0.00 |
+| [Waive visa requirement for Ukrainian refugees.](609530.md) | 124,548 | 122,085 | 2,463 | 0 | 98.02 | 1.98 | 0.00 |
 | [Do not implement proposed new offences for vehicle "tampering"](600954.md) | 111,076 | 110,725 | 351 | 0 | 99.68 | 0.32 | 0.00 |
-| [Referendum in the United Kingdom to abolish the Coronavirus Act.](597665.md) | 109,578 | 108,272 | 1,306 | 0 | 98.81 | 1.19 | 0.00 |
+| [Referendum in the United Kingdom to abolish the Coronavirus Act.](597665.md) | 109,579 | 108,273 | 1,306 | 0 | 98.81 | 1.19 | 0.00 |
 | [Repeal Breed Specific Legislation](603988.md) | 103,410 | 102,493 | 917 | 0 | 99.11 | 0.89 | 0.00 |
-| [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 82,637 | 79,479 | 3,158 | 0 | 96.18 | 3.82 | 0.00 |
-| [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 75,283 | 74,096 | 1,187 | 0 | 98.42 | 1.58 | 0.00 |
-| [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 68,239 | 67,472 | 767 | 0 | 98.88 | 1.12 | 0.00 |
+| [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 82,639 | 79,480 | 3,159 | 0 | 96.18 | 3.82 | 0.00 |
+| [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 75,284 | 74,097 | 1,187 | 0 | 98.42 | 1.58 | 0.00 |
+| [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 68,240 | 67,473 | 767 | 0 | 98.88 | 1.12 | 0.00 |
 | [Invest urgently in the NHS cancer workforce in the autumn Spending Review](596566.md) | 56,731 | 56,437 | 294 | 0 | 99.48 | 0.52 | 0.00 |
-| [Revoke local government powers to charge CAZ, LEZ, and ULEZ.](599985.md) | 53,038 | 53,001 | 37 | 0 | 99.93 | 0.07 | 0.00 |
+| [Revoke local government powers to charge CAZ, LEZ, and ULEZ.](599985.md) | 53,039 | 53,002 | 37 | 0 | 99.93 | 0.07 | 0.00 |
 | [Amend the Health and Care Bill to protect the NHS.](592557.md) | 46,709 | 46,128 | 581 | 0 | 98.76 | 1.24 | 0.00 |
-| [Cancel GCSE and A-Level Exams for Summer 2022 due to lack of proper education](597282.md) | 46,678 | 45,865 | 813 | 0 | 98.26 | 1.74 | 0.00 |
-| [Pledge any necessary military support to defend Ukraine](607314.md) | 46,312 | 44,090 | 2,222 | 0 | 95.20 | 4.80 | 0.00 |
-| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 46,034 | 45,003 | 1,031 | 0 | 97.76 | 2.24 | 0.00 |
+| [Cancel GCSE and A-Level Exams for Summer 2022 due to lack of proper education](597282.md) | 46,679 | 45,866 | 813 | 0 | 98.26 | 1.74 | 0.00 |
+| [Pledge any necessary military support to defend Ukraine](607314.md) | 46,328 | 44,103 | 2,225 | 0 | 95.20 | 4.80 | 0.00 |
+| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 46,039 | 45,007 | 1,032 | 0 | 97.76 | 2.24 | 0.00 |
 | [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 44,709 | 44,322 | 387 | 0 | 99.13 | 0.87 | 0.00 |
 | [Do not put fluoride in all tap water.](597714.md) | 42,107 | 41,856 | 251 | 0 | 99.40 | 0.60 | 0.00 |
-| [Do not reform the Human Rights Act](607712.md) | 40,787 | 40,285 | 502 | 0 | 98.77 | 1.23 | 0.00 |
-| [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 36,585 | 35,776 | 809 | 0 | 97.79 | 2.21 | 0.00 |
-| [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 34,248 | 34,228 | 20 | 0 | 99.94 | 0.06 | 0.00 |
+| [Do not reform the Human Rights Act](607712.md) | 40,795 | 40,293 | 502 | 0 | 98.77 | 1.23 | 0.00 |
+| [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 36,587 | 35,778 | 809 | 0 | 97.79 | 2.21 | 0.00 |
+| [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 34,266 | 34,246 | 20 | 0 | 99.94 | 0.06 | 0.00 |
 | [Do not restrict our right to freedom of expression online. ](601932.md) | 33,072 | 32,669 | 403 | 0 | 98.78 | 1.22 | 0.00 |
-| [Bring into effect a ban on research & testing on dogs in the UK](597559.md) | 28,027 | 27,803 | 224 | 0 | 99.20 | 0.80 | 0.00 |
+| [Bring into effect a ban on research & testing on dogs in the UK](597559.md) | 28,028 | 27,804 | 224 | 0 | 99.20 | 0.80 | 0.00 |
 | [Do not make vaccination against Covid-19 mandatory](602282.md) | 26,896 | 26,696 | 200 | 0 | 99.26 | 0.74 | 0.00 |
-| [Increase sentences for one punch assaults that kill to equal those for murder](604002.md) | 24,372 | 24,241 | 131 | 0 | 99.46 | 0.54 | 0.00 |
-| [Make SEND training mandatory for all teaching staff](607849.md) | 24,004 | 23,929 | 75 | 0 | 99.69 | 0.31 | 0.00 |
-| [Hold a referendum on whether to keep the 2050 net zero target](599602.md) | 23,022 | 22,678 | 344 | 0 | 98.51 | 1.49 | 0.00 |
+| [Increase sentences for one punch assaults that kill to equal those for murder](604002.md) | 24,373 | 24,242 | 131 | 0 | 99.46 | 0.54 | 0.00 |
+| [Make SEND training mandatory for all teaching staff](607849.md) | 24,009 | 23,934 | 75 | 0 | 99.69 | 0.31 | 0.00 |
+| [Hold a referendum on whether to keep the 2050 net zero target](599602.md) | 23,026 | 22,682 | 344 | 0 | 98.51 | 1.49 | 0.00 |
 | [Remove all COVID requirements for international travel to the UK](605858.md) | 22,335 | 22,021 | 314 | 0 | 98.59 | 1.41 | 0.00 |
-| [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 20,467 | 20,323 | 144 | 0 | 99.30 | 0.70 | 0.00 |
+| [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 20,506 | 20,362 | 144 | 0 | 99.30 | 0.70 | 0.00 |
 | [Remove Brazil from the Red to the Amber list](596048.md) | 18,823 | 18,181 | 642 | 0 | 96.59 | 3.41 | 0.00 |
 | [Free prescriptions for those with a long term and/or chronic condition.](608237.md) | 18,602 | 18,559 | 43 | 0 | 99.77 | 0.23 | 0.00 |
-| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 18,578 | 18,489 | 89 | 0 | 99.52 | 0.48 | 0.00 |
-| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 18,265 | 18,249 | 16 | 0 | 99.91 | 0.09 | 0.00 |
+| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 18,586 | 18,497 | 89 | 0 | 99.52 | 0.48 | 0.00 |
+| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 18,268 | 18,252 | 16 | 0 | 99.91 | 0.09 | 0.00 |
 | [Increase the basic state pensions by £500 a year as an emergency measure](605503.md) | 18,133 | 17,912 | 221 | 0 | 98.78 | 1.22 | 0.00 |
 | [Independent scrutiny of alleged breaches of the Ministerial Code by the PM](598145.md) | 17,994 | 17,568 | 426 | 0 | 97.63 | 2.37 | 0.00 |
 | [Create a ‘National Sleep Strategy’ to end child bed poverty](604509.md) | 17,512 | 17,401 | 111 | 0 | 99.37 | 0.63 | 0.00 |
