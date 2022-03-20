@@ -4,20 +4,20 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-03-20 02:00:05
+Last refreshed 2022-03-20 03:00:07
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 325,037 | 321,567 | 3,470 | 0 | 98.93 | 1.07 | 0.00 |
-| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 232,297 | 230,923 | 1,374 | 0 | 99.41 | 0.59 | 0.00 |
+| [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 325,039 | 321,569 | 3,470 | 0 | 98.93 | 1.07 | 0.00 |
+| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 232,298 | 230,924 | 1,374 | 0 | 99.41 | 0.59 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 185,794 | 182,067 | 3,727 | 0 | 97.99 | 2.01 | 0.00 |
 | [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 174,867 | 174,455 | 412 | 0 | 99.76 | 0.24 | 0.00 |
-| [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 137,148 | 135,754 | 1,394 | 0 | 98.98 | 1.02 | 0.00 |
+| [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 137,149 | 135,755 | 1,394 | 0 | 98.98 | 1.02 | 0.00 |
 | [Do not implement proposed new offences for vehicle "tampering"](600954.md) | 111,229 | 110,877 | 352 | 0 | 99.68 | 0.32 | 0.00 |
 | [Referendum in the United Kingdom to abolish the Coronavirus Act.](597665.md) | 109,693 | 108,385 | 1,308 | 0 | 98.81 | 1.19 | 0.00 |
 | [Suspend trade agreement with Faroe Islands until all whale & dolphin hunts end](597171.md) | 104,481 | 100,845 | 3,636 | 0 | 96.52 | 3.48 | 0.00 |
 | [Repeal Breed Specific Legislation](603988.md) | 103,803 | 102,881 | 922 | 0 | 99.11 | 0.89 | 0.00 |
-| [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 96,046 | 95,984 | 62 | 0 | 99.94 | 0.06 | 0.00 |
+| [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 96,053 | 95,991 | 62 | 0 | 99.94 | 0.06 | 0.00 |
 | [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 81,006 | 79,754 | 1,252 | 0 | 98.45 | 1.55 | 0.00 |
 | [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 68,427 | 67,660 | 767 | 0 | 98.88 | 1.12 | 0.00 |
 | [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 54,280 | 53,820 | 460 | 0 | 99.15 | 0.85 | 0.00 |
@@ -29,7 +29,7 @@ Last refreshed 2022-03-20 02:00:05
 | [Do not put fluoride in all tap water.](597714.md) | 43,772 | 43,513 | 259 | 0 | 99.41 | 0.59 | 0.00 |
 | [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 43,223 | 42,290 | 933 | 0 | 97.84 | 2.16 | 0.00 |
 | [Do not restrict our right to freedom of expression online. ](601932.md) | 37,783 | 37,153 | 630 | 0 | 98.33 | 1.67 | 0.00 |
-| [Hold a public inquiry into Russian interference in UK politics](609388.md) | 30,871 | 29,675 | 1,196 | 0 | 96.13 | 3.87 | 0.00 |
+| [Hold a public inquiry into Russian interference in UK politics](609388.md) | 30,880 | 29,683 | 1,197 | 0 | 96.12 | 3.88 | 0.00 |
 | [Bring into effect a ban on research & testing on dogs in the UK](597559.md) | 28,237 | 28,013 | 224 | 0 | 99.21 | 0.79 | 0.00 |
 | [Do not make vaccination against Covid-19 mandatory](602282.md) | 26,925 | 26,724 | 201 | 0 | 99.25 | 0.75 | 0.00 |
 | [Make SEND training mandatory for all teaching staff](607849.md) | 26,373 | 26,294 | 79 | 0 | 99.70 | 0.30 | 0.00 |
@@ -37,11 +37,11 @@ Last refreshed 2022-03-20 02:00:05
 | [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 24,117 | 23,936 | 181 | 0 | 99.25 | 0.75 | 0.00 |
 | [Hold a referendum on whether to keep the 2050 net zero target](599602.md) | 23,919 | 23,566 | 353 | 0 | 98.52 | 1.48 | 0.00 |
 | [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 22,487 | 22,384 | 103 | 0 | 99.54 | 0.46 | 0.00 |
-| [Remove all COVID requirements for international travel to the UK](605858.md) | 22,404 | 22,089 | 315 | 0 | 98.59 | 1.41 | 0.00 |
-| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 21,749 | 21,727 | 22 | 0 | 99.90 | 0.10 | 0.00 |
+| [Remove all COVID requirements for international travel to the UK](605858.md) | 22,405 | 22,090 | 315 | 0 | 98.59 | 1.41 | 0.00 |
+| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 21,751 | 21,729 | 22 | 0 | 99.90 | 0.10 | 0.00 |
 | [Increase the basic state pensions by £500 a year as an emergency measure](605503.md) | 19,377 | 19,150 | 227 | 0 | 98.83 | 1.17 | 0.00 |
 | [Free prescriptions for those with a long term and/or chronic condition.](608237.md) | 18,803 | 18,757 | 46 | 0 | 99.76 | 0.24 | 0.00 |
-| [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 18,547 | 18,319 | 228 | 0 | 98.77 | 1.23 | 0.00 |
+| [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 18,554 | 18,325 | 229 | 0 | 98.77 | 1.23 | 0.00 |
 | [Independent scrutiny of alleged breaches of the Ministerial Code by the PM](598145.md) | 18,054 | 17,626 | 428 | 0 | 97.63 | 2.37 | 0.00 |
 | [Create a ‘National Sleep Strategy’ to end child bed poverty](604509.md) | 17,621 | 17,509 | 112 | 0 | 99.36 | 0.64 | 0.00 |
 | [Make the day of Diwali a public holiday](600808.md) | 17,297 | 17,221 | 76 | 0 | 99.56 | 0.44 | 0.00 |
