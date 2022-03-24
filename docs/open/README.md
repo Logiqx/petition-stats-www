@@ -4,19 +4,19 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-03-24 04:00:09
+Last refreshed 2022-03-24 05:00:08
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 325,418 | 321,945 | 3,473 | 0 | 98.93 | 1.07 | 0.00 |
-| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 232,312 | 230,938 | 1,374 | 0 | 99.41 | 0.59 | 0.00 |
+| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 232,313 | 230,939 | 1,374 | 0 | 99.41 | 0.59 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 186,102 | 182,373 | 3,729 | 0 | 98.00 | 2.00 | 0.00 |
 | [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 174,887 | 174,474 | 413 | 0 | 99.76 | 0.24 | 0.00 |
 | [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 137,198 | 135,804 | 1,394 | 0 | 98.98 | 1.02 | 0.00 |
 | [Do not implement proposed new offences for vehicle "tampering"](600954.md) | 111,262 | 110,910 | 352 | 0 | 99.68 | 0.32 | 0.00 |
 | [Referendum in the United Kingdom to abolish the Coronavirus Act.](597665.md) | 109,709 | 108,401 | 1,308 | 0 | 98.81 | 1.19 | 0.00 |
 | [Repeal Breed Specific Legislation](603988.md) | 104,172 | 103,245 | 927 | 0 | 99.11 | 0.89 | 0.00 |
-| [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 99,183 | 99,116 | 67 | 0 | 99.93 | 0.07 | 0.00 |
+| [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 99,186 | 99,119 | 67 | 0 | 99.93 | 0.07 | 0.00 |
 | [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 84,712 | 83,402 | 1,310 | 0 | 98.45 | 1.55 | 0.00 |
 | [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 68,460 | 67,692 | 768 | 0 | 98.88 | 1.12 | 0.00 |
 | [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 55,241 | 54,765 | 476 | 0 | 99.14 | 0.86 | 0.00 |
@@ -26,15 +26,15 @@ Last refreshed 2022-03-24 04:00:09
 | [Do not reform the Human Rights Act](607712.md) | 44,253 | 43,704 | 549 | 0 | 98.76 | 1.24 | 0.00 |
 | [Do not put fluoride in all tap water.](597714.md) | 43,984 | 43,725 | 259 | 0 | 99.41 | 0.59 | 0.00 |
 | [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 43,794 | 42,837 | 957 | 0 | 97.81 | 2.19 | 0.00 |
-| [Do not restrict our right to freedom of expression online. ](601932.md) | 38,310 | 37,666 | 644 | 0 | 98.32 | 1.68 | 0.00 |
+| [Do not restrict our right to freedom of expression online. ](601932.md) | 38,311 | 37,667 | 644 | 0 | 98.32 | 1.68 | 0.00 |
 | [Hold a public inquiry into Russian interference in UK politics](609388.md) | 33,882 | 32,584 | 1,298 | 0 | 96.17 | 3.83 | 0.00 |
 | [Bring into effect a ban on research & testing on dogs in the UK](597559.md) | 28,319 | 28,089 | 230 | 0 | 99.19 | 0.81 | 0.00 |
 | [Do not make vaccination against Covid-19 mandatory](602282.md) | 26,933 | 26,732 | 201 | 0 | 99.25 | 0.75 | 0.00 |
-| [Make SEND training mandatory for all teaching staff](607849.md) | 26,511 | 26,432 | 79 | 0 | 99.70 | 0.30 | 0.00 |
+| [Make SEND training mandatory for all teaching staff](607849.md) | 26,512 | 26,433 | 79 | 0 | 99.70 | 0.30 | 0.00 |
 | [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 24,677 | 24,491 | 186 | 0 | 99.25 | 0.75 | 0.00 |
 | [Increase sentences for one punch assaults that kill to equal those for murder](604002.md) | 24,430 | 24,299 | 131 | 0 | 99.46 | 0.54 | 0.00 |
 | [Hold a referendum on whether to keep the 2050 net zero target](599602.md) | 24,006 | 23,652 | 354 | 0 | 98.53 | 1.47 | 0.00 |
-| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 23,689 | 23,580 | 109 | 0 | 99.54 | 0.46 | 0.00 |
+| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 23,691 | 23,582 | 109 | 0 | 99.54 | 0.46 | 0.00 |
 | [Remove all COVID requirements for international travel to the UK](605858.md) | 22,406 | 22,091 | 315 | 0 | 98.59 | 1.41 | 0.00 |
 | [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 21,894 | 21,870 | 24 | 0 | 99.89 | 0.11 | 0.00 |
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 19,922 | 19,681 | 241 | 0 | 98.79 | 1.21 | 0.00 |
