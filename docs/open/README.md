@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-03-29 04:00:07
+Last refreshed 2022-03-29 05:00:09
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -14,26 +14,26 @@ Last refreshed 2022-03-29 04:00:07
 | [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 174,907 | 174,494 | 413 | 0 | 99.76 | 0.24 | 0.00 |
 | [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 137,273 | 135,874 | 1,399 | 0 | 98.98 | 1.02 | 0.00 |
 | [Do not implement proposed new offences for vehicle "tampering"](600954.md) | 111,299 | 110,947 | 352 | 0 | 99.68 | 0.32 | 0.00 |
-| [Repeal Breed Specific Legislation](603988.md) | 106,682 | 105,725 | 957 | 0 | 99.10 | 0.90 | 0.00 |
-| [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 100,051 | 99,980 | 71 | 0 | 99.93 | 0.07 | 0.00 |
-| [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 99,792 | 98,217 | 1,575 | 0 | 98.42 | 1.58 | 0.00 |
+| [Repeal Breed Specific Legislation](603988.md) | 106,683 | 105,726 | 957 | 0 | 99.10 | 0.90 | 0.00 |
+| [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 100,052 | 99,981 | 71 | 0 | 99.93 | 0.07 | 0.00 |
+| [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 99,834 | 98,258 | 1,576 | 0 | 98.42 | 1.58 | 0.00 |
 | [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 68,509 | 67,738 | 771 | 0 | 98.87 | 1.13 | 0.00 |
 | [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 55,596 | 55,118 | 478 | 0 | 99.14 | 0.86 | 0.00 |
 | [Revoke local government powers to charge CAZ, LEZ, and ULEZ.](599985.md) | 54,402 | 54,364 | 38 | 0 | 99.93 | 0.07 | 0.00 |
 | [Pledge any necessary military support to defend Ukraine](607314.md) | 49,177 | 46,769 | 2,408 | 0 | 95.10 | 4.90 | 0.00 |
 | [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 48,155 | 46,933 | 1,222 | 0 | 97.46 | 2.54 | 0.00 |
 | [Do not reform the Human Rights Act](607712.md) | 44,516 | 43,966 | 550 | 0 | 98.76 | 1.24 | 0.00 |
-| [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 44,073 | 43,105 | 968 | 0 | 97.80 | 2.20 | 0.00 |
-| [Do not restrict our right to freedom of expression online. ](601932.md) | 42,234 | 41,521 | 713 | 0 | 98.31 | 1.69 | 0.00 |
-| [Hold a public inquiry into Russian interference in UK politics](609388.md) | 35,279 | 33,912 | 1,367 | 0 | 96.13 | 3.87 | 0.00 |
+| [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 44,074 | 43,106 | 968 | 0 | 97.80 | 2.20 | 0.00 |
+| [Do not restrict our right to freedom of expression online. ](601932.md) | 42,236 | 41,522 | 714 | 0 | 98.31 | 1.69 | 0.00 |
+| [Hold a public inquiry into Russian interference in UK politics](609388.md) | 35,281 | 33,914 | 1,367 | 0 | 96.13 | 3.87 | 0.00 |
 | [Do not make vaccination against Covid-19 mandatory](602282.md) | 26,946 | 26,745 | 201 | 0 | 99.25 | 0.75 | 0.00 |
 | [Make SEND training mandatory for all teaching staff](607849.md) | 26,775 | 26,696 | 79 | 0 | 99.70 | 0.30 | 0.00 |
 | [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 25,833 | 25,704 | 129 | 0 | 99.50 | 0.50 | 0.00 |
-| [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 25,559 | 25,366 | 193 | 0 | 99.24 | 0.76 | 0.00 |
+| [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 25,562 | 25,369 | 193 | 0 | 99.24 | 0.76 | 0.00 |
 | [Increase sentences for one punch assaults that kill to equal those for murder](604002.md) | 24,439 | 24,308 | 131 | 0 | 99.46 | 0.54 | 0.00 |
 | [Hold a referendum on whether to keep the 2050 net zero target](599602.md) | 24,082 | 23,727 | 355 | 0 | 98.53 | 1.47 | 0.00 |
 | [Remove all COVID requirements for international travel to the UK](605858.md) | 22,412 | 22,097 | 315 | 0 | 98.59 | 1.41 | 0.00 |
-| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 22,019 | 21,995 | 24 | 0 | 99.89 | 0.11 | 0.00 |
+| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 22,021 | 21,997 | 24 | 0 | 99.89 | 0.11 | 0.00 |
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 21,906 | 21,636 | 270 | 0 | 98.77 | 1.23 | 0.00 |
 | [Increase the basic state pensions by £500 a year as an emergency measure](605503.md) | 19,656 | 19,428 | 228 | 0 | 98.84 | 1.16 | 0.00 |
 | [Free prescriptions for those with a long term and/or chronic condition.](608237.md) | 18,892 | 18,846 | 46 | 0 | 99.76 | 0.24 | 0.00 |
@@ -50,7 +50,7 @@ Last refreshed 2022-03-29 04:00:07
 | [Make provisions for telemedicine for early abortions permanent in England](609472.md) | 14,655 | 14,606 | 49 | 0 | 99.67 | 0.33 | 0.00 |
 | [Ban the manufacture, import, sale and use of fireworks in the UK](599738.md) | 14,221 | 14,161 | 60 | 0 | 99.58 | 0.42 | 0.00 |
 | [End ‘ghost' flights: reform historic rights to landing slots. ](605749.md) | 14,054 | 13,845 | 209 | 0 | 98.51 | 1.49 | 0.00 |
-| [Do not end legal obligations to self-isolate if people test positive for covid](606834.md) | 13,706 | 13,604 | 102 | 0 | 99.26 | 0.74 | 0.00 |
+| [Do not end legal obligations to self-isolate if people test positive for covid](606834.md) | 13,707 | 13,605 | 102 | 0 | 99.26 | 0.74 | 0.00 |
 | [Ban developments on Green belt and Greenfield sites across the country](600577.md) | 13,671 | 13,643 | 28 | 0 | 99.80 | 0.20 | 0.00 |
 | [Do not make COVID vaccination a requirement for health and social care workers](600872.md) | 13,337 | 13,265 | 72 | 0 | 99.46 | 0.54 | 0.00 |
 | [Make St David's day a bank holiday in Wales](599066.md) | 12,959 | 12,820 | 139 | 0 | 98.93 | 1.07 | 0.00 |
