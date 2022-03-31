@@ -4,29 +4,29 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-03-31 04:00:06
+Last refreshed 2022-03-31 05:00:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 325,682 | 322,205 | 3,477 | 0 | 98.93 | 1.07 | 0.00 |
+| [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 325,683 | 322,206 | 3,477 | 0 | 98.93 | 1.07 | 0.00 |
 | [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 232,377 | 231,003 | 1,374 | 0 | 99.41 | 0.59 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 186,712 | 182,974 | 3,738 | 0 | 98.00 | 2.00 | 0.00 |
-| [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 174,958 | 174,545 | 413 | 0 | 99.76 | 0.24 | 0.00 |
+| [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 174,959 | 174,546 | 413 | 0 | 99.76 | 0.24 | 0.00 |
 | [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 137,306 | 135,907 | 1,399 | 0 | 98.98 | 1.02 | 0.00 |
-| [Require schools to make Friday a part of the school weekend](597715.md) | 122,221 | 121,307 | 914 | 0 | 99.25 | 0.75 | 0.00 |
+| [Require schools to make Friday a part of the school weekend](597715.md) | 122,286 | 121,368 | 918 | 0 | 99.25 | 0.75 | 0.00 |
 | [Do not implement proposed new offences for vehicle "tampering"](600954.md) | 111,435 | 111,083 | 352 | 0 | 99.68 | 0.32 | 0.00 |
-| [Repeal Breed Specific Legislation](603988.md) | 106,967 | 106,007 | 960 | 0 | 99.10 | 0.90 | 0.00 |
-| [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 101,398 | 99,792 | 1,606 | 0 | 98.42 | 1.58 | 0.00 |
-| [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 100,804 | 100,732 | 72 | 0 | 99.93 | 0.07 | 0.00 |
+| [Repeal Breed Specific Legislation](603988.md) | 106,971 | 106,011 | 960 | 0 | 99.10 | 0.90 | 0.00 |
+| [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 101,401 | 99,795 | 1,606 | 0 | 98.42 | 1.58 | 0.00 |
+| [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 100,807 | 100,735 | 72 | 0 | 99.93 | 0.07 | 0.00 |
 | [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 68,554 | 67,783 | 771 | 0 | 98.88 | 1.12 | 0.00 |
 | [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 56,021 | 55,539 | 482 | 0 | 99.14 | 0.86 | 0.00 |
-| [Revoke local government powers to charge CAZ, LEZ, and ULEZ.](599985.md) | 54,488 | 54,450 | 38 | 0 | 99.93 | 0.07 | 0.00 |
-| [Pledge any necessary military support to defend Ukraine](607314.md) | 49,254 | 46,844 | 2,410 | 0 | 95.11 | 4.89 | 0.00 |
+| [Revoke local government powers to charge CAZ, LEZ, and ULEZ.](599985.md) | 54,489 | 54,451 | 38 | 0 | 99.93 | 0.07 | 0.00 |
+| [Pledge any necessary military support to defend Ukraine](607314.md) | 49,255 | 46,845 | 2,410 | 0 | 95.11 | 4.89 | 0.00 |
 | [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 48,299 | 47,074 | 1,225 | 0 | 97.46 | 2.54 | 0.00 |
 | [Do not reform the Human Rights Act](607712.md) | 44,615 | 44,064 | 551 | 0 | 98.76 | 1.24 | 0.00 |
-| [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 44,317 | 43,340 | 977 | 0 | 97.80 | 2.20 | 0.00 |
-| [Do not restrict our right to freedom of expression online. ](601932.md) | 42,904 | 42,182 | 722 | 0 | 98.32 | 1.68 | 0.00 |
-| [Hold a public inquiry into Russian interference in UK politics](609388.md) | 35,916 | 34,515 | 1,401 | 0 | 96.10 | 3.90 | 0.00 |
+| [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 44,318 | 43,341 | 977 | 0 | 97.80 | 2.20 | 0.00 |
+| [Do not restrict our right to freedom of expression online. ](601932.md) | 42,908 | 42,185 | 723 | 0 | 98.31 | 1.69 | 0.00 |
+| [Hold a public inquiry into Russian interference in UK politics](609388.md) | 35,918 | 34,516 | 1,402 | 0 | 96.10 | 3.90 | 0.00 |
 | [Do not make vaccination against Covid-19 mandatory](602282.md) | 26,963 | 26,762 | 201 | 0 | 99.25 | 0.75 | 0.00 |
 | [Make SEND training mandatory for all teaching staff](607849.md) | 26,831 | 26,752 | 79 | 0 | 99.71 | 0.29 | 0.00 |
 | [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 25,926 | 25,797 | 129 | 0 | 99.50 | 0.50 | 0.00 |
@@ -34,9 +34,9 @@ Last refreshed 2022-03-31 04:00:06
 | [Increase sentences for one punch assaults that kill to equal those for murder](604002.md) | 24,450 | 24,319 | 131 | 0 | 99.46 | 0.54 | 0.00 |
 | [Hold a referendum on whether to keep the 2050 net zero target](599602.md) | 24,127 | 23,772 | 355 | 0 | 98.53 | 1.47 | 0.00 |
 | [Remove all COVID requirements for international travel to the UK](605858.md) | 22,427 | 22,112 | 315 | 0 | 98.60 | 1.40 | 0.00 |
-| [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 22,422 | 22,149 | 273 | 0 | 98.78 | 1.22 | 0.00 |
+| [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 22,424 | 22,151 | 273 | 0 | 98.78 | 1.22 | 0.00 |
 | [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 22,073 | 22,049 | 24 | 0 | 99.89 | 0.11 | 0.00 |
-| [Increase the basic state pensions by £500 a year as an emergency measure](605503.md) | 19,704 | 19,474 | 230 | 0 | 98.83 | 1.17 | 0.00 |
+| [Increase the basic state pensions by £500 a year as an emergency measure](605503.md) | 19,705 | 19,475 | 230 | 0 | 98.83 | 1.17 | 0.00 |
 | [Free prescriptions for those with a long term and/or chronic condition.](608237.md) | 18,931 | 18,884 | 47 | 0 | 99.75 | 0.25 | 0.00 |
 | [Independent scrutiny of alleged breaches of the Ministerial Code by the PM](598145.md) | 18,103 | 17,675 | 428 | 0 | 97.64 | 2.36 | 0.00 |
 | [Create a ‘National Sleep Strategy’ to end child bed poverty](604509.md) | 18,042 | 17,928 | 114 | 0 | 99.37 | 0.63 | 0.00 |
@@ -56,5 +56,5 @@ Last refreshed 2022-03-31 04:00:06
 | [Do not make COVID vaccination a requirement for health and social care workers](600872.md) | 13,342 | 13,270 | 72 | 0 | 99.46 | 0.54 | 0.00 |
 | [Make St David's day a bank holiday in Wales](599066.md) | 12,979 | 12,840 | 139 | 0 | 98.93 | 1.07 | 0.00 |
 | [Urge Hong Kong to release all political prisoners and safeguard human rights](601971.md) | 12,121 | 10,715 | 1,406 | 0 | 88.40 | 11.60 | 0.00 |
-| [Require universities to refund students during any strike action](601792.md) | 11,736 | 11,662 | 74 | 0 | 99.37 | 0.63 | 0.00 |
+| [Require universities to refund students during any strike action](601792.md) | 11,737 | 11,663 | 74 | 0 | 99.37 | 0.63 | 0.00 |
 | [Ensure global and equitable access to vaccines, tests, treatments, and PPE. ](605158.md) | 11,454 | 11,391 | 63 | 0 | 99.45 | 0.55 | 0.00 |
