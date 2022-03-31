@@ -4,24 +4,24 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-03-31 02:00:05
+Last refreshed 2022-03-31 03:00:08
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 325,682 | 322,205 | 3,477 | 0 | 98.93 | 1.07 | 0.00 |
 | [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 232,377 | 231,003 | 1,374 | 0 | 99.41 | 0.59 | 0.00 |
-| [Waive visa requirement for Ukrainian refugees.](609530.md) | 186,710 | 182,972 | 3,738 | 0 | 98.00 | 2.00 | 0.00 |
+| [Waive visa requirement for Ukrainian refugees.](609530.md) | 186,711 | 182,973 | 3,738 | 0 | 98.00 | 2.00 | 0.00 |
 | [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 174,958 | 174,545 | 413 | 0 | 99.76 | 0.24 | 0.00 |
 | [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 137,306 | 135,907 | 1,399 | 0 | 98.98 | 1.02 | 0.00 |
-| [Require schools to make Friday a part of the school weekend](597715.md) | 122,123 | 121,222 | 901 | 0 | 99.26 | 0.74 | 0.00 |
+| [Require schools to make Friday a part of the school weekend](597715.md) | 122,183 | 121,281 | 902 | 0 | 99.26 | 0.74 | 0.00 |
 | [Do not implement proposed new offences for vehicle "tampering"](600954.md) | 111,435 | 111,083 | 352 | 0 | 99.68 | 0.32 | 0.00 |
 | [Repeal Breed Specific Legislation](603988.md) | 106,966 | 106,006 | 960 | 0 | 99.10 | 0.90 | 0.00 |
-| [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 101,396 | 99,790 | 1,606 | 0 | 98.42 | 1.58 | 0.00 |
-| [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 100,802 | 100,730 | 72 | 0 | 99.93 | 0.07 | 0.00 |
+| [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 101,397 | 99,791 | 1,606 | 0 | 98.42 | 1.58 | 0.00 |
+| [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 100,803 | 100,731 | 72 | 0 | 99.93 | 0.07 | 0.00 |
 | [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 68,554 | 67,783 | 771 | 0 | 98.88 | 1.12 | 0.00 |
-| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 56,017 | 55,535 | 482 | 0 | 99.14 | 0.86 | 0.00 |
+| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 56,018 | 55,536 | 482 | 0 | 99.14 | 0.86 | 0.00 |
 | [Revoke local government powers to charge CAZ, LEZ, and ULEZ.](599985.md) | 54,487 | 54,449 | 38 | 0 | 99.93 | 0.07 | 0.00 |
-| [Pledge any necessary military support to defend Ukraine](607314.md) | 49,253 | 46,843 | 2,410 | 0 | 95.11 | 4.89 | 0.00 |
+| [Pledge any necessary military support to defend Ukraine](607314.md) | 49,254 | 46,844 | 2,410 | 0 | 95.11 | 4.89 | 0.00 |
 | [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 48,298 | 47,073 | 1,225 | 0 | 97.46 | 2.54 | 0.00 |
 | [Do not reform the Human Rights Act](607712.md) | 44,615 | 44,064 | 551 | 0 | 98.76 | 1.24 | 0.00 |
 | [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 44,317 | 43,340 | 977 | 0 | 97.80 | 2.20 | 0.00 |
@@ -30,11 +30,11 @@ Last refreshed 2022-03-31 02:00:05
 | [Do not make vaccination against Covid-19 mandatory](602282.md) | 26,963 | 26,762 | 201 | 0 | 99.25 | 0.75 | 0.00 |
 | [Make SEND training mandatory for all teaching staff](607849.md) | 26,831 | 26,752 | 79 | 0 | 99.71 | 0.29 | 0.00 |
 | [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 25,926 | 25,797 | 129 | 0 | 99.50 | 0.50 | 0.00 |
-| [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 25,887 | 25,685 | 202 | 0 | 99.22 | 0.78 | 0.00 |
+| [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 25,888 | 25,686 | 202 | 0 | 99.22 | 0.78 | 0.00 |
 | [Increase sentences for one punch assaults that kill to equal those for murder](604002.md) | 24,450 | 24,319 | 131 | 0 | 99.46 | 0.54 | 0.00 |
 | [Hold a referendum on whether to keep the 2050 net zero target](599602.md) | 24,127 | 23,772 | 355 | 0 | 98.53 | 1.47 | 0.00 |
 | [Remove all COVID requirements for international travel to the UK](605858.md) | 22,427 | 22,112 | 315 | 0 | 98.60 | 1.40 | 0.00 |
-| [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 22,420 | 22,147 | 273 | 0 | 98.78 | 1.22 | 0.00 |
+| [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 22,421 | 22,148 | 273 | 0 | 98.78 | 1.22 | 0.00 |
 | [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 22,073 | 22,049 | 24 | 0 | 99.89 | 0.11 | 0.00 |
 | [Increase the basic state pensions by £500 a year as an emergency measure](605503.md) | 19,704 | 19,474 | 230 | 0 | 98.83 | 1.17 | 0.00 |
 | [Free prescriptions for those with a long term and/or chronic condition.](608237.md) | 18,931 | 18,884 | 47 | 0 | 99.75 | 0.25 | 0.00 |
@@ -55,6 +55,6 @@ Last refreshed 2022-03-31 02:00:05
 | [Ban developments on Green belt and Greenfield sites across the country](600577.md) | 13,699 | 13,671 | 28 | 0 | 99.80 | 0.20 | 0.00 |
 | [Do not make COVID vaccination a requirement for health and social care workers](600872.md) | 13,342 | 13,270 | 72 | 0 | 99.46 | 0.54 | 0.00 |
 | [Make St David's day a bank holiday in Wales](599066.md) | 12,979 | 12,840 | 139 | 0 | 98.93 | 1.07 | 0.00 |
-| [Urge Hong Kong to release all political prisoners and safeguard human rights](601971.md) | 12,120 | 10,714 | 1,406 | 0 | 88.40 | 11.60 | 0.00 |
-| [Require universities to refund students during any strike action](601792.md) | 11,734 | 11,660 | 74 | 0 | 99.37 | 0.63 | 0.00 |
+| [Urge Hong Kong to release all political prisoners and safeguard human rights](601971.md) | 12,121 | 10,715 | 1,406 | 0 | 88.40 | 11.60 | 0.00 |
+| [Require universities to refund students during any strike action](601792.md) | 11,736 | 11,662 | 74 | 0 | 99.37 | 0.63 | 0.00 |
 | [Ensure global and equitable access to vaccines, tests, treatments, and PPE. ](605158.md) | 11,454 | 11,391 | 63 | 0 | 99.45 | 0.55 | 0.00 |
