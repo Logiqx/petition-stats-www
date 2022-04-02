@@ -4,15 +4,15 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-04-02 01:00:05
+Last refreshed 2022-04-02 02:00:08
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 325,740 | 322,263 | 3,477 | 0 | 98.93 | 1.07 | 0.00 |
+| [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 325,741 | 322,264 | 3,477 | 0 | 98.93 | 1.07 | 0.00 |
 | [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 232,399 | 231,025 | 1,374 | 0 | 99.41 | 0.59 | 0.00 |
-| [Waive visa requirement for Ukrainian refugees.](609530.md) | 186,906 | 183,167 | 3,739 | 0 | 98.00 | 2.00 | 0.00 |
+| [Waive visa requirement for Ukrainian refugees.](609530.md) | 186,907 | 183,168 | 3,739 | 0 | 98.00 | 2.00 | 0.00 |
 | [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 174,993 | 174,579 | 414 | 0 | 99.76 | 0.24 | 0.00 |
-| [Require schools to make Friday a part of the school weekend](597715.md) | 145,235 | 144,033 | 1,202 | 0 | 99.17 | 0.83 | 0.00 |
+| [Require schools to make Friday a part of the school weekend](597715.md) | 145,243 | 144,039 | 1,204 | 0 | 99.17 | 0.83 | 0.00 |
 | [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 137,349 | 135,950 | 1,399 | 0 | 98.98 | 1.02 | 0.00 |
 | [Do not implement proposed new offences for vehicle "tampering"](600954.md) | 111,511 | 111,159 | 352 | 0 | 99.68 | 0.32 | 0.00 |
 | [Repeal Breed Specific Legislation](603988.md) | 107,164 | 106,204 | 960 | 0 | 99.10 | 0.90 | 0.00 |
@@ -22,17 +22,17 @@ Last refreshed 2022-04-02 01:00:05
 | [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 56,851 | 56,364 | 487 | 0 | 99.14 | 0.86 | 0.00 |
 | [Revoke local government powers to charge CAZ, LEZ, and ULEZ.](599985.md) | 54,541 | 54,503 | 38 | 0 | 99.93 | 0.07 | 0.00 |
 | [Pledge any necessary military support to defend Ukraine](607314.md) | 49,290 | 46,878 | 2,412 | 0 | 95.11 | 4.89 | 0.00 |
-| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 49,203 | 47,961 | 1,242 | 0 | 97.48 | 2.52 | 0.00 |
+| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 49,207 | 47,964 | 1,243 | 0 | 97.47 | 2.53 | 0.00 |
 | [Do not reform the Human Rights Act](607712.md) | 44,712 | 44,161 | 551 | 0 | 98.77 | 1.23 | 0.00 |
 | [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 44,459 | 43,474 | 985 | 0 | 97.78 | 2.22 | 0.00 |
 | [Do not restrict our right to freedom of expression online. ](601932.md) | 43,248 | 42,522 | 726 | 0 | 98.32 | 1.68 | 0.00 |
 | [Hold a public inquiry into Russian interference in UK politics](609388.md) | 36,532 | 35,111 | 1,421 | 0 | 96.11 | 3.89 | 0.00 |
-| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 27,077 | 26,940 | 137 | 0 | 99.49 | 0.51 | 0.00 |
+| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 27,085 | 26,948 | 137 | 0 | 99.49 | 0.51 | 0.00 |
 | [Do not make vaccination against Covid-19 mandatory](602282.md) | 26,976 | 26,775 | 201 | 0 | 99.25 | 0.75 | 0.00 |
 | [Make SEND training mandatory for all teaching staff](607849.md) | 26,913 | 26,834 | 79 | 0 | 99.71 | 0.29 | 0.00 |
 | [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 25,957 | 25,751 | 206 | 0 | 99.21 | 0.79 | 0.00 |
 | [Increase sentences for one punch assaults that kill to equal those for murder](604002.md) | 24,457 | 24,326 | 131 | 0 | 99.46 | 0.54 | 0.00 |
-| [Hold a referendum on whether to keep the 2050 net zero target](599602.md) | 24,304 | 23,947 | 357 | 0 | 98.53 | 1.47 | 0.00 |
+| [Hold a referendum on whether to keep the 2050 net zero target](599602.md) | 24,305 | 23,948 | 357 | 0 | 98.53 | 1.47 | 0.00 |
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 23,149 | 22,875 | 274 | 0 | 98.82 | 1.18 | 0.00 |
 | [Remove all COVID requirements for international travel to the UK](605858.md) | 22,432 | 22,117 | 315 | 0 | 98.60 | 1.40 | 0.00 |
 | [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 22,121 | 22,097 | 24 | 0 | 99.89 | 0.11 | 0.00 |
