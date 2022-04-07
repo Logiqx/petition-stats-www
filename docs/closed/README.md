@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-04-07 15:00:23
+Last refreshed 2022-04-07 16:00:20
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -54,7 +54,7 @@ Last refreshed 2022-04-07 15:00:23
 | [Keep schools closed until May](573621.md) | 149,470 | 149,111 | 359 | 0 | 99.76 | 0.24 | 0.00 |
 | [Review the decision to use previous data to calculate exam grades](306773.md) | 148,885 | 147,635 | 1,250 | 0 | 99.16 | 0.84 | 0.00 |
 | [Reduce curriculum content for year 10 & 12 students who will sit exams in 2021.](320772.md) | 148,388 | 147,990 | 398 | 0 | 99.73 | 0.27 | 0.00 |
-| [Require schools to make Friday a part of the school weekend](597715.md) | 148,124 | 146,802 | 1,322 | 0 | 99.11 | 0.89 | 0.00 |
+| [Require schools to make Friday a part of the school weekend](597715.md) | 148,126 | 146,804 | 1,322 | 0 | 99.11 | 0.89 | 0.00 |
 | [FIONA'S LAW - Women should be allowed a yearly Cervical screening   ](317336.md) | 146,637 | 145,998 | 639 | 0 | 99.56 | 0.44 | 0.00 |
 | [Give all key workers a 100% tax and Nat. Ins. holiday through COVID-19 crisis](306845.md) | 146,351 | 146,074 | 277 | 0 | 99.81 | 0.19 | 0.00 |
 | [Impose sanctions on China over its treatment of Uyghur Muslims](300146.md) | 146,345 | 139,772 | 6,573 | 0 | 95.51 | 4.49 | 0.00 |
