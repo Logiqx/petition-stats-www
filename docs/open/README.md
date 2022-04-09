@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-04-09 03:00:08
+Last refreshed 2022-04-09 04:00:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -12,24 +12,24 @@ Last refreshed 2022-04-09 03:00:08
 | [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 232,448 | 231,074 | 1,374 | 0 | 99.41 | 0.59 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 187,330 | 183,584 | 3,746 | 0 | 98.00 | 2.00 | 0.00 |
 | [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 175,037 | 174,623 | 414 | 0 | 99.76 | 0.24 | 0.00 |
-| [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 137,525 | 136,121 | 1,404 | 0 | 98.98 | 1.02 | 0.00 |
-| [Do not implement proposed new offences for vehicle "tampering"](600954.md) | 114,401 | 114,036 | 365 | 0 | 99.68 | 0.32 | 0.00 |
+| [Renationalise the NHS, scrap integrated care systems, and end PFI contracts](598732.md) | 137,526 | 136,122 | 1,404 | 0 | 98.98 | 1.02 | 0.00 |
+| [Do not implement proposed new offences for vehicle "tampering"](600954.md) | 114,402 | 114,037 | 365 | 0 | 99.68 | 0.32 | 0.00 |
 | [Repeal Breed Specific Legislation](603988.md) | 107,825 | 106,857 | 968 | 0 | 99.10 | 0.90 | 0.00 |
 | [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 102,012 | 100,392 | 1,620 | 0 | 98.41 | 1.59 | 0.00 |
 | [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 101,759 | 101,686 | 73 | 0 | 99.93 | 0.07 | 0.00 |
 | [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 69,085 | 68,309 | 776 | 0 | 98.88 | 1.12 | 0.00 |
-| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 59,568 | 59,084 | 484 | 0 | 99.19 | 0.81 | 0.00 |
+| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 59,657 | 59,167 | 490 | 0 | 99.18 | 0.82 | 0.00 |
 | [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 57,983 | 57,476 | 507 | 0 | 99.13 | 0.87 | 0.00 |
 | [Revoke local government powers to charge CAZ, LEZ, and ULEZ.](599985.md) | 54,665 | 54,626 | 39 | 0 | 99.93 | 0.07 | 0.00 |
-| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 52,962 | 51,625 | 1,337 | 0 | 97.48 | 2.52 | 0.00 |
+| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 52,967 | 51,630 | 1,337 | 0 | 97.48 | 2.52 | 0.00 |
 | [Pledge any necessary military support to defend Ukraine](607314.md) | 49,536 | 47,114 | 2,422 | 0 | 95.11 | 4.89 | 0.00 |
-| [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 44,987 | 43,981 | 1,006 | 0 | 97.76 | 2.24 | 0.00 |
+| [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 44,989 | 43,983 | 1,006 | 0 | 97.76 | 2.24 | 0.00 |
 | [Do not reform the Human Rights Act](607712.md) | 44,905 | 44,351 | 554 | 0 | 98.77 | 1.23 | 0.00 |
 | [Do not restrict our right to freedom of expression online. ](601932.md) | 43,626 | 42,894 | 732 | 0 | 98.32 | 1.68 | 0.00 |
-| [Hold a public inquiry into Russian interference in UK politics](609388.md) | 37,959 | 36,491 | 1,468 | 0 | 96.13 | 3.87 | 0.00 |
+| [Hold a public inquiry into Russian interference in UK politics](609388.md) | 37,960 | 36,492 | 1,468 | 0 | 96.13 | 3.87 | 0.00 |
 | [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 28,901 | 28,754 | 147 | 0 | 99.49 | 0.51 | 0.00 |
-| [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 28,787 | 28,305 | 482 | 0 | 98.33 | 1.67 | 0.00 |
-| [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 27,261 | 27,032 | 229 | 0 | 99.16 | 0.84 | 0.00 |
+| [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 28,789 | 28,307 | 482 | 0 | 98.33 | 1.67 | 0.00 |
+| [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 27,262 | 27,033 | 229 | 0 | 99.16 | 0.84 | 0.00 |
 | [Make SEND training mandatory for all teaching staff](607849.md) | 27,085 | 27,006 | 79 | 0 | 99.71 | 0.29 | 0.00 |
 | [Do not make vaccination against Covid-19 mandatory](602282.md) | 27,011 | 26,810 | 201 | 0 | 99.26 | 0.74 | 0.00 |
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 26,304 | 26,001 | 303 | 0 | 98.85 | 1.15 | 0.00 |
