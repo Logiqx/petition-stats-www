@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-04-11 02:00:05
+Last refreshed 2022-04-11 03:00:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -17,28 +17,28 @@ Last refreshed 2022-04-11 02:00:05
 | [Repeal Breed Specific Legislation](603988.md) | 107,841 | 106,873 | 968 | 0 | 99.10 | 0.90 | 0.00 |
 | [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 102,067 | 100,447 | 1,620 | 0 | 98.41 | 1.59 | 0.00 |
 | [Reduce fuel duty and VAT by 40% for a period of 2 years](599089.md) | 101,817 | 101,744 | 73 | 0 | 99.93 | 0.07 | 0.00 |
-| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 100,613 | 99,672 | 941 | 0 | 99.06 | 0.94 | 0.00 |
+| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 100,782 | 99,835 | 947 | 0 | 99.06 | 0.94 | 0.00 |
 | [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 69,148 | 68,370 | 778 | 0 | 98.87 | 1.13 | 0.00 |
-| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 58,304 | 57,796 | 508 | 0 | 99.13 | 0.87 | 0.00 |
+| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 58,305 | 57,797 | 508 | 0 | 99.13 | 0.87 | 0.00 |
 | [Revoke local government powers to charge CAZ, LEZ, and ULEZ.](599985.md) | 54,698 | 54,659 | 39 | 0 | 99.93 | 0.07 | 0.00 |
-| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 53,595 | 52,236 | 1,359 | 0 | 97.46 | 2.54 | 0.00 |
+| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 53,596 | 52,237 | 1,359 | 0 | 97.46 | 2.54 | 0.00 |
 | [Pledge any necessary military support to defend Ukraine](607314.md) | 49,575 | 47,153 | 2,422 | 0 | 95.11 | 4.89 | 0.00 |
-| [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 45,219 | 44,210 | 1,009 | 0 | 97.77 | 2.23 | 0.00 |
+| [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 45,220 | 44,211 | 1,009 | 0 | 97.77 | 2.23 | 0.00 |
 | [Do not reform the Human Rights Act](607712.md) | 44,943 | 44,389 | 554 | 0 | 98.77 | 1.23 | 0.00 |
 | [Do not restrict our right to freedom of expression online. ](601932.md) | 43,656 | 42,923 | 733 | 0 | 98.32 | 1.68 | 0.00 |
-| [Hold a public inquiry into Russian interference in UK politics](609388.md) | 38,290 | 36,806 | 1,484 | 0 | 96.12 | 3.88 | 0.00 |
-| [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 29,833 | 29,332 | 501 | 0 | 98.32 | 1.68 | 0.00 |
+| [Hold a public inquiry into Russian interference in UK politics](609388.md) | 38,292 | 36,808 | 1,484 | 0 | 96.12 | 3.88 | 0.00 |
+| [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 29,835 | 29,334 | 501 | 0 | 98.32 | 1.68 | 0.00 |
 | [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 29,006 | 28,859 | 147 | 0 | 99.49 | 0.51 | 0.00 |
 | [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 27,363 | 27,132 | 231 | 0 | 99.16 | 0.84 | 0.00 |
 | [Make SEND training mandatory for all teaching staff](607849.md) | 27,115 | 27,036 | 79 | 0 | 99.71 | 0.29 | 0.00 |
-| [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 27,079 | 26,767 | 312 | 0 | 98.85 | 1.15 | 0.00 |
+| [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 27,080 | 26,768 | 312 | 0 | 98.85 | 1.15 | 0.00 |
 | [Do not make vaccination against Covid-19 mandatory](602282.md) | 27,014 | 26,813 | 201 | 0 | 99.26 | 0.74 | 0.00 |
 | [Increase sentences for one punch assaults that kill to equal those for murder](604002.md) | 24,487 | 24,356 | 131 | 0 | 99.47 | 0.53 | 0.00 |
 | [Hold a referendum on whether to keep the 2050 net zero target](599602.md) | 24,468 | 24,111 | 357 | 0 | 98.54 | 1.46 | 0.00 |
-| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 23,390 | 23,364 | 26 | 0 | 99.89 | 0.11 | 0.00 |
+| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 23,391 | 23,365 | 26 | 0 | 99.89 | 0.11 | 0.00 |
 | [Remove all COVID requirements for international travel to the UK](605858.md) | 22,437 | 22,122 | 315 | 0 | 98.60 | 1.40 | 0.00 |
-| [Make it unlawful for shops to refuse cash payments.](605030.md) | 21,748 | 21,540 | 208 | 0 | 99.04 | 0.96 | 0.00 |
-| [Increase the basic state pensions by £500 a year as an emergency measure](605503.md) | 20,872 | 20,625 | 247 | 0 | 98.82 | 1.18 | 0.00 |
+| [Make it unlawful for shops to refuse cash payments.](605030.md) | 21,750 | 21,542 | 208 | 0 | 99.04 | 0.96 | 0.00 |
+| [Increase the basic state pensions by £500 a year as an emergency measure](605503.md) | 20,873 | 20,626 | 247 | 0 | 98.82 | 1.18 | 0.00 |
 | [Free prescriptions for those with a long term and/or chronic condition.](608237.md) | 19,121 | 19,074 | 47 | 0 | 99.75 | 0.25 | 0.00 |
 | [Create a ‘National Sleep Strategy’ to end child bed poverty](604509.md) | 18,145 | 18,031 | 114 | 0 | 99.37 | 0.63 | 0.00 |
 | [Make the day of Diwali a public holiday](600808.md) | 17,397 | 17,321 | 76 | 0 | 99.56 | 0.44 | 0.00 |
@@ -56,5 +56,5 @@ Last refreshed 2022-04-11 02:00:05
 | [Ban developments on Green belt and Greenfield sites across the country](600577.md) | 13,784 | 13,754 | 30 | 0 | 99.78 | 0.22 | 0.00 |
 | [Do not make COVID vaccination a requirement for health and social care workers](600872.md) | 13,350 | 13,278 | 72 | 0 | 99.46 | 0.54 | 0.00 |
 | [Make St David's day a bank holiday in Wales](599066.md) | 13,016 | 12,876 | 140 | 0 | 98.92 | 1.08 | 0.00 |
-| [Require schools provide a vegan meal option every day](608670.md) | 12,541 | 12,410 | 131 | 0 | 98.96 | 1.04 | 0.00 |
+| [Require schools provide a vegan meal option every day](608670.md) | 12,542 | 12,411 | 131 | 0 | 98.96 | 1.04 | 0.00 |
 | [Urge Hong Kong to release all political prisoners and safeguard human rights](601971.md) | 12,192 | 10,784 | 1,408 | 0 | 88.45 | 11.55 | 0.00 |
