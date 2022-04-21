@@ -4,36 +4,36 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-04-21 03:00:12
+Last refreshed 2022-04-21 04:00:10
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 326,269 | 322,785 | 3,484 | 0 | 98.93 | 1.07 | 0.00 |
+| [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 326,272 | 322,788 | 3,484 | 0 | 98.93 | 1.07 | 0.00 |
 | [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 232,503 | 231,129 | 1,374 | 0 | 99.41 | 0.59 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 187,709 | 183,960 | 3,749 | 0 | 98.00 | 2.00 | 0.00 |
-| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 138,135 | 136,819 | 1,316 | 0 | 99.05 | 0.95 | 0.00 |
+| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 138,137 | 136,821 | 1,316 | 0 | 99.05 | 0.95 | 0.00 |
 | [Do not implement proposed new offences for vehicle "tampering"](600954.md) | 114,780 | 114,413 | 367 | 0 | 99.68 | 0.32 | 0.00 |
 | [Repeal Breed Specific Legislation](603988.md) | 108,032 | 107,062 | 970 | 0 | 99.10 | 0.90 | 0.00 |
-| [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 102,369 | 100,745 | 1,624 | 0 | 98.41 | 1.59 | 0.00 |
+| [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 102,370 | 100,746 | 1,624 | 0 | 98.41 | 1.59 | 0.00 |
 | [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 70,966 | 70,161 | 805 | 0 | 98.87 | 1.13 | 0.00 |
-| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 69,003 | 68,451 | 552 | 0 | 99.20 | 0.80 | 0.00 |
-| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 64,756 | 63,334 | 1,422 | 0 | 97.80 | 2.20 | 0.00 |
-| [Revoke local government powers to charge CAZ, LEZ, and ULEZ.](599985.md) | 54,932 | 54,893 | 39 | 0 | 99.93 | 0.07 | 0.00 |
+| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 69,004 | 68,452 | 552 | 0 | 99.20 | 0.80 | 0.00 |
+| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 64,759 | 63,337 | 1,422 | 0 | 97.80 | 2.20 | 0.00 |
+| [Revoke local government powers to charge CAZ, LEZ, and ULEZ.](599985.md) | 54,933 | 54,894 | 39 | 0 | 99.93 | 0.07 | 0.00 |
 | [Pledge any necessary military support to defend Ukraine](607314.md) | 49,750 | 47,317 | 2,433 | 0 | 95.11 | 4.89 | 0.00 |
 | [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 45,647 | 44,616 | 1,031 | 0 | 97.74 | 2.26 | 0.00 |
-| [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 45,366 | 44,559 | 807 | 0 | 98.22 | 1.78 | 0.00 |
+| [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 45,367 | 44,560 | 807 | 0 | 98.22 | 1.78 | 0.00 |
 | [Do not restrict our right to freedom of expression online. ](601932.md) | 45,256 | 44,501 | 755 | 0 | 98.33 | 1.67 | 0.00 |
 | [Do not reform the Human Rights Act](607712.md) | 45,195 | 44,639 | 556 | 0 | 98.77 | 1.23 | 0.00 |
 | [Hold a public inquiry into Russian interference in UK politics](609388.md) | 40,454 | 38,899 | 1,555 | 0 | 96.16 | 3.84 | 0.00 |
-| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 33,877 | 33,707 | 170 | 0 | 99.50 | 0.50 | 0.00 |
+| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 33,878 | 33,708 | 170 | 0 | 99.50 | 0.50 | 0.00 |
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 31,635 | 31,282 | 353 | 0 | 98.88 | 1.12 | 0.00 |
-| [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 30,255 | 30,008 | 247 | 0 | 99.18 | 0.82 | 0.00 |
+| [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 30,264 | 30,017 | 247 | 0 | 99.18 | 0.82 | 0.00 |
 | [Make SEND training mandatory for all teaching staff](607849.md) | 27,231 | 27,152 | 79 | 0 | 99.71 | 0.29 | 0.00 |
 | [Do not make vaccination against Covid-19 mandatory](602282.md) | 27,033 | 26,832 | 201 | 0 | 99.26 | 0.74 | 0.00 |
-| [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 24,745 | 24,621 | 124 | 0 | 99.50 | 0.50 | 0.00 |
+| [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 24,746 | 24,622 | 124 | 0 | 99.50 | 0.50 | 0.00 |
 | [Hold a referendum on whether to keep the 2050 net zero target](599602.md) | 24,546 | 24,188 | 358 | 0 | 98.54 | 1.46 | 0.00 |
 | [Increase sentences for one punch assaults that kill to equal those for murder](604002.md) | 24,511 | 24,379 | 132 | 0 | 99.46 | 0.54 | 0.00 |
-| [Make it unlawful for shops to refuse cash payments.](605030.md) | 24,065 | 23,845 | 220 | 0 | 99.09 | 0.91 | 0.00 |
+| [Make it unlawful for shops to refuse cash payments.](605030.md) | 24,072 | 23,852 | 220 | 0 | 99.09 | 0.91 | 0.00 |
 | [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 23,619 | 23,592 | 27 | 0 | 99.89 | 0.11 | 0.00 |
 | [Remove all COVID requirements for international travel to the UK](605858.md) | 22,445 | 22,130 | 315 | 0 | 98.60 | 1.40 | 0.00 |
 | [Increase the basic state pensions by £500 a year as an emergency measure](605503.md) | 21,084 | 20,836 | 248 | 0 | 98.82 | 1.18 | 0.00 |
