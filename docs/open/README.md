@@ -4,57 +4,57 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-04-21 20:00:07
+Last refreshed 2022-04-21 21:00:11
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 326,496 | 323,012 | 3,484 | 0 | 98.93 | 1.07 | 0.00 |
+| [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 326,500 | 323,016 | 3,484 | 0 | 98.93 | 1.07 | 0.00 |
 | [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 232,507 | 231,133 | 1,374 | 0 | 99.41 | 0.59 | 0.00 |
-| [Waive visa requirement for Ukrainian refugees.](609530.md) | 187,728 | 183,979 | 3,749 | 0 | 98.00 | 2.00 | 0.00 |
-| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 138,519 | 137,197 | 1,322 | 0 | 99.05 | 0.95 | 0.00 |
-| [Do not implement proposed new offences for vehicle "tampering"](600954.md) | 114,806 | 114,439 | 367 | 0 | 99.68 | 0.32 | 0.00 |
-| [Repeal Breed Specific Legislation](603988.md) | 108,052 | 107,082 | 970 | 0 | 99.10 | 0.90 | 0.00 |
+| [Waive visa requirement for Ukrainian refugees.](609530.md) | 187,729 | 183,980 | 3,749 | 0 | 98.00 | 2.00 | 0.00 |
+| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 138,551 | 137,227 | 1,324 | 0 | 99.04 | 0.96 | 0.00 |
+| [Do not implement proposed new offences for vehicle "tampering"](600954.md) | 114,807 | 114,440 | 367 | 0 | 99.68 | 0.32 | 0.00 |
+| [Repeal Breed Specific Legislation](603988.md) | 108,053 | 107,083 | 970 | 0 | 99.10 | 0.90 | 0.00 |
 | [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 102,381 | 100,757 | 1,624 | 0 | 98.41 | 1.59 | 0.00 |
-| [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 70,980 | 70,175 | 805 | 0 | 98.87 | 1.13 | 0.00 |
-| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 69,623 | 69,066 | 557 | 0 | 99.20 | 0.80 | 0.00 |
-| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 65,269 | 63,846 | 1,423 | 0 | 97.82 | 2.18 | 0.00 |
-| [Revoke local government powers to charge CAZ, LEZ, and ULEZ.](599985.md) | 54,955 | 54,916 | 39 | 0 | 99.93 | 0.07 | 0.00 |
-| [Pledge any necessary military support to defend Ukraine](607314.md) | 49,760 | 47,327 | 2,433 | 0 | 95.11 | 4.89 | 0.00 |
+| [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 70,981 | 70,176 | 805 | 0 | 98.87 | 1.13 | 0.00 |
+| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 69,674 | 69,115 | 559 | 0 | 99.20 | 0.80 | 0.00 |
+| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 65,319 | 63,896 | 1,423 | 0 | 97.82 | 2.18 | 0.00 |
+| [Revoke local government powers to charge CAZ, LEZ, and ULEZ.](599985.md) | 54,956 | 54,917 | 39 | 0 | 99.93 | 0.07 | 0.00 |
+| [Pledge any necessary military support to defend Ukraine](607314.md) | 49,761 | 47,328 | 2,433 | 0 | 95.11 | 4.89 | 0.00 |
 | [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 45,662 | 44,627 | 1,035 | 0 | 97.73 | 2.27 | 0.00 |
-| [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 45,523 | 44,715 | 808 | 0 | 98.23 | 1.77 | 0.00 |
-| [Do not restrict our right to freedom of expression online. ](601932.md) | 45,412 | 44,656 | 756 | 0 | 98.34 | 1.66 | 0.00 |
+| [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 45,532 | 44,724 | 808 | 0 | 98.23 | 1.77 | 0.00 |
+| [Do not restrict our right to freedom of expression online. ](601932.md) | 45,418 | 44,662 | 756 | 0 | 98.34 | 1.66 | 0.00 |
 | [Do not reform the Human Rights Act](607712.md) | 45,201 | 44,645 | 556 | 0 | 98.77 | 1.23 | 0.00 |
-| [Hold a public inquiry into Russian interference in UK politics](609388.md) | 40,578 | 39,019 | 1,559 | 0 | 96.16 | 3.84 | 0.00 |
-| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 33,960 | 33,790 | 170 | 0 | 99.50 | 0.50 | 0.00 |
-| [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 31,689 | 31,336 | 353 | 0 | 98.89 | 1.11 | 0.00 |
-| [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 30,392 | 30,145 | 247 | 0 | 99.19 | 0.81 | 0.00 |
-| [Make SEND training mandatory for all teaching staff](607849.md) | 27,238 | 27,159 | 79 | 0 | 99.71 | 0.29 | 0.00 |
+| [Hold a public inquiry into Russian interference in UK politics](609388.md) | 40,588 | 39,029 | 1,559 | 0 | 96.16 | 3.84 | 0.00 |
+| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 33,967 | 33,797 | 170 | 0 | 99.50 | 0.50 | 0.00 |
+| [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 31,695 | 31,342 | 353 | 0 | 98.89 | 1.11 | 0.00 |
+| [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 30,396 | 30,148 | 248 | 0 | 99.18 | 0.82 | 0.00 |
+| [Make SEND training mandatory for all teaching staff](607849.md) | 27,239 | 27,160 | 79 | 0 | 99.71 | 0.29 | 0.00 |
 | [Do not make vaccination against Covid-19 mandatory](602282.md) | 27,033 | 26,832 | 201 | 0 | 99.26 | 0.74 | 0.00 |
-| [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 25,690 | 25,562 | 128 | 0 | 99.50 | 0.50 | 0.00 |
+| [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 25,789 | 25,660 | 129 | 0 | 99.50 | 0.50 | 0.00 |
 | [Hold a referendum on whether to keep the 2050 net zero target](599602.md) | 24,549 | 24,191 | 358 | 0 | 98.54 | 1.46 | 0.00 |
 | [Increase sentences for one punch assaults that kill to equal those for murder](604002.md) | 24,518 | 24,386 | 132 | 0 | 99.46 | 0.54 | 0.00 |
-| [Make it unlawful for shops to refuse cash payments.](605030.md) | 24,275 | 24,052 | 223 | 0 | 99.08 | 0.92 | 0.00 |
-| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 23,634 | 23,607 | 27 | 0 | 99.89 | 0.11 | 0.00 |
+| [Make it unlawful for shops to refuse cash payments.](605030.md) | 24,283 | 24,060 | 223 | 0 | 99.08 | 0.92 | 0.00 |
+| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 23,638 | 23,611 | 27 | 0 | 99.89 | 0.11 | 0.00 |
 | [Remove all COVID requirements for international travel to the UK](605858.md) | 22,446 | 22,131 | 315 | 0 | 98.60 | 1.40 | 0.00 |
 | [Increase the basic state pensions by £500 a year as an emergency measure](605503.md) | 21,091 | 20,843 | 248 | 0 | 98.82 | 1.18 | 0.00 |
-| [Free prescriptions for those with a long term and/or chronic condition.](608237.md) | 19,244 | 19,197 | 47 | 0 | 99.76 | 0.24 | 0.00 |
+| [Free prescriptions for those with a long term and/or chronic condition.](608237.md) | 19,245 | 19,198 | 47 | 0 | 99.76 | 0.24 | 0.00 |
 | [Create a ‘National Sleep Strategy’ to end child bed poverty](604509.md) | 18,213 | 18,099 | 114 | 0 | 99.37 | 0.63 | 0.00 |
 | [Make the day of Diwali a public holiday](600808.md) | 17,433 | 17,357 | 76 | 0 | 99.56 | 0.44 | 0.00 |
-| [Create new recycling and reuse requirements for local authorities](599622.md) | 17,206 | 17,132 | 74 | 0 | 99.57 | 0.43 | 0.00 |
+| [Create new recycling and reuse requirements for local authorities](599622.md) | 17,207 | 17,133 | 74 | 0 | 99.57 | 0.43 | 0.00 |
 | [End ‘ghost' flights: reform historic rights to landing slots. ](605749.md) | 16,327 | 16,062 | 265 | 0 | 98.38 | 1.62 | 0.00 |
 | [Abolish time limit for requesting sentences for child murder be reviewed](602869.md) | 16,152 | 16,100 | 52 | 0 | 99.68 | 0.32 | 0.00 |
 | [Delay removal of red diesel entitlement from the construction industry](607637.md) | 16,149 | 16,108 | 41 | 0 | 99.75 | 0.25 | 0.00 |
-| [End the ban on fracking](608745.md) | 16,132 | 16,011 | 121 | 0 | 99.25 | 0.75 | 0.00 |
+| [End the ban on fracking](608745.md) | 16,134 | 16,013 | 121 | 0 | 99.25 | 0.75 | 0.00 |
+| [Require all public rights of way be accessible to pedestrians, horses & bicycles](610936.md) | 16,110 | 16,062 | 48 | 0 | 99.70 | 0.30 | 0.00 |
 | [Make self-employed people eligible for statutory adoption pay](601323.md) | 16,097 | 16,014 | 83 | 0 | 99.48 | 0.52 | 0.00 |
-| [Require all public rights of way be accessible to pedestrians, horses & bicycles](610936.md) | 16,086 | 16,038 | 48 | 0 | 99.70 | 0.30 | 0.00 |
 | [Close schools and bring back online learning until the end of Jan 2022](599364.md) | 15,119 | 14,955 | 164 | 0 | 98.92 | 1.08 | 0.00 |
 | [Extend the new dog abduction theft offence to cover cats and all kept animals](602349.md) | 15,116 | 14,981 | 135 | 0 | 99.11 | 0.89 | 0.00 |
 | [Make provisions for telemedicine for early abortions permanent in England](609472.md) | 14,854 | 14,805 | 49 | 0 | 99.67 | 0.33 | 0.00 |
 | [Ban the manufacture, import, sale and use of fireworks in the UK](599738.md) | 14,327 | 14,267 | 60 | 0 | 99.58 | 0.42 | 0.00 |
-| [Do not end legal obligations to self-isolate if people test positive for covid](606834.md) | 13,901 | 13,797 | 104 | 0 | 99.25 | 0.75 | 0.00 |
+| [Do not end legal obligations to self-isolate if people test positive for covid](606834.md) | 13,902 | 13,798 | 104 | 0 | 99.25 | 0.75 | 0.00 |
 | [Ban developments on Green belt and Greenfield sites across the country](600577.md) | 13,851 | 13,821 | 30 | 0 | 99.78 | 0.22 | 0.00 |
 | [Do not make COVID vaccination a requirement for health and social care workers](600872.md) | 13,353 | 13,281 | 72 | 0 | 99.46 | 0.54 | 0.00 |
-| [Require schools provide a vegan meal option every day](608670.md) | 12,928 | 12,790 | 138 | 0 | 98.93 | 1.07 | 0.00 |
-| [Make parking at work permanently free for all NHS workers](612699.md) | 12,622 | 12,512 | 110 | 0 | 99.13 | 0.87 | 0.00 |
+| [Require schools provide a vegan meal option every day](608670.md) | 12,929 | 12,791 | 138 | 0 | 98.93 | 1.07 | 0.00 |
+| [Make parking at work permanently free for all NHS workers](612699.md) | 12,628 | 12,518 | 110 | 0 | 99.13 | 0.87 | 0.00 |
 | [Urge Hong Kong to release all political prisoners and safeguard human rights](601971.md) | 12,306 | 10,896 | 1,410 | 0 | 88.54 | 11.46 | 0.00 |
-| [Allow consumers the right to refuse the £200 energy rebate](608007.md) | 12,291 | 12,284 | 7 | 0 | 99.94 | 0.06 | 0.00 |
+| [Allow consumers the right to refuse the £200 energy rebate](608007.md) | 12,293 | 12,286 | 7 | 0 | 99.94 | 0.06 | 0.00 |
