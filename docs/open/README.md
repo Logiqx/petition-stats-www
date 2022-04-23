@@ -4,22 +4,22 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-04-23 04:00:09
+Last refreshed 2022-04-23 05:00:08
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 326,620 | 323,131 | 3,489 | 0 | 98.93 | 1.07 | 0.00 |
 | [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 232,511 | 231,137 | 1,374 | 0 | 99.41 | 0.59 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 187,750 | 184,001 | 3,749 | 0 | 98.00 | 2.00 | 0.00 |
-| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 138,931 | 137,600 | 1,331 | 0 | 99.04 | 0.96 | 0.00 |
+| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 138,932 | 137,601 | 1,331 | 0 | 99.04 | 0.96 | 0.00 |
 | [Do not implement proposed new offences for vehicle "tampering"](600954.md) | 114,874 | 114,506 | 368 | 0 | 99.68 | 0.32 | 0.00 |
 | [Repeal Breed Specific Legislation](603988.md) | 108,063 | 107,093 | 970 | 0 | 99.10 | 0.90 | 0.00 |
 | [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 102,395 | 100,771 | 1,624 | 0 | 98.41 | 1.59 | 0.00 |
 | [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 70,999 | 70,193 | 806 | 0 | 98.86 | 1.14 | 0.00 |
-| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 70,545 | 69,983 | 562 | 0 | 99.20 | 0.80 | 0.00 |
-| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 66,857 | 65,408 | 1,449 | 0 | 97.83 | 2.17 | 0.00 |
+| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 70,555 | 69,993 | 562 | 0 | 99.20 | 0.80 | 0.00 |
+| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 66,868 | 65,419 | 1,449 | 0 | 97.83 | 2.17 | 0.00 |
 | [Revoke local government powers to charge CAZ, LEZ, and ULEZ.](599985.md) | 54,972 | 54,933 | 39 | 0 | 99.93 | 0.07 | 0.00 |
-| [Pledge any necessary military support to defend Ukraine](607314.md) | 49,784 | 47,350 | 2,434 | 0 | 95.11 | 4.89 | 0.00 |
+| [Pledge any necessary military support to defend Ukraine](607314.md) | 49,788 | 47,354 | 2,434 | 0 | 95.11 | 4.89 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 45,712 | 44,902 | 810 | 0 | 98.23 | 1.77 | 0.00 |
 | [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 45,677 | 44,640 | 1,037 | 0 | 97.73 | 2.27 | 0.00 |
 | [Do not restrict our right to freedom of expression online. ](601932.md) | 45,506 | 44,746 | 760 | 0 | 98.33 | 1.67 | 0.00 |
@@ -27,7 +27,7 @@ Last refreshed 2022-04-23 04:00:09
 | [Hold a public inquiry into Russian interference in UK politics](609388.md) | 40,701 | 39,138 | 1,563 | 0 | 96.16 | 3.84 | 0.00 |
 | [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 34,045 | 33,874 | 171 | 0 | 99.50 | 0.50 | 0.00 |
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 31,882 | 31,527 | 355 | 0 | 98.89 | 1.11 | 0.00 |
-| [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 30,499 | 30,249 | 250 | 0 | 99.18 | 0.82 | 0.00 |
+| [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 30,500 | 30,250 | 250 | 0 | 99.18 | 0.82 | 0.00 |
 | [Make SEND training mandatory for all teaching staff](607849.md) | 27,244 | 27,165 | 79 | 0 | 99.71 | 0.29 | 0.00 |
 | [Do not make vaccination against Covid-19 mandatory](602282.md) | 27,035 | 26,834 | 201 | 0 | 99.26 | 0.74 | 0.00 |
 | [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 26,737 | 26,600 | 137 | 0 | 99.49 | 0.51 | 0.00 |
@@ -53,8 +53,8 @@ Last refreshed 2022-04-23 04:00:09
 | [Do not end legal obligations to self-isolate if people test positive for covid](606834.md) | 13,907 | 13,803 | 104 | 0 | 99.25 | 0.75 | 0.00 |
 | [Ban developments on Green belt and Greenfield sites across the country](600577.md) | 13,853 | 13,823 | 30 | 0 | 99.78 | 0.22 | 0.00 |
 | [Do not make COVID vaccination a requirement for health and social care workers](600872.md) | 13,353 | 13,281 | 72 | 0 | 99.46 | 0.54 | 0.00 |
-| [Require schools provide a vegan meal option every day](608670.md) | 13,027 | 12,889 | 138 | 0 | 98.94 | 1.06 | 0.00 |
+| [Require schools provide a vegan meal option every day](608670.md) | 13,028 | 12,890 | 138 | 0 | 98.94 | 1.06 | 0.00 |
 | [Make parking at work permanently free for all NHS workers](612699.md) | 12,667 | 12,557 | 110 | 0 | 99.13 | 0.87 | 0.00 |
 | [Allow consumers the right to refuse the £200 energy rebate](608007.md) | 12,330 | 12,323 | 7 | 0 | 99.94 | 0.06 | 0.00 |
-| [Urge Hong Kong to release all political prisoners and safeguard human rights](601971.md) | 12,312 | 10,902 | 1,410 | 0 | 88.55 | 11.45 | 0.00 |
-| [Fund research into Topical Steroid Withdrawal (TSW)](612034.md) | 12,068 | 11,467 | 601 | 0 | 95.02 | 4.98 | 0.00 |
+| [Urge Hong Kong to release all political prisoners and safeguard human rights](601971.md) | 12,313 | 10,903 | 1,410 | 0 | 88.55 | 11.45 | 0.00 |
+| [Fund research into Topical Steroid Withdrawal (TSW)](612034.md) | 12,070 | 11,469 | 601 | 0 | 95.02 | 4.98 | 0.00 |
