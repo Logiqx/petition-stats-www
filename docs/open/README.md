@@ -4,35 +4,35 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-05-01 02:00:05
+Last refreshed 2022-05-01 03:00:07
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 326,830 | 323,339 | 3,491 | 0 | 98.93 | 1.07 | 0.00 |
 | [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 232,539 | 231,165 | 1,374 | 0 | 99.41 | 0.59 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 187,861 | 184,106 | 3,755 | 0 | 98.00 | 2.00 | 0.00 |
-| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 140,276 | 138,928 | 1,348 | 0 | 99.04 | 0.96 | 0.00 |
+| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 140,278 | 138,930 | 1,348 | 0 | 99.04 | 0.96 | 0.00 |
 | [Do not implement proposed new offences for vehicle "tampering"](600954.md) | 115,171 | 114,803 | 368 | 0 | 99.68 | 0.32 | 0.00 |
 | [Repeal Breed Specific Legislation](603988.md) | 108,115 | 107,145 | 970 | 0 | 99.10 | 0.90 | 0.00 |
 | [Make the use of free-running snares illegal for trapping wildlife](600593.md) | 102,514 | 100,889 | 1,625 | 0 | 98.41 | 1.59 | 0.00 |
-| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 76,992 | 76,414 | 578 | 0 | 99.25 | 0.75 | 0.00 |
+| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 77,002 | 76,424 | 578 | 0 | 99.25 | 0.75 | 0.00 |
 | [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 72,513 | 71,007 | 1,506 | 0 | 97.92 | 2.08 | 0.00 |
-| [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 71,824 | 71,000 | 824 | 0 | 98.85 | 1.15 | 0.00 |
+| [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 71,826 | 71,001 | 825 | 0 | 98.85 | 1.15 | 0.00 |
 | [Revoke local government powers to charge CAZ, LEZ, and ULEZ.](599985.md) | 55,033 | 54,994 | 39 | 0 | 99.93 | 0.07 | 0.00 |
-| [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 50,422 | 49,250 | 1,172 | 0 | 97.68 | 2.32 | 0.00 |
+| [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 50,423 | 49,251 | 1,172 | 0 | 97.68 | 2.32 | 0.00 |
 | [Pledge any necessary military support to defend Ukraine](607314.md) | 49,901 | 47,463 | 2,438 | 0 | 95.11 | 4.89 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 46,328 | 45,513 | 815 | 0 | 98.24 | 1.76 | 0.00 |
-| [Do not restrict our right to freedom of expression online. ](601932.md) | 46,279 | 45,505 | 774 | 0 | 98.33 | 1.67 | 0.00 |
+| [Do not restrict our right to freedom of expression online. ](601932.md) | 46,280 | 45,506 | 774 | 0 | 98.33 | 1.67 | 0.00 |
 | [Do not reform the Human Rights Act](607712.md) | 45,295 | 44,738 | 557 | 0 | 98.77 | 1.23 | 0.00 |
 | [Hold a public inquiry into Russian interference in UK politics](609388.md) | 41,801 | 40,203 | 1,598 | 0 | 96.18 | 3.82 | 0.00 |
 | [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 36,771 | 36,597 | 174 | 0 | 99.53 | 0.47 | 0.00 |
-| [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 36,471 | 36,369 | 102 | 0 | 99.72 | 0.28 | 0.00 |
+| [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 36,514 | 36,410 | 104 | 0 | 99.72 | 0.28 | 0.00 |
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 33,595 | 33,224 | 371 | 0 | 98.90 | 1.10 | 0.00 |
 | [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 30,922 | 30,669 | 253 | 0 | 99.18 | 0.82 | 0.00 |
 | [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 28,386 | 28,232 | 154 | 0 | 99.46 | 0.54 | 0.00 |
 | [Make SEND training mandatory for all teaching staff](607849.md) | 27,338 | 27,259 | 79 | 0 | 99.71 | 0.29 | 0.00 |
 | [Do not make vaccination against Covid-19 mandatory](602282.md) | 27,054 | 26,853 | 201 | 0 | 99.26 | 0.74 | 0.00 |
-| [Make it unlawful for shops to refuse cash payments.](605030.md) | 26,640 | 26,381 | 259 | 0 | 99.03 | 0.97 | 0.00 |
+| [Make it unlawful for shops to refuse cash payments.](605030.md) | 26,641 | 26,382 | 259 | 0 | 99.03 | 0.97 | 0.00 |
 | [Increase sentences for one punch assaults that kill to equal those for murder](604002.md) | 24,558 | 24,426 | 132 | 0 | 99.46 | 0.54 | 0.00 |
 | [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 23,837 | 23,810 | 27 | 0 | 99.89 | 0.11 | 0.00 |
 | [Remove all COVID requirements for international travel to the UK](605858.md) | 22,449 | 22,134 | 315 | 0 | 98.60 | 1.40 | 0.00 |
@@ -52,7 +52,7 @@ Last refreshed 2022-05-01 02:00:05
 | [Ban the manufacture, import, sale and use of fireworks in the UK](599738.md) | 14,351 | 14,291 | 60 | 0 | 99.58 | 0.42 | 0.00 |
 | [Do not end legal obligations to self-isolate if people test positive for covid](606834.md) | 13,916 | 13,812 | 104 | 0 | 99.25 | 0.75 | 0.00 |
 | [Ban developments on Green belt and Greenfield sites across the country](600577.md) | 13,896 | 13,866 | 30 | 0 | 99.78 | 0.22 | 0.00 |
-| [Make Graduate visa extendable and count towards permanent residency](614931.md) | 13,726 | 13,537 | 189 | 0 | 98.62 | 1.38 | 0.00 |
+| [Make Graduate visa extendable and count towards permanent residency](614931.md) | 13,732 | 13,543 | 189 | 0 | 98.62 | 1.38 | 0.00 |
 | [Do not make COVID vaccination a requirement for health and social care workers](600872.md) | 13,357 | 13,285 | 72 | 0 | 99.46 | 0.54 | 0.00 |
 | [Make parking at work permanently free for all NHS workers](612699.md) | 13,047 | 12,935 | 112 | 0 | 99.14 | 0.86 | 0.00 |
 | [Fund research into Topical Steroid Withdrawal (TSW)](612034.md) | 12,811 | 12,173 | 638 | 0 | 95.02 | 4.98 | 0.00 |
