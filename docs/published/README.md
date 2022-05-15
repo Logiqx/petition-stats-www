@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/ar
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-05-14 23:30:33
+Last refreshed 2022-05-15 00:30:57
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
