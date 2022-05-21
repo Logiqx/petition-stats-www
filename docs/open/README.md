@@ -4,42 +4,42 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-05-21 04:30:05
+Last refreshed 2022-05-21 05:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 327,010 | 323,517 | 3,493 | 0 | 98.93 | 1.07 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,010 | 184,250 | 3,760 | 0 | 98.00 | 2.00 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 144,884 | 143,495 | 1,389 | 0 | 99.04 | 0.96 | 0.00 |
-| [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 138,064 | 135,405 | 2,659 | 0 | 98.07 | 1.93 | 0.00 |
-| [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 119,124 | 118,610 | 514 | 0 | 99.57 | 0.43 | 0.00 |
-| [Repeal Breed Specific Legislation](603988.md) | 112,569 | 111,560 | 1,009 | 0 | 99.10 | 0.90 | 0.00 |
-| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 104,241 | 103,428 | 813 | 0 | 99.22 | 0.78 | 0.00 |
-| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 88,141 | 86,321 | 1,820 | 0 | 97.94 | 2.06 | 0.00 |
-| [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 75,125 | 74,238 | 887 | 0 | 98.82 | 1.18 | 0.00 |
-| [Do not reduce staff-child ratios in early years childcare](615623.md) | 60,572 | 60,466 | 106 | 0 | 99.83 | 0.17 | 0.00 |
-| [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 51,107 | 49,907 | 1,200 | 0 | 97.65 | 2.35 | 0.00 |
+| [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 138,105 | 135,445 | 2,660 | 0 | 98.07 | 1.93 | 0.00 |
+| [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 119,126 | 118,612 | 514 | 0 | 99.57 | 0.43 | 0.00 |
+| [Repeal Breed Specific Legislation](603988.md) | 112,574 | 111,565 | 1,009 | 0 | 99.10 | 0.90 | 0.00 |
+| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 104,253 | 103,440 | 813 | 0 | 99.22 | 0.78 | 0.00 |
+| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 88,163 | 86,342 | 1,821 | 0 | 97.93 | 2.07 | 0.00 |
+| [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 75,126 | 74,239 | 887 | 0 | 98.82 | 1.18 | 0.00 |
+| [Do not reduce staff-child ratios in early years childcare](615623.md) | 60,579 | 60,473 | 106 | 0 | 99.83 | 0.17 | 0.00 |
+| [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 51,108 | 49,908 | 1,200 | 0 | 97.65 | 2.35 | 0.00 |
+| [Do not restrict our right to freedom of expression online. ](601932.md) | 50,069 | 49,242 | 827 | 0 | 98.35 | 1.65 | 0.00 |
 | [Pledge any necessary military support to defend Ukraine](607314.md) | 50,003 | 47,560 | 2,443 | 0 | 95.11 | 4.89 | 0.00 |
-| [Do not restrict our right to freedom of expression online. ](601932.md) | 49,997 | 49,175 | 822 | 0 | 98.36 | 1.64 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 49,309 | 48,460 | 849 | 0 | 98.28 | 1.72 | 0.00 |
-| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 47,717 | 47,503 | 214 | 0 | 99.55 | 0.45 | 0.00 |
-| [Do not reform the Human Rights Act](607712.md) | 45,884 | 45,324 | 560 | 0 | 98.78 | 1.22 | 0.00 |
-| [Hold a public inquiry into Russian interference in UK politics](609388.md) | 42,758 | 41,130 | 1,628 | 0 | 96.19 | 3.81 | 0.00 |
-| [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 34,569 | 34,372 | 197 | 0 | 99.43 | 0.57 | 0.00 |
+| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 47,723 | 47,509 | 214 | 0 | 99.55 | 0.45 | 0.00 |
+| [Do not reform the Human Rights Act](607712.md) | 45,886 | 45,326 | 560 | 0 | 98.78 | 1.22 | 0.00 |
+| [Hold a public inquiry into Russian interference in UK politics](609388.md) | 42,759 | 41,131 | 1,628 | 0 | 96.19 | 3.81 | 0.00 |
+| [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 34,572 | 34,375 | 197 | 0 | 99.43 | 0.57 | 0.00 |
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 33,916 | 33,542 | 374 | 0 | 98.90 | 1.10 | 0.00 |
-| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 32,797 | 32,499 | 298 | 0 | 99.09 | 0.91 | 0.00 |
+| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 32,829 | 32,529 | 300 | 0 | 99.09 | 0.91 | 0.00 |
 | [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 32,775 | 32,487 | 288 | 0 | 99.12 | 0.88 | 0.00 |
-| [Make it unlawful for shops to refuse cash payments.](605030.md) | 29,464 | 29,175 | 289 | 0 | 99.02 | 0.98 | 0.00 |
+| [Make it unlawful for shops to refuse cash payments.](605030.md) | 29,466 | 29,177 | 289 | 0 | 99.02 | 0.98 | 0.00 |
 | [Make SEND training mandatory for all teaching staff](607849.md) | 27,684 | 27,605 | 79 | 0 | 99.71 | 0.29 | 0.00 |
-| [Do not make vaccination against Covid-19 mandatory](602282.md) | 27,379 | 27,175 | 204 | 0 | 99.25 | 0.75 | 0.00 |
+| [Do not make vaccination against Covid-19 mandatory](602282.md) | 27,382 | 27,178 | 204 | 0 | 99.25 | 0.75 | 0.00 |
 | [Increase sentences for one punch assaults that kill to equal those for murder](604002.md) | 24,755 | 24,621 | 134 | 0 | 99.46 | 0.54 | 0.00 |
-| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 24,669 | 24,640 | 29 | 0 | 99.88 | 0.12 | 0.00 |
+| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 24,670 | 24,641 | 29 | 0 | 99.88 | 0.12 | 0.00 |
 | [Remove all COVID requirements for international travel to the UK](605858.md) | 22,471 | 22,156 | 315 | 0 | 98.60 | 1.40 | 0.00 |
 | [Increase the basic state pensions by £500 a year as an emergency measure](605503.md) | 21,885 | 21,631 | 254 | 0 | 98.84 | 1.16 | 0.00 |
 | [Require schools provide a vegan meal option every day](608670.md) | 19,616 | 19,429 | 187 | 0 | 99.05 | 0.95 | 0.00 |
-| [Free prescriptions for those with a long term and/or chronic condition.](608237.md) | 19,457 | 19,409 | 48 | 0 | 99.75 | 0.25 | 0.00 |
+| [Free prescriptions for those with a long term and/or chronic condition.](608237.md) | 19,458 | 19,410 | 48 | 0 | 99.75 | 0.25 | 0.00 |
 | [Create a ‘National Sleep Strategy’ to end child bed poverty](604509.md) | 18,368 | 18,253 | 115 | 0 | 99.37 | 0.63 | 0.00 |
-| [Require all public rights of way be accessible to pedestrians, horses & bicycles](610936.md) | 17,765 | 17,715 | 50 | 0 | 99.72 | 0.28 | 0.00 |
+| [Require all public rights of way be accessible to pedestrians, horses & bicycles](610936.md) | 17,766 | 17,716 | 50 | 0 | 99.72 | 0.28 | 0.00 |
 | [End ‘ghost' flights: reform historic rights to landing slots. ](605749.md) | 16,715 | 16,449 | 266 | 0 | 98.41 | 1.59 | 0.00 |
 | [End the ban on fracking](608745.md) | 16,568 | 16,444 | 124 | 0 | 99.25 | 0.75 | 0.00 |
 | [Make self-employed people eligible for statutory adoption pay](601323.md) | 16,347 | 16,262 | 85 | 0 | 99.48 | 0.52 | 0.00 |
