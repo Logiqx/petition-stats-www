@@ -4,19 +4,19 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-05-28 02:30:05
+Last refreshed 2022-05-28 03:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 327,066 | 323,573 | 3,493 | 0 | 98.93 | 1.07 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,049 | 184,287 | 3,762 | 0 | 98.00 | 2.00 | 0.00 |
-| [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 149,397 | 146,407 | 2,990 | 0 | 98.00 | 2.00 | 0.00 |
+| [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 149,398 | 146,408 | 2,990 | 0 | 98.00 | 2.00 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 145,131 | 143,739 | 1,392 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 119,542 | 119,026 | 516 | 0 | 99.57 | 0.43 | 0.00 |
-| [Repeal Breed Specific Legislation](603988.md) | 114,433 | 113,405 | 1,028 | 0 | 99.10 | 0.90 | 0.00 |
-| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 112,840 | 112,000 | 840 | 0 | 99.26 | 0.74 | 0.00 |
+| [Repeal Breed Specific Legislation](603988.md) | 114,435 | 113,407 | 1,028 | 0 | 99.10 | 0.90 | 0.00 |
+| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 112,851 | 112,011 | 840 | 0 | 99.26 | 0.74 | 0.00 |
 | [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 93,280 | 91,290 | 1,990 | 0 | 97.87 | 2.13 | 0.00 |
-| [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 80,449 | 79,439 | 1,010 | 0 | 98.74 | 1.26 | 0.00 |
+| [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 80,461 | 79,451 | 1,010 | 0 | 98.74 | 1.26 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 62,202 | 62,092 | 110 | 0 | 99.82 | 0.18 | 0.00 |
 | [Do not restrict our right to freedom of expression online. ](601932.md) | 54,066 | 53,196 | 870 | 0 | 98.39 | 1.61 | 0.00 |
 | [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 51,271 | 50,068 | 1,203 | 0 | 97.65 | 2.35 | 0.00 |
@@ -28,9 +28,9 @@ Last refreshed 2022-05-28 02:30:05
 | [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 35,322 | 35,120 | 202 | 0 | 99.43 | 0.57 | 0.00 |
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 33,945 | 33,570 | 375 | 0 | 98.90 | 1.10 | 0.00 |
 | [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 33,642 | 33,327 | 315 | 0 | 99.06 | 0.94 | 0.00 |
-| [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 32,839 | 32,551 | 288 | 0 | 99.12 | 0.88 | 0.00 |
+| [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 32,840 | 32,552 | 288 | 0 | 99.12 | 0.88 | 0.00 |
 | [Make it unlawful for shops to refuse cash payments.](605030.md) | 29,917 | 29,625 | 292 | 0 | 99.02 | 0.98 | 0.00 |
-| [Make SEND training mandatory for all teaching staff](607849.md) | 27,791 | 27,709 | 82 | 0 | 99.70 | 0.30 | 0.00 |
+| [Make SEND training mandatory for all teaching staff](607849.md) | 27,792 | 27,710 | 82 | 0 | 99.70 | 0.30 | 0.00 |
 | [Do not make vaccination against Covid-19 mandatory](602282.md) | 27,443 | 27,238 | 205 | 0 | 99.25 | 0.75 | 0.00 |
 | [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 24,972 | 24,943 | 29 | 0 | 99.88 | 0.12 | 0.00 |
 | [Increase sentences for one punch assaults that kill to equal those for murder](604002.md) | 24,769 | 24,635 | 134 | 0 | 99.46 | 0.54 | 0.00 |
