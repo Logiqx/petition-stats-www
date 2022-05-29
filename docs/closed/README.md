@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-05-29 22:30:16
+Last refreshed 2022-05-29 23:30:17
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -23,6 +23,7 @@ Last refreshed 2022-05-29 22:30:16
 | [Reimburse all students of this year’s fees due to strikes and COVID-19](302855.md) | 353,129 | 351,855 | 1,274 | 0 | 99.64 | 0.36 | 0.00 |
 | [Outlaw discrimination against those who do not get a Covid-19 vaccination](575801.md) | 347,512 | 344,995 | 2,517 | 0 | 99.28 | 0.72 | 0.00 |
 | [Prevent any restrictions on those who refuse a Covid-19 vaccination](323442.md) | 337,144 | 334,153 | 2,991 | 0 | 99.11 | 0.89 | 0.00 |
+| [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 327,122 | 323,629 | 3,493 | 0 | 98.93 | 1.07 | 0.00 |
 | [Make dog theft a specific criminal offence](560216.md) | 316,545 | 314,868 | 1,677 | 0 | 99.47 | 0.53 | 0.00 |
 | [Limit the Sale and Use of Fireworks to Organisers of Licensed Displays Only](319891.md) | 301,611 | 300,328 | 1,283 | 0 | 99.57 | 0.43 | 0.00 |
 | [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 286,797 | 280,363 | 6,434 | 0 | 97.76 | 2.24 | 0.00 |
@@ -57,4 +58,3 @@ Last refreshed 2022-05-29 22:30:16
 | [Review the decision to use previous data to calculate exam grades](306773.md) | 148,885 | 147,635 | 1,250 | 0 | 99.16 | 0.84 | 0.00 |
 | [Reduce curriculum content for year 10 & 12 students who will sit exams in 2021.](320772.md) | 148,388 | 147,990 | 398 | 0 | 99.73 | 0.27 | 0.00 |
 | [Require schools to make Friday a part of the school weekend](597715.md) | 148,136 | 146,814 | 1,322 | 0 | 99.11 | 0.89 | 0.00 |
-| [FIONA'S LAW - Women should be allowed a yearly Cervical screening   ](317336.md) | 146,637 | 145,998 | 639 | 0 | 99.56 | 0.44 | 0.00 |
