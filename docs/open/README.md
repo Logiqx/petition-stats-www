@@ -4,23 +4,23 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-05-29 01:30:03
+Last refreshed 2022-05-29 02:30:03
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 327,095 | 323,602 | 3,493 | 0 | 98.93 | 1.07 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,065 | 184,303 | 3,762 | 0 | 98.00 | 2.00 | 0.00 |
-| [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 149,683 | 146,685 | 2,998 | 0 | 98.00 | 2.00 | 0.00 |
+| [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 149,685 | 146,687 | 2,998 | 0 | 98.00 | 2.00 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 145,190 | 143,798 | 1,392 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 119,565 | 119,049 | 516 | 0 | 99.57 | 0.43 | 0.00 |
-| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 115,007 | 114,166 | 841 | 0 | 99.27 | 0.73 | 0.00 |
+| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 115,013 | 114,172 | 841 | 0 | 99.27 | 0.73 | 0.00 |
 | [Repeal Breed Specific Legislation](603988.md) | 114,512 | 113,484 | 1,028 | 0 | 99.10 | 0.90 | 0.00 |
 | [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 93,865 | 91,860 | 2,005 | 0 | 97.86 | 2.14 | 0.00 |
-| [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 82,383 | 81,336 | 1,047 | 0 | 98.73 | 1.27 | 0.00 |
+| [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 82,398 | 81,350 | 1,048 | 0 | 98.73 | 1.27 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 62,340 | 62,230 | 110 | 0 | 99.82 | 0.18 | 0.00 |
-| [Do not restrict our right to freedom of expression online. ](601932.md) | 54,117 | 53,247 | 870 | 0 | 98.39 | 1.61 | 0.00 |
+| [Do not restrict our right to freedom of expression online. ](601932.md) | 54,118 | 53,248 | 870 | 0 | 98.39 | 1.61 | 0.00 |
 | [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 51,292 | 50,089 | 1,203 | 0 | 97.65 | 2.35 | 0.00 |
-| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 50,626 | 50,395 | 231 | 0 | 99.54 | 0.46 | 0.00 |
+| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 50,627 | 50,396 | 231 | 0 | 99.54 | 0.46 | 0.00 |
 | [Pledge any necessary military support to defend Ukraine](607314.md) | 50,036 | 47,593 | 2,443 | 0 | 95.12 | 4.88 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 49,707 | 48,855 | 852 | 0 | 98.29 | 1.71 | 0.00 |
 | [Do not reform the Human Rights Act](607712.md) | 46,013 | 45,451 | 562 | 0 | 98.78 | 1.22 | 0.00 |
@@ -54,7 +54,7 @@ Last refreshed 2022-05-29 01:30:03
 | [Allow consumers the right to refuse the £200 energy rebate](608007.md) | 13,637 | 13,628 | 9 | 0 | 99.93 | 0.07 | 0.00 |
 | [Fund research into Topical Steroid Withdrawal (TSW)](612034.md) | 13,628 | 12,961 | 667 | 0 | 95.11 | 4.89 | 0.00 |
 | [Fund Evusheld the preventative COVID19 antibody for immunocompromised](611884.md) | 13,488 | 13,345 | 143 | 0 | 98.94 | 1.06 | 0.00 |
-| [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 13,297 | 13,289 | 8 | 0 | 99.94 | 0.06 | 0.00 |
-| [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 12,520 | 12,461 | 59 | 0 | 99.53 | 0.47 | 0.00 |
+| [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 13,308 | 13,300 | 8 | 0 | 99.94 | 0.06 | 0.00 |
+| [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 12,613 | 12,551 | 62 | 0 | 99.51 | 0.49 | 0.00 |
 | [Urge Hong Kong to release all political prisoners and safeguard human rights](601971.md) | 12,421 | 11,004 | 1,417 | 0 | 88.59 | 11.41 | 0.00 |
 | [Introduce an "Ecological Damage Tax" on Astroturf Lawns / Artificial Grass](608295.md) | 12,406 | 12,327 | 79 | 0 | 99.36 | 0.64 | 0.00 |
