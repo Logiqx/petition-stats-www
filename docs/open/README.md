@@ -4,36 +4,36 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-06-02 00:30:05
+Last refreshed 2022-06-02 01:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,104 | 184,341 | 3,763 | 0 | 98.00 | 2.00 | 0.00 |
-| [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 151,872 | 148,820 | 3,052 | 0 | 97.99 | 2.01 | 0.00 |
+| [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 151,874 | 148,821 | 3,053 | 0 | 97.99 | 2.01 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 145,481 | 144,087 | 1,394 | 0 | 99.04 | 0.96 | 0.00 |
-| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 122,681 | 121,817 | 864 | 0 | 99.30 | 0.70 | 0.00 |
+| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 122,698 | 121,834 | 864 | 0 | 99.30 | 0.70 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 119,691 | 119,174 | 517 | 0 | 99.57 | 0.43 | 0.00 |
-| [Repeal Breed Specific Legislation](603988.md) | 115,316 | 114,280 | 1,036 | 0 | 99.10 | 0.90 | 0.00 |
-| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 101,527 | 99,398 | 2,129 | 0 | 97.90 | 2.10 | 0.00 |
-| [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 90,622 | 89,378 | 1,244 | 0 | 98.63 | 1.37 | 0.00 |
+| [Repeal Breed Specific Legislation](603988.md) | 115,320 | 114,284 | 1,036 | 0 | 99.10 | 0.90 | 0.00 |
+| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 101,528 | 99,399 | 2,129 | 0 | 97.90 | 2.10 | 0.00 |
+| [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 90,658 | 89,413 | 1,245 | 0 | 98.63 | 1.37 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 62,516 | 62,406 | 110 | 0 | 99.82 | 0.18 | 0.00 |
 | [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 52,671 | 52,435 | 236 | 0 | 99.55 | 0.45 | 0.00 |
 | [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 51,354 | 50,151 | 1,203 | 0 | 97.66 | 2.34 | 0.00 |
 | [Pledge any necessary military support to defend Ukraine](607314.md) | 50,058 | 47,615 | 2,443 | 0 | 95.12 | 4.88 | 0.00 |
-| [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 49,836 | 48,980 | 856 | 0 | 98.28 | 1.72 | 0.00 |
+| [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 49,837 | 48,981 | 856 | 0 | 98.28 | 1.72 | 0.00 |
 | [Do not reform the Human Rights Act](607712.md) | 46,101 | 45,538 | 563 | 0 | 98.78 | 1.22 | 0.00 |
-| [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 43,770 | 43,326 | 444 | 0 | 98.99 | 1.01 | 0.00 |
+| [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 43,789 | 43,345 | 444 | 0 | 98.99 | 1.01 | 0.00 |
 | [Hold a public inquiry into Russian interference in UK politics](609388.md) | 43,030 | 41,391 | 1,639 | 0 | 96.19 | 3.81 | 0.00 |
 | [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 35,559 | 35,352 | 207 | 0 | 99.42 | 0.58 | 0.00 |
-| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 34,084 | 33,766 | 318 | 0 | 99.07 | 0.93 | 0.00 |
+| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 34,085 | 33,767 | 318 | 0 | 99.07 | 0.93 | 0.00 |
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 33,973 | 33,598 | 375 | 0 | 98.90 | 1.10 | 0.00 |
-| [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 33,290 | 32,999 | 291 | 0 | 99.13 | 0.87 | 0.00 |
+| [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 33,292 | 33,001 | 291 | 0 | 99.13 | 0.87 | 0.00 |
 | [Make it unlawful for shops to refuse cash payments.](605030.md) | 30,070 | 29,778 | 292 | 0 | 99.03 | 0.97 | 0.00 |
 | [Make SEND training mandatory for all teaching staff](607849.md) | 27,856 | 27,774 | 82 | 0 | 99.71 | 0.29 | 0.00 |
 | [Do not make vaccination against Covid-19 mandatory](602282.md) | 27,472 | 27,266 | 206 | 0 | 99.25 | 0.75 | 0.00 |
-| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 25,186 | 25,157 | 29 | 0 | 99.88 | 0.12 | 0.00 |
+| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 25,190 | 25,161 | 29 | 0 | 99.88 | 0.12 | 0.00 |
 | [Increase sentences for one punch assaults that kill to equal those for murder](604002.md) | 24,778 | 24,643 | 135 | 0 | 99.46 | 0.54 | 0.00 |
-| [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 22,594 | 22,575 | 19 | 0 | 99.92 | 0.08 | 0.00 |
+| [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 22,596 | 22,577 | 19 | 0 | 99.92 | 0.08 | 0.00 |
 | [Remove all COVID requirements for international travel to the UK](605858.md) | 22,483 | 22,168 | 315 | 0 | 98.60 | 1.40 | 0.00 |
 | [Increase the basic state pensions by £500 a year as an emergency measure](605503.md) | 22,009 | 21,754 | 255 | 0 | 98.84 | 1.16 | 0.00 |
 | [Require schools provide a vegan meal option every day](608670.md) | 20,318 | 20,125 | 193 | 0 | 99.05 | 0.95 | 0.00 |
@@ -53,7 +53,7 @@ Last refreshed 2022-06-02 00:30:05
 | [Fund Evusheld the preventative COVID19 antibody for immunocompromised](611884.md) | 13,736 | 13,589 | 147 | 0 | 98.93 | 1.07 | 0.00 |
 | [Fund research into Topical Steroid Withdrawal (TSW)](612034.md) | 13,652 | 12,982 | 670 | 0 | 95.09 | 4.91 | 0.00 |
 | [Allow consumers the right to refuse the £200 energy rebate](608007.md) | 13,642 | 13,633 | 9 | 0 | 99.93 | 0.07 | 0.00 |
-| [Introduce an "Ecological Damage Tax" on Astroturf Lawns / Artificial Grass](608295.md) | 12,518 | 12,439 | 79 | 0 | 99.37 | 0.63 | 0.00 |
+| [Introduce an "Ecological Damage Tax" on Astroturf Lawns / Artificial Grass](608295.md) | 12,519 | 12,440 | 79 | 0 | 99.37 | 0.63 | 0.00 |
 | [Increase benefits in line with current levels of inflation](612152.md) | 11,916 | 11,767 | 149 | 0 | 98.75 | 1.25 | 0.00 |
 | [Fund research into any relationship between microclots and long Covid and ME](605679.md) | 11,587 | 11,440 | 147 | 0 | 98.73 | 1.27 | 0.00 |
 | [Ensure global and equitable access to vaccines, tests, treatments, and PPE. ](605158.md) | 11,582 | 11,519 | 63 | 0 | 99.46 | 0.54 | 0.00 |
