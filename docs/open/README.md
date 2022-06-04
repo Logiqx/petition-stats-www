@@ -4,36 +4,36 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-06-03 23:30:04
+Last refreshed 2022-06-04 00:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,112 | 184,348 | 3,764 | 0 | 98.00 | 2.00 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 152,292 | 149,224 | 3,068 | 0 | 97.99 | 2.01 | 0.00 |
-| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 145,528 | 144,133 | 1,395 | 0 | 99.04 | 0.96 | 0.00 |
-| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 126,195 | 125,318 | 877 | 0 | 99.31 | 0.69 | 0.00 |
-| [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 119,739 | 119,222 | 517 | 0 | 99.57 | 0.43 | 0.00 |
+| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 145,529 | 144,134 | 1,395 | 0 | 99.04 | 0.96 | 0.00 |
+| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 126,238 | 125,361 | 877 | 0 | 99.31 | 0.69 | 0.00 |
+| [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 119,740 | 119,223 | 517 | 0 | 99.57 | 0.43 | 0.00 |
 | [Repeal Breed Specific Legislation](603988.md) | 115,572 | 114,533 | 1,039 | 0 | 99.10 | 0.90 | 0.00 |
-| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 102,857 | 100,691 | 2,166 | 0 | 97.89 | 2.11 | 0.00 |
-| [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 101,209 | 99,718 | 1,491 | 0 | 98.53 | 1.47 | 0.00 |
+| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 102,859 | 100,693 | 2,166 | 0 | 97.89 | 2.11 | 0.00 |
+| [Open a Public Inquiry into Covid-19 Vaccine Safety](602171.md) | 101,287 | 99,793 | 1,494 | 0 | 98.52 | 1.48 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 62,541 | 62,431 | 110 | 0 | 99.82 | 0.18 | 0.00 |
-| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 53,125 | 52,888 | 237 | 0 | 99.55 | 0.45 | 0.00 |
-| [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 51,372 | 50,167 | 1,205 | 0 | 97.65 | 2.35 | 0.00 |
+| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 53,128 | 52,891 | 237 | 0 | 99.55 | 0.45 | 0.00 |
+| [Ban all animal experiments & redirect Government funding to human-based research](602607.md) | 51,374 | 50,169 | 1,205 | 0 | 97.65 | 2.35 | 0.00 |
 | [Pledge any necessary military support to defend Ukraine](607314.md) | 50,060 | 47,617 | 2,443 | 0 | 95.12 | 4.88 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 49,875 | 49,016 | 859 | 0 | 98.28 | 1.72 | 0.00 |
 | [Do not reform the Human Rights Act](607712.md) | 46,134 | 45,571 | 563 | 0 | 98.78 | 1.22 | 0.00 |
-| [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 46,076 | 45,571 | 505 | 0 | 98.90 | 1.10 | 0.00 |
+| [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 46,083 | 45,578 | 505 | 0 | 98.90 | 1.10 | 0.00 |
 | [Hold a public inquiry into Russian interference in UK politics](609388.md) | 43,039 | 41,399 | 1,640 | 0 | 96.19 | 3.81 | 0.00 |
-| [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 35,750 | 35,541 | 209 | 0 | 99.42 | 0.58 | 0.00 |
-| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 34,610 | 34,285 | 325 | 0 | 99.06 | 0.94 | 0.00 |
+| [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 35,754 | 35,545 | 209 | 0 | 99.42 | 0.58 | 0.00 |
+| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 34,618 | 34,292 | 326 | 0 | 99.06 | 0.94 | 0.00 |
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 33,984 | 33,608 | 376 | 0 | 98.89 | 1.11 | 0.00 |
 | [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 33,327 | 33,036 | 291 | 0 | 99.13 | 0.87 | 0.00 |
-| [Make it unlawful for shops to refuse cash payments.](605030.md) | 30,284 | 29,991 | 293 | 0 | 99.03 | 0.97 | 0.00 |
-| [Make SEND training mandatory for all teaching staff](607849.md) | 27,905 | 27,823 | 82 | 0 | 99.71 | 0.29 | 0.00 |
+| [Make it unlawful for shops to refuse cash payments.](605030.md) | 30,285 | 29,992 | 293 | 0 | 99.03 | 0.97 | 0.00 |
+| [Make SEND training mandatory for all teaching staff](607849.md) | 27,908 | 27,826 | 82 | 0 | 99.71 | 0.29 | 0.00 |
 | [Do not make vaccination against Covid-19 mandatory](602282.md) | 27,480 | 27,274 | 206 | 0 | 99.25 | 0.75 | 0.00 |
-| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 25,333 | 25,304 | 29 | 0 | 99.89 | 0.11 | 0.00 |
+| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 25,334 | 25,305 | 29 | 0 | 99.89 | 0.11 | 0.00 |
 | [Increase sentences for one punch assaults that kill to equal those for murder](604002.md) | 24,778 | 24,643 | 135 | 0 | 99.46 | 0.54 | 0.00 |
-| [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 22,900 | 22,881 | 19 | 0 | 99.92 | 0.08 | 0.00 |
+| [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 22,901 | 22,882 | 19 | 0 | 99.92 | 0.08 | 0.00 |
 | [Remove all COVID requirements for international travel to the UK](605858.md) | 22,483 | 22,168 | 315 | 0 | 98.60 | 1.40 | 0.00 |
 | [Increase the basic state pensions by £500 a year as an emergency measure](605503.md) | 22,017 | 21,762 | 255 | 0 | 98.84 | 1.16 | 0.00 |
 | [Require schools provide a vegan meal option every day](608670.md) | 20,464 | 20,267 | 197 | 0 | 99.04 | 0.96 | 0.00 |
