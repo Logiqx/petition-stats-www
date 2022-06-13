@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-06-13 14:30:17
+Last refreshed 2022-06-13 15:30:18
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -19,7 +19,7 @@ Last refreshed 2022-06-13 14:30:17
 | [Implement UK lockdown for preventing spread of COVID19](301397.md) | 409,474 | 406,898 | 2,576 | 0 | 99.37 | 0.63 | 0.00 |
 | [Introduce sanctions against Israel](585314.md) | 388,522 | 383,432 | 5,090 | 0 | 98.69 | 1.31 | 0.00 |
 | [Do not rollout Covid-19 vaccine passports](569957.md) | 375,208 | 371,041 | 4,167 | 0 | 98.89 | 1.11 | 0.00 |
-| [Give the UK a Bank Holiday on Monday July 12th if England win Euro 2020](590282.md) | 364,828 | 364,368 | 460 | 0 | 99.87 | 0.13 | 0.00 |
+| [Give the UK a Bank Holiday on Monday July 12th if England win Euro 2020](590282.md) | 364,827 | 364,367 | 460 | 0 | 99.87 | 0.13 | 0.00 |
 | [Reimburse all students of this year’s fees due to strikes and COVID-19](302855.md) | 353,129 | 351,855 | 1,274 | 0 | 99.64 | 0.36 | 0.00 |
 | [Outlaw discrimination against those who do not get a Covid-19 vaccination](575801.md) | 347,512 | 344,995 | 2,517 | 0 | 99.28 | 0.72 | 0.00 |
 | [Prevent any restrictions on those who refuse a Covid-19 vaccination](323442.md) | 337,144 | 334,153 | 2,991 | 0 | 99.11 | 0.89 | 0.00 |
@@ -33,7 +33,7 @@ Last refreshed 2022-06-13 14:30:17
 | [Do not restrict our rights to peaceful protest.](579012.md) | 256,640 | 253,842 | 2,798 | 0 | 98.91 | 1.09 | 0.00 |
 | [Make LGBT conversion therapy illegal in the UK](300976.md) | 256,392 | 253,566 | 2,826 | 0 | 98.90 | 1.10 | 0.00 |
 | [Extend maternity leave by 3 months with pay in light of COVID-19](306691.md) | 238,884 | 238,439 | 445 | 0 | 99.81 | 0.19 | 0.00 |
-| [Ban Animal Testing - Fund, accept & promote alternatives to animal testing](581641.md) | 235,897 | 221,954 | 13,943 | 0 | 94.09 | 5.91 | 0.00 |
+| [Ban Animal Testing - Fund, accept & promote alternatives to animal testing](581641.md) | 235,896 | 221,953 | 13,943 | 0 | 94.09 | 5.91 | 0.00 |
 | [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 232,544 | 231,170 | 1,374 | 0 | 99.41 | 0.59 | 0.00 |
 | [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 230,017 | 229,846 | 171 | 0 | 99.93 | 0.07 | 0.00 |
 | [Implement sanctions against the Nigerian Government and officials](554150.md) | 221,258 | 200,166 | 21,092 | 0 | 90.47 | 9.53 | 0.00 |
