@@ -4,24 +4,24 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-06-21 04:30:05
+Last refreshed 2022-06-21 05:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,221 | 184,455 | 3,766 | 0 | 98.00 | 2.00 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 153,363 | 150,270 | 3,093 | 0 | 97.98 | 2.02 | 0.00 |
-| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 151,348 | 150,374 | 974 | 0 | 99.36 | 0.64 | 0.00 |
+| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 151,367 | 150,393 | 974 | 0 | 99.36 | 0.64 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 146,107 | 144,704 | 1,403 | 0 | 99.04 | 0.96 | 0.00 |
-| [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 121,992 | 121,467 | 525 | 0 | 99.57 | 0.43 | 0.00 |
+| [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 121,993 | 121,468 | 525 | 0 | 99.57 | 0.43 | 0.00 |
 | [Repeal Breed Specific Legislation](603988.md) | 116,248 | 115,204 | 1,044 | 0 | 99.10 | 0.90 | 0.00 |
-| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 105,302 | 103,083 | 2,219 | 0 | 97.89 | 2.11 | 0.00 |
-| [Do not reduce staff-child ratios in early years childcare](615623.md) | 63,251 | 63,141 | 110 | 0 | 99.83 | 0.17 | 0.00 |
-| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 58,515 | 58,260 | 255 | 0 | 99.56 | 0.44 | 0.00 |
-| [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 51,554 | 50,967 | 587 | 0 | 98.86 | 1.14 | 0.00 |
+| [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 105,303 | 103,084 | 2,219 | 0 | 97.89 | 2.11 | 0.00 |
+| [Do not reduce staff-child ratios in early years childcare](615623.md) | 63,252 | 63,142 | 110 | 0 | 99.83 | 0.17 | 0.00 |
+| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 58,518 | 58,263 | 255 | 0 | 99.56 | 0.44 | 0.00 |
+| [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 51,558 | 50,971 | 587 | 0 | 98.86 | 1.14 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 50,544 | 49,677 | 867 | 0 | 98.28 | 1.72 | 0.00 |
 | [Pledge any necessary military support to defend Ukraine](607314.md) | 50,161 | 47,715 | 2,446 | 0 | 95.12 | 4.88 | 0.00 |
 | [Do not reform the Human Rights Act](607712.md) | 46,409 | 45,844 | 565 | 0 | 98.78 | 1.22 | 0.00 |
-| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 44,903 | 44,459 | 444 | 0 | 99.01 | 0.99 | 0.00 |
+| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 44,911 | 44,467 | 444 | 0 | 99.01 | 0.99 | 0.00 |
 | [Hold a public inquiry into Russian interference in UK politics](609388.md) | 43,227 | 41,577 | 1,650 | 0 | 96.18 | 3.82 | 0.00 |
 | [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 36,702 | 36,488 | 214 | 0 | 99.42 | 0.58 | 0.00 |
 | [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 34,254 | 33,944 | 310 | 0 | 99.09 | 0.91 | 0.00 |
@@ -36,7 +36,7 @@ Last refreshed 2022-06-21 04:30:05
 | [Require schools provide a vegan meal option every day](608670.md) | 21,582 | 21,371 | 211 | 0 | 99.02 | 0.98 | 0.00 |
 | [Free prescriptions for those with a long term and/or chronic condition.](608237.md) | 19,709 | 19,660 | 49 | 0 | 99.75 | 0.25 | 0.00 |
 | [Create a ‘National Sleep Strategy’ to end child bed poverty](604509.md) | 18,448 | 18,332 | 116 | 0 | 99.37 | 0.63 | 0.00 |
-| [End the UK’s membership of the World Health Organisation](617450.md) | 18,417 | 18,087 | 330 | 0 | 98.21 | 1.79 | 0.00 |
+| [End the UK’s membership of the World Health Organisation](617450.md) | 18,426 | 18,096 | 330 | 0 | 98.21 | 1.79 | 0.00 |
 | [End the ban on fracking](608745.md) | 18,212 | 18,078 | 134 | 0 | 99.26 | 0.74 | 0.00 |
 | [Require all public rights of way be accessible to pedestrians, horses & bicycles](610936.md) | 17,963 | 17,912 | 51 | 0 | 99.72 | 0.28 | 0.00 |
 | [End ‘ghost' flights: reform historic rights to landing slots. ](605749.md) | 16,852 | 16,584 | 268 | 0 | 98.41 | 1.59 | 0.00 |
@@ -44,17 +44,17 @@ Last refreshed 2022-06-21 04:30:05
 | [Make Graduate visa extendable and count towards permanent residency](614931.md) | 15,578 | 15,366 | 212 | 0 | 98.64 | 1.36 | 0.00 |
 | [Provide an energy grant to people with a disability or serious medical condition](610300.md) | 15,361 | 15,289 | 72 | 0 | 99.53 | 0.47 | 0.00 |
 | [Make provisions for telemedicine for early abortions permanent in England](609472.md) | 14,956 | 14,907 | 49 | 0 | 99.67 | 0.33 | 0.00 |
-| [Fund Evusheld the preventative COVID19 antibody for immunocompromised](611884.md) | 14,499 | 14,344 | 155 | 0 | 98.93 | 1.07 | 0.00 |
+| [Fund Evusheld the preventative COVID19 antibody for immunocompromised](611884.md) | 14,500 | 14,345 | 155 | 0 | 98.93 | 1.07 | 0.00 |
 | [Change legal definition of stillborn to include all delivered babies](615852.md) | 14,436 | 14,387 | 49 | 0 | 99.66 | 0.34 | 0.00 |
 | [Make parking at work permanently free for all NHS workers](612699.md) | 14,170 | 14,055 | 115 | 0 | 99.19 | 0.81 | 0.00 |
 | [Do not end legal obligations to self-isolate if people test positive for covid](606834.md) | 13,959 | 13,855 | 104 | 0 | 99.25 | 0.75 | 0.00 |
 | [Fund research into Topical Steroid Withdrawal (TSW)](612034.md) | 13,827 | 13,152 | 675 | 0 | 95.12 | 4.88 | 0.00 |
-| [Increase the HMRC Mileage Rate from 45p/mile to 60p/mile](600966.md) | 13,705 | 13,687 | 18 | 0 | 99.87 | 0.13 | 0.00 |
+| [Increase the HMRC Mileage Rate from 45p/mile to 60p/mile](600966.md) | 13,708 | 13,690 | 18 | 0 | 99.87 | 0.13 | 0.00 |
 | [Allow consumers the right to refuse the £200 energy rebate](608007.md) | 13,670 | 13,661 | 9 | 0 | 99.93 | 0.07 | 0.00 |
-| [Introduce an "Ecological Damage Tax" on Astroturf Lawns / Artificial Grass](608295.md) | 12,705 | 12,625 | 80 | 0 | 99.37 | 0.63 | 0.00 |
-| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 12,556 | 12,517 | 39 | 0 | 99.69 | 0.31 | 0.00 |
+| [Introduce an "Ecological Damage Tax" on Astroturf Lawns / Artificial Grass](608295.md) | 12,706 | 12,626 | 80 | 0 | 99.37 | 0.63 | 0.00 |
+| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 12,601 | 12,562 | 39 | 0 | 99.69 | 0.31 | 0.00 |
 | [Negotiate re-entry to the Single Market](604892.md) | 12,415 | 11,806 | 609 | 0 | 95.09 | 4.91 | 0.00 |
 | [Increase benefits in line with current levels of inflation](612152.md) | 12,350 | 12,198 | 152 | 0 | 98.77 | 1.23 | 0.00 |
 | [Exempt charities using IPAFFS from ban on importing animals from Eastern Europe](616575.md) | 12,291 | 12,140 | 151 | 0 | 98.77 | 1.23 | 0.00 |
-| [Require local authorities in England to permit motorcycles in bus lanes](614294.md) | 12,090 | 12,064 | 26 | 0 | 99.78 | 0.22 | 0.00 |
+| [Require local authorities in England to permit motorcycles in bus lanes](614294.md) | 12,097 | 12,071 | 26 | 0 | 99.79 | 0.21 | 0.00 |
 | [Fund research into any relationship between microclots and long Covid and ME](605679.md) | 11,812 | 11,664 | 148 | 0 | 98.75 | 1.25 | 0.00 |
