@@ -4,18 +4,18 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-06-27 02:30:06
+Last refreshed 2022-06-27 03:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,323 | 184,555 | 3,768 | 0 | 98.00 | 2.00 | 0.00 |
-| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 155,117 | 154,123 | 994 | 0 | 99.36 | 0.64 | 0.00 |
+| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 155,120 | 154,126 | 994 | 0 | 99.36 | 0.64 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 153,521 | 150,425 | 3,096 | 0 | 97.98 | 2.02 | 0.00 |
-| [Do not reform the Human Rights Act](607712.md) | 152,494 | 151,379 | 1,115 | 0 | 99.27 | 0.73 | 0.00 |
-| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 146,563 | 145,158 | 1,405 | 0 | 99.04 | 0.96 | 0.00 |
-| [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 123,037 | 122,506 | 531 | 0 | 99.57 | 0.43 | 0.00 |
+| [Do not reform the Human Rights Act](607712.md) | 152,609 | 151,491 | 1,118 | 0 | 99.27 | 0.73 | 0.00 |
+| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 146,566 | 145,161 | 1,405 | 0 | 99.04 | 0.96 | 0.00 |
+| [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 123,040 | 122,509 | 531 | 0 | 99.57 | 0.43 | 0.00 |
 | [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 105,878 | 103,647 | 2,231 | 0 | 97.89 | 2.11 | 0.00 |
-| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 67,058 | 66,777 | 281 | 0 | 99.58 | 0.42 | 0.00 |
+| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 67,059 | 66,778 | 281 | 0 | 99.58 | 0.42 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 63,445 | 63,335 | 110 | 0 | 99.83 | 0.17 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 51,993 | 51,399 | 594 | 0 | 98.86 | 1.14 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 50,776 | 49,909 | 867 | 0 | 98.29 | 1.71 | 0.00 |
@@ -23,11 +23,11 @@ Last refreshed 2022-06-27 02:30:06
 | [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 47,281 | 46,813 | 468 | 0 | 99.01 | 0.99 | 0.00 |
 | [Hold a public inquiry into Russian interference in UK politics](609388.md) | 43,312 | 41,661 | 1,651 | 0 | 96.19 | 3.81 | 0.00 |
 | [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 37,488 | 37,270 | 218 | 0 | 99.42 | 0.58 | 0.00 |
-| [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 34,305 | 33,992 | 313 | 0 | 99.09 | 0.91 | 0.00 |
+| [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 34,307 | 33,994 | 313 | 0 | 99.09 | 0.91 | 0.00 |
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 34,123 | 33,747 | 376 | 0 | 98.90 | 1.10 | 0.00 |
-| [Make it unlawful for shops to refuse cash payments.](605030.md) | 32,594 | 32,239 | 355 | 0 | 98.91 | 1.09 | 0.00 |
+| [Make it unlawful for shops to refuse cash payments.](605030.md) | 32,595 | 32,240 | 355 | 0 | 98.91 | 1.09 | 0.00 |
 | [Make SEND training mandatory for all teaching staff](607849.md) | 28,382 | 28,298 | 84 | 0 | 99.70 | 0.30 | 0.00 |
-| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 25,835 | 25,806 | 29 | 0 | 99.89 | 0.11 | 0.00 |
+| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 25,836 | 25,807 | 29 | 0 | 99.89 | 0.11 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 24,497 | 24,476 | 21 | 0 | 99.91 | 0.09 | 0.00 |
 | [Remove all COVID requirements for international travel to the UK](605858.md) | 22,518 | 22,200 | 318 | 0 | 98.59 | 1.41 | 0.00 |
 | [Increase the basic state pensions by £500 a year as an emergency measure](605503.md) | 22,194 | 21,935 | 259 | 0 | 98.83 | 1.17 | 0.00 |
