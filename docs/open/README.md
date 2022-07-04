@@ -4,30 +4,30 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-07-04 00:30:07
+Last refreshed 2022-07-04 01:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Do not reform the Human Rights Act](607712.md) | 213,936 | 212,397 | 1,539 | 0 | 99.28 | 0.72 | 0.00 |
+| [Do not reform the Human Rights Act](607712.md) | 213,940 | 212,401 | 1,539 | 0 | 99.28 | 0.72 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,393 | 184,623 | 3,770 | 0 | 98.00 | 2.00 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 153,647 | 150,550 | 3,097 | 0 | 97.98 | 2.02 | 0.00 |
-| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 147,128 | 145,720 | 1,408 | 0 | 99.04 | 0.96 | 0.00 |
+| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 147,130 | 145,722 | 1,408 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 128,279 | 127,740 | 539 | 0 | 99.58 | 0.42 | 0.00 |
 | [Replace the real bearskins used for the Queen’s Guard’s caps with faux fur](602285.md) | 106,227 | 103,993 | 2,234 | 0 | 97.90 | 2.10 | 0.00 |
-| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 73,799 | 73,497 | 302 | 0 | 99.59 | 0.41 | 0.00 |
-| [Do not reduce staff-child ratios in early years childcare](615623.md) | 63,981 | 63,871 | 110 | 0 | 99.83 | 0.17 | 0.00 |
-| [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 52,327 | 51,728 | 599 | 0 | 98.86 | 1.14 | 0.00 |
+| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 73,802 | 73,500 | 302 | 0 | 99.59 | 0.41 | 0.00 |
+| [Do not reduce staff-child ratios in early years childcare](615623.md) | 63,982 | 63,872 | 110 | 0 | 99.83 | 0.17 | 0.00 |
+| [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 52,329 | 51,730 | 599 | 0 | 98.86 | 1.14 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 50,944 | 50,075 | 869 | 0 | 98.29 | 1.71 | 0.00 |
 | [Pledge any necessary military support to defend Ukraine](607314.md) | 50,249 | 47,803 | 2,446 | 0 | 95.13 | 4.87 | 0.00 |
-| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 48,859 | 48,378 | 481 | 0 | 99.02 | 0.98 | 0.00 |
+| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 48,862 | 48,381 | 481 | 0 | 99.02 | 0.98 | 0.00 |
 | [Hold a public inquiry into Russian interference in UK politics](609388.md) | 43,451 | 41,794 | 1,657 | 0 | 96.19 | 3.81 | 0.00 |
 | [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 37,750 | 37,530 | 220 | 0 | 99.42 | 0.58 | 0.00 |
 | [Reduce Indefinite leave to remain fees from £2389 to £243 for Health workers](604472.md) | 34,390 | 34,077 | 313 | 0 | 99.09 | 0.91 | 0.00 |
-| [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 34,297 | 33,920 | 377 | 0 | 98.90 | 1.10 | 0.00 |
+| [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 34,298 | 33,921 | 377 | 0 | 98.90 | 1.10 | 0.00 |
 | [Make it unlawful for shops to refuse cash payments.](605030.md) | 33,298 | 32,942 | 356 | 0 | 98.93 | 1.07 | 0.00 |
 | [Make SEND training mandatory for all teaching staff](607849.md) | 28,439 | 28,355 | 84 | 0 | 99.70 | 0.30 | 0.00 |
-| [Increase the HMRC Mileage Rate from 45p/mile to 60p/mile](600966.md) | 27,030 | 27,004 | 26 | 0 | 99.90 | 0.10 | 0.00 |
-| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 26,042 | 26,009 | 33 | 0 | 99.87 | 0.13 | 0.00 |
+| [Increase the HMRC Mileage Rate from 45p/mile to 60p/mile](600966.md) | 27,032 | 27,006 | 26 | 0 | 99.90 | 0.10 | 0.00 |
+| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 26,043 | 26,010 | 33 | 0 | 99.87 | 0.13 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 25,115 | 25,093 | 22 | 0 | 99.91 | 0.09 | 0.00 |
 | [Require schools provide a vegan meal option every day](608670.md) | 22,646 | 22,420 | 226 | 0 | 99.00 | 1.00 | 0.00 |
 | [Remove all COVID requirements for international travel to the UK](605858.md) | 22,530 | 22,212 | 318 | 0 | 98.59 | 1.41 | 0.00 |
@@ -45,7 +45,7 @@ Last refreshed 2022-07-04 00:30:07
 | [Make provisions for telemedicine for early abortions permanent in England](609472.md) | 15,520 | 15,470 | 50 | 0 | 99.68 | 0.32 | 0.00 |
 | [Provide an energy grant to people with a disability or serious medical condition](610300.md) | 15,443 | 15,371 | 72 | 0 | 99.53 | 0.47 | 0.00 |
 | [Fund Evusheld the preventative COVID19 antibody for immunocompromised](611884.md) | 14,943 | 14,780 | 163 | 0 | 98.91 | 1.09 | 0.00 |
-| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 14,652 | 14,525 | 127 | 0 | 99.13 | 0.87 | 0.00 |
+| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 14,654 | 14,527 | 127 | 0 | 99.13 | 0.87 | 0.00 |
 | [Make parking at work permanently free for all NHS workers](612699.md) | 14,432 | 14,317 | 115 | 0 | 99.20 | 0.80 | 0.00 |
 | [Do not end legal obligations to self-isolate if people test positive for covid](606834.md) | 13,984 | 13,880 | 104 | 0 | 99.26 | 0.74 | 0.00 |
 | [Fund research into Topical Steroid Withdrawal (TSW)](612034.md) | 13,914 | 13,237 | 677 | 0 | 95.13 | 4.87 | 0.00 |
@@ -57,4 +57,4 @@ Last refreshed 2022-07-04 00:30:07
 | [Increase benefits in line with current levels of inflation](612152.md) | 12,477 | 12,324 | 153 | 0 | 98.77 | 1.23 | 0.00 |
 | [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 12,460 | 12,437 | 23 | 0 | 99.82 | 0.18 | 0.00 |
 | [Stop the government's 'one way ticket' plan to send asylum seekers to Rwanda](614913.md) | 12,096 | 11,895 | 201 | 0 | 98.34 | 1.66 | 0.00 |
-| [Review the euthanasia of animals in the UK and impose reporting requirements](606922.md) | 11,987 | 11,798 | 189 | 0 | 98.42 | 1.58 | 0.00 |
+| [Review the euthanasia of animals in the UK and impose reporting requirements](606922.md) | 11,988 | 11,799 | 189 | 0 | 98.42 | 1.58 | 0.00 |
