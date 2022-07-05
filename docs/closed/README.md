@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-07-05 11:30:19
+Last refreshed 2022-07-05 12:30:19
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -34,7 +34,7 @@ Last refreshed 2022-07-05 11:30:19
 | [Make LGBT conversion therapy illegal in the UK](300976.md) | 256,392 | 253,566 | 2,826 | 0 | 98.90 | 1.10 | 0.00 |
 | [Extend maternity leave by 3 months with pay in light of COVID-19](306691.md) | 238,884 | 238,439 | 445 | 0 | 99.81 | 0.19 | 0.00 |
 | [Ban Animal Testing - Fund, accept & promote alternatives to animal testing](581641.md) | 235,896 | 221,953 | 13,943 | 0 | 94.09 | 5.91 | 0.00 |
-| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 232,543 | 231,169 | 1,374 | 0 | 99.41 | 0.59 | 0.00 |
+| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 232,542 | 231,168 | 1,374 | 0 | 99.41 | 0.59 | 0.00 |
 | [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 230,017 | 229,846 | 171 | 0 | 99.93 | 0.07 | 0.00 |
 | [Implement sanctions against the Nigerian Government and officials](554150.md) | 221,258 | 200,166 | 21,092 | 0 | 90.47 | 9.53 | 0.00 |
 | [Cancel GCSEs and A Levels in 2021](326066.md) | 211,974 | 210,752 | 1,222 | 0 | 99.42 | 0.58 | 0.00 |
