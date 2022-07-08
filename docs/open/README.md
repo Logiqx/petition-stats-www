@@ -4,26 +4,26 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-07-08 00:30:05
+Last refreshed 2022-07-08 01:30:07
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Do not reform the Human Rights Act](607712.md) | 217,559 | 215,996 | 1,563 | 0 | 99.28 | 0.72 | 0.00 |
+| [Do not reform the Human Rights Act](607712.md) | 217,561 | 215,998 | 1,563 | 0 | 99.28 | 0.72 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,414 | 184,644 | 3,770 | 0 | 98.00 | 2.00 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 153,702 | 150,603 | 3,099 | 0 | 97.98 | 2.02 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 147,265 | 145,855 | 1,410 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 128,608 | 128,068 | 540 | 0 | 99.58 | 0.42 | 0.00 |
-| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 76,966 | 76,658 | 308 | 0 | 99.60 | 0.40 | 0.00 |
+| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 76,970 | 76,662 | 308 | 0 | 99.60 | 0.40 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 66,399 | 66,285 | 114 | 0 | 99.83 | 0.17 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 52,436 | 51,836 | 600 | 0 | 98.86 | 1.14 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 51,045 | 50,176 | 869 | 0 | 98.30 | 1.70 | 0.00 |
 | [Pledge any necessary military support to defend Ukraine](607314.md) | 50,259 | 47,812 | 2,447 | 0 | 95.13 | 4.87 | 0.00 |
 | [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 49,720 | 49,227 | 493 | 0 | 99.01 | 0.99 | 0.00 |
-| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 43,733 | 43,604 | 129 | 0 | 99.71 | 0.29 | 0.00 |
+| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 43,773 | 43,644 | 129 | 0 | 99.71 | 0.29 | 0.00 |
 | [Hold a public inquiry into Russian interference in UK politics](609388.md) | 43,596 | 41,935 | 1,661 | 0 | 96.19 | 3.81 | 0.00 |
-| [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 37,919 | 37,698 | 221 | 0 | 99.42 | 0.58 | 0.00 |
+| [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 37,920 | 37,699 | 221 | 0 | 99.42 | 0.58 | 0.00 |
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 34,484 | 34,104 | 380 | 0 | 98.90 | 1.10 | 0.00 |
-| [Increase the HMRC Mileage Rate from 45p/mile to 60p/mile](600966.md) | 31,503 | 31,468 | 35 | 0 | 99.89 | 0.11 | 0.00 |
+| [Increase the HMRC Mileage Rate from 45p/mile to 60p/mile](600966.md) | 31,505 | 31,470 | 35 | 0 | 99.89 | 0.11 | 0.00 |
 | [Make SEND training mandatory for all teaching staff](607849.md) | 28,470 | 28,386 | 84 | 0 | 99.70 | 0.30 | 0.00 |
 | [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 26,196 | 26,161 | 35 | 0 | 99.87 | 0.13 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 25,176 | 25,152 | 24 | 0 | 99.90 | 0.10 | 0.00 |
@@ -37,12 +37,12 @@ Last refreshed 2022-07-08 00:30:05
 | [Require all public rights of way be accessible to pedestrians, horses & bicycles](610936.md) | 17,998 | 17,947 | 51 | 0 | 99.72 | 0.28 | 0.00 |
 | [End ‘ghost' flights: reform historic rights to landing slots. ](605749.md) | 16,929 | 16,658 | 271 | 0 | 98.40 | 1.60 | 0.00 |
 | [Change legal definition of stillborn to include all delivered babies](615852.md) | 16,548 | 16,491 | 57 | 0 | 99.66 | 0.34 | 0.00 |
-| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 16,292 | 16,153 | 139 | 0 | 99.15 | 0.85 | 0.00 |
+| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 16,294 | 16,155 | 139 | 0 | 99.15 | 0.85 | 0.00 |
 | [Delay removal of red diesel entitlement from the construction industry](607637.md) | 16,213 | 16,172 | 41 | 0 | 99.75 | 0.25 | 0.00 |
 | [Make Graduate visa extendable and count towards permanent residency](614931.md) | 15,604 | 15,390 | 214 | 0 | 98.63 | 1.37 | 0.00 |
 | [Make provisions for telemedicine for early abortions permanent in England](609472.md) | 15,552 | 15,502 | 50 | 0 | 99.68 | 0.32 | 0.00 |
 | [Provide an energy grant to people with a disability or serious medical condition](610300.md) | 15,467 | 15,395 | 72 | 0 | 99.53 | 0.47 | 0.00 |
-| [Fund Evusheld the preventative COVID19 antibody for immunocompromised](611884.md) | 15,051 | 14,887 | 164 | 0 | 98.91 | 1.09 | 0.00 |
+| [Fund Evusheld the preventative COVID19 antibody for immunocompromised](611884.md) | 15,052 | 14,887 | 165 | 0 | 98.90 | 1.10 | 0.00 |
 | [Make parking at work permanently free for all NHS workers](612699.md) | 14,527 | 14,412 | 115 | 0 | 99.21 | 0.79 | 0.00 |
 | [Do not end legal obligations to self-isolate if people test positive for covid](606834.md) | 13,991 | 13,887 | 104 | 0 | 99.26 | 0.74 | 0.00 |
 | [Fund research into Topical Steroid Withdrawal (TSW)](612034.md) | 13,943 | 13,265 | 678 | 0 | 95.14 | 4.86 | 0.00 |
@@ -55,6 +55,6 @@ Last refreshed 2022-07-08 00:30:05
 | [Stop the government's 'one way ticket' plan to send asylum seekers to Rwanda](614913.md) | 12,120 | 11,917 | 203 | 0 | 98.33 | 1.67 | 0.00 |
 | [Review the euthanasia of animals in the UK and impose reporting requirements](606922.md) | 12,071 | 11,882 | 189 | 0 | 98.43 | 1.57 | 0.00 |
 | [Fund research into any relationship between microclots and long Covid and ME](605679.md) | 11,871 | 11,723 | 148 | 0 | 98.75 | 1.25 | 0.00 |
-| [Ban school uniforms in sex shops and pornography](615829.md) | 11,835 | 11,619 | 216 | 0 | 98.17 | 1.83 | 0.00 |
+| [Ban school uniforms in sex shops and pornography](615829.md) | 11,837 | 11,621 | 216 | 0 | 98.18 | 1.82 | 0.00 |
 | [Set up an independent regulator to monitor and regulate vehicle fuel pricing](605282.md) | 11,550 | 11,538 | 12 | 0 | 99.90 | 0.10 | 0.00 |
 | [Publish daily updates on the number of Channel crossings](607119.md) | 10,976 | 10,843 | 133 | 0 | 98.79 | 1.21 | 0.00 |
