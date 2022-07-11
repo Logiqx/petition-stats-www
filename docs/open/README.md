@@ -4,20 +4,20 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-07-11 01:30:06
+Last refreshed 2022-07-11 02:30:07
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Do not reform the Human Rights Act](607712.md) | 217,991 | 216,423 | 1,568 | 0 | 99.28 | 0.72 | 0.00 |
+| [Do not reform the Human Rights Act](607712.md) | 217,994 | 216,426 | 1,568 | 0 | 99.28 | 0.72 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,426 | 184,656 | 3,770 | 0 | 98.00 | 2.00 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 153,734 | 150,635 | 3,099 | 0 | 97.98 | 2.02 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 147,308 | 145,896 | 1,412 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 128,695 | 128,154 | 541 | 0 | 99.58 | 0.42 | 0.00 |
-| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 79,030 | 78,713 | 317 | 0 | 99.60 | 0.40 | 0.00 |
+| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 79,032 | 78,715 | 317 | 0 | 99.60 | 0.40 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 66,522 | 66,408 | 114 | 0 | 99.83 | 0.17 | 0.00 |
-| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 52,669 | 52,151 | 518 | 0 | 99.02 | 0.98 | 0.00 |
+| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 52,672 | 52,154 | 518 | 0 | 99.02 | 0.98 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 52,479 | 51,878 | 601 | 0 | 98.85 | 1.15 | 0.00 |
-| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 51,489 | 51,323 | 166 | 0 | 99.68 | 0.32 | 0.00 |
+| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 51,523 | 51,356 | 167 | 0 | 99.68 | 0.32 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 51,108 | 50,239 | 869 | 0 | 98.30 | 1.70 | 0.00 |
 | [Pledge any necessary military support to defend Ukraine](607314.md) | 50,268 | 47,821 | 2,447 | 0 | 95.13 | 4.87 | 0.00 |
 | [Hold a public inquiry into Russian interference in UK politics](609388.md) | 43,642 | 41,979 | 1,663 | 0 | 96.19 | 3.81 | 0.00 |
@@ -36,7 +36,7 @@ Last refreshed 2022-07-11 01:30:06
 | [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 18,335 | 18,288 | 47 | 0 | 99.74 | 0.26 | 0.00 |
 | [Require all public rights of way be accessible to pedestrians, horses & bicycles](610936.md) | 18,005 | 17,954 | 51 | 0 | 99.72 | 0.28 | 0.00 |
 | [End ‘ghost' flights: reform historic rights to landing slots. ](605749.md) | 16,937 | 16,665 | 272 | 0 | 98.39 | 1.61 | 0.00 |
-| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 16,886 | 16,738 | 148 | 0 | 99.12 | 0.88 | 0.00 |
+| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 16,887 | 16,739 | 148 | 0 | 99.12 | 0.88 | 0.00 |
 | [Change legal definition of stillborn to include all delivered babies](615852.md) | 16,829 | 16,770 | 59 | 0 | 99.65 | 0.35 | 0.00 |
 | [Delay removal of red diesel entitlement from the construction industry](607637.md) | 16,214 | 16,173 | 41 | 0 | 99.75 | 0.25 | 0.00 |
 | [Make Graduate visa extendable and count towards permanent residency](614931.md) | 15,605 | 15,391 | 214 | 0 | 98.63 | 1.37 | 0.00 |
@@ -51,7 +51,7 @@ Last refreshed 2022-07-11 01:30:06
 | [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 13,495 | 13,471 | 24 | 0 | 99.82 | 0.18 | 0.00 |
 | [Exempt charities using IPAFFS from ban on importing animals from Eastern Europe](616575.md) | 13,265 | 13,104 | 161 | 0 | 98.79 | 1.21 | 0.00 |
 | [Introduce an "Ecological Damage Tax" on Astroturf Lawns / Artificial Grass](608295.md) | 12,880 | 12,799 | 81 | 0 | 99.37 | 0.63 | 0.00 |
-| [Ban school uniforms in sex shops and pornography](615829.md) | 12,633 | 12,409 | 224 | 0 | 98.23 | 1.77 | 0.00 |
+| [Ban school uniforms in sex shops and pornography](615829.md) | 12,634 | 12,410 | 224 | 0 | 98.23 | 1.77 | 0.00 |
 | [Increase benefits in line with current levels of inflation](612152.md) | 12,512 | 12,358 | 154 | 0 | 98.77 | 1.23 | 0.00 |
 | [Review the euthanasia of animals in the UK and impose reporting requirements](606922.md) | 12,175 | 11,986 | 189 | 0 | 98.45 | 1.55 | 0.00 |
 | [Stop the government's 'one way ticket' plan to send asylum seekers to Rwanda](614913.md) | 12,130 | 11,927 | 203 | 0 | 98.33 | 1.67 | 0.00 |
