@@ -4,20 +4,20 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-07-11 02:30:07
+Last refreshed 2022-07-11 03:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Do not reform the Human Rights Act](607712.md) | 217,994 | 216,426 | 1,568 | 0 | 99.28 | 0.72 | 0.00 |
+| [Do not reform the Human Rights Act](607712.md) | 217,995 | 216,427 | 1,568 | 0 | 99.28 | 0.72 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,426 | 184,656 | 3,770 | 0 | 98.00 | 2.00 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 153,734 | 150,635 | 3,099 | 0 | 97.98 | 2.02 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 147,308 | 145,896 | 1,412 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 128,695 | 128,154 | 541 | 0 | 99.58 | 0.42 | 0.00 |
-| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 79,032 | 78,715 | 317 | 0 | 99.60 | 0.40 | 0.00 |
+| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 79,035 | 78,718 | 317 | 0 | 99.60 | 0.40 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 66,522 | 66,408 | 114 | 0 | 99.83 | 0.17 | 0.00 |
-| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 52,672 | 52,154 | 518 | 0 | 99.02 | 0.98 | 0.00 |
+| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 52,674 | 52,155 | 519 | 0 | 99.01 | 0.99 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 52,479 | 51,878 | 601 | 0 | 98.85 | 1.15 | 0.00 |
-| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 51,523 | 51,356 | 167 | 0 | 99.68 | 0.32 | 0.00 |
+| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 51,541 | 51,374 | 167 | 0 | 99.68 | 0.32 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 51,108 | 50,239 | 869 | 0 | 98.30 | 1.70 | 0.00 |
 | [Pledge any necessary military support to defend Ukraine](607314.md) | 50,268 | 47,821 | 2,447 | 0 | 95.13 | 4.87 | 0.00 |
 | [Hold a public inquiry into Russian interference in UK politics](609388.md) | 43,642 | 41,979 | 1,663 | 0 | 96.19 | 3.81 | 0.00 |
@@ -28,7 +28,7 @@ Last refreshed 2022-07-11 02:30:07
 | [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 26,245 | 26,210 | 35 | 0 | 99.87 | 0.13 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 25,218 | 25,194 | 24 | 0 | 99.90 | 0.10 | 0.00 |
 | [Require schools provide a vegan meal option every day](608670.md) | 23,167 | 22,937 | 230 | 0 | 99.01 | 0.99 | 0.00 |
-| [Remove all COVID requirements for international travel to the UK](605858.md) | 22,535 | 22,217 | 318 | 0 | 98.59 | 1.41 | 0.00 |
+| [Remove all COVID requirements for international travel to the UK](605858.md) | 22,536 | 22,217 | 319 | 0 | 98.58 | 1.42 | 0.00 |
 | [Increase the basic state pensions by £500 a year as an emergency measure](605503.md) | 22,297 | 22,036 | 261 | 0 | 98.83 | 1.17 | 0.00 |
 | [Free prescriptions for those with a long term and/or chronic condition.](608237.md) | 19,961 | 19,911 | 50 | 0 | 99.75 | 0.25 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 19,809 | 19,440 | 369 | 0 | 98.14 | 1.86 | 0.00 |
@@ -48,7 +48,7 @@ Last refreshed 2022-07-11 02:30:07
 | [Fund research into Topical Steroid Withdrawal (TSW)](612034.md) | 13,958 | 13,280 | 678 | 0 | 95.14 | 4.86 | 0.00 |
 | [Allow consumers the right to refuse the £200 energy rebate](608007.md) | 13,706 | 13,697 | 9 | 0 | 99.93 | 0.07 | 0.00 |
 | [Require local authorities in England to permit motorcycles in bus lanes](614294.md) | 13,697 | 13,665 | 32 | 0 | 99.77 | 0.23 | 0.00 |
-| [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 13,495 | 13,471 | 24 | 0 | 99.82 | 0.18 | 0.00 |
+| [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 13,498 | 13,474 | 24 | 0 | 99.82 | 0.18 | 0.00 |
 | [Exempt charities using IPAFFS from ban on importing animals from Eastern Europe](616575.md) | 13,265 | 13,104 | 161 | 0 | 98.79 | 1.21 | 0.00 |
 | [Introduce an "Ecological Damage Tax" on Astroturf Lawns / Artificial Grass](608295.md) | 12,880 | 12,799 | 81 | 0 | 99.37 | 0.63 | 0.00 |
 | [Ban school uniforms in sex shops and pornography](615829.md) | 12,634 | 12,410 | 224 | 0 | 98.23 | 1.77 | 0.00 |
