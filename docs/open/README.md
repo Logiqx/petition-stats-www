@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-07-12 02:30:04
+Last refreshed 2022-07-12 03:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -13,9 +13,9 @@ Last refreshed 2022-07-12 02:30:04
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 153,742 | 150,643 | 3,099 | 0 | 97.98 | 2.02 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 147,326 | 145,913 | 1,413 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 128,738 | 128,197 | 541 | 0 | 99.58 | 0.42 | 0.00 |
-| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 79,450 | 79,132 | 318 | 0 | 99.60 | 0.40 | 0.00 |
-| [Do not reduce staff-child ratios in early years childcare](615623.md) | 66,585 | 66,470 | 115 | 0 | 99.83 | 0.17 | 0.00 |
-| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 54,052 | 53,876 | 176 | 0 | 99.67 | 0.33 | 0.00 |
+| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 79,451 | 79,133 | 318 | 0 | 99.60 | 0.40 | 0.00 |
+| [Do not reduce staff-child ratios in early years childcare](615623.md) | 66,586 | 66,471 | 115 | 0 | 99.83 | 0.17 | 0.00 |
+| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 54,056 | 53,879 | 177 | 0 | 99.67 | 0.33 | 0.00 |
 | [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 53,186 | 52,664 | 522 | 0 | 99.02 | 0.98 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 52,489 | 51,888 | 601 | 0 | 98.85 | 1.15 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 51,123 | 50,253 | 870 | 0 | 98.30 | 1.70 | 0.00 |
@@ -23,7 +23,7 @@ Last refreshed 2022-07-12 02:30:04
 | [Hold a public inquiry into Russian interference in UK politics](609388.md) | 43,659 | 41,996 | 1,663 | 0 | 96.19 | 3.81 | 0.00 |
 | [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 38,014 | 37,793 | 221 | 0 | 99.42 | 0.58 | 0.00 |
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 34,496 | 34,116 | 380 | 0 | 98.90 | 1.10 | 0.00 |
-| [Increase the HMRC Mileage Rate from 45p/mile to 60p/mile](600966.md) | 33,388 | 33,350 | 38 | 0 | 99.89 | 0.11 | 0.00 |
+| [Increase the HMRC Mileage Rate from 45p/mile to 60p/mile](600966.md) | 33,389 | 33,351 | 38 | 0 | 99.89 | 0.11 | 0.00 |
 | [Make SEND training mandatory for all teaching staff](607849.md) | 28,482 | 28,398 | 84 | 0 | 99.71 | 0.29 | 0.00 |
 | [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 26,263 | 26,228 | 35 | 0 | 99.87 | 0.13 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 25,226 | 25,202 | 24 | 0 | 99.90 | 0.10 | 0.00 |
@@ -31,7 +31,7 @@ Last refreshed 2022-07-12 02:30:04
 | [Remove all COVID requirements for international travel to the UK](605858.md) | 22,539 | 22,220 | 319 | 0 | 98.58 | 1.42 | 0.00 |
 | [Increase the basic state pensions by £500 a year as an emergency measure](605503.md) | 22,330 | 22,069 | 261 | 0 | 98.83 | 1.17 | 0.00 |
 | [Free prescriptions for those with a long term and/or chronic condition.](608237.md) | 19,965 | 19,915 | 50 | 0 | 99.75 | 0.25 | 0.00 |
-| [End the UK’s membership of the World Health Organisation](617450.md) | 19,838 | 19,469 | 369 | 0 | 98.14 | 1.86 | 0.00 |
+| [End the UK’s membership of the World Health Organisation](617450.md) | 19,839 | 19,470 | 369 | 0 | 98.14 | 1.86 | 0.00 |
 | [End the ban on fracking](608745.md) | 18,373 | 18,238 | 135 | 0 | 99.27 | 0.73 | 0.00 |
 | [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 18,367 | 18,320 | 47 | 0 | 99.74 | 0.26 | 0.00 |
 | [Require all public rights of way be accessible to pedestrians, horses & bicycles](610936.md) | 18,006 | 17,955 | 51 | 0 | 99.72 | 0.28 | 0.00 |
@@ -48,7 +48,7 @@ Last refreshed 2022-07-12 02:30:04
 | [Fund research into Topical Steroid Withdrawal (TSW)](612034.md) | 13,964 | 13,286 | 678 | 0 | 95.14 | 4.86 | 0.00 |
 | [Require local authorities in England to permit motorcycles in bus lanes](614294.md) | 13,708 | 13,676 | 32 | 0 | 99.77 | 0.23 | 0.00 |
 | [Allow consumers the right to refuse the £200 energy rebate](608007.md) | 13,706 | 13,697 | 9 | 0 | 99.93 | 0.07 | 0.00 |
-| [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 13,628 | 13,604 | 24 | 0 | 99.82 | 0.18 | 0.00 |
+| [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 13,629 | 13,605 | 24 | 0 | 99.82 | 0.18 | 0.00 |
 | [Exempt charities using IPAFFS from ban on importing animals from Eastern Europe](616575.md) | 13,388 | 13,225 | 163 | 0 | 98.78 | 1.22 | 0.00 |
 | [Introduce an "Ecological Damage Tax" on Astroturf Lawns / Artificial Grass](608295.md) | 12,883 | 12,802 | 81 | 0 | 99.37 | 0.63 | 0.00 |
 | [Ban school uniforms in sex shops and pornography](615829.md) | 12,701 | 12,477 | 224 | 0 | 98.24 | 1.76 | 0.00 |
