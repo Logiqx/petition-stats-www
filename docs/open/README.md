@@ -4,19 +4,19 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-07-12 01:30:04
+Last refreshed 2022-07-12 02:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Do not reform the Human Rights Act](607712.md) | 218,217 | 216,647 | 1,570 | 0 | 99.28 | 0.72 | 0.00 |
+| [Do not reform the Human Rights Act](607712.md) | 218,220 | 216,650 | 1,570 | 0 | 99.28 | 0.72 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,426 | 184,656 | 3,770 | 0 | 98.00 | 2.00 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 153,742 | 150,643 | 3,099 | 0 | 97.98 | 2.02 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 147,326 | 145,913 | 1,413 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 128,738 | 128,197 | 541 | 0 | 99.58 | 0.42 | 0.00 |
-| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 79,449 | 79,131 | 318 | 0 | 99.60 | 0.40 | 0.00 |
+| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 79,450 | 79,132 | 318 | 0 | 99.60 | 0.40 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 66,585 | 66,470 | 115 | 0 | 99.83 | 0.17 | 0.00 |
-| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 54,049 | 53,873 | 176 | 0 | 99.67 | 0.33 | 0.00 |
-| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 53,185 | 52,663 | 522 | 0 | 99.02 | 0.98 | 0.00 |
+| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 54,052 | 53,876 | 176 | 0 | 99.67 | 0.33 | 0.00 |
+| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 53,186 | 52,664 | 522 | 0 | 99.02 | 0.98 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 52,489 | 51,888 | 601 | 0 | 98.85 | 1.15 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 51,123 | 50,253 | 870 | 0 | 98.30 | 1.70 | 0.00 |
 | [Pledge any necessary military support to defend Ukraine](607314.md) | 50,272 | 47,825 | 2,447 | 0 | 95.13 | 4.87 | 0.00 |
@@ -35,7 +35,7 @@ Last refreshed 2022-07-12 01:30:04
 | [End the ban on fracking](608745.md) | 18,373 | 18,238 | 135 | 0 | 99.27 | 0.73 | 0.00 |
 | [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 18,367 | 18,320 | 47 | 0 | 99.74 | 0.26 | 0.00 |
 | [Require all public rights of way be accessible to pedestrians, horses & bicycles](610936.md) | 18,006 | 17,955 | 51 | 0 | 99.72 | 0.28 | 0.00 |
-| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 17,010 | 16,861 | 149 | 0 | 99.12 | 0.88 | 0.00 |
+| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 17,011 | 16,862 | 149 | 0 | 99.12 | 0.88 | 0.00 |
 | [End ‘ghost' flights: reform historic rights to landing slots. ](605749.md) | 16,945 | 16,673 | 272 | 0 | 98.39 | 1.61 | 0.00 |
 | [Change legal definition of stillborn to include all delivered babies](615852.md) | 16,856 | 16,797 | 59 | 0 | 99.65 | 0.35 | 0.00 |
 | [Delay removal of red diesel entitlement from the construction industry](607637.md) | 16,214 | 16,173 | 41 | 0 | 99.75 | 0.25 | 0.00 |
