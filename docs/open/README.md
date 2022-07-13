@@ -4,19 +4,19 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-07-13 03:30:07
+Last refreshed 2022-07-13 04:30:07
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Do not reform the Human Rights Act](607712.md) | 218,344 | 216,774 | 1,570 | 0 | 99.28 | 0.72 | 0.00 |
+| [Do not reform the Human Rights Act](607712.md) | 218,347 | 216,777 | 1,570 | 0 | 99.28 | 0.72 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,427 | 184,657 | 3,770 | 0 | 98.00 | 2.00 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 153,752 | 150,653 | 3,099 | 0 | 97.98 | 2.02 | 0.00 |
-| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 147,343 | 145,930 | 1,413 | 0 | 99.04 | 0.96 | 0.00 |
+| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 147,344 | 145,931 | 1,413 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 128,747 | 128,206 | 541 | 0 | 99.58 | 0.42 | 0.00 |
-| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 80,007 | 79,687 | 320 | 0 | 99.60 | 0.40 | 0.00 |
+| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 80,010 | 79,690 | 320 | 0 | 99.60 | 0.40 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 66,627 | 66,512 | 115 | 0 | 99.83 | 0.17 | 0.00 |
-| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 55,266 | 55,080 | 186 | 0 | 99.66 | 0.34 | 0.00 |
-| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 53,619 | 53,095 | 524 | 0 | 99.02 | 0.98 | 0.00 |
+| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 55,339 | 55,152 | 187 | 0 | 99.66 | 0.34 | 0.00 |
+| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 53,621 | 53,097 | 524 | 0 | 99.02 | 0.98 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 52,502 | 51,901 | 601 | 0 | 98.86 | 1.14 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 51,144 | 50,274 | 870 | 0 | 98.30 | 1.70 | 0.00 |
 | [Pledge any necessary military support to defend Ukraine](607314.md) | 50,275 | 47,828 | 2,447 | 0 | 95.13 | 4.87 | 0.00 |
@@ -25,7 +25,7 @@ Last refreshed 2022-07-13 03:30:07
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 34,568 | 34,186 | 382 | 0 | 98.89 | 1.11 | 0.00 |
 | [Increase the HMRC Mileage Rate from 45p/mile to 60p/mile](600966.md) | 34,100 | 34,062 | 38 | 0 | 99.89 | 0.11 | 0.00 |
 | [Make SEND training mandatory for all teaching staff](607849.md) | 28,484 | 28,400 | 84 | 0 | 99.71 | 0.29 | 0.00 |
-| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 26,519 | 26,484 | 35 | 0 | 99.87 | 0.13 | 0.00 |
+| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 26,525 | 26,490 | 35 | 0 | 99.87 | 0.13 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 25,255 | 25,231 | 24 | 0 | 99.90 | 0.10 | 0.00 |
 | [Require schools provide a vegan meal option every day](608670.md) | 23,218 | 22,988 | 230 | 0 | 99.01 | 0.99 | 0.00 |
 | [Remove all COVID requirements for international travel to the UK](605858.md) | 22,539 | 22,220 | 319 | 0 | 98.58 | 1.42 | 0.00 |
@@ -38,7 +38,7 @@ Last refreshed 2022-07-13 03:30:07
 | [End ‘ghost' flights: reform historic rights to landing slots. ](605749.md) | 16,948 | 16,676 | 272 | 0 | 98.40 | 1.60 | 0.00 |
 | [Change legal definition of stillborn to include all delivered babies](615852.md) | 16,882 | 16,823 | 59 | 0 | 99.65 | 0.35 | 0.00 |
 | [Delay removal of red diesel entitlement from the construction industry](607637.md) | 16,215 | 16,174 | 41 | 0 | 99.75 | 0.25 | 0.00 |
-| [Make Graduate visa extendable and count towards permanent residency](614931.md) | 15,608 | 15,394 | 214 | 0 | 98.63 | 1.37 | 0.00 |
+| [Make Graduate visa extendable and count towards permanent residency](614931.md) | 15,609 | 15,395 | 214 | 0 | 98.63 | 1.37 | 0.00 |
 | [Make provisions for telemedicine for early abortions permanent in England](609472.md) | 15,567 | 15,517 | 50 | 0 | 99.68 | 0.32 | 0.00 |
 | [Provide an energy grant to people with a disability or serious medical condition](610300.md) | 15,482 | 15,410 | 72 | 0 | 99.53 | 0.47 | 0.00 |
 | [Fund Evusheld the preventative COVID19 antibody for immunocompromised](611884.md) | 15,151 | 14,984 | 167 | 0 | 98.90 | 1.10 | 0.00 |
@@ -54,7 +54,7 @@ Last refreshed 2022-07-13 03:30:07
 | [Increase benefits in line with current levels of inflation](612152.md) | 12,518 | 12,364 | 154 | 0 | 98.77 | 1.23 | 0.00 |
 | [Review the euthanasia of animals in the UK and impose reporting requirements](606922.md) | 12,228 | 12,039 | 189 | 0 | 98.45 | 1.55 | 0.00 |
 | [Stop the government's 'one way ticket' plan to send asylum seekers to Rwanda](614913.md) | 12,147 | 11,944 | 203 | 0 | 98.33 | 1.67 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 11,900 | 11,835 | 65 | 0 | 99.45 | 0.55 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 11,916 | 11,850 | 66 | 0 | 99.45 | 0.55 | 0.00 |
 | [Fund research into any relationship between microclots and long Covid and ME](605679.md) | 11,879 | 11,731 | 148 | 0 | 98.75 | 1.25 | 0.00 |
 | [Publish daily updates on the number of Channel crossings](607119.md) | 11,000 | 10,866 | 134 | 0 | 98.78 | 1.22 | 0.00 |
 | [Offer fast track asylum to any Ukrainians displaced due to the invasion](609382.md) | 10,911 | 10,728 | 183 | 0 | 98.32 | 1.68 | 0.00 |
