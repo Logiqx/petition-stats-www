@@ -4,34 +4,34 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-07-14 02:30:06
+Last refreshed 2022-07-14 03:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Do not reform the Human Rights Act](607712.md) | 218,471 | 216,900 | 1,571 | 0 | 99.28 | 0.72 | 0.00 |
+| [Do not reform the Human Rights Act](607712.md) | 218,472 | 216,901 | 1,571 | 0 | 99.28 | 0.72 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,434 | 184,664 | 3,770 | 0 | 98.00 | 2.00 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 153,763 | 150,664 | 3,099 | 0 | 97.98 | 2.02 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 147,357 | 145,944 | 1,413 | 0 | 99.04 | 0.96 | 0.00 |
-| [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 128,861 | 128,320 | 541 | 0 | 99.58 | 0.42 | 0.00 |
-| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 80,826 | 80,500 | 326 | 0 | 99.60 | 0.40 | 0.00 |
+| [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 128,862 | 128,321 | 541 | 0 | 99.58 | 0.42 | 0.00 |
+| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 80,829 | 80,503 | 326 | 0 | 99.60 | 0.40 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 66,652 | 66,537 | 115 | 0 | 99.83 | 0.17 | 0.00 |
-| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 59,506 | 59,297 | 209 | 0 | 99.65 | 0.35 | 0.00 |
-| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 53,957 | 53,427 | 530 | 0 | 99.02 | 0.98 | 0.00 |
+| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 59,514 | 59,305 | 209 | 0 | 99.65 | 0.35 | 0.00 |
+| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 53,959 | 53,429 | 530 | 0 | 99.02 | 0.98 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 52,513 | 51,910 | 603 | 0 | 98.85 | 1.15 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 51,185 | 50,315 | 870 | 0 | 98.30 | 1.70 | 0.00 |
 | [Pledge any necessary military support to defend Ukraine](607314.md) | 50,278 | 47,831 | 2,447 | 0 | 95.13 | 4.87 | 0.00 |
 | [Hold a public inquiry into Russian interference in UK politics](609388.md) | 43,709 | 42,043 | 1,666 | 0 | 96.19 | 3.81 | 0.00 |
 | [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 38,054 | 37,833 | 221 | 0 | 99.42 | 0.58 | 0.00 |
-| [Increase the HMRC Mileage Rate from 45p/mile to 60p/mile](600966.md) | 34,695 | 34,657 | 38 | 0 | 99.89 | 0.11 | 0.00 |
+| [Increase the HMRC Mileage Rate from 45p/mile to 60p/mile](600966.md) | 34,696 | 34,658 | 38 | 0 | 99.89 | 0.11 | 0.00 |
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 34,595 | 34,211 | 384 | 0 | 98.89 | 1.11 | 0.00 |
 | [Make SEND training mandatory for all teaching staff](607849.md) | 28,494 | 28,410 | 84 | 0 | 99.71 | 0.29 | 0.00 |
-| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 26,826 | 26,790 | 36 | 0 | 99.87 | 0.13 | 0.00 |
+| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 26,831 | 26,795 | 36 | 0 | 99.87 | 0.13 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 25,289 | 25,265 | 24 | 0 | 99.91 | 0.09 | 0.00 |
 | [Require schools provide a vegan meal option every day](608670.md) | 23,315 | 23,085 | 230 | 0 | 99.01 | 0.99 | 0.00 |
 | [Remove all COVID requirements for international travel to the UK](605858.md) | 22,540 | 22,221 | 319 | 0 | 98.58 | 1.42 | 0.00 |
 | [Free prescriptions for those with a long term and/or chronic condition.](608237.md) | 19,983 | 19,933 | 50 | 0 | 99.75 | 0.25 | 0.00 |
-| [End the UK’s membership of the World Health Organisation](617450.md) | 19,960 | 19,590 | 370 | 0 | 98.15 | 1.85 | 0.00 |
-| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 18,441 | 18,394 | 47 | 0 | 99.75 | 0.25 | 0.00 |
+| [End the UK’s membership of the World Health Organisation](617450.md) | 19,961 | 19,591 | 370 | 0 | 98.15 | 1.85 | 0.00 |
+| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 18,444 | 18,397 | 47 | 0 | 99.75 | 0.25 | 0.00 |
 | [End the ban on fracking](608745.md) | 18,379 | 18,244 | 135 | 0 | 99.27 | 0.73 | 0.00 |
 | [Require all public rights of way be accessible to pedestrians, horses & bicycles](610936.md) | 18,014 | 17,963 | 51 | 0 | 99.72 | 0.28 | 0.00 |
 | [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 17,250 | 17,101 | 149 | 0 | 99.14 | 0.86 | 0.00 |
@@ -55,6 +55,6 @@ Last refreshed 2022-07-14 02:30:06
 | [Increase benefits in line with current levels of inflation](612152.md) | 12,525 | 12,371 | 154 | 0 | 98.77 | 1.23 | 0.00 |
 | [Review the euthanasia of animals in the UK and impose reporting requirements](606922.md) | 12,242 | 12,051 | 191 | 0 | 98.44 | 1.56 | 0.00 |
 | [Stop the government's 'one way ticket' plan to send asylum seekers to Rwanda](614913.md) | 12,157 | 11,954 | 203 | 0 | 98.33 | 1.67 | 0.00 |
-| [Ensure student nurses are paid for placement hours](610557.md) | 11,029 | 10,988 | 41 | 0 | 99.63 | 0.37 | 0.00 |
+| [Ensure student nurses are paid for placement hours](610557.md) | 11,032 | 10,991 | 41 | 0 | 99.63 | 0.37 | 0.00 |
 | [Publish daily updates on the number of Channel crossings](607119.md) | 11,001 | 10,867 | 134 | 0 | 98.78 | 1.22 | 0.00 |
 | [Offer fast track asylum to any Ukrainians displaced due to the invasion](609382.md) | 10,914 | 10,731 | 183 | 0 | 98.32 | 1.68 | 0.00 |
