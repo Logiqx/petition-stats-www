@@ -4,25 +4,25 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-07-17 04:30:06
+Last refreshed 2022-07-17 05:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Do not reform the Human Rights Act](607712.md) | 221,933 | 220,354 | 1,579 | 0 | 99.29 | 0.71 | 0.00 |
+| [Do not reform the Human Rights Act](607712.md) | 221,949 | 220,370 | 1,579 | 0 | 99.29 | 0.71 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,446 | 184,676 | 3,770 | 0 | 98.00 | 2.00 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 153,809 | 150,709 | 3,100 | 0 | 97.98 | 2.02 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 147,398 | 145,985 | 1,413 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 129,015 | 128,474 | 541 | 0 | 99.58 | 0.42 | 0.00 |
-| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 82,866 | 82,530 | 336 | 0 | 99.59 | 0.41 | 0.00 |
+| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 82,874 | 82,538 | 336 | 0 | 99.59 | 0.41 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 66,691 | 66,576 | 115 | 0 | 99.83 | 0.17 | 0.00 |
-| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 63,818 | 63,593 | 225 | 0 | 99.65 | 0.35 | 0.00 |
-| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 54,347 | 53,806 | 541 | 0 | 99.00 | 1.00 | 0.00 |
+| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 63,824 | 63,599 | 225 | 0 | 99.65 | 0.35 | 0.00 |
+| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 54,348 | 53,807 | 541 | 0 | 99.00 | 1.00 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 52,549 | 51,946 | 603 | 0 | 98.85 | 1.15 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 51,284 | 50,413 | 871 | 0 | 98.30 | 1.70 | 0.00 |
 | [Pledge any necessary military support to defend Ukraine](607314.md) | 50,284 | 47,837 | 2,447 | 0 | 95.13 | 4.87 | 0.00 |
 | [Hold a public inquiry into Russian interference in UK politics](609388.md) | 43,739 | 42,073 | 1,666 | 0 | 96.19 | 3.81 | 0.00 |
 | [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 38,118 | 37,897 | 221 | 0 | 99.42 | 0.58 | 0.00 |
-| [Increase the HMRC Mileage Rate from 45p/mile to 60p/mile](600966.md) | 35,942 | 35,903 | 39 | 0 | 99.89 | 0.11 | 0.00 |
+| [Increase the HMRC Mileage Rate from 45p/mile to 60p/mile](600966.md) | 35,945 | 35,906 | 39 | 0 | 99.89 | 0.11 | 0.00 |
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 34,614 | 34,230 | 384 | 0 | 98.89 | 1.11 | 0.00 |
 | [Make SEND training mandatory for all teaching staff](607849.md) | 28,518 | 28,434 | 84 | 0 | 99.71 | 0.29 | 0.00 |
 | [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 27,039 | 27,003 | 36 | 0 | 99.87 | 0.13 | 0.00 |
@@ -31,20 +31,20 @@ Last refreshed 2022-07-17 04:30:06
 | [Remove all COVID requirements for international travel to the UK](605858.md) | 22,552 | 22,233 | 319 | 0 | 98.59 | 1.41 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 20,081 | 19,709 | 372 | 0 | 98.15 | 1.85 | 0.00 |
 | [Free prescriptions for those with a long term and/or chronic condition.](608237.md) | 20,005 | 19,955 | 50 | 0 | 99.75 | 0.25 | 0.00 |
-| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 19,240 | 19,191 | 49 | 0 | 99.75 | 0.25 | 0.00 |
+| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 19,244 | 19,195 | 49 | 0 | 99.75 | 0.25 | 0.00 |
 | [End the ban on fracking](608745.md) | 18,391 | 18,256 | 135 | 0 | 99.27 | 0.73 | 0.00 |
 | [Require all public rights of way be accessible to pedestrians, horses & bicycles](610936.md) | 18,018 | 17,967 | 51 | 0 | 99.72 | 0.28 | 0.00 |
-| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 17,568 | 17,418 | 150 | 0 | 99.15 | 0.85 | 0.00 |
+| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 17,569 | 17,419 | 150 | 0 | 99.15 | 0.85 | 0.00 |
 | [Change legal definition of stillborn to include all delivered babies](615852.md) | 16,901 | 16,842 | 59 | 0 | 99.65 | 0.35 | 0.00 |
-| [Exempt charities using IPAFFS from ban on importing animals from Eastern Europe](616575.md) | 16,580 | 16,377 | 203 | 0 | 98.78 | 1.22 | 0.00 |
+| [Exempt charities using IPAFFS from ban on importing animals from Eastern Europe](616575.md) | 16,583 | 16,379 | 204 | 0 | 98.77 | 1.23 | 0.00 |
 | [Delay removal of red diesel entitlement from the construction industry](607637.md) | 16,220 | 16,179 | 41 | 0 | 99.75 | 0.25 | 0.00 |
 | [Make Graduate visa extendable and count towards permanent residency](614931.md) | 15,615 | 15,401 | 214 | 0 | 98.63 | 1.37 | 0.00 |
 | [Make provisions for telemedicine for early abortions permanent in England](609472.md) | 15,582 | 15,532 | 50 | 0 | 99.68 | 0.32 | 0.00 |
 | [Provide an energy grant to people with a disability or serious medical condition](610300.md) | 15,501 | 15,429 | 72 | 0 | 99.54 | 0.46 | 0.00 |
 | [Fund Evusheld the preventative COVID19 antibody for immunocompromised](611884.md) | 15,227 | 15,060 | 167 | 0 | 98.90 | 1.10 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 15,009 | 14,915 | 94 | 0 | 99.37 | 0.63 | 0.00 |
-| [Make parking at work permanently free for all NHS workers](612699.md) | 14,739 | 14,623 | 116 | 0 | 99.21 | 0.79 | 0.00 |
-| [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 14,131 | 14,105 | 26 | 0 | 99.82 | 0.18 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 15,013 | 14,919 | 94 | 0 | 99.37 | 0.63 | 0.00 |
+| [Make parking at work permanently free for all NHS workers](612699.md) | 14,741 | 14,625 | 116 | 0 | 99.21 | 0.79 | 0.00 |
+| [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 14,134 | 14,108 | 26 | 0 | 99.82 | 0.18 | 0.00 |
 | [Do not end legal obligations to self-isolate if people test positive for covid](606834.md) | 14,001 | 13,897 | 104 | 0 | 99.26 | 0.74 | 0.00 |
 | [Fund research into Topical Steroid Withdrawal (TSW)](612034.md) | 13,983 | 13,304 | 679 | 0 | 95.14 | 4.86 | 0.00 |
 | [Require local authorities in England to permit motorcycles in bus lanes](614294.md) | 13,881 | 13,847 | 34 | 0 | 99.76 | 0.24 | 0.00 |
