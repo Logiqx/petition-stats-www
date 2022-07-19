@@ -4,33 +4,33 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-07-19 01:30:04
+Last refreshed 2022-07-19 02:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Do not reform the Human Rights Act](607712.md) | 224,360 | 222,774 | 1,586 | 0 | 99.29 | 0.71 | 0.00 |
+| [Do not reform the Human Rights Act](607712.md) | 224,368 | 222,782 | 1,586 | 0 | 99.29 | 0.71 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,453 | 184,683 | 3,770 | 0 | 98.00 | 2.00 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 153,839 | 150,739 | 3,100 | 0 | 97.98 | 2.02 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 147,426 | 146,013 | 1,413 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 129,037 | 128,495 | 542 | 0 | 99.58 | 0.42 | 0.00 |
-| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 83,924 | 83,586 | 338 | 0 | 99.60 | 0.40 | 0.00 |
+| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 83,925 | 83,587 | 338 | 0 | 99.60 | 0.40 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 66,725 | 66,609 | 116 | 0 | 99.83 | 0.17 | 0.00 |
-| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 64,704 | 64,474 | 230 | 0 | 99.64 | 0.36 | 0.00 |
-| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 54,920 | 54,371 | 549 | 0 | 99.00 | 1.00 | 0.00 |
+| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 64,705 | 64,475 | 230 | 0 | 99.64 | 0.36 | 0.00 |
+| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 54,921 | 54,372 | 549 | 0 | 99.00 | 1.00 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 52,572 | 51,968 | 604 | 0 | 98.85 | 1.15 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 51,319 | 50,448 | 871 | 0 | 98.30 | 1.70 | 0.00 |
 | [Pledge any necessary military support to defend Ukraine](607314.md) | 50,287 | 47,840 | 2,447 | 0 | 95.13 | 4.87 | 0.00 |
 | [Hold a public inquiry into Russian interference in UK politics](609388.md) | 43,756 | 42,088 | 1,668 | 0 | 96.19 | 3.81 | 0.00 |
 | [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 38,143 | 37,922 | 221 | 0 | 99.42 | 0.58 | 0.00 |
-| [Increase the HMRC Mileage Rate from 45p/mile to 60p/mile](600966.md) | 36,349 | 36,309 | 40 | 0 | 99.89 | 0.11 | 0.00 |
+| [Increase the HMRC Mileage Rate from 45p/mile to 60p/mile](600966.md) | 36,351 | 36,311 | 40 | 0 | 99.89 | 0.11 | 0.00 |
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 34,619 | 34,235 | 384 | 0 | 98.89 | 1.11 | 0.00 |
-| [Make SEND training mandatory for all teaching staff](607849.md) | 28,521 | 28,437 | 84 | 0 | 99.71 | 0.29 | 0.00 |
-| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 27,069 | 27,032 | 37 | 0 | 99.86 | 0.14 | 0.00 |
+| [Make SEND training mandatory for all teaching staff](607849.md) | 28,522 | 28,438 | 84 | 0 | 99.71 | 0.29 | 0.00 |
+| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 27,071 | 27,034 | 37 | 0 | 99.86 | 0.14 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 25,390 | 25,366 | 24 | 0 | 99.91 | 0.09 | 0.00 |
 | [Require schools provide a vegan meal option every day](608670.md) | 24,408 | 24,164 | 244 | 0 | 99.00 | 1.00 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 20,112 | 19,740 | 372 | 0 | 98.15 | 1.85 | 0.00 |
-| [Free prescriptions for those with a long term and/or chronic condition.](608237.md) | 20,014 | 19,964 | 50 | 0 | 99.75 | 0.25 | 0.00 |
-| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 19,425 | 19,375 | 50 | 0 | 99.74 | 0.26 | 0.00 |
+| [Free prescriptions for those with a long term and/or chronic condition.](608237.md) | 20,015 | 19,965 | 50 | 0 | 99.75 | 0.25 | 0.00 |
+| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 19,426 | 19,376 | 50 | 0 | 99.74 | 0.26 | 0.00 |
 | [End the ban on fracking](608745.md) | 18,394 | 18,259 | 135 | 0 | 99.27 | 0.73 | 0.00 |
 | [Require all public rights of way be accessible to pedestrians, horses & bicycles](610936.md) | 18,021 | 17,970 | 51 | 0 | 99.72 | 0.28 | 0.00 |
 | [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 17,612 | 17,462 | 150 | 0 | 99.15 | 0.85 | 0.00 |
@@ -48,7 +48,7 @@ Last refreshed 2022-07-19 01:30:04
 | [Fund research into Topical Steroid Withdrawal (TSW)](612034.md) | 13,985 | 13,306 | 679 | 0 | 95.14 | 4.86 | 0.00 |
 | [Require local authorities in England to permit motorcycles in bus lanes](614294.md) | 13,912 | 13,878 | 34 | 0 | 99.76 | 0.24 | 0.00 |
 | [Allow consumers the right to refuse the £200 energy rebate](608007.md) | 13,716 | 13,707 | 9 | 0 | 99.93 | 0.07 | 0.00 |
-| [Ban school uniforms in sex shops and pornography](615829.md) | 13,704 | 13,470 | 234 | 0 | 98.29 | 1.71 | 0.00 |
+| [Ban school uniforms in sex shops and pornography](615829.md) | 13,705 | 13,470 | 235 | 0 | 98.29 | 1.71 | 0.00 |
 | [Introduce an "Ecological Damage Tax" on Astroturf Lawns / Artificial Grass](608295.md) | 12,924 | 12,841 | 83 | 0 | 99.36 | 0.64 | 0.00 |
 | [Increase benefits in line with current levels of inflation](612152.md) | 12,562 | 12,407 | 155 | 0 | 98.77 | 1.23 | 0.00 |
 | [Review the euthanasia of animals in the UK and impose reporting requirements](606922.md) | 12,423 | 12,230 | 193 | 0 | 98.45 | 1.55 | 0.00 |
