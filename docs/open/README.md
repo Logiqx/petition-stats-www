@@ -4,19 +4,19 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-07-20 00:30:05
+Last refreshed 2022-07-20 01:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Do not reform the Human Rights Act](607712.md) | 224,694 | 223,107 | 1,587 | 0 | 99.29 | 0.71 | 0.00 |
+| [Do not reform the Human Rights Act](607712.md) | 224,703 | 223,116 | 1,587 | 0 | 99.29 | 0.71 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,456 | 184,686 | 3,770 | 0 | 98.00 | 2.00 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 153,851 | 150,751 | 3,100 | 0 | 97.99 | 2.01 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 147,443 | 146,030 | 1,413 | 0 | 99.04 | 0.96 | 0.00 |
-| [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 129,045 | 128,503 | 542 | 0 | 99.58 | 0.42 | 0.00 |
-| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 84,349 | 84,010 | 339 | 0 | 99.60 | 0.40 | 0.00 |
+| [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 129,046 | 128,504 | 542 | 0 | 99.58 | 0.42 | 0.00 |
+| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 84,352 | 84,013 | 339 | 0 | 99.60 | 0.40 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 66,742 | 66,626 | 116 | 0 | 99.83 | 0.17 | 0.00 |
-| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 65,339 | 65,102 | 237 | 0 | 99.64 | 0.36 | 0.00 |
-| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 55,185 | 54,634 | 551 | 0 | 99.00 | 1.00 | 0.00 |
+| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 65,341 | 65,104 | 237 | 0 | 99.64 | 0.36 | 0.00 |
+| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 55,186 | 54,635 | 551 | 0 | 99.00 | 1.00 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 52,588 | 51,984 | 604 | 0 | 98.85 | 1.15 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 51,338 | 50,467 | 871 | 0 | 98.30 | 1.70 | 0.00 |
 | [Pledge any necessary military support to defend Ukraine](607314.md) | 50,288 | 47,841 | 2,447 | 0 | 95.13 | 4.87 | 0.00 |
@@ -36,10 +36,10 @@ Last refreshed 2022-07-20 00:30:05
 | [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 17,636 | 17,486 | 150 | 0 | 99.15 | 0.85 | 0.00 |
 | [Exempt charities using IPAFFS from ban on importing animals from Eastern Europe](616575.md) | 17,249 | 17,035 | 214 | 0 | 98.76 | 1.24 | 0.00 |
 | [Change legal definition of stillborn to include all delivered babies](615852.md) | 16,913 | 16,854 | 59 | 0 | 99.65 | 0.35 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 16,428 | 16,319 | 109 | 0 | 99.34 | 0.66 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 16,429 | 16,320 | 109 | 0 | 99.34 | 0.66 | 0.00 |
 | [Delay removal of red diesel entitlement from the construction industry](607637.md) | 16,222 | 16,181 | 41 | 0 | 99.75 | 0.25 | 0.00 |
 | [Make Graduate visa extendable and count towards permanent residency](614931.md) | 15,616 | 15,402 | 214 | 0 | 98.63 | 1.37 | 0.00 |
-| [Make provisions for telemedicine for early abortions permanent in England](609472.md) | 15,588 | 15,538 | 50 | 0 | 99.68 | 0.32 | 0.00 |
+| [Make provisions for telemedicine for early abortions permanent in England](609472.md) | 15,589 | 15,539 | 50 | 0 | 99.68 | 0.32 | 0.00 |
 | [Provide an energy grant to people with a disability or serious medical condition](610300.md) | 15,516 | 15,444 | 72 | 0 | 99.54 | 0.46 | 0.00 |
 | [Fund Evusheld the preventative COVID19 antibody for immunocompromised](611884.md) | 15,285 | 15,118 | 167 | 0 | 98.91 | 1.09 | 0.00 |
 | [Make parking at work permanently free for all NHS workers](612699.md) | 14,862 | 14,744 | 118 | 0 | 99.21 | 0.79 | 0.00 |
@@ -57,4 +57,4 @@ Last refreshed 2022-07-20 00:30:05
 | [Publish daily updates on the number of Channel crossings](607119.md) | 11,024 | 10,889 | 135 | 0 | 98.78 | 1.22 | 0.00 |
 | [Offer fast track asylum to any Ukrainians displaced due to the invasion](609382.md) | 10,918 | 10,735 | 183 | 0 | 98.32 | 1.68 | 0.00 |
 | [Commission NICE to Review Guidelines on Chronic Pain (Published April 2021)](611150.md) | 10,914 | 10,861 | 53 | 0 | 99.51 | 0.49 | 0.00 |
-| [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 10,841 | 10,769 | 72 | 0 | 99.34 | 0.66 | 0.00 |
+| [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 10,842 | 10,770 | 72 | 0 | 99.34 | 0.66 | 0.00 |
