@@ -4,19 +4,19 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-07-21 02:30:05
+Last refreshed 2022-07-21 03:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Do not reform the Human Rights Act](607712.md) | 224,940 | 223,353 | 1,587 | 0 | 99.29 | 0.71 | 0.00 |
+| [Do not reform the Human Rights Act](607712.md) | 224,954 | 223,367 | 1,587 | 0 | 99.29 | 0.71 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,466 | 184,696 | 3,770 | 0 | 98.00 | 2.00 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 153,864 | 150,764 | 3,100 | 0 | 97.99 | 2.01 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 147,458 | 146,045 | 1,413 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 129,057 | 128,515 | 542 | 0 | 99.58 | 0.42 | 0.00 |
-| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 85,028 | 84,688 | 340 | 0 | 99.60 | 0.40 | 0.00 |
+| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 85,034 | 84,692 | 342 | 0 | 99.60 | 0.40 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 66,765 | 66,649 | 116 | 0 | 99.83 | 0.17 | 0.00 |
-| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 65,514 | 65,265 | 249 | 0 | 99.62 | 0.38 | 0.00 |
-| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 55,779 | 55,226 | 553 | 0 | 99.01 | 0.99 | 0.00 |
+| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 65,515 | 65,266 | 249 | 0 | 99.62 | 0.38 | 0.00 |
+| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 55,782 | 55,229 | 553 | 0 | 99.01 | 0.99 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 52,596 | 51,992 | 604 | 0 | 98.85 | 1.15 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 51,361 | 50,490 | 871 | 0 | 98.30 | 1.70 | 0.00 |
 | [Pledge any necessary military support to defend Ukraine](607314.md) | 50,290 | 47,843 | 2,447 | 0 | 95.13 | 4.87 | 0.00 |
@@ -28,13 +28,13 @@ Last refreshed 2022-07-21 02:30:05
 | [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 27,114 | 27,077 | 37 | 0 | 99.86 | 0.14 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 25,426 | 25,402 | 24 | 0 | 99.91 | 0.09 | 0.00 |
 | [Require schools provide a vegan meal option every day](608670.md) | 24,523 | 24,279 | 244 | 0 | 99.01 | 0.99 | 0.00 |
-| [End the UK’s membership of the World Health Organisation](617450.md) | 20,136 | 19,763 | 373 | 0 | 98.15 | 1.85 | 0.00 |
+| [End the UK’s membership of the World Health Organisation](617450.md) | 20,137 | 19,764 | 373 | 0 | 98.15 | 1.85 | 0.00 |
 | [Free prescriptions for those with a long term and/or chronic condition.](608237.md) | 20,031 | 19,981 | 50 | 0 | 99.75 | 0.25 | 0.00 |
 | [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 19,495 | 19,445 | 50 | 0 | 99.74 | 0.26 | 0.00 |
 | [End the ban on fracking](608745.md) | 18,400 | 18,265 | 135 | 0 | 99.27 | 0.73 | 0.00 |
 | [Require all public rights of way be accessible to pedestrians, horses & bicycles](610936.md) | 18,046 | 17,995 | 51 | 0 | 99.72 | 0.28 | 0.00 |
 | [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 17,649 | 17,498 | 151 | 0 | 99.14 | 0.86 | 0.00 |
-| [Exempt charities using IPAFFS from ban on importing animals from Eastern Europe](616575.md) | 17,306 | 17,089 | 217 | 0 | 98.75 | 1.25 | 0.00 |
+| [Exempt charities using IPAFFS from ban on importing animals from Eastern Europe](616575.md) | 17,307 | 17,090 | 217 | 0 | 98.75 | 1.25 | 0.00 |
 | [Change legal definition of stillborn to include all delivered babies](615852.md) | 16,917 | 16,858 | 59 | 0 | 99.65 | 0.35 | 0.00 |
 | [Limit the shooting season of Woodcock](619615.md) | 16,627 | 16,517 | 110 | 0 | 99.34 | 0.66 | 0.00 |
 | [Delay removal of red diesel entitlement from the construction industry](607637.md) | 16,222 | 16,181 | 41 | 0 | 99.75 | 0.25 | 0.00 |
