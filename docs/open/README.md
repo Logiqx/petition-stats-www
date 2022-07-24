@@ -4,16 +4,16 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-07-24 03:30:05
+Last refreshed 2022-07-24 04:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Do not reform the Human Rights Act](607712.md) | 225,597 | 224,004 | 1,593 | 0 | 99.29 | 0.71 | 0.00 |
+| [Do not reform the Human Rights Act](607712.md) | 225,602 | 224,009 | 1,593 | 0 | 99.29 | 0.71 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,477 | 184,706 | 3,771 | 0 | 98.00 | 2.00 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 153,937 | 150,837 | 3,100 | 0 | 97.99 | 2.01 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 147,487 | 146,074 | 1,413 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 129,084 | 128,541 | 543 | 0 | 99.58 | 0.42 | 0.00 |
-| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 88,007 | 87,659 | 348 | 0 | 99.60 | 0.40 | 0.00 |
+| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 88,014 | 87,666 | 348 | 0 | 99.60 | 0.40 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 66,815 | 66,699 | 116 | 0 | 99.83 | 0.17 | 0.00 |
 | [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 66,457 | 66,200 | 257 | 0 | 99.61 | 0.39 | 0.00 |
 | [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 56,765 | 56,200 | 565 | 0 | 99.00 | 1.00 | 0.00 |
@@ -22,8 +22,8 @@ Last refreshed 2022-07-24 03:30:05
 | [Pledge any necessary military support to defend Ukraine](607314.md) | 50,298 | 47,851 | 2,447 | 0 | 95.13 | 4.87 | 0.00 |
 | [Hold a public inquiry into Russian interference in UK politics](609388.md) | 43,801 | 42,131 | 1,670 | 0 | 96.19 | 3.81 | 0.00 |
 | [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 38,343 | 38,121 | 222 | 0 | 99.42 | 0.58 | 0.00 |
-| [Increase the HMRC Mileage Rate from 45p/mile to 60p/mile](600966.md) | 38,137 | 38,095 | 42 | 0 | 99.89 | 0.11 | 0.00 |
-| [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 35,134 | 34,747 | 387 | 0 | 98.90 | 1.10 | 0.00 |
+| [Increase the HMRC Mileage Rate from 45p/mile to 60p/mile](600966.md) | 38,138 | 38,096 | 42 | 0 | 99.89 | 0.11 | 0.00 |
+| [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 35,135 | 34,748 | 387 | 0 | 98.90 | 1.10 | 0.00 |
 | [Make SEND training mandatory for all teaching staff](607849.md) | 28,538 | 28,454 | 84 | 0 | 99.71 | 0.29 | 0.00 |
 | [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 27,155 | 27,118 | 37 | 0 | 99.86 | 0.14 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 25,478 | 25,454 | 24 | 0 | 99.91 | 0.09 | 0.00 |
@@ -44,7 +44,7 @@ Last refreshed 2022-07-24 03:30:05
 | [Fund Evusheld the preventative COVID19 antibody for immunocompromised](611884.md) | 15,486 | 15,317 | 169 | 0 | 98.91 | 1.09 | 0.00 |
 | [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 14,952 | 14,922 | 30 | 0 | 99.80 | 0.20 | 0.00 |
 | [Make parking at work permanently free for all NHS workers](612699.md) | 14,920 | 14,802 | 118 | 0 | 99.21 | 0.79 | 0.00 |
-| [Ban school uniforms in sex shops and pornography](615829.md) | 14,383 | 14,143 | 240 | 0 | 98.33 | 1.67 | 0.00 |
+| [Ban school uniforms in sex shops and pornography](615829.md) | 14,384 | 14,144 | 240 | 0 | 98.33 | 1.67 | 0.00 |
 | [Fund research into Topical Steroid Withdrawal (TSW)](612034.md) | 14,035 | 13,354 | 681 | 0 | 95.15 | 4.85 | 0.00 |
 | [Do not end legal obligations to self-isolate if people test positive for covid](606834.md) | 14,009 | 13,905 | 104 | 0 | 99.26 | 0.74 | 0.00 |
 | [Require local authorities in England to permit motorcycles in bus lanes](614294.md) | 13,968 | 13,934 | 34 | 0 | 99.76 | 0.24 | 0.00 |
@@ -56,5 +56,5 @@ Last refreshed 2022-07-24 03:30:05
 | [Stop the government's 'one way ticket' plan to send asylum seekers to Rwanda](614913.md) | 12,220 | 12,016 | 204 | 0 | 98.33 | 1.67 | 0.00 |
 | [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 11,515 | 11,435 | 80 | 0 | 99.31 | 0.69 | 0.00 |
 | [Publish daily updates on the number of Channel crossings](607119.md) | 11,049 | 10,914 | 135 | 0 | 98.78 | 1.22 | 0.00 |
-| [Commission NICE to Review Guidelines on Chronic Pain (Published April 2021)](611150.md) | 11,044 | 10,991 | 53 | 0 | 99.52 | 0.48 | 0.00 |
+| [Commission NICE to Review Guidelines on Chronic Pain (Published April 2021)](611150.md) | 11,045 | 10,992 | 53 | 0 | 99.52 | 0.48 | 0.00 |
 | [Offer fast track asylum to any Ukrainians displaced due to the invasion](609382.md) | 10,918 | 10,735 | 183 | 0 | 98.32 | 1.68 | 0.00 |
