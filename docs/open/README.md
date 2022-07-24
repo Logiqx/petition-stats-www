@@ -4,16 +4,16 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-07-24 01:30:06
+Last refreshed 2022-07-24 02:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Do not reform the Human Rights Act](607712.md) | 225,580 | 223,987 | 1,593 | 0 | 99.29 | 0.71 | 0.00 |
+| [Do not reform the Human Rights Act](607712.md) | 225,591 | 223,998 | 1,593 | 0 | 99.29 | 0.71 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,477 | 184,706 | 3,771 | 0 | 98.00 | 2.00 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 153,937 | 150,837 | 3,100 | 0 | 97.99 | 2.01 | 0.00 |
-| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 147,486 | 146,073 | 1,413 | 0 | 99.04 | 0.96 | 0.00 |
+| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 147,487 | 146,074 | 1,413 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 129,084 | 128,541 | 543 | 0 | 99.58 | 0.42 | 0.00 |
-| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 87,995 | 87,648 | 347 | 0 | 99.61 | 0.39 | 0.00 |
+| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 88,005 | 87,657 | 348 | 0 | 99.60 | 0.40 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 66,815 | 66,699 | 116 | 0 | 99.83 | 0.17 | 0.00 |
 | [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 66,456 | 66,199 | 257 | 0 | 99.61 | 0.39 | 0.00 |
 | [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 56,765 | 56,200 | 565 | 0 | 99.00 | 1.00 | 0.00 |
@@ -21,7 +21,7 @@ Last refreshed 2022-07-24 01:30:06
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 51,447 | 50,574 | 873 | 0 | 98.30 | 1.70 | 0.00 |
 | [Pledge any necessary military support to defend Ukraine](607314.md) | 50,298 | 47,851 | 2,447 | 0 | 95.13 | 4.87 | 0.00 |
 | [Hold a public inquiry into Russian interference in UK politics](609388.md) | 43,801 | 42,131 | 1,670 | 0 | 96.19 | 3.81 | 0.00 |
-| [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 38,342 | 38,120 | 222 | 0 | 99.42 | 0.58 | 0.00 |
+| [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 38,343 | 38,121 | 222 | 0 | 99.42 | 0.58 | 0.00 |
 | [Increase the HMRC Mileage Rate from 45p/mile to 60p/mile](600966.md) | 38,136 | 38,094 | 42 | 0 | 99.89 | 0.11 | 0.00 |
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 35,134 | 34,747 | 387 | 0 | 98.90 | 1.10 | 0.00 |
 | [Make SEND training mandatory for all teaching staff](607849.md) | 28,538 | 28,454 | 84 | 0 | 99.71 | 0.29 | 0.00 |
@@ -32,7 +32,7 @@ Last refreshed 2022-07-24 01:30:06
 | [Free prescriptions for those with a long term and/or chronic condition.](608237.md) | 20,046 | 19,996 | 50 | 0 | 99.75 | 0.25 | 0.00 |
 | [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 19,574 | 19,524 | 50 | 0 | 99.74 | 0.26 | 0.00 |
 | [End the ban on fracking](608745.md) | 18,408 | 18,273 | 135 | 0 | 99.27 | 0.73 | 0.00 |
-| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 18,078 | 17,927 | 151 | 0 | 99.16 | 0.84 | 0.00 |
+| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 18,080 | 17,929 | 151 | 0 | 99.16 | 0.84 | 0.00 |
 | [Require all public rights of way be accessible to pedestrians, horses & bicycles](610936.md) | 18,052 | 18,001 | 51 | 0 | 99.72 | 0.28 | 0.00 |
 | [Exempt charities using IPAFFS from ban on importing animals from Eastern Europe](616575.md) | 17,412 | 17,193 | 219 | 0 | 98.74 | 1.26 | 0.00 |
 | [Change legal definition of stillborn to include all delivered babies](615852.md) | 16,934 | 16,874 | 60 | 0 | 99.65 | 0.35 | 0.00 |
