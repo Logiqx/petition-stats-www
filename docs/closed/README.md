@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-07-25 15:30:16
+Last refreshed 2022-07-25 16:30:18
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -23,7 +23,7 @@ Last refreshed 2022-07-25 15:30:16
 | [Reimburse all students of this year’s fees due to strikes and COVID-19](302855.md) | 353,129 | 351,855 | 1,274 | 0 | 99.64 | 0.36 | 0.00 |
 | [Outlaw discrimination against those who do not get a Covid-19 vaccination](575801.md) | 347,512 | 344,995 | 2,517 | 0 | 99.28 | 0.72 | 0.00 |
 | [Prevent any restrictions on those who refuse a Covid-19 vaccination](323442.md) | 337,144 | 334,153 | 2,991 | 0 | 99.11 | 0.89 | 0.00 |
-| [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 327,118 | 323,625 | 3,493 | 0 | 98.93 | 1.07 | 0.00 |
+| [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 327,117 | 323,624 | 3,493 | 0 | 98.93 | 1.07 | 0.00 |
 | [Make dog theft a specific criminal offence](560216.md) | 316,545 | 314,868 | 1,677 | 0 | 99.47 | 0.53 | 0.00 |
 | [Limit the Sale and Use of Fireworks to Organisers of Licensed Displays Only](319891.md) | 301,611 | 300,328 | 1,283 | 0 | 99.57 | 0.43 | 0.00 |
 | [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 286,797 | 280,363 | 6,434 | 0 | 97.76 | 2.24 | 0.00 |
@@ -34,7 +34,7 @@ Last refreshed 2022-07-25 15:30:16
 | [Make LGBT conversion therapy illegal in the UK](300976.md) | 256,392 | 253,566 | 2,826 | 0 | 98.90 | 1.10 | 0.00 |
 | [Extend maternity leave by 3 months with pay in light of COVID-19](306691.md) | 238,884 | 238,439 | 445 | 0 | 99.81 | 0.19 | 0.00 |
 | [Ban Animal Testing - Fund, accept & promote alternatives to animal testing](581641.md) | 235,896 | 221,953 | 13,943 | 0 | 94.09 | 5.91 | 0.00 |
-| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 232,542 | 231,168 | 1,374 | 0 | 99.41 | 0.59 | 0.00 |
+| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 232,541 | 231,167 | 1,374 | 0 | 99.41 | 0.59 | 0.00 |
 | [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 230,017 | 229,846 | 171 | 0 | 99.93 | 0.07 | 0.00 |
 | [Implement sanctions against the Nigerian Government and officials](554150.md) | 221,258 | 200,166 | 21,092 | 0 | 90.47 | 9.53 | 0.00 |
 | [Cancel GCSEs and A Levels in 2021](326066.md) | 211,974 | 210,752 | 1,222 | 0 | 99.42 | 0.58 | 0.00 |
