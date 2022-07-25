@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-07-25 06:30:17
+Last refreshed 2022-07-25 07:30:17
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -30,7 +30,7 @@ Last refreshed 2022-07-25 06:30:17
 | [Require universities to partially refund tuition fees for 20/21 due to Covid-19](324762.md) | 270,659 | 269,491 | 1,168 | 0 | 99.57 | 0.43 | 0.00 |
 | [Teach Britain's colonial past as part of the UK's compulsory curriculum](324092.md) | 268,772 | 265,909 | 2,863 | 0 | 98.93 | 1.07 | 0.00 |
 | [Exempt golf courses from the list of venues required to close due to Covid-19](309851.md) | 257,267 | 256,932 | 335 | 0 | 99.87 | 0.13 | 0.00 |
-| [Do not restrict our rights to peaceful protest.](579012.md) | 256,638 | 253,840 | 2,798 | 0 | 98.91 | 1.09 | 0.00 |
+| [Do not restrict our rights to peaceful protest.](579012.md) | 256,637 | 253,839 | 2,798 | 0 | 98.91 | 1.09 | 0.00 |
 | [Make LGBT conversion therapy illegal in the UK](300976.md) | 256,392 | 253,566 | 2,826 | 0 | 98.90 | 1.10 | 0.00 |
 | [Extend maternity leave by 3 months with pay in light of COVID-19](306691.md) | 238,884 | 238,439 | 445 | 0 | 99.81 | 0.19 | 0.00 |
 | [Ban Animal Testing - Fund, accept & promote alternatives to animal testing](581641.md) | 235,896 | 221,953 | 13,943 | 0 | 94.09 | 5.91 | 0.00 |
