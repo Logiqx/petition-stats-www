@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-07-26 10:30:18
+Last refreshed 2022-07-26 11:30:18
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -30,7 +30,7 @@ Last refreshed 2022-07-26 10:30:18
 | [Require universities to partially refund tuition fees for 20/21 due to Covid-19](324762.md) | 270,659 | 269,491 | 1,168 | 0 | 99.57 | 0.43 | 0.00 |
 | [Teach Britain's colonial past as part of the UK's compulsory curriculum](324092.md) | 268,772 | 265,909 | 2,863 | 0 | 98.93 | 1.07 | 0.00 |
 | [Exempt golf courses from the list of venues required to close due to Covid-19](309851.md) | 257,267 | 256,932 | 335 | 0 | 99.87 | 0.13 | 0.00 |
-| [Do not restrict our rights to peaceful protest.](579012.md) | 256,637 | 253,839 | 2,798 | 0 | 98.91 | 1.09 | 0.00 |
+| [Do not restrict our rights to peaceful protest.](579012.md) | 256,636 | 253,838 | 2,798 | 0 | 98.91 | 1.09 | 0.00 |
 | [Make LGBT conversion therapy illegal in the UK](300976.md) | 256,392 | 253,566 | 2,826 | 0 | 98.90 | 1.10 | 0.00 |
 | [Extend maternity leave by 3 months with pay in light of COVID-19](306691.md) | 238,884 | 238,439 | 445 | 0 | 99.81 | 0.19 | 0.00 |
 | [Ban Animal Testing - Fund, accept & promote alternatives to animal testing](581641.md) | 235,896 | 221,953 | 13,943 | 0 | 94.09 | 5.91 | 0.00 |
@@ -51,7 +51,7 @@ Last refreshed 2022-07-26 10:30:18
 | [Scrap removal of free transport for under-18s from TfL bailout](331453.md) | 171,010 | 170,426 | 584 | 0 | 99.66 | 0.34 | 0.00 |
 | [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 167,465 | 166,511 | 954 | 0 | 99.43 | 0.57 | 0.00 |
 | [Cancel GCSE and A-levels in 2021 replace with Course Work and Teacher Assessment](564696.md) | 157,810 | 156,798 | 1,012 | 0 | 99.36 | 0.64 | 0.00 |
-| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 155,804 | 154,802 | 1,002 | 0 | 99.36 | 0.64 | 0.00 |
+| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 155,803 | 154,801 | 1,002 | 0 | 99.36 | 0.64 | 0.00 |
 | [Stop work on HS2 immediately and hold a new vote to repeal the legislation](563380.md) | 155,253 | 154,237 | 1,016 | 0 | 99.35 | 0.65 | 0.00 |
 | [Government to offer economic assistance to the events industry during COVID-19](301186.md) | 154,815 | 153,903 | 912 | 0 | 99.41 | 0.59 | 0.00 |
 | [Extend the Stamp Duty Holiday for an additional 6 months after 31st March 2021](550545.md) | 151,127 | 150,686 | 441 | 0 | 99.71 | 0.29 | 0.00 |
