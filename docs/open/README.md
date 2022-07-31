@@ -4,17 +4,17 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-07-31 03:30:07
+Last refreshed 2022-07-31 04:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Do not reform the Human Rights Act](607712.md) | 226,615 | 225,018 | 1,597 | 0 | 99.30 | 0.70 | 0.00 |
+| [Do not reform the Human Rights Act](607712.md) | 226,616 | 225,019 | 1,597 | 0 | 99.30 | 0.70 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,495 | 184,723 | 3,772 | 0 | 98.00 | 2.00 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 154,047 | 150,946 | 3,101 | 0 | 97.99 | 2.01 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 147,582 | 146,169 | 1,413 | 0 | 99.04 | 0.96 | 0.00 |
-| [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 129,198 | 128,654 | 544 | 0 | 99.58 | 0.42 | 0.00 |
+| [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 129,200 | 128,656 | 544 | 0 | 99.58 | 0.42 | 0.00 |
 | [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 102,132 | 101,654 | 478 | 0 | 99.53 | 0.47 | 0.00 |
-| [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 69,508 | 69,319 | 189 | 0 | 99.73 | 0.27 | 0.00 |
+| [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 69,517 | 69,328 | 189 | 0 | 99.73 | 0.27 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 66,975 | 66,859 | 116 | 0 | 99.83 | 0.17 | 0.00 |
 | [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 66,887 | 66,627 | 260 | 0 | 99.61 | 0.39 | 0.00 |
 | [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 58,068 | 57,478 | 590 | 0 | 98.98 | 1.02 | 0.00 |
