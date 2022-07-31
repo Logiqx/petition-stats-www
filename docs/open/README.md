@@ -4,20 +4,20 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-07-31 02:30:07
+Last refreshed 2022-07-31 03:30:07
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Do not reform the Human Rights Act](607712.md) | 226,613 | 225,016 | 1,597 | 0 | 99.30 | 0.70 | 0.00 |
+| [Do not reform the Human Rights Act](607712.md) | 226,615 | 225,018 | 1,597 | 0 | 99.30 | 0.70 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,495 | 184,723 | 3,772 | 0 | 98.00 | 2.00 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 154,047 | 150,946 | 3,101 | 0 | 97.99 | 2.01 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 147,582 | 146,169 | 1,413 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 129,198 | 128,654 | 544 | 0 | 99.58 | 0.42 | 0.00 |
-| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 102,131 | 101,653 | 478 | 0 | 99.53 | 0.47 | 0.00 |
-| [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 69,503 | 69,314 | 189 | 0 | 99.73 | 0.27 | 0.00 |
+| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 102,132 | 101,654 | 478 | 0 | 99.53 | 0.47 | 0.00 |
+| [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 69,508 | 69,319 | 189 | 0 | 99.73 | 0.27 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 66,975 | 66,859 | 116 | 0 | 99.83 | 0.17 | 0.00 |
-| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 66,886 | 66,626 | 260 | 0 | 99.61 | 0.39 | 0.00 |
-| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 58,067 | 57,477 | 590 | 0 | 98.98 | 1.02 | 0.00 |
+| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 66,887 | 66,627 | 260 | 0 | 99.61 | 0.39 | 0.00 |
+| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 58,068 | 57,478 | 590 | 0 | 98.98 | 1.02 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 52,692 | 52,088 | 604 | 0 | 98.85 | 1.15 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 51,591 | 50,718 | 873 | 0 | 98.31 | 1.69 | 0.00 |
 | [Pledge any necessary military support to defend Ukraine](607314.md) | 50,314 | 47,867 | 2,447 | 0 | 95.14 | 4.86 | 0.00 |
@@ -31,7 +31,7 @@ Last refreshed 2022-07-31 02:30:07
 | [Require schools provide a vegan meal option every day](608670.md) | 24,865 | 24,620 | 245 | 0 | 99.01 | 0.99 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 21,117 | 20,728 | 389 | 0 | 98.16 | 1.84 | 0.00 |
 | [Free prescriptions for those with a long term and/or chronic condition.](608237.md) | 20,097 | 20,047 | 50 | 0 | 99.75 | 0.25 | 0.00 |
-| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 19,754 | 19,703 | 51 | 0 | 99.74 | 0.26 | 0.00 |
+| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 19,755 | 19,704 | 51 | 0 | 99.74 | 0.26 | 0.00 |
 | [End the ban on fracking](608745.md) | 18,511 | 18,372 | 139 | 0 | 99.25 | 0.75 | 0.00 |
 | [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 18,380 | 18,228 | 152 | 0 | 99.17 | 0.83 | 0.00 |
 | [Require all public rights of way be accessible to pedestrians, horses & bicycles](610936.md) | 18,061 | 18,010 | 51 | 0 | 99.72 | 0.28 | 0.00 |
@@ -40,7 +40,7 @@ Last refreshed 2022-07-31 02:30:07
 | [Change legal definition of stillborn to include all delivered babies](615852.md) | 16,963 | 16,903 | 60 | 0 | 99.65 | 0.35 | 0.00 |
 | [Delay removal of red diesel entitlement from the construction industry](607637.md) | 16,229 | 16,188 | 41 | 0 | 99.75 | 0.25 | 0.00 |
 | [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 15,944 | 15,909 | 35 | 0 | 99.78 | 0.22 | 0.00 |
-| [Fund Evusheld the preventative COVID19 antibody for immunocompromised](611884.md) | 15,796 | 15,626 | 170 | 0 | 98.92 | 1.08 | 0.00 |
+| [Fund Evusheld the preventative COVID19 antibody for immunocompromised](611884.md) | 15,797 | 15,626 | 171 | 0 | 98.92 | 1.08 | 0.00 |
 | [Make provisions for telemedicine for early abortions permanent in England](609472.md) | 15,700 | 15,650 | 50 | 0 | 99.68 | 0.32 | 0.00 |
 | [Make Graduate visa extendable and count towards permanent residency](614931.md) | 15,627 | 15,413 | 214 | 0 | 98.63 | 1.37 | 0.00 |
 | [Provide an energy grant to people with a disability or serious medical condition](610300.md) | 15,573 | 15,501 | 72 | 0 | 99.54 | 0.46 | 0.00 |
