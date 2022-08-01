@@ -4,20 +4,20 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-08-01 01:30:04
+Last refreshed 2022-08-01 02:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Do not reform the Human Rights Act](607712.md) | 226,717 | 225,117 | 1,600 | 0 | 99.29 | 0.71 | 0.00 |
+| [Do not reform the Human Rights Act](607712.md) | 226,719 | 225,119 | 1,600 | 0 | 99.29 | 0.71 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,499 | 184,727 | 3,772 | 0 | 98.00 | 2.00 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 154,058 | 150,957 | 3,101 | 0 | 97.99 | 2.01 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 147,596 | 146,183 | 1,413 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 129,247 | 128,703 | 544 | 0 | 99.58 | 0.42 | 0.00 |
-| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 102,260 | 101,782 | 478 | 0 | 99.53 | 0.47 | 0.00 |
-| [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 71,088 | 70,898 | 190 | 0 | 99.73 | 0.27 | 0.00 |
+| [Make it a legal requirement for drivers to stop & report collisions with cats](607317.md) | 102,261 | 101,783 | 478 | 0 | 99.53 | 0.47 | 0.00 |
+| [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 71,092 | 70,902 | 190 | 0 | 99.73 | 0.27 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 66,983 | 66,866 | 117 | 0 | 99.83 | 0.17 | 0.00 |
 | [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 66,912 | 66,652 | 260 | 0 | 99.61 | 0.39 | 0.00 |
-| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 58,304 | 57,708 | 596 | 0 | 98.98 | 1.02 | 0.00 |
+| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 58,305 | 57,709 | 596 | 0 | 98.98 | 1.02 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 52,704 | 52,100 | 604 | 0 | 98.85 | 1.15 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 51,603 | 50,730 | 873 | 0 | 98.31 | 1.69 | 0.00 |
 | [Pledge any necessary military support to defend Ukraine](607314.md) | 50,317 | 47,870 | 2,447 | 0 | 95.14 | 4.86 | 0.00 |
@@ -35,23 +35,23 @@ Last refreshed 2022-08-01 01:30:04
 | [End the ban on fracking](608745.md) | 18,652 | 18,511 | 141 | 0 | 99.24 | 0.76 | 0.00 |
 | [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 18,393 | 18,240 | 153 | 0 | 99.17 | 0.83 | 0.00 |
 | [Require all public rights of way be accessible to pedestrians, horses & bicycles](610936.md) | 18,066 | 18,015 | 51 | 0 | 99.72 | 0.28 | 0.00 |
-| [Exempt charities using IPAFFS from ban on importing animals from Eastern Europe](616575.md) | 17,671 | 17,444 | 227 | 0 | 98.72 | 1.28 | 0.00 |
+| [Exempt charities using IPAFFS from ban on importing animals from Eastern Europe](616575.md) | 17,672 | 17,445 | 227 | 0 | 98.72 | 1.28 | 0.00 |
 | [Limit the shooting season of Woodcock](619615.md) | 17,223 | 17,108 | 115 | 0 | 99.33 | 0.67 | 0.00 |
 | [Change legal definition of stillborn to include all delivered babies](615852.md) | 16,967 | 16,907 | 60 | 0 | 99.65 | 0.35 | 0.00 |
 | [Delay removal of red diesel entitlement from the construction industry](607637.md) | 16,229 | 16,188 | 41 | 0 | 99.75 | 0.25 | 0.00 |
-| [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 16,109 | 16,073 | 36 | 0 | 99.78 | 0.22 | 0.00 |
+| [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 16,110 | 16,074 | 36 | 0 | 99.78 | 0.22 | 0.00 |
 | [Fund Evusheld the preventative COVID19 antibody for immunocompromised](611884.md) | 15,859 | 15,688 | 171 | 0 | 98.92 | 1.08 | 0.00 |
 | [Make provisions for telemedicine for early abortions permanent in England](609472.md) | 15,705 | 15,655 | 50 | 0 | 99.68 | 0.32 | 0.00 |
 | [Make Graduate visa extendable and count towards permanent residency](614931.md) | 15,630 | 15,416 | 214 | 0 | 98.63 | 1.37 | 0.00 |
 | [Provide an energy grant to people with a disability or serious medical condition](610300.md) | 15,575 | 15,503 | 72 | 0 | 99.54 | 0.46 | 0.00 |
-| [Extend the Leasehold Reform Act to ground rent on existing residential leases](608589.md) | 15,432 | 15,295 | 137 | 0 | 99.11 | 0.89 | 0.00 |
+| [Extend the Leasehold Reform Act to ground rent on existing residential leases](608589.md) | 15,433 | 15,296 | 137 | 0 | 99.11 | 0.89 | 0.00 |
 | [Make parking at work permanently free for all NHS workers](612699.md) | 15,039 | 14,921 | 118 | 0 | 99.22 | 0.78 | 0.00 |
 | [Ban school uniforms in sex shops and pornography](615829.md) | 14,910 | 14,666 | 244 | 0 | 98.36 | 1.64 | 0.00 |
-| [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 14,903 | 14,817 | 86 | 0 | 99.42 | 0.58 | 0.00 |
+| [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 14,906 | 14,820 | 86 | 0 | 99.42 | 0.58 | 0.00 |
 | [Fund research into Topical Steroid Withdrawal (TSW)](612034.md) | 14,237 | 13,553 | 684 | 0 | 95.20 | 4.80 | 0.00 |
-| [Require local authorities in England to permit motorcycles in bus lanes](614294.md) | 14,062 | 14,027 | 35 | 0 | 99.75 | 0.25 | 0.00 |
+| [Require local authorities in England to permit motorcycles in bus lanes](614294.md) | 14,063 | 14,028 | 35 | 0 | 99.75 | 0.25 | 0.00 |
 | [Allow consumers the right to refuse the £200 energy rebate](608007.md) | 13,746 | 13,737 | 9 | 0 | 99.93 | 0.07 | 0.00 |
-| [Introduce an "Ecological Damage Tax" on Astroturf Lawns / Artificial Grass](608295.md) | 13,066 | 12,980 | 86 | 0 | 99.34 | 0.66 | 0.00 |
+| [Introduce an "Ecological Damage Tax" on Astroturf Lawns / Artificial Grass](608295.md) | 13,067 | 12,981 | 86 | 0 | 99.34 | 0.66 | 0.00 |
 | [Review the euthanasia of animals in the UK and impose reporting requirements](606922.md) | 12,987 | 12,783 | 204 | 0 | 98.43 | 1.57 | 0.00 |
 | [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 12,694 | 12,602 | 92 | 0 | 99.28 | 0.72 | 0.00 |
 | [Increase benefits in line with current levels of inflation](612152.md) | 12,621 | 12,465 | 156 | 0 | 98.76 | 1.24 | 0.00 |
