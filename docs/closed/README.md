@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-08-07 22:30:18
+Last refreshed 2022-08-07 23:30:19
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -35,6 +35,7 @@ Last refreshed 2022-08-07 22:30:18
 | [Extend maternity leave by 3 months with pay in light of COVID-19](306691.md) | 238,884 | 238,439 | 445 | 0 | 99.81 | 0.19 | 0.00 |
 | [Ban Animal Testing - Fund, accept & promote alternatives to animal testing](581641.md) | 235,895 | 221,952 | 13,943 | 0 | 94.09 | 5.91 | 0.00 |
 | [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 232,540 | 231,166 | 1,374 | 0 | 99.41 | 0.59 | 0.00 |
+| [Do not reform the Human Rights Act](607712.md) | 231,118 | 229,487 | 1,631 | 0 | 99.29 | 0.71 | 0.00 |
 | [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 230,017 | 229,846 | 171 | 0 | 99.93 | 0.07 | 0.00 |
 | [Implement sanctions against the Nigerian Government and officials](554150.md) | 221,258 | 200,166 | 21,092 | 0 | 90.47 | 9.53 | 0.00 |
 | [Cancel GCSEs and A Levels in 2021](326066.md) | 211,974 | 210,752 | 1,222 | 0 | 99.42 | 0.58 | 0.00 |
@@ -57,4 +58,3 @@ Last refreshed 2022-08-07 22:30:18
 | [Extend the Stamp Duty Holiday for an additional 6 months after 31st March 2021](550545.md) | 151,127 | 150,686 | 441 | 0 | 99.71 | 0.29 | 0.00 |
 | [Keep schools closed until May](573621.md) | 149,470 | 149,111 | 359 | 0 | 99.76 | 0.24 | 0.00 |
 | [Review the decision to use previous data to calculate exam grades](306773.md) | 148,885 | 147,635 | 1,250 | 0 | 99.16 | 0.84 | 0.00 |
-| [Reduce curriculum content for year 10 & 12 students who will sit exams in 2021.](320772.md) | 148,388 | 147,990 | 398 | 0 | 99.73 | 0.27 | 0.00 |
