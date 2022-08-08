@@ -4,13 +4,13 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-08-08 12:30:19
+Last refreshed 2022-08-08 13:30:22
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [End child food poverty – no child should be going hungry](554276.md) | 1,113,889 | 1,101,150 | 12,739 | 0 | 98.86 | 1.14 | 0.00 |
 | [Include self-employed in statutory sick pay during Coronavirus](300336.md) | 699,598 | 697,230 | 2,368 | 0 | 99.66 | 0.34 | 0.00 |
-| [Make verified ID a requirement for opening a social media account.](575833.md) | 696,980 | 691,039 | 5,941 | 0 | 99.15 | 0.85 | 0.00 |
+| [Make verified ID a requirement for opening a social media account.](575833.md) | 696,976 | 691,035 | 5,941 | 0 | 99.15 | 0.85 | 0.00 |
 | [Close Schools/Colleges down for an appropriate amount of time amidst COVID19.](300403.md) | 685,394 | 682,888 | 2,506 | 0 | 99.63 | 0.37 | 0.00 |
 | [Prevent gyms closing due to a spike in Covid 19 cases](333869.md) | 621,440 | 620,828 | 612 | 0 | 99.90 | 0.10 | 0.00 |
 | [Reduce University student tuition fees from £9250 to £3000](550344.md) | 581,287 | 578,816 | 2,471 | 0 | 99.57 | 0.43 | 0.00 |
@@ -30,12 +30,12 @@ Last refreshed 2022-08-08 12:30:19
 | [Require universities to partially refund tuition fees for 20/21 due to Covid-19](324762.md) | 270,659 | 269,491 | 1,168 | 0 | 99.57 | 0.43 | 0.00 |
 | [Teach Britain's colonial past as part of the UK's compulsory curriculum](324092.md) | 268,772 | 265,909 | 2,863 | 0 | 98.93 | 1.07 | 0.00 |
 | [Exempt golf courses from the list of venues required to close due to Covid-19](309851.md) | 257,267 | 256,932 | 335 | 0 | 99.87 | 0.13 | 0.00 |
-| [Do not restrict our rights to peaceful protest.](579012.md) | 256,636 | 253,838 | 2,798 | 0 | 98.91 | 1.09 | 0.00 |
+| [Do not restrict our rights to peaceful protest.](579012.md) | 256,634 | 253,836 | 2,798 | 0 | 98.91 | 1.09 | 0.00 |
 | [Make LGBT conversion therapy illegal in the UK](300976.md) | 256,392 | 253,566 | 2,826 | 0 | 98.90 | 1.10 | 0.00 |
 | [Extend maternity leave by 3 months with pay in light of COVID-19](306691.md) | 238,884 | 238,439 | 445 | 0 | 99.81 | 0.19 | 0.00 |
-| [Ban Animal Testing - Fund, accept & promote alternatives to animal testing](581641.md) | 235,895 | 221,952 | 13,943 | 0 | 94.09 | 5.91 | 0.00 |
-| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 232,540 | 231,166 | 1,374 | 0 | 99.41 | 0.59 | 0.00 |
-| [Do not reform the Human Rights Act](607712.md) | 231,140 | 229,509 | 1,631 | 0 | 99.29 | 0.71 | 0.00 |
+| [Ban Animal Testing - Fund, accept & promote alternatives to animal testing](581641.md) | 235,894 | 221,951 | 13,943 | 0 | 94.09 | 5.91 | 0.00 |
+| [Prohibit employers from requiring staff to be vaccinated against Covid-19](599841.md) | 232,539 | 231,165 | 1,374 | 0 | 99.41 | 0.59 | 0.00 |
+| [Do not reform the Human Rights Act](607712.md) | 231,138 | 229,507 | 1,631 | 0 | 99.29 | 0.71 | 0.00 |
 | [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 230,017 | 229,846 | 171 | 0 | 99.93 | 0.07 | 0.00 |
 | [Implement sanctions against the Nigerian Government and officials](554150.md) | 221,258 | 200,166 | 21,092 | 0 | 90.47 | 9.53 | 0.00 |
 | [Cancel GCSEs and A Levels in 2021](326066.md) | 211,974 | 210,752 | 1,222 | 0 | 99.42 | 0.58 | 0.00 |
@@ -50,7 +50,7 @@ Last refreshed 2022-08-08 12:30:19
 | [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 175,077 | 174,663 | 414 | 0 | 99.76 | 0.24 | 0.00 |
 | [Lower university tuition fees for students until online teaching ends](552911.md) | 171,137 | 170,463 | 674 | 0 | 99.61 | 0.39 | 0.00 |
 | [Scrap removal of free transport for under-18s from TfL bailout](331453.md) | 171,010 | 170,426 | 584 | 0 | 99.66 | 0.34 | 0.00 |
-| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 167,463 | 166,509 | 954 | 0 | 99.43 | 0.57 | 0.00 |
+| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 167,462 | 166,508 | 954 | 0 | 99.43 | 0.57 | 0.00 |
 | [Cancel GCSE and A-levels in 2021 replace with Course Work and Teacher Assessment](564696.md) | 157,810 | 156,798 | 1,012 | 0 | 99.36 | 0.64 | 0.00 |
 | [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 155,802 | 154,800 | 1,002 | 0 | 99.36 | 0.64 | 0.00 |
 | [Stop work on HS2 immediately and hold a new vote to repeal the legislation](563380.md) | 155,253 | 154,237 | 1,016 | 0 | 99.35 | 0.65 | 0.00 |

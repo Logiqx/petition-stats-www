@@ -4,57 +4,57 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-08-08 12:30:06
+Last refreshed 2022-08-08 13:30:07
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,549 | 184,777 | 3,772 | 0 | 98.00 | 2.00 | 0.00 |
-| [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 154,200 | 151,098 | 3,102 | 0 | 97.99 | 2.01 | 0.00 |
-| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 147,838 | 146,424 | 1,414 | 0 | 99.04 | 0.96 | 0.00 |
+| [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,548 | 184,776 | 3,772 | 0 | 98.00 | 2.00 | 0.00 |
+| [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 154,199 | 151,097 | 3,102 | 0 | 97.99 | 2.01 | 0.00 |
+| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 147,839 | 146,425 | 1,414 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 129,375 | 128,830 | 545 | 0 | 99.58 | 0.42 | 0.00 |
-| [Nationalise Energy Companies](608056.md) | 102,409 | 102,131 | 278 | 0 | 99.73 | 0.27 | 0.00 |
-| [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 75,381 | 75,178 | 203 | 0 | 99.73 | 0.27 | 0.00 |
+| [Nationalise Energy Companies](608056.md) | 102,643 | 102,365 | 278 | 0 | 99.73 | 0.27 | 0.00 |
+| [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 75,388 | 75,185 | 203 | 0 | 99.73 | 0.27 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 67,175 | 67,058 | 117 | 0 | 99.83 | 0.17 | 0.00 |
-| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 67,138 | 66,876 | 262 | 0 | 99.61 | 0.39 | 0.00 |
-| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 61,229 | 60,599 | 630 | 0 | 98.97 | 1.03 | 0.00 |
-| [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 52,912 | 52,308 | 604 | 0 | 98.86 | 1.14 | 0.00 |
-| [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 52,235 | 51,353 | 882 | 0 | 98.31 | 1.69 | 0.00 |
-| [Hold a public inquiry into Russian interference in UK politics](609388.md) | 43,961 | 42,289 | 1,672 | 0 | 96.20 | 3.80 | 0.00 |
-| [Increase the HMRC Mileage Rate from 45p/mile to 60p/mile](600966.md) | 40,592 | 40,548 | 44 | 0 | 99.89 | 0.11 | 0.00 |
-| [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 39,188 | 38,957 | 231 | 0 | 99.41 | 0.59 | 0.00 |
+| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 67,141 | 66,879 | 262 | 0 | 99.61 | 0.39 | 0.00 |
+| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 61,239 | 60,609 | 630 | 0 | 98.97 | 1.03 | 0.00 |
+| [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 52,913 | 52,309 | 604 | 0 | 98.86 | 1.14 | 0.00 |
+| [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 52,236 | 51,354 | 882 | 0 | 98.31 | 1.69 | 0.00 |
+| [Hold a public inquiry into Russian interference in UK politics](609388.md) | 43,963 | 42,291 | 1,672 | 0 | 96.20 | 3.80 | 0.00 |
+| [Increase the HMRC Mileage Rate from 45p/mile to 60p/mile](600966.md) | 40,593 | 40,549 | 44 | 0 | 99.89 | 0.11 | 0.00 |
+| [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 39,190 | 38,959 | 231 | 0 | 99.41 | 0.59 | 0.00 |
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 35,265 | 34,878 | 387 | 0 | 98.90 | 1.10 | 0.00 |
-| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 29,742 | 29,703 | 39 | 0 | 99.87 | 0.13 | 0.00 |
+| [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 29,768 | 29,729 | 39 | 0 | 99.87 | 0.13 | 0.00 |
 | [Make SEND training mandatory for all teaching staff](607849.md) | 28,779 | 28,695 | 84 | 0 | 99.71 | 0.29 | 0.00 |
-| [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 25,997 | 25,973 | 24 | 0 | 99.91 | 0.09 | 0.00 |
-| [Require schools provide a vegan meal option every day](608670.md) | 25,583 | 25,328 | 255 | 0 | 99.00 | 1.00 | 0.00 |
-| [Introduce an "Ecological Damage Tax" on Astroturf Lawns / Artificial Grass](608295.md) | 25,106 | 24,895 | 211 | 0 | 99.16 | 0.84 | 0.00 |
-| [End the UK’s membership of the World Health Organisation](617450.md) | 21,507 | 21,117 | 390 | 0 | 98.19 | 1.81 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 20,570 | 20,421 | 149 | 0 | 99.28 | 0.72 | 0.00 |
-| [Free prescriptions for those with a long term and/or chronic condition.](608237.md) | 20,238 | 20,187 | 51 | 0 | 99.75 | 0.25 | 0.00 |
-| [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 19,935 | 19,829 | 106 | 0 | 99.47 | 0.53 | 0.00 |
-| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 19,900 | 19,849 | 51 | 0 | 99.74 | 0.26 | 0.00 |
+| [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 25,998 | 25,974 | 24 | 0 | 99.91 | 0.09 | 0.00 |
+| [Require schools provide a vegan meal option every day](608670.md) | 25,584 | 25,329 | 255 | 0 | 99.00 | 1.00 | 0.00 |
+| [Introduce an "Ecological Damage Tax" on Astroturf Lawns / Artificial Grass](608295.md) | 25,139 | 24,928 | 211 | 0 | 99.16 | 0.84 | 0.00 |
+| [End the UK’s membership of the World Health Organisation](617450.md) | 21,509 | 21,119 | 390 | 0 | 98.19 | 1.81 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 20,573 | 20,424 | 149 | 0 | 99.28 | 0.72 | 0.00 |
+| [Free prescriptions for those with a long term and/or chronic condition.](608237.md) | 20,239 | 20,188 | 51 | 0 | 99.75 | 0.25 | 0.00 |
+| [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 19,954 | 19,848 | 106 | 0 | 99.47 | 0.53 | 0.00 |
+| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 19,901 | 19,850 | 51 | 0 | 99.74 | 0.26 | 0.00 |
 | [End the ban on fracking](608745.md) | 18,734 | 18,592 | 142 | 0 | 99.24 | 0.76 | 0.00 |
-| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 18,482 | 18,328 | 154 | 0 | 99.17 | 0.83 | 0.00 |
+| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 18,485 | 18,331 | 154 | 0 | 99.17 | 0.83 | 0.00 |
 | [Require all public rights of way be accessible to pedestrians, horses & bicycles](610936.md) | 18,091 | 18,040 | 51 | 0 | 99.72 | 0.28 | 0.00 |
 | [Exempt charities using IPAFFS from ban on importing animals from Eastern Europe](616575.md) | 18,013 | 17,785 | 228 | 0 | 98.73 | 1.27 | 0.00 |
-| [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 17,460 | 17,421 | 39 | 0 | 99.78 | 0.22 | 0.00 |
+| [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 17,465 | 17,426 | 39 | 0 | 99.78 | 0.22 | 0.00 |
 | [Change legal definition of stillborn to include all delivered babies](615852.md) | 16,984 | 16,924 | 60 | 0 | 99.65 | 0.35 | 0.00 |
-| [Fund Evusheld the preventative COVID19 antibody for immunocompromised](611884.md) | 16,219 | 16,045 | 174 | 0 | 98.93 | 1.07 | 0.00 |
-| [Extend the Leasehold Reform Act to ground rent on existing residential leases](608589.md) | 16,017 | 15,872 | 145 | 0 | 99.09 | 0.91 | 0.00 |
+| [Fund Evusheld the preventative COVID19 antibody for immunocompromised](611884.md) | 16,222 | 16,048 | 174 | 0 | 98.93 | 1.07 | 0.00 |
+| [Extend the Leasehold Reform Act to ground rent on existing residential leases](608589.md) | 16,023 | 15,877 | 146 | 0 | 99.09 | 0.91 | 0.00 |
 | [Make provisions for telemedicine for early abortions permanent in England](609472.md) | 15,738 | 15,688 | 50 | 0 | 99.68 | 0.32 | 0.00 |
+| [Make Graduate visa extendable and count towards permanent residency](614931.md) | 15,645 | 15,431 | 214 | 0 | 98.63 | 1.37 | 0.00 |
 | [Provide an energy grant to people with a disability or serious medical condition](610300.md) | 15,645 | 15,573 | 72 | 0 | 99.54 | 0.46 | 0.00 |
-| [Make Graduate visa extendable and count towards permanent residency](614931.md) | 15,644 | 15,430 | 214 | 0 | 98.63 | 1.37 | 0.00 |
-| [Make parking at work permanently free for all NHS workers](612699.md) | 15,217 | 15,096 | 121 | 0 | 99.20 | 0.80 | 0.00 |
-| [Ban school uniforms in sex shops and pornography](615829.md) | 15,117 | 14,873 | 244 | 0 | 98.39 | 1.61 | 0.00 |
+| [Make parking at work permanently free for all NHS workers](612699.md) | 15,219 | 15,098 | 121 | 0 | 99.20 | 0.80 | 0.00 |
+| [Ban school uniforms in sex shops and pornography](615829.md) | 15,118 | 14,874 | 244 | 0 | 98.39 | 1.61 | 0.00 |
 | [Require local authorities in England to permit motorcycles in bus lanes](614294.md) | 14,375 | 14,340 | 35 | 0 | 99.76 | 0.24 | 0.00 |
 | [Fund research into Topical Steroid Withdrawal (TSW)](612034.md) | 14,311 | 13,625 | 686 | 0 | 95.21 | 4.79 | 0.00 |
 | [Allow consumers the right to refuse the £200 energy rebate](608007.md) | 13,883 | 13,873 | 10 | 0 | 99.93 | 0.07 | 0.00 |
-| [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 13,664 | 13,561 | 103 | 0 | 99.25 | 0.75 | 0.00 |
+| [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 13,671 | 13,568 | 103 | 0 | 99.25 | 0.75 | 0.00 |
+| [Review UK foreign policy in light of reports of Israeli apartheid](618802.md) | 12,754 | 12,570 | 184 | 0 | 98.56 | 1.44 | 0.00 |
 | [Ensure student nurses are paid for placement hours](610557.md) | 12,751 | 12,703 | 48 | 0 | 99.62 | 0.38 | 0.00 |
-| [Review UK foreign policy in light of reports of Israeli apartheid](618802.md) | 12,748 | 12,564 | 184 | 0 | 98.56 | 1.44 | 0.00 |
-| [Increase benefits in line with current levels of inflation](612152.md) | 12,722 | 12,565 | 157 | 0 | 98.77 | 1.23 | 0.00 |
+| [Increase benefits in line with current levels of inflation](612152.md) | 12,723 | 12,566 | 157 | 0 | 98.77 | 1.23 | 0.00 |
+| [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 12,379 | 12,239 | 140 | 0 | 98.87 | 1.13 | 0.00 |
 | [Stop the government's 'one way ticket' plan to send asylum seekers to Rwanda](614913.md) | 12,339 | 12,134 | 205 | 0 | 98.34 | 1.66 | 0.00 |
-| [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 12,327 | 12,187 | 140 | 0 | 98.86 | 1.14 | 0.00 |
 | [Commission NICE to Review Guidelines on Chronic Pain (Published April 2021)](611150.md) | 11,349 | 11,296 | 53 | 0 | 99.53 | 0.47 | 0.00 |
-| [Make the NHS Pension scheme tax-unregistered](620093.md) | 11,122 | 11,097 | 25 | 0 | 99.78 | 0.22 | 0.00 |
+| [Make the NHS Pension scheme tax-unregistered](620093.md) | 11,124 | 11,099 | 25 | 0 | 99.78 | 0.22 | 0.00 |
 | [Offer fast track asylum to any Ukrainians displaced due to the invasion](609382.md) | 10,926 | 10,743 | 183 | 0 | 98.33 | 1.67 | 0.00 |
