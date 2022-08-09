@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-08-09 13:30:18
+Last refreshed 2022-08-09 14:30:20
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -17,7 +17,7 @@ Last refreshed 2022-08-09 13:30:18
 | [Prioritise teachers, school and childcare staff for Covid-19 vaccination](554316.md) | 508,830 | 507,539 | 1,291 | 0 | 99.75 | 0.25 | 0.00 |
 | [Reclose schools and colleges due to increase in COVID-19 cases](550846.md) | 428,789 | 428,108 | 681 | 0 | 99.84 | 0.16 | 0.00 |
 | [Implement UK lockdown for preventing spread of COVID19](301397.md) | 409,474 | 406,898 | 2,576 | 0 | 99.37 | 0.63 | 0.00 |
-| [Introduce sanctions against Israel](585314.md) | 388,521 | 383,431 | 5,090 | 0 | 98.69 | 1.31 | 0.00 |
+| [Introduce sanctions against Israel](585314.md) | 388,520 | 383,430 | 5,090 | 0 | 98.69 | 1.31 | 0.00 |
 | [Do not rollout Covid-19 vaccine passports](569957.md) | 375,208 | 371,041 | 4,167 | 0 | 98.89 | 1.11 | 0.00 |
 | [Give the UK a Bank Holiday on Monday July 12th if England win Euro 2020](590282.md) | 364,825 | 364,365 | 460 | 0 | 99.87 | 0.13 | 0.00 |
 | [Reimburse all students of this year’s fees due to strikes and COVID-19](302855.md) | 353,129 | 351,855 | 1,274 | 0 | 99.64 | 0.36 | 0.00 |
@@ -47,12 +47,12 @@ Last refreshed 2022-08-09 13:30:18
 | [Keep gyms open during Tier 4 lockdown](563904.md) | 180,171 | 180,068 | 103 | 0 | 99.94 | 0.06 | 0.00 |
 | [Offer more support to the arts (particularly Theatres and Music) amidst COVID-19](320711.md) | 179,699 | 178,265 | 1,434 | 0 | 99.20 | 0.80 | 0.00 |
 | [Increase pay for NHS healthcare workers and recognise their work](300073.md) | 178,820 | 177,996 | 824 | 0 | 99.54 | 0.46 | 0.00 |
-| [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 175,077 | 174,663 | 414 | 0 | 99.76 | 0.24 | 0.00 |
+| [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 175,076 | 174,662 | 414 | 0 | 99.76 | 0.24 | 0.00 |
 | [Lower university tuition fees for students until online teaching ends](552911.md) | 171,137 | 170,463 | 674 | 0 | 99.61 | 0.39 | 0.00 |
 | [Scrap removal of free transport for under-18s from TfL bailout](331453.md) | 171,010 | 170,426 | 584 | 0 | 99.66 | 0.34 | 0.00 |
 | [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 167,462 | 166,508 | 954 | 0 | 99.43 | 0.57 | 0.00 |
 | [Cancel GCSE and A-levels in 2021 replace with Course Work and Teacher Assessment](564696.md) | 157,810 | 156,798 | 1,012 | 0 | 99.36 | 0.64 | 0.00 |
-| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 155,802 | 154,800 | 1,002 | 0 | 99.36 | 0.64 | 0.00 |
+| [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 155,801 | 154,799 | 1,002 | 0 | 99.36 | 0.64 | 0.00 |
 | [Stop work on HS2 immediately and hold a new vote to repeal the legislation](563380.md) | 155,253 | 154,237 | 1,016 | 0 | 99.35 | 0.65 | 0.00 |
 | [Government to offer economic assistance to the events industry during COVID-19](301186.md) | 154,815 | 153,903 | 912 | 0 | 99.41 | 0.59 | 0.00 |
 | [Extend the Stamp Duty Holiday for an additional 6 months after 31st March 2021](550545.md) | 151,127 | 150,686 | 441 | 0 | 99.71 | 0.29 | 0.00 |
