@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-08-15 01:30:07
+Last refreshed 2022-08-15 02:30:07
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -12,18 +12,18 @@ Last refreshed 2022-08-15 01:30:07
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 154,268 | 151,166 | 3,102 | 0 | 97.99 | 2.01 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 147,943 | 146,529 | 1,414 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 129,423 | 128,877 | 546 | 0 | 99.58 | 0.42 | 0.00 |
-| [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 77,189 | 76,983 | 206 | 0 | 99.73 | 0.27 | 0.00 |
+| [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 77,191 | 76,985 | 206 | 0 | 99.73 | 0.27 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 67,259 | 67,142 | 117 | 0 | 99.83 | 0.17 | 0.00 |
 | [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 67,208 | 66,946 | 262 | 0 | 99.61 | 0.39 | 0.00 |
-| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 64,554 | 63,879 | 675 | 0 | 98.95 | 1.05 | 0.00 |
+| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 64,557 | 63,882 | 675 | 0 | 98.95 | 1.05 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 53,036 | 52,431 | 605 | 0 | 98.86 | 1.14 | 0.00 |
-| [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 52,531 | 51,644 | 887 | 0 | 98.31 | 1.69 | 0.00 |
+| [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 52,532 | 51,645 | 887 | 0 | 98.31 | 1.69 | 0.00 |
 | [Hold a public inquiry into Russian interference in UK politics](609388.md) | 44,016 | 42,344 | 1,672 | 0 | 96.20 | 3.80 | 0.00 |
-| [Increase the HMRC Mileage Rate from 45p/mile to 60p/mile](600966.md) | 41,241 | 41,197 | 44 | 0 | 99.89 | 0.11 | 0.00 |
+| [Increase the HMRC Mileage Rate from 45p/mile to 60p/mile](600966.md) | 41,242 | 41,198 | 44 | 0 | 99.89 | 0.11 | 0.00 |
 | [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 40,307 | 40,060 | 247 | 0 | 99.39 | 0.61 | 0.00 |
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 35,363 | 34,974 | 389 | 0 | 98.90 | 1.10 | 0.00 |
 | [Backpay the £20 covid uplift to people on Legacy Benefits](608486.md) | 30,506 | 30,467 | 39 | 0 | 99.87 | 0.13 | 0.00 |
-| [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 26,834 | 26,810 | 24 | 0 | 99.91 | 0.09 | 0.00 |
+| [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 26,835 | 26,811 | 24 | 0 | 99.91 | 0.09 | 0.00 |
 | [Require schools provide a vegan meal option every day](608670.md) | 25,908 | 25,652 | 256 | 0 | 99.01 | 0.99 | 0.00 |
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 24,741 | 24,609 | 132 | 0 | 99.47 | 0.53 | 0.00 |
 | [Limit the shooting season of Woodcock](619615.md) | 21,569 | 21,402 | 167 | 0 | 99.23 | 0.77 | 0.00 |
@@ -31,16 +31,16 @@ Last refreshed 2022-08-15 01:30:07
 | [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 20,015 | 19,964 | 51 | 0 | 99.75 | 0.25 | 0.00 |
 | [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 18,835 | 18,788 | 47 | 0 | 99.75 | 0.25 | 0.00 |
 | [End the ban on fracking](608745.md) | 18,782 | 18,640 | 142 | 0 | 99.24 | 0.76 | 0.00 |
-| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 18,623 | 18,468 | 155 | 0 | 99.17 | 0.83 | 0.00 |
+| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 18,624 | 18,469 | 155 | 0 | 99.17 | 0.83 | 0.00 |
 | [Require all public rights of way be accessible to pedestrians, horses & bicycles](610936.md) | 18,107 | 18,056 | 51 | 0 | 99.72 | 0.28 | 0.00 |
 | [Exempt charities using IPAFFS from ban on importing animals from Eastern Europe](616575.md) | 18,085 | 17,856 | 229 | 0 | 98.73 | 1.27 | 0.00 |
 | [Change legal definition of stillborn to include all delivered babies](615852.md) | 17,003 | 16,943 | 60 | 0 | 99.65 | 0.35 | 0.00 |
 | [Fund Evusheld the preventative COVID19 antibody for immunocompromised](611884.md) | 16,982 | 16,807 | 175 | 0 | 98.97 | 1.03 | 0.00 |
-| [Extend the Leasehold Reform Act to ground rent on existing residential leases](608589.md) | 16,840 | 16,690 | 150 | 0 | 99.11 | 0.89 | 0.00 |
+| [Extend the Leasehold Reform Act to ground rent on existing residential leases](608589.md) | 16,845 | 16,695 | 150 | 0 | 99.11 | 0.89 | 0.00 |
 | [Make provisions for telemedicine for early abortions permanent in England](609472.md) | 15,776 | 15,726 | 50 | 0 | 99.68 | 0.32 | 0.00 |
 | [Provide an energy grant to people with a disability or serious medical condition](610300.md) | 15,719 | 15,647 | 72 | 0 | 99.54 | 0.46 | 0.00 |
 | [Make Graduate visa extendable and count towards permanent residency](614931.md) | 15,649 | 15,435 | 214 | 0 | 98.63 | 1.37 | 0.00 |
-| [Make parking at work permanently free for all NHS workers](612699.md) | 15,329 | 15,208 | 121 | 0 | 99.21 | 0.79 | 0.00 |
+| [Make parking at work permanently free for all NHS workers](612699.md) | 15,330 | 15,209 | 121 | 0 | 99.21 | 0.79 | 0.00 |
 | [Ban school uniforms in sex shops and pornography](615829.md) | 15,191 | 14,946 | 245 | 0 | 98.39 | 1.61 | 0.00 |
 | [Require local authorities in England to permit motorcycles in bus lanes](614294.md) | 14,420 | 14,385 | 35 | 0 | 99.76 | 0.24 | 0.00 |
 | [Fund research into Topical Steroid Withdrawal (TSW)](612034.md) | 14,331 | 13,643 | 688 | 0 | 95.20 | 4.80 | 0.00 |
