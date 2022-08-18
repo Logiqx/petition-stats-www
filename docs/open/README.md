@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-08-18 03:30:07
+Last refreshed 2022-08-18 04:30:08
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -15,7 +15,7 @@ Last refreshed 2022-08-18 03:30:07
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 77,791 | 77,583 | 208 | 0 | 99.73 | 0.27 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 67,282 | 67,165 | 117 | 0 | 99.83 | 0.17 | 0.00 |
 | [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 67,245 | 66,983 | 262 | 0 | 99.61 | 0.39 | 0.00 |
-| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 65,761 | 65,074 | 687 | 0 | 98.96 | 1.04 | 0.00 |
+| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 65,762 | 65,075 | 687 | 0 | 98.96 | 1.04 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 53,075 | 52,469 | 606 | 0 | 98.86 | 1.14 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 52,593 | 51,706 | 887 | 0 | 98.31 | 1.69 | 0.00 |
 | [Hold a public inquiry into Russian interference in UK politics](609388.md) | 44,042 | 42,369 | 1,673 | 0 | 96.20 | 3.80 | 0.00 |
@@ -24,12 +24,12 @@ Last refreshed 2022-08-18 03:30:07
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 35,373 | 34,984 | 389 | 0 | 98.90 | 1.10 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 27,259 | 27,234 | 25 | 0 | 99.91 | 0.09 | 0.00 |
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 25,916 | 25,781 | 135 | 0 | 99.48 | 0.52 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 21,995 | 21,820 | 175 | 0 | 99.20 | 0.80 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 22,000 | 21,825 | 175 | 0 | 99.20 | 0.80 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 21,627 | 21,237 | 390 | 0 | 98.20 | 1.80 | 0.00 |
-| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 21,331 | 21,279 | 52 | 0 | 99.76 | 0.24 | 0.00 |
-| [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 19,412 | 19,364 | 48 | 0 | 99.75 | 0.25 | 0.00 |
+| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 21,332 | 21,280 | 52 | 0 | 99.76 | 0.24 | 0.00 |
+| [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 19,413 | 19,364 | 49 | 0 | 99.75 | 0.25 | 0.00 |
 | [End the ban on fracking](608745.md) | 18,802 | 18,660 | 142 | 0 | 99.24 | 0.76 | 0.00 |
-| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 18,765 | 18,606 | 159 | 0 | 99.15 | 0.85 | 0.00 |
+| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 18,766 | 18,607 | 159 | 0 | 99.15 | 0.85 | 0.00 |
 | [Require all public rights of way be accessible to pedestrians, horses & bicycles](610936.md) | 18,127 | 18,076 | 51 | 0 | 99.72 | 0.28 | 0.00 |
 | [Exempt charities using IPAFFS from ban on importing animals from Eastern Europe](616575.md) | 18,107 | 17,878 | 229 | 0 | 98.74 | 1.26 | 0.00 |
 | [Fund Evusheld the preventative COVID19 antibody for immunocompromised](611884.md) | 17,416 | 17,235 | 181 | 0 | 98.96 | 1.04 | 0.00 |
@@ -53,8 +53,8 @@ Last refreshed 2022-08-18 03:30:07
 | [Increase staffing to reduce waiting times for visas](615711.md) | 10,972 | 10,420 | 552 | 0 | 94.97 | 5.03 | 0.00 |
 | [Offer fast track asylum to any Ukrainians displaced due to the invasion](609382.md) | 10,928 | 10,745 | 183 | 0 | 98.33 | 1.67 | 0.00 |
 | [Do not require parents to register home educated children with local authorities](617340.md) | 10,919 | 10,871 | 48 | 0 | 99.56 | 0.44 | 0.00 |
-| [Fast-track access to benefits for terminally ill as soon as diagnosed](613198.md) | 10,915 | 10,751 | 164 | 0 | 98.50 | 1.50 | 0.00 |
+| [Fast-track access to benefits for terminally ill as soon as diagnosed](613198.md) | 10,916 | 10,752 | 164 | 0 | 98.50 | 1.50 | 0.00 |
 | [Add Romanian to the Modern Languages GCSE ](617718.md) | 10,851 | 10,821 | 30 | 0 | 99.72 | 0.28 | 0.00 |
-| [Residential Park Home residents should be eligible for £400 electricity grant](617700.md) | 10,723 | 10,700 | 23 | 0 | 99.79 | 0.21 | 0.00 |
+| [Residential Park Home residents should be eligible for £400 electricity grant](617700.md) | 10,724 | 10,701 | 23 | 0 | 99.79 | 0.21 | 0.00 |
 | [Increase minimum wage for licensed security workers to £15 an hour](610944.md) | 10,586 | 10,566 | 20 | 0 | 99.81 | 0.19 | 0.00 |
 | [Lift ban on import of rescue animals from Romania, Ukraine, Belarus and Poland](616592.md) | 10,381 | 10,251 | 130 | 0 | 98.75 | 1.25 | 0.00 |
