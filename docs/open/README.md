@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-08-19 00:30:07
+Last refreshed 2022-08-19 01:30:08
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -12,10 +12,10 @@ Last refreshed 2022-08-19 00:30:07
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 154,320 | 151,217 | 3,103 | 0 | 97.99 | 2.01 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 147,973 | 146,559 | 1,414 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 129,447 | 128,901 | 546 | 0 | 99.58 | 0.42 | 0.00 |
-| [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 77,849 | 77,641 | 208 | 0 | 99.73 | 0.27 | 0.00 |
+| [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 77,851 | 77,643 | 208 | 0 | 99.73 | 0.27 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 67,309 | 67,192 | 117 | 0 | 99.83 | 0.17 | 0.00 |
 | [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 67,254 | 66,992 | 262 | 0 | 99.61 | 0.39 | 0.00 |
-| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 66,037 | 65,349 | 688 | 0 | 98.96 | 1.04 | 0.00 |
+| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 66,040 | 65,352 | 688 | 0 | 98.96 | 1.04 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 53,085 | 52,479 | 606 | 0 | 98.86 | 1.14 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 52,629 | 51,742 | 887 | 0 | 98.31 | 1.69 | 0.00 |
 | [Hold a public inquiry into Russian interference in UK politics](609388.md) | 44,044 | 42,371 | 1,673 | 0 | 96.20 | 3.80 | 0.00 |
@@ -23,15 +23,15 @@ Last refreshed 2022-08-19 00:30:07
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 35,380 | 34,991 | 389 | 0 | 98.90 | 1.10 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 27,301 | 27,276 | 25 | 0 | 99.91 | 0.09 | 0.00 |
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 26,049 | 25,913 | 136 | 0 | 99.48 | 0.52 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 22,346 | 22,170 | 176 | 0 | 99.21 | 0.79 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 22,347 | 22,171 | 176 | 0 | 99.21 | 0.79 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 21,638 | 21,248 | 390 | 0 | 98.20 | 1.80 | 0.00 |
 | [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 21,408 | 21,356 | 52 | 0 | 99.76 | 0.24 | 0.00 |
 | [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 19,514 | 19,465 | 49 | 0 | 99.75 | 0.25 | 0.00 |
 | [End the ban on fracking](608745.md) | 18,808 | 18,666 | 142 | 0 | 99.25 | 0.75 | 0.00 |
-| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 18,798 | 18,639 | 159 | 0 | 99.15 | 0.85 | 0.00 |
+| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 18,799 | 18,640 | 159 | 0 | 99.15 | 0.85 | 0.00 |
 | [Require all public rights of way be accessible to pedestrians, horses & bicycles](610936.md) | 18,130 | 18,079 | 51 | 0 | 99.72 | 0.28 | 0.00 |
 | [Exempt charities using IPAFFS from ban on importing animals from Eastern Europe](616575.md) | 18,119 | 17,890 | 229 | 0 | 98.74 | 1.26 | 0.00 |
-| [Fund Evusheld the preventative COVID19 antibody for immunocompromised](611884.md) | 17,498 | 17,314 | 184 | 0 | 98.95 | 1.05 | 0.00 |
+| [Fund Evusheld the preventative COVID19 antibody for immunocompromised](611884.md) | 17,500 | 17,316 | 184 | 0 | 98.95 | 1.05 | 0.00 |
 | [Change legal definition of stillborn to include all delivered babies](615852.md) | 17,011 | 16,951 | 60 | 0 | 99.65 | 0.35 | 0.00 |
 | [Make provisions for telemedicine for early abortions permanent in England](609472.md) | 15,802 | 15,752 | 50 | 0 | 99.68 | 0.32 | 0.00 |
 | [Provide an energy grant to people with a disability or serious medical condition](610300.md) | 15,778 | 15,705 | 73 | 0 | 99.54 | 0.46 | 0.00 |
