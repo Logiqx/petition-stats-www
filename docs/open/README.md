@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-08-20 03:30:07
+Last refreshed 2022-08-20 04:30:08
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -26,7 +26,7 @@ Last refreshed 2022-08-20 03:30:07
 | [Limit the shooting season of Woodcock](619615.md) | 23,866 | 23,657 | 209 | 0 | 99.12 | 0.88 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 21,645 | 21,255 | 390 | 0 | 98.20 | 1.80 | 0.00 |
 | [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 21,446 | 21,394 | 52 | 0 | 99.76 | 0.24 | 0.00 |
-| [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 19,644 | 19,595 | 49 | 0 | 99.75 | 0.25 | 0.00 |
+| [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 19,645 | 19,596 | 49 | 0 | 99.75 | 0.25 | 0.00 |
 | [End the ban on fracking](608745.md) | 18,812 | 18,670 | 142 | 0 | 99.25 | 0.75 | 0.00 |
 | [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 18,811 | 18,651 | 160 | 0 | 99.15 | 0.85 | 0.00 |
 | [Require all public rights of way be accessible to pedestrians, horses & bicycles](610936.md) | 18,131 | 18,080 | 51 | 0 | 99.72 | 0.28 | 0.00 |
