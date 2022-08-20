@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-08-20 05:30:07
+Last refreshed 2022-08-20 06:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -15,31 +15,31 @@ Last refreshed 2022-08-20 05:30:07
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 77,883 | 77,675 | 208 | 0 | 99.73 | 0.27 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 67,340 | 67,223 | 117 | 0 | 99.83 | 0.17 | 0.00 |
 | [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 67,258 | 66,996 | 262 | 0 | 99.61 | 0.39 | 0.00 |
-| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 66,315 | 65,624 | 691 | 0 | 98.96 | 1.04 | 0.00 |
+| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 66,322 | 65,631 | 691 | 0 | 98.96 | 1.04 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 53,092 | 52,486 | 606 | 0 | 98.86 | 1.14 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 52,642 | 51,755 | 887 | 0 | 98.32 | 1.68 | 0.00 |
 | [Hold a public inquiry into Russian interference in UK politics](609388.md) | 44,048 | 42,375 | 1,673 | 0 | 96.20 | 3.80 | 0.00 |
-| [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 41,531 | 41,263 | 268 | 0 | 99.35 | 0.65 | 0.00 |
+| [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 41,533 | 41,265 | 268 | 0 | 99.35 | 0.65 | 0.00 |
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 35,385 | 34,996 | 389 | 0 | 98.90 | 1.10 | 0.00 |
-| [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 27,337 | 27,312 | 25 | 0 | 99.91 | 0.09 | 0.00 |
-| [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 26,107 | 25,971 | 136 | 0 | 99.48 | 0.52 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 23,870 | 23,661 | 209 | 0 | 99.12 | 0.88 | 0.00 |
+| [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 27,338 | 27,313 | 25 | 0 | 99.91 | 0.09 | 0.00 |
+| [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 26,108 | 25,972 | 136 | 0 | 99.48 | 0.52 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 23,881 | 23,672 | 209 | 0 | 99.12 | 0.88 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 21,645 | 21,255 | 390 | 0 | 98.20 | 1.80 | 0.00 |
-| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 21,447 | 21,395 | 52 | 0 | 99.76 | 0.24 | 0.00 |
-| [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 19,646 | 19,597 | 49 | 0 | 99.75 | 0.25 | 0.00 |
+| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 21,448 | 21,396 | 52 | 0 | 99.76 | 0.24 | 0.00 |
+| [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 19,651 | 19,602 | 49 | 0 | 99.75 | 0.25 | 0.00 |
 | [End the ban on fracking](608745.md) | 18,812 | 18,670 | 142 | 0 | 99.25 | 0.75 | 0.00 |
-| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 18,811 | 18,651 | 160 | 0 | 99.15 | 0.85 | 0.00 |
+| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 18,812 | 18,652 | 160 | 0 | 99.15 | 0.85 | 0.00 |
 | [Require all public rights of way be accessible to pedestrians, horses & bicycles](610936.md) | 18,131 | 18,080 | 51 | 0 | 99.72 | 0.28 | 0.00 |
 | [Exempt charities using IPAFFS from ban on importing animals from Eastern Europe](616575.md) | 18,129 | 17,899 | 230 | 0 | 98.73 | 1.27 | 0.00 |
-| [Fund Evusheld the preventative COVID19 antibody for immunocompromised](611884.md) | 17,568 | 17,383 | 185 | 0 | 98.95 | 1.05 | 0.00 |
+| [Fund Evusheld the preventative COVID19 antibody for immunocompromised](611884.md) | 17,569 | 17,384 | 185 | 0 | 98.95 | 1.05 | 0.00 |
 | [Change legal definition of stillborn to include all delivered babies](615852.md) | 17,013 | 16,953 | 60 | 0 | 99.65 | 0.35 | 0.00 |
 | [Make provisions for telemedicine for early abortions permanent in England](609472.md) | 15,807 | 15,757 | 50 | 0 | 99.68 | 0.32 | 0.00 |
 | [Provide an energy grant to people with a disability or serious medical condition](610300.md) | 15,784 | 15,711 | 73 | 0 | 99.54 | 0.46 | 0.00 |
 | [Make Graduate visa extendable and count towards permanent residency](614931.md) | 15,652 | 15,438 | 214 | 0 | 98.63 | 1.37 | 0.00 |
-| [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 15,571 | 15,404 | 167 | 0 | 98.93 | 1.07 | 0.00 |
+| [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 15,572 | 15,405 | 167 | 0 | 98.93 | 1.07 | 0.00 |
 | [Make parking at work permanently free for all NHS workers](612699.md) | 15,389 | 15,268 | 121 | 0 | 99.21 | 0.79 | 0.00 |
 | [Ban school uniforms in sex shops and pornography](615829.md) | 15,215 | 14,970 | 245 | 0 | 98.39 | 1.61 | 0.00 |
-| [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 14,794 | 14,680 | 114 | 0 | 99.23 | 0.77 | 0.00 |
+| [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 14,804 | 14,690 | 114 | 0 | 99.23 | 0.77 | 0.00 |
 | [Set a Minimum Pension Guarantee (MPG) of at least £200 pw for state pensioners](620839.md) | 14,439 | 14,035 | 404 | 0 | 97.20 | 2.80 | 0.00 |
 | [Require local authorities in England to permit motorcycles in bus lanes](614294.md) | 14,439 | 14,404 | 35 | 0 | 99.76 | 0.24 | 0.00 |
 | [Fund research into Topical Steroid Withdrawal (TSW)](612034.md) | 14,350 | 13,662 | 688 | 0 | 95.21 | 4.79 | 0.00 |
