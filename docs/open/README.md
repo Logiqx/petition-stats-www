@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-08-21 00:30:06
+Last refreshed 2022-08-21 01:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -15,17 +15,17 @@ Last refreshed 2022-08-21 00:30:06
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 77,934 | 77,726 | 208 | 0 | 99.73 | 0.27 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 67,363 | 67,246 | 117 | 0 | 99.83 | 0.17 | 0.00 |
 | [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 67,267 | 67,005 | 262 | 0 | 99.61 | 0.39 | 0.00 |
-| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 66,912 | 66,216 | 696 | 0 | 98.96 | 1.04 | 0.00 |
+| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 66,915 | 66,218 | 697 | 0 | 98.96 | 1.04 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 53,097 | 52,491 | 606 | 0 | 98.86 | 1.14 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 52,662 | 51,775 | 887 | 0 | 98.32 | 1.68 | 0.00 |
 | [Hold a public inquiry into Russian interference in UK politics](609388.md) | 44,055 | 42,382 | 1,673 | 0 | 96.20 | 3.80 | 0.00 |
-| [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 41,591 | 41,323 | 268 | 0 | 99.36 | 0.64 | 0.00 |
+| [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 41,592 | 41,324 | 268 | 0 | 99.36 | 0.64 | 0.00 |
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 35,389 | 35,000 | 389 | 0 | 98.90 | 1.10 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 27,349 | 27,324 | 25 | 0 | 99.91 | 0.09 | 0.00 |
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 26,143 | 26,006 | 137 | 0 | 99.48 | 0.52 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 24,236 | 24,019 | 217 | 0 | 99.10 | 0.90 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 24,237 | 24,020 | 217 | 0 | 99.10 | 0.90 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 21,647 | 21,257 | 390 | 0 | 98.20 | 1.80 | 0.00 |
-| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 21,471 | 21,419 | 52 | 0 | 99.76 | 0.24 | 0.00 |
+| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 21,473 | 21,421 | 52 | 0 | 99.76 | 0.24 | 0.00 |
 | [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 19,771 | 19,721 | 50 | 0 | 99.75 | 0.25 | 0.00 |
 | [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 18,819 | 18,659 | 160 | 0 | 99.15 | 0.85 | 0.00 |
 | [End the ban on fracking](608745.md) | 18,818 | 18,676 | 142 | 0 | 99.25 | 0.75 | 0.00 |
@@ -33,12 +33,12 @@ Last refreshed 2022-08-21 00:30:06
 | [Require all public rights of way be accessible to pedestrians, horses & bicycles](610936.md) | 18,132 | 18,081 | 51 | 0 | 99.72 | 0.28 | 0.00 |
 | [Fund Evusheld the preventative COVID19 antibody for immunocompromised](611884.md) | 17,622 | 17,436 | 186 | 0 | 98.94 | 1.06 | 0.00 |
 | [Change legal definition of stillborn to include all delivered babies](615852.md) | 17,013 | 16,953 | 60 | 0 | 99.65 | 0.35 | 0.00 |
-| [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 16,907 | 16,740 | 167 | 0 | 99.01 | 0.99 | 0.00 |
+| [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 17,009 | 16,842 | 167 | 0 | 99.02 | 0.98 | 0.00 |
 | [Make provisions for telemedicine for early abortions permanent in England](609472.md) | 15,808 | 15,758 | 50 | 0 | 99.68 | 0.32 | 0.00 |
 | [Provide an energy grant to people with a disability or serious medical condition](610300.md) | 15,786 | 15,713 | 73 | 0 | 99.54 | 0.46 | 0.00 |
 | [Make Graduate visa extendable and count towards permanent residency](614931.md) | 15,654 | 15,440 | 214 | 0 | 98.63 | 1.37 | 0.00 |
 | [Make parking at work permanently free for all NHS workers](612699.md) | 15,398 | 15,277 | 121 | 0 | 99.21 | 0.79 | 0.00 |
-| [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 15,233 | 15,117 | 116 | 0 | 99.24 | 0.76 | 0.00 |
+| [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 15,234 | 15,118 | 116 | 0 | 99.24 | 0.76 | 0.00 |
 | [Ban school uniforms in sex shops and pornography](615829.md) | 15,222 | 14,977 | 245 | 0 | 98.39 | 1.61 | 0.00 |
 | [Set a Minimum Pension Guarantee (MPG) of at least £200 pw for state pensioners](620839.md) | 14,459 | 14,054 | 405 | 0 | 97.20 | 2.80 | 0.00 |
 | [Require local authorities in England to permit motorcycles in bus lanes](614294.md) | 14,450 | 14,415 | 35 | 0 | 99.76 | 0.24 | 0.00 |
