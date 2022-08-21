@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-08-21 03:30:05
+Last refreshed 2022-08-21 04:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -18,21 +18,21 @@ Last refreshed 2022-08-21 03:30:05
 | [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 66,921 | 66,223 | 698 | 0 | 98.96 | 1.04 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 53,097 | 52,491 | 606 | 0 | 98.86 | 1.14 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 52,663 | 51,776 | 887 | 0 | 98.32 | 1.68 | 0.00 |
-| [Hold a public inquiry into Russian interference in UK politics](609388.md) | 44,055 | 42,382 | 1,673 | 0 | 96.20 | 3.80 | 0.00 |
+| [Hold a public inquiry into Russian interference in UK politics](609388.md) | 44,056 | 42,382 | 1,674 | 0 | 96.20 | 3.80 | 0.00 |
 | [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 41,594 | 41,326 | 268 | 0 | 99.36 | 0.64 | 0.00 |
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 35,389 | 35,000 | 389 | 0 | 98.90 | 1.10 | 0.00 |
-| [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 27,349 | 27,324 | 25 | 0 | 99.91 | 0.09 | 0.00 |
+| [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 27,350 | 27,325 | 25 | 0 | 99.91 | 0.09 | 0.00 |
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 26,143 | 26,006 | 137 | 0 | 99.48 | 0.52 | 0.00 |
 | [Limit the shooting season of Woodcock](619615.md) | 24,241 | 24,024 | 217 | 0 | 99.10 | 0.90 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 21,647 | 21,257 | 390 | 0 | 98.20 | 1.80 | 0.00 |
 | [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 21,473 | 21,421 | 52 | 0 | 99.76 | 0.24 | 0.00 |
-| [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 19,772 | 19,722 | 50 | 0 | 99.75 | 0.25 | 0.00 |
+| [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 19,773 | 19,723 | 50 | 0 | 99.75 | 0.25 | 0.00 |
 | [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 18,820 | 18,660 | 160 | 0 | 99.15 | 0.85 | 0.00 |
 | [End the ban on fracking](608745.md) | 18,818 | 18,676 | 142 | 0 | 99.25 | 0.75 | 0.00 |
 | [Exempt charities using IPAFFS from ban on importing animals from Eastern Europe](616575.md) | 18,139 | 17,909 | 230 | 0 | 98.73 | 1.27 | 0.00 |
 | [Require all public rights of way be accessible to pedestrians, horses & bicycles](610936.md) | 18,132 | 18,081 | 51 | 0 | 99.72 | 0.28 | 0.00 |
 | [Fund Evusheld the preventative COVID19 antibody for immunocompromised](611884.md) | 17,622 | 17,436 | 186 | 0 | 98.94 | 1.06 | 0.00 |
-| [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 17,232 | 17,065 | 167 | 0 | 99.03 | 0.97 | 0.00 |
+| [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 17,332 | 17,165 | 167 | 0 | 99.04 | 0.96 | 0.00 |
 | [Change legal definition of stillborn to include all delivered babies](615852.md) | 17,013 | 16,953 | 60 | 0 | 99.65 | 0.35 | 0.00 |
 | [Make provisions for telemedicine for early abortions permanent in England](609472.md) | 15,808 | 15,758 | 50 | 0 | 99.68 | 0.32 | 0.00 |
 | [Provide an energy grant to people with a disability or serious medical condition](610300.md) | 15,786 | 15,713 | 73 | 0 | 99.54 | 0.46 | 0.00 |
