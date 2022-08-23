@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-08-23 01:30:05
+Last refreshed 2022-08-23 02:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -13,9 +13,9 @@ Last refreshed 2022-08-23 01:30:05
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 148,039 | 146,625 | 1,414 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 129,498 | 128,952 | 546 | 0 | 99.58 | 0.42 | 0.00 |
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 78,202 | 77,993 | 209 | 0 | 99.73 | 0.27 | 0.00 |
-| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 71,162 | 70,439 | 723 | 0 | 98.98 | 1.02 | 0.00 |
+| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 71,165 | 70,442 | 723 | 0 | 98.98 | 1.02 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 67,391 | 67,274 | 117 | 0 | 99.83 | 0.17 | 0.00 |
-| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 67,292 | 67,030 | 262 | 0 | 99.61 | 0.39 | 0.00 |
+| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 67,294 | 67,032 | 262 | 0 | 99.61 | 0.39 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 53,123 | 52,517 | 606 | 0 | 98.86 | 1.14 | 0.00 |
 | [Increase the state pension to £19,760 a year (£380 a week)](609243.md) | 52,717 | 51,830 | 887 | 0 | 98.32 | 1.68 | 0.00 |
 | [Hold a public inquiry into Russian interference in UK politics](609388.md) | 44,076 | 42,401 | 1,675 | 0 | 96.20 | 3.80 | 0.00 |
@@ -26,7 +26,7 @@ Last refreshed 2022-08-23 01:30:05
 | [Limit the shooting season of Woodcock](619615.md) | 24,612 | 24,391 | 221 | 0 | 99.10 | 0.90 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 21,660 | 21,270 | 390 | 0 | 98.20 | 1.80 | 0.00 |
 | [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 21,528 | 21,475 | 53 | 0 | 99.75 | 0.25 | 0.00 |
-| [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 20,623 | 20,455 | 168 | 0 | 99.19 | 0.81 | 0.00 |
+| [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 20,624 | 20,456 | 168 | 0 | 99.19 | 0.81 | 0.00 |
 | [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 20,094 | 20,044 | 50 | 0 | 99.75 | 0.25 | 0.00 |
 | [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 18,856 | 18,696 | 160 | 0 | 99.15 | 0.85 | 0.00 |
 | [Exempt charities using IPAFFS from ban on importing animals from Eastern Europe](616575.md) | 18,143 | 17,913 | 230 | 0 | 98.73 | 1.27 | 0.00 |
@@ -36,7 +36,7 @@ Last refreshed 2022-08-23 01:30:05
 | [Provide an energy grant to people with a disability or serious medical condition](610300.md) | 15,815 | 15,742 | 73 | 0 | 99.54 | 0.46 | 0.00 |
 | [Make provisions for telemedicine for early abortions permanent in England](609472.md) | 15,810 | 15,760 | 50 | 0 | 99.68 | 0.32 | 0.00 |
 | [Make Graduate visa extendable and count towards permanent residency](614931.md) | 15,658 | 15,444 | 214 | 0 | 98.63 | 1.37 | 0.00 |
-| [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 15,521 | 15,403 | 118 | 0 | 99.24 | 0.76 | 0.00 |
+| [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 15,523 | 15,405 | 118 | 0 | 99.24 | 0.76 | 0.00 |
 | [Make parking at work permanently free for all NHS workers](612699.md) | 15,433 | 15,312 | 121 | 0 | 99.22 | 0.78 | 0.00 |
 | [Ban school uniforms in sex shops and pornography](615829.md) | 15,255 | 15,010 | 245 | 0 | 98.39 | 1.61 | 0.00 |
 | [Set a Minimum Pension Guarantee (MPG) of at least £200 pw for state pensioners](620839.md) | 14,557 | 14,146 | 411 | 0 | 97.18 | 2.82 | 0.00 |
@@ -54,7 +54,7 @@ Last refreshed 2022-08-23 01:30:05
 | [Do not require parents to register home educated children with local authorities](617340.md) | 10,938 | 10,890 | 48 | 0 | 99.56 | 0.44 | 0.00 |
 | [Offer fast track asylum to any Ukrainians displaced due to the invasion](609382.md) | 10,930 | 10,747 | 183 | 0 | 98.33 | 1.67 | 0.00 |
 | [Add Romanian to the Modern Languages GCSE ](617718.md) | 10,887 | 10,857 | 30 | 0 | 99.72 | 0.28 | 0.00 |
-| [Increase minimum wage for licensed security workers to £15 an hour](610944.md) | 10,760 | 10,739 | 21 | 0 | 99.80 | 0.20 | 0.00 |
+| [Increase minimum wage for licensed security workers to £15 an hour](610944.md) | 10,762 | 10,741 | 21 | 0 | 99.80 | 0.20 | 0.00 |
 | [Lift ban on import of rescue animals from Romania, Ukraine, Belarus and Poland](616592.md) | 10,406 | 10,276 | 130 | 0 | 98.75 | 1.25 | 0.00 |
-| [Allow EU nationals to come to the UK to work in hospitality for up to 2 Years](621932.md) | 10,273 | 10,173 | 100 | 0 | 99.03 | 0.97 | 0.00 |
-| [Do not pass legislation to allow the gene editing of animals and crops](616480.md) | 9,984 | 9,850 | 134 | 0 | 98.66 | 1.34 | 0.00 |
+| [Allow EU nationals to come to the UK to work in hospitality for up to 2 Years](621932.md) | 10,282 | 10,182 | 100 | 0 | 99.03 | 0.97 | 0.00 |
+| [Do not pass legislation to allow the gene editing of animals and crops](616480.md) | 9,985 | 9,851 | 134 | 0 | 98.66 | 1.34 | 0.00 |
