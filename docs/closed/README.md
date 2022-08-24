@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-08-24 14:30:25
+Last refreshed 2022-08-24 15:30:19
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -19,7 +19,7 @@ Last refreshed 2022-08-24 14:30:25
 | [Implement UK lockdown for preventing spread of COVID19](301397.md) | 409,474 | 406,898 | 2,576 | 0 | 99.37 | 0.63 | 0.00 |
 | [Introduce sanctions against Israel](585314.md) | 388,517 | 383,427 | 5,090 | 0 | 98.69 | 1.31 | 0.00 |
 | [Do not rollout Covid-19 vaccine passports](569957.md) | 375,208 | 371,041 | 4,167 | 0 | 98.89 | 1.11 | 0.00 |
-| [Give the UK a Bank Holiday on Monday July 12th if England win Euro 2020](590282.md) | 364,823 | 364,363 | 460 | 0 | 99.87 | 0.13 | 0.00 |
+| [Give the UK a Bank Holiday on Monday July 12th if England win Euro 2020](590282.md) | 364,822 | 364,362 | 460 | 0 | 99.87 | 0.13 | 0.00 |
 | [Reimburse all students of this year’s fees due to strikes and COVID-19](302855.md) | 353,129 | 351,855 | 1,274 | 0 | 99.64 | 0.36 | 0.00 |
 | [Outlaw discrimination against those who do not get a Covid-19 vaccination](575801.md) | 347,512 | 344,995 | 2,517 | 0 | 99.28 | 0.72 | 0.00 |
 | [Prevent any restrictions on those who refuse a Covid-19 vaccination](323442.md) | 337,144 | 334,153 | 2,991 | 0 | 99.11 | 0.89 | 0.00 |
