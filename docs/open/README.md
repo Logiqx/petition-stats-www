@@ -4,12 +4,12 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-09-09 08:30:07
+Last refreshed 2022-09-09 09:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Include abortion rights in the Bill of Rights](619334.md) | 163,093 | 162,612 | 481 | 0 | 99.71 | 0.29 | 0.00 |
-| [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 154,594 | 151,490 | 3,104 | 0 | 97.99 | 2.01 | 0.00 |
+| [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 154,593 | 151,489 | 3,104 | 0 | 97.99 | 2.01 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 148,536 | 147,116 | 1,420 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 129,770 | 129,220 | 550 | 0 | 99.58 | 0.42 | 0.00 |
 | [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 95,395 | 94,418 | 977 | 0 | 98.98 | 1.02 | 0.00 |
@@ -47,7 +47,7 @@ Last refreshed 2022-09-09 08:30:07
 | [Fund research into Topical Steroid Withdrawal (TSW)](612034.md) | 14,424 | 13,736 | 688 | 0 | 95.23 | 4.77 | 0.00 |
 | [Ensure student nurses are paid for placement hours](610557.md) | 13,051 | 13,003 | 48 | 0 | 99.63 | 0.37 | 0.00 |
 | [Increase benefits in line with current levels of inflation](612152.md) | 13,026 | 12,869 | 157 | 0 | 98.79 | 1.21 | 0.00 |
-| [Stop the government's 'one way ticket' plan to send asylum seekers to Rwanda](614913.md) | 12,563 | 12,356 | 207 | 0 | 98.35 | 1.65 | 0.00 |
+| [Stop the government's 'one way ticket' plan to send asylum seekers to Rwanda](614913.md) | 12,562 | 12,355 | 207 | 0 | 98.35 | 1.65 | 0.00 |
 | [Require all businesses and public services to accept cash payments](622284.md) | 12,318 | 12,168 | 150 | 0 | 98.78 | 1.22 | 0.00 |
 | [Residential Park Home residents should be eligible for £400 electricity grant](617700.md) | 11,385 | 11,360 | 25 | 0 | 99.78 | 0.22 | 0.00 |
 | [Make the NHS Pension scheme tax-unregistered](620093.md) | 11,366 | 11,341 | 25 | 0 | 99.78 | 0.22 | 0.00 |
