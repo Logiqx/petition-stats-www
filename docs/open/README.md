@@ -4,20 +4,20 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-09-14 08:30:06
+Last refreshed 2022-09-14 09:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Include abortion rights in the Bill of Rights](619334.md) | 163,093 | 162,612 | 481 | 0 | 99.71 | 0.29 | 0.00 |
+| [Include abortion rights in the Bill of Rights](619334.md) | 163,092 | 162,611 | 481 | 0 | 99.71 | 0.29 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 154,593 | 151,489 | 3,104 | 0 | 97.99 | 2.01 | 0.00 |
-| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 148,536 | 147,116 | 1,420 | 0 | 99.04 | 0.96 | 0.00 |
+| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 148,535 | 147,115 | 1,420 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 129,770 | 129,220 | 550 | 0 | 99.58 | 0.42 | 0.00 |
 | [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 95,395 | 94,418 | 977 | 0 | 98.98 | 1.02 | 0.00 |
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 81,818 | 81,603 | 215 | 0 | 99.74 | 0.26 | 0.00 |
 | [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 77,389 | 76,451 | 938 | 0 | 98.79 | 1.21 | 0.00 |
 | [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 75,287 | 75,090 | 197 | 0 | 99.74 | 0.26 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 68,919 | 68,799 | 120 | 0 | 99.83 | 0.17 | 0.00 |
-| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 67,477 | 67,215 | 262 | 0 | 99.61 | 0.39 | 0.00 |
+| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 67,475 | 67,213 | 262 | 0 | 99.61 | 0.39 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 53,597 | 52,987 | 610 | 0 | 98.86 | 1.14 | 0.00 |
 | [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 42,525 | 42,248 | 277 | 0 | 99.35 | 0.65 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 35,586 | 35,555 | 31 | 0 | 99.91 | 0.09 | 0.00 |
@@ -25,14 +25,14 @@ Last refreshed 2022-09-14 08:30:06
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 26,841 | 26,700 | 141 | 0 | 99.47 | 0.53 | 0.00 |
 | [Limit the shooting season of Woodcock](619615.md) | 25,631 | 25,401 | 230 | 0 | 99.10 | 0.90 | 0.00 |
 | [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 23,927 | 23,865 | 62 | 0 | 99.74 | 0.26 | 0.00 |
-| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 22,507 | 22,449 | 58 | 0 | 99.74 | 0.26 | 0.00 |
+| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 22,506 | 22,448 | 58 | 0 | 99.74 | 0.26 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 21,786 | 21,393 | 393 | 0 | 98.20 | 1.80 | 0.00 |
 | [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 21,183 | 21,148 | 35 | 0 | 99.83 | 0.17 | 0.00 |
 | [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 19,157 | 18,996 | 161 | 0 | 99.16 | 0.84 | 0.00 |
 | [Fund Evusheld the preventative COVID19 antibody for immunocompromised](611884.md) | 18,322 | 18,123 | 199 | 0 | 98.91 | 1.09 | 0.00 |
 | [Exempt charities using IPAFFS from ban on importing animals from Eastern Europe](616575.md) | 18,305 | 18,075 | 230 | 0 | 98.74 | 1.26 | 0.00 |
 | [Require all public rights of way be accessible to pedestrians, horses & bicycles](610936.md) | 18,206 | 18,155 | 51 | 0 | 99.72 | 0.28 | 0.00 |
-| [Call an immediate general election to end the chaos of the current government](619781.md) | 17,737 | 17,529 | 208 | 0 | 98.83 | 1.17 | 0.00 |
+| [Call an immediate general election to end the chaos of the current government](619781.md) | 17,735 | 17,527 | 208 | 0 | 98.83 | 1.17 | 0.00 |
 | [Allow EU nationals to come to the UK to work in hospitality for up to 2 Years](621932.md) | 17,343 | 17,175 | 168 | 0 | 99.03 | 0.97 | 0.00 |
 | [Change legal definition of stillborn to include all delivered babies](615852.md) | 17,074 | 17,013 | 61 | 0 | 99.64 | 0.36 | 0.00 |
 | [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 16,392 | 16,267 | 125 | 0 | 99.24 | 0.76 | 0.00 |
