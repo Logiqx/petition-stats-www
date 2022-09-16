@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-09-16 14:30:06
+Last refreshed 2022-09-16 15:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -16,11 +16,11 @@ Last refreshed 2022-09-16 14:30:06
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 81,818 | 81,603 | 215 | 0 | 99.74 | 0.26 | 0.00 |
 | [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 77,389 | 76,451 | 938 | 0 | 98.79 | 1.21 | 0.00 |
 | [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 75,287 | 75,090 | 197 | 0 | 99.74 | 0.26 | 0.00 |
-| [Do not reduce staff-child ratios in early years childcare](615623.md) | 68,919 | 68,799 | 120 | 0 | 99.83 | 0.17 | 0.00 |
+| [Do not reduce staff-child ratios in early years childcare](615623.md) | 68,918 | 68,798 | 120 | 0 | 99.83 | 0.17 | 0.00 |
 | [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 67,475 | 67,213 | 262 | 0 | 99.61 | 0.39 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 53,597 | 52,987 | 610 | 0 | 98.86 | 1.14 | 0.00 |
 | [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 42,525 | 42,248 | 277 | 0 | 99.35 | 0.65 | 0.00 |
-| [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 35,586 | 35,555 | 31 | 0 | 99.91 | 0.09 | 0.00 |
+| [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 35,585 | 35,554 | 31 | 0 | 99.91 | 0.09 | 0.00 |
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 35,546 | 35,155 | 391 | 0 | 98.90 | 1.10 | 0.00 |
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 26,841 | 26,700 | 141 | 0 | 99.47 | 0.53 | 0.00 |
 | [Limit the shooting season of Woodcock](619615.md) | 25,631 | 25,401 | 230 | 0 | 99.10 | 0.90 | 0.00 |
