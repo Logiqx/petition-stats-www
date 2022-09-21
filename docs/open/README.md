@@ -4,11 +4,11 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-09-21 12:30:07
+Last refreshed 2022-09-21 13:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Include abortion rights in the Bill of Rights](619334.md) | 163,092 | 162,611 | 481 | 0 | 99.71 | 0.29 | 0.00 |
+| [Include abortion rights in the Bill of Rights](619334.md) | 163,091 | 162,610 | 481 | 0 | 99.71 | 0.29 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 154,593 | 151,489 | 3,104 | 0 | 97.99 | 2.01 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 148,534 | 147,114 | 1,420 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 129,770 | 129,220 | 550 | 0 | 99.58 | 0.42 | 0.00 |
