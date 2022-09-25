@@ -4,28 +4,28 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-09-25 03:30:05
+Last refreshed 2022-09-25 04:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Include abortion rights in the Bill of Rights](619334.md) | 163,348 | 162,865 | 483 | 0 | 99.70 | 0.30 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 154,632 | 151,528 | 3,104 | 0 | 97.99 | 2.01 | 0.00 |
-| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 148,595 | 147,174 | 1,421 | 0 | 99.04 | 0.96 | 0.00 |
+| [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 148,596 | 147,175 | 1,421 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 129,799 | 129,249 | 550 | 0 | 99.58 | 0.42 | 0.00 |
-| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 96,938 | 95,926 | 1,012 | 0 | 98.96 | 1.04 | 0.00 |
-| [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 90,948 | 89,795 | 1,153 | 0 | 98.73 | 1.27 | 0.00 |
+| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 96,940 | 95,928 | 1,012 | 0 | 98.96 | 1.04 | 0.00 |
+| [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 90,975 | 89,822 | 1,153 | 0 | 98.73 | 1.27 | 0.00 |
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 81,916 | 81,701 | 215 | 0 | 99.74 | 0.26 | 0.00 |
-| [Do not reduce staff-child ratios in early years childcare](615623.md) | 78,486 | 78,342 | 144 | 0 | 99.82 | 0.18 | 0.00 |
+| [Do not reduce staff-child ratios in early years childcare](615623.md) | 78,523 | 78,379 | 144 | 0 | 99.82 | 0.18 | 0.00 |
 | [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 75,578 | 75,380 | 198 | 0 | 99.74 | 0.26 | 0.00 |
 | [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 67,492 | 67,229 | 263 | 0 | 99.61 | 0.39 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 53,683 | 53,072 | 611 | 0 | 98.86 | 1.14 | 0.00 |
-| [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 42,678 | 42,401 | 277 | 0 | 99.35 | 0.65 | 0.00 |
+| [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 42,679 | 42,402 | 277 | 0 | 99.35 | 0.65 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 35,651 | 35,620 | 31 | 0 | 99.91 | 0.09 | 0.00 |
 | [Fund OPTUNE brain cancer treatment for NHS patients](610898.md) | 35,566 | 35,175 | 391 | 0 | 98.90 | 1.10 | 0.00 |
-| [Call an immediate general election to end the chaos of the current government](619781.md) | 28,458 | 28,195 | 263 | 0 | 99.08 | 0.92 | 0.00 |
+| [Call an immediate general election to end the chaos of the current government](619781.md) | 28,477 | 28,213 | 264 | 0 | 99.07 | 0.93 | 0.00 |
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 26,900 | 26,759 | 141 | 0 | 99.48 | 0.52 | 0.00 |
 | [Limit the shooting season of Woodcock](619615.md) | 25,835 | 25,605 | 230 | 0 | 99.11 | 0.89 | 0.00 |
-| [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 24,944 | 24,904 | 40 | 0 | 99.84 | 0.16 | 0.00 |
+| [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 24,948 | 24,908 | 40 | 0 | 99.84 | 0.16 | 0.00 |
 | [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 24,333 | 24,268 | 65 | 0 | 99.73 | 0.27 | 0.00 |
 | [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 22,577 | 22,518 | 59 | 0 | 99.74 | 0.26 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 21,811 | 21,418 | 393 | 0 | 98.20 | 1.80 | 0.00 |
