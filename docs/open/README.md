@@ -4,28 +4,28 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-09-26 02:30:07
+Last refreshed 2022-09-26 03:30:07
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Include abortion rights in the Bill of Rights](619334.md) | 163,431 | 162,947 | 484 | 0 | 99.70 | 0.30 | 0.00 |
-| [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 154,643 | 151,539 | 3,104 | 0 | 97.99 | 2.01 | 0.00 |
+| [Include abortion rights in the Bill of Rights](619334.md) | 163,433 | 162,949 | 484 | 0 | 99.70 | 0.30 | 0.00 |
+| [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 154,644 | 151,540 | 3,104 | 0 | 97.99 | 2.01 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 148,614 | 147,193 | 1,421 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 129,805 | 129,255 | 550 | 0 | 99.58 | 0.42 | 0.00 |
-| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 98,564 | 97,545 | 1,019 | 0 | 98.97 | 1.03 | 0.00 |
-| [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 94,993 | 93,797 | 1,196 | 0 | 98.74 | 1.26 | 0.00 |
-| [Do not reduce staff-child ratios in early years childcare](615623.md) | 85,221 | 85,057 | 164 | 0 | 99.81 | 0.19 | 0.00 |
-| [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 82,091 | 81,875 | 216 | 0 | 99.74 | 0.26 | 0.00 |
-| [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 75,647 | 75,449 | 198 | 0 | 99.74 | 0.26 | 0.00 |
+| [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 98,571 | 97,551 | 1,020 | 0 | 98.97 | 1.03 | 0.00 |
+| [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 95,006 | 93,810 | 1,196 | 0 | 98.74 | 1.26 | 0.00 |
+| [Do not reduce staff-child ratios in early years childcare](615623.md) | 85,232 | 85,068 | 164 | 0 | 99.81 | 0.19 | 0.00 |
+| [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 82,093 | 81,877 | 216 | 0 | 99.74 | 0.26 | 0.00 |
+| [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 75,648 | 75,450 | 198 | 0 | 99.74 | 0.26 | 0.00 |
 | [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 67,500 | 67,237 | 263 | 0 | 99.61 | 0.39 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 53,704 | 53,093 | 611 | 0 | 98.86 | 1.14 | 0.00 |
 | [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 42,756 | 42,479 | 277 | 0 | 99.35 | 0.65 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 35,662 | 35,631 | 31 | 0 | 99.91 | 0.09 | 0.00 |
-| [Call an immediate general election to end the chaos of the current government](619781.md) | 32,467 | 32,170 | 297 | 0 | 99.09 | 0.91 | 0.00 |
+| [Call an immediate general election to end the chaos of the current government](619781.md) | 32,488 | 32,191 | 297 | 0 | 99.09 | 0.91 | 0.00 |
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 26,910 | 26,769 | 141 | 0 | 99.48 | 0.52 | 0.00 |
 | [Limit the shooting season of Woodcock](619615.md) | 25,862 | 25,632 | 230 | 0 | 99.11 | 0.89 | 0.00 |
-| [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 25,466 | 25,426 | 40 | 0 | 99.84 | 0.16 | 0.00 |
-| [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 24,440 | 24,374 | 66 | 0 | 99.73 | 0.27 | 0.00 |
+| [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 25,470 | 25,430 | 40 | 0 | 99.84 | 0.16 | 0.00 |
+| [Ban development on agricultural land to increase food self-sufficiency](611113.md) | 24,442 | 24,376 | 66 | 0 | 99.73 | 0.27 | 0.00 |
 | [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 22,593 | 22,534 | 59 | 0 | 99.74 | 0.26 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 21,815 | 21,422 | 393 | 0 | 98.20 | 1.80 | 0.00 |
 | [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 19,181 | 19,020 | 161 | 0 | 99.16 | 0.84 | 0.00 |
@@ -33,7 +33,7 @@ Last refreshed 2022-09-26 02:30:07
 | [Exempt charities using IPAFFS from ban on importing animals from Eastern Europe](616575.md) | 18,319 | 18,089 | 230 | 0 | 98.74 | 1.26 | 0.00 |
 | [Require all public rights of way be accessible to pedestrians, horses & bicycles](610936.md) | 18,225 | 18,174 | 51 | 0 | 99.72 | 0.28 | 0.00 |
 | [Allow EU nationals to come to the UK to work in hospitality for up to 2 Years](621932.md) | 17,415 | 17,244 | 171 | 0 | 99.02 | 0.98 | 0.00 |
-| [Change legal definition of stillborn to include all delivered babies](615852.md) | 17,184 | 17,123 | 61 | 0 | 99.65 | 0.35 | 0.00 |
+| [Change legal definition of stillborn to include all delivered babies](615852.md) | 17,185 | 17,124 | 61 | 0 | 99.65 | 0.35 | 0.00 |
 | [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 17,020 | 16,894 | 126 | 0 | 99.26 | 0.74 | 0.00 |
 | [Start school at 10am to help teenagers with tiredness](612113.md) | 16,340 | 16,260 | 80 | 0 | 99.51 | 0.49 | 0.00 |
 | [Make parking at work permanently free for all NHS workers](612699.md) | 15,840 | 15,719 | 121 | 0 | 99.24 | 0.76 | 0.00 |
