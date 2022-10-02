@@ -4,31 +4,31 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-10-02 02:30:06
+Last refreshed 2022-10-02 03:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Call an immediate general election to end the chaos of the current government](619781.md) | 358,097 | 353,934 | 4,163 | 0 | 98.84 | 1.16 | 0.00 |
+| [Call an immediate general election to end the chaos of the current government](619781.md) | 358,492 | 354,306 | 4,186 | 0 | 98.83 | 1.17 | 0.00 |
 | [Include abortion rights in the Bill of Rights](619334.md) | 164,287 | 163,795 | 492 | 0 | 99.70 | 0.30 | 0.00 |
-| [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 154,746 | 151,641 | 3,105 | 0 | 97.99 | 2.01 | 0.00 |
+| [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 154,747 | 151,642 | 3,105 | 0 | 97.99 | 2.01 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 148,785 | 147,362 | 1,423 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 129,869 | 129,319 | 550 | 0 | 99.58 | 0.42 | 0.00 |
-| [Do not reduce staff-child ratios in early years childcare](615623.md) | 103,589 | 103,378 | 211 | 0 | 99.80 | 0.20 | 0.00 |
+| [Do not reduce staff-child ratios in early years childcare](615623.md) | 103,592 | 103,381 | 211 | 0 | 99.80 | 0.20 | 0.00 |
 | [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 101,464 | 100,388 | 1,076 | 0 | 98.94 | 1.06 | 0.00 |
 | [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 100,766 | 99,497 | 1,269 | 0 | 98.74 | 1.26 | 0.00 |
-| [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 82,752 | 82,534 | 218 | 0 | 99.74 | 0.26 | 0.00 |
+| [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 82,753 | 82,535 | 218 | 0 | 99.74 | 0.26 | 0.00 |
 | [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 76,117 | 75,916 | 201 | 0 | 99.74 | 0.26 | 0.00 |
 | [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 67,566 | 67,303 | 263 | 0 | 99.61 | 0.39 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 53,940 | 53,326 | 614 | 0 | 98.86 | 1.14 | 0.00 |
 | [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 43,259 | 42,978 | 281 | 0 | 99.35 | 0.65 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 36,127 | 36,096 | 31 | 0 | 99.91 | 0.09 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 33,968 | 33,669 | 299 | 0 | 99.12 | 0.88 | 0.00 |
-| [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 29,233 | 29,175 | 58 | 0 | 99.80 | 0.20 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 33,976 | 33,677 | 299 | 0 | 99.12 | 0.88 | 0.00 |
+| [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 29,234 | 29,176 | 58 | 0 | 99.80 | 0.20 | 0.00 |
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 27,023 | 26,881 | 142 | 0 | 99.47 | 0.53 | 0.00 |
-| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 22,802 | 22,743 | 59 | 0 | 99.74 | 0.26 | 0.00 |
+| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 22,803 | 22,744 | 59 | 0 | 99.74 | 0.26 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 21,843 | 21,450 | 393 | 0 | 98.20 | 1.80 | 0.00 |
-| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 20,787 | 20,661 | 126 | 0 | 99.39 | 0.61 | 0.00 |
-| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 19,289 | 19,126 | 163 | 0 | 99.15 | 0.85 | 0.00 |
+| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 20,791 | 20,665 | 126 | 0 | 99.39 | 0.61 | 0.00 |
+| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 19,290 | 19,127 | 163 | 0 | 99.16 | 0.84 | 0.00 |
 | [Change legal definition of stillborn to include all delivered babies](615852.md) | 18,676 | 18,569 | 107 | 0 | 99.43 | 0.57 | 0.00 |
 | [Fund Evusheld the preventative COVID19 antibody for immunocompromised](611884.md) | 18,587 | 18,388 | 199 | 0 | 98.93 | 1.07 | 0.00 |
 | [Exempt charities using IPAFFS from ban on importing animals from Eastern Europe](616575.md) | 18,340 | 18,109 | 231 | 0 | 98.74 | 1.26 | 0.00 |
