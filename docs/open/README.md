@@ -4,25 +4,25 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-10-12 02:30:05
+Last refreshed 2022-10-12 03:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Call an immediate general election to end the chaos of the current government](619781.md) | 575,791 | 568,985 | 6,806 | 0 | 98.82 | 1.18 | 0.00 |
+| [Call an immediate general election to end the chaos of the current government](619781.md) | 575,818 | 569,010 | 6,808 | 0 | 98.82 | 1.18 | 0.00 |
 | [Include abortion rights in the Bill of Rights](619334.md) | 165,087 | 164,591 | 496 | 0 | 99.70 | 0.30 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 155,198 | 152,072 | 3,126 | 0 | 97.99 | 2.01 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 149,012 | 147,587 | 1,425 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 129,956 | 129,406 | 550 | 0 | 99.58 | 0.42 | 0.00 |
-| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 120,226 | 119,522 | 704 | 0 | 99.41 | 0.59 | 0.00 |
+| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 120,244 | 119,538 | 706 | 0 | 99.41 | 0.59 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 105,568 | 105,354 | 214 | 0 | 99.80 | 0.20 | 0.00 |
-| [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 103,010 | 101,714 | 1,296 | 0 | 98.74 | 1.26 | 0.00 |
+| [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 103,012 | 101,716 | 1,296 | 0 | 98.74 | 1.26 | 0.00 |
 | [Ban commercial breeding for laboratories. Implement reform to approve & use NAMs](611810.md) | 102,176 | 101,094 | 1,082 | 0 | 98.94 | 1.06 | 0.00 |
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 83,102 | 82,883 | 219 | 0 | 99.74 | 0.26 | 0.00 |
-| [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 76,596 | 76,390 | 206 | 0 | 99.73 | 0.27 | 0.00 |
+| [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 76,597 | 76,391 | 206 | 0 | 99.73 | 0.27 | 0.00 |
 | [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 67,678 | 67,414 | 264 | 0 | 99.61 | 0.39 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 54,181 | 53,567 | 614 | 0 | 98.87 | 1.13 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 53,331 | 52,900 | 431 | 0 | 99.19 | 0.81 | 0.00 |
-| [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 45,181 | 44,875 | 306 | 0 | 99.32 | 0.68 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 53,337 | 52,906 | 431 | 0 | 99.19 | 0.81 | 0.00 |
+| [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 45,182 | 44,876 | 306 | 0 | 99.32 | 0.68 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 36,844 | 36,812 | 32 | 0 | 99.91 | 0.09 | 0.00 |
 | [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 30,709 | 30,597 | 112 | 0 | 99.64 | 0.36 | 0.00 |
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 27,140 | 26,998 | 142 | 0 | 99.48 | 0.52 | 0.00 |
@@ -41,9 +41,9 @@ Last refreshed 2022-10-12 02:30:05
 | [Make Graduate visa extendable and count towards permanent residency](614931.md) | 15,722 | 15,507 | 215 | 0 | 98.63 | 1.37 | 0.00 |
 | [Set a Minimum Pension Guarantee (MPG) of at least £200 pw for state pensioners](620839.md) | 15,308 | 14,884 | 424 | 0 | 97.23 | 2.77 | 0.00 |
 | [Require local authorities in England to permit motorcycles in bus lanes](614294.md) | 14,663 | 14,625 | 38 | 0 | 99.74 | 0.26 | 0.00 |
-| [Fund research into Topical Steroid Withdrawal (TSW)](612034.md) | 14,628 | 13,939 | 689 | 0 | 95.29 | 4.71 | 0.00 |
+| [Fund research into Topical Steroid Withdrawal (TSW)](612034.md) | 14,629 | 13,940 | 689 | 0 | 95.29 | 4.71 | 0.00 |
 | [Review UK foreign policy in light of reports of Israeli apartheid](618802.md) | 14,612 | 14,396 | 216 | 0 | 98.52 | 1.48 | 0.00 |
-| [Full review of Personal Independence Payment (PIP) application process](620962.md) | 14,046 | 14,018 | 28 | 0 | 99.80 | 0.20 | 0.00 |
+| [Full review of Personal Independence Payment (PIP) application process](620962.md) | 14,047 | 14,019 | 28 | 0 | 99.80 | 0.20 | 0.00 |
 | [Reinstate a dedicated Minister of State for Veterans’ Affairs](623527.md) | 14,009 | 13,618 | 391 | 0 | 97.21 | 2.79 | 0.00 |
 | [Increase benefits in line with current levels of inflation](612152.md) | 13,838 | 13,672 | 166 | 0 | 98.80 | 1.20 | 0.00 |
 | [Require all businesses and public services to accept cash payments](622284.md) | 12,867 | 12,710 | 157 | 0 | 98.78 | 1.22 | 0.00 |
