@@ -4,22 +4,22 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-10-13 01:30:05
+Last refreshed 2022-10-13 02:30:03
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Call an immediate general election to end the chaos of the current government](619781.md) | 585,022 | 578,114 | 6,908 | 0 | 98.82 | 1.18 | 0.00 |
+| [Call an immediate general election to end the chaos of the current government](619781.md) | 585,073 | 578,164 | 6,909 | 0 | 98.82 | 1.18 | 0.00 |
 | [Include abortion rights in the Bill of Rights](619334.md) | 165,128 | 164,632 | 496 | 0 | 99.70 | 0.30 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 155,209 | 152,083 | 3,126 | 0 | 97.99 | 2.01 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 149,026 | 147,601 | 1,425 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 129,963 | 129,413 | 550 | 0 | 99.58 | 0.42 | 0.00 |
-| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 122,239 | 121,511 | 728 | 0 | 99.40 | 0.60 | 0.00 |
+| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 122,246 | 121,516 | 730 | 0 | 99.40 | 0.60 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 105,691 | 105,477 | 214 | 0 | 99.80 | 0.20 | 0.00 |
 | [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 103,152 | 101,852 | 1,300 | 0 | 98.74 | 1.26 | 0.00 |
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 83,128 | 82,909 | 219 | 0 | 99.74 | 0.26 | 0.00 |
-| [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 76,846 | 76,640 | 206 | 0 | 99.73 | 0.27 | 0.00 |
+| [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 76,851 | 76,645 | 206 | 0 | 99.73 | 0.27 | 0.00 |
 | [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 67,685 | 67,421 | 264 | 0 | 99.61 | 0.39 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 54,337 | 53,898 | 439 | 0 | 99.19 | 0.81 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 54,340 | 53,901 | 439 | 0 | 99.19 | 0.81 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 54,205 | 53,591 | 614 | 0 | 98.87 | 1.13 | 0.00 |
 | [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 45,357 | 45,050 | 307 | 0 | 99.32 | 0.68 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 36,854 | 36,822 | 32 | 0 | 99.91 | 0.09 | 0.00 |
@@ -39,7 +39,7 @@ Last refreshed 2022-10-13 01:30:05
 | [Make Graduate visa extendable and count towards permanent residency](614931.md) | 15,723 | 15,508 | 215 | 0 | 98.63 | 1.37 | 0.00 |
 | [Set a Minimum Pension Guarantee (MPG) of at least £200 pw for state pensioners](620839.md) | 15,324 | 14,900 | 424 | 0 | 97.23 | 2.77 | 0.00 |
 | [Require local authorities in England to permit motorcycles in bus lanes](614294.md) | 14,664 | 14,626 | 38 | 0 | 99.74 | 0.26 | 0.00 |
-| [Fund research into Topical Steroid Withdrawal (TSW)](612034.md) | 14,647 | 13,957 | 690 | 0 | 95.29 | 4.71 | 0.00 |
+| [Fund research into Topical Steroid Withdrawal (TSW)](612034.md) | 14,649 | 13,959 | 690 | 0 | 95.29 | 4.71 | 0.00 |
 | [Review UK foreign policy in light of reports of Israeli apartheid](618802.md) | 14,616 | 14,400 | 216 | 0 | 98.52 | 1.48 | 0.00 |
 | [Full review of Personal Independence Payment (PIP) application process](620962.md) | 14,112 | 14,084 | 28 | 0 | 99.80 | 0.20 | 0.00 |
 | [Reinstate a dedicated Minister of State for Veterans’ Affairs](623527.md) | 14,056 | 13,663 | 393 | 0 | 97.20 | 2.80 | 0.00 |
