@@ -4,29 +4,29 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-10-14 02:30:04
+Last refreshed 2022-10-14 03:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Call an immediate general election to end the chaos of the current government](619781.md) | 591,127 | 584,145 | 6,982 | 0 | 98.82 | 1.18 | 0.00 |
+| [Call an immediate general election to end the chaos of the current government](619781.md) | 591,160 | 584,178 | 6,982 | 0 | 98.82 | 1.18 | 0.00 |
 | [Include abortion rights in the Bill of Rights](619334.md) | 165,185 | 164,689 | 496 | 0 | 99.70 | 0.30 | 0.00 |
-| [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 155,237 | 152,110 | 3,127 | 0 | 97.99 | 2.01 | 0.00 |
+| [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 155,238 | 152,111 | 3,127 | 0 | 97.99 | 2.01 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 149,044 | 147,619 | 1,425 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 129,993 | 129,443 | 550 | 0 | 99.58 | 0.42 | 0.00 |
-| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 123,352 | 122,610 | 742 | 0 | 99.40 | 0.60 | 0.00 |
+| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 123,359 | 122,617 | 742 | 0 | 99.40 | 0.60 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 105,792 | 105,578 | 214 | 0 | 99.80 | 0.20 | 0.00 |
-| [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 103,269 | 101,968 | 1,301 | 0 | 98.74 | 1.26 | 0.00 |
+| [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 103,270 | 101,969 | 1,301 | 0 | 98.74 | 1.26 | 0.00 |
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 83,156 | 82,935 | 221 | 0 | 99.73 | 0.27 | 0.00 |
-| [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 77,117 | 76,905 | 212 | 0 | 99.73 | 0.27 | 0.00 |
-| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 67,693 | 67,429 | 264 | 0 | 99.61 | 0.39 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 54,978 | 54,530 | 448 | 0 | 99.19 | 0.81 | 0.00 |
+| [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 77,118 | 76,906 | 212 | 0 | 99.73 | 0.27 | 0.00 |
+| [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 67,694 | 67,430 | 264 | 0 | 99.61 | 0.39 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 54,979 | 54,531 | 448 | 0 | 99.19 | 0.81 | 0.00 |
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 54,227 | 53,613 | 614 | 0 | 98.87 | 1.13 | 0.00 |
-| [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 45,418 | 45,111 | 307 | 0 | 99.32 | 0.68 | 0.00 |
-| [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 37,035 | 37,003 | 32 | 0 | 99.91 | 0.09 | 0.00 |
-| [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 30,812 | 30,700 | 112 | 0 | 99.64 | 0.36 | 0.00 |
+| [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 45,419 | 45,112 | 307 | 0 | 99.32 | 0.68 | 0.00 |
+| [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 37,038 | 37,006 | 32 | 0 | 99.91 | 0.09 | 0.00 |
+| [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 30,814 | 30,702 | 112 | 0 | 99.64 | 0.36 | 0.00 |
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 27,161 | 27,019 | 142 | 0 | 99.48 | 0.52 | 0.00 |
-| [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 25,289 | 23,906 | 1,383 | 0 | 94.53 | 5.47 | 0.00 |
-| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 23,024 | 22,961 | 63 | 0 | 99.73 | 0.27 | 0.00 |
+| [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 25,292 | 23,908 | 1,384 | 0 | 94.53 | 5.47 | 0.00 |
+| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 23,025 | 22,962 | 63 | 0 | 99.73 | 0.27 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 21,925 | 21,532 | 393 | 0 | 98.21 | 1.79 | 0.00 |
 | [Change legal definition of stillborn to include all delivered babies](615852.md) | 20,109 | 19,998 | 111 | 0 | 99.45 | 0.55 | 0.00 |
 | [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 19,719 | 19,566 | 153 | 0 | 99.22 | 0.78 | 0.00 |
@@ -39,8 +39,8 @@ Last refreshed 2022-10-14 02:30:04
 | [Make Graduate visa extendable and count towards permanent residency](614931.md) | 15,726 | 15,511 | 215 | 0 | 98.63 | 1.37 | 0.00 |
 | [Set a Minimum Pension Guarantee (MPG) of at least £200 pw for state pensioners](620839.md) | 15,335 | 14,911 | 424 | 0 | 97.24 | 2.76 | 0.00 |
 | [Require local authorities in England to permit motorcycles in bus lanes](614294.md) | 14,667 | 14,629 | 38 | 0 | 99.74 | 0.26 | 0.00 |
-| [Review UK foreign policy in light of reports of Israeli apartheid](618802.md) | 14,621 | 14,405 | 216 | 0 | 98.52 | 1.48 | 0.00 |
-| [Full review of Personal Independence Payment (PIP) application process](620962.md) | 14,206 | 14,178 | 28 | 0 | 99.80 | 0.20 | 0.00 |
+| [Review UK foreign policy in light of reports of Israeli apartheid](618802.md) | 14,622 | 14,406 | 216 | 0 | 98.52 | 1.48 | 0.00 |
+| [Full review of Personal Independence Payment (PIP) application process](620962.md) | 14,207 | 14,179 | 28 | 0 | 99.80 | 0.20 | 0.00 |
 | [Reinstate a dedicated Minister of State for Veterans’ Affairs](623527.md) | 14,095 | 13,701 | 394 | 0 | 97.20 | 2.80 | 0.00 |
 | [Require all businesses and public services to accept cash payments](622284.md) | 12,906 | 12,748 | 158 | 0 | 98.78 | 1.22 | 0.00 |
 | [Stop the government's 'one way ticket' plan to send asylum seekers to Rwanda](614913.md) | 12,768 | 12,560 | 208 | 0 | 98.37 | 1.63 | 0.00 |
