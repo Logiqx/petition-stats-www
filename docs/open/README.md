@@ -4,29 +4,29 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-10-18 02:30:05
+Last refreshed 2022-10-18 03:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Call an immediate general election to end the chaos of the current government](619781.md) | 636,751 | 629,161 | 7,590 | 0 | 98.81 | 1.19 | 0.00 |
+| [Call an immediate general election to end the chaos of the current government](619781.md) | 636,775 | 629,185 | 7,590 | 0 | 98.81 | 1.19 | 0.00 |
 | [Include abortion rights in the Bill of Rights](619334.md) | 165,346 | 164,848 | 498 | 0 | 99.70 | 0.30 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 155,365 | 152,232 | 3,133 | 0 | 97.98 | 2.02 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 149,091 | 147,666 | 1,425 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 130,024 | 129,474 | 550 | 0 | 99.58 | 0.42 | 0.00 |
-| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 125,203 | 124,439 | 764 | 0 | 99.39 | 0.61 | 0.00 |
+| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 125,205 | 124,441 | 764 | 0 | 99.39 | 0.61 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 105,920 | 105,703 | 217 | 0 | 99.80 | 0.20 | 0.00 |
-| [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 103,581 | 102,280 | 1,301 | 0 | 98.74 | 1.26 | 0.00 |
+| [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 103,582 | 102,281 | 1,301 | 0 | 98.74 | 1.26 | 0.00 |
 | [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 86,805 | 86,555 | 250 | 0 | 99.71 | 0.29 | 0.00 |
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 83,232 | 83,011 | 221 | 0 | 99.73 | 0.27 | 0.00 |
 | [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 67,926 | 67,662 | 264 | 0 | 99.61 | 0.39 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 56,256 | 55,800 | 456 | 0 | 99.19 | 0.81 | 0.00 |
-| [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 54,312 | 53,697 | 615 | 0 | 98.87 | 1.13 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 56,257 | 55,801 | 456 | 0 | 99.19 | 0.81 | 0.00 |
+| [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 54,313 | 53,698 | 615 | 0 | 98.87 | 1.13 | 0.00 |
 | [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 45,638 | 45,330 | 308 | 0 | 99.33 | 0.67 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 37,315 | 37,282 | 33 | 0 | 99.91 | 0.09 | 0.00 |
 | [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 31,232 | 31,110 | 122 | 0 | 99.61 | 0.39 | 0.00 |
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 27,191 | 27,049 | 142 | 0 | 99.48 | 0.52 | 0.00 |
 | [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 26,297 | 24,882 | 1,415 | 0 | 94.62 | 5.38 | 0.00 |
-| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 23,323 | 23,259 | 64 | 0 | 99.73 | 0.27 | 0.00 |
+| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 23,329 | 23,265 | 64 | 0 | 99.73 | 0.27 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 21,945 | 21,552 | 393 | 0 | 98.21 | 1.79 | 0.00 |
 | [Change legal definition of stillborn to include all delivered babies](615852.md) | 20,121 | 20,010 | 111 | 0 | 99.45 | 0.55 | 0.00 |
 | [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 19,824 | 19,671 | 153 | 0 | 99.23 | 0.77 | 0.00 |
@@ -53,7 +53,7 @@ Last refreshed 2022-10-18 02:30:05
 | [Add Romanian to the Modern Languages GCSE ](617718.md) | 11,015 | 10,985 | 30 | 0 | 99.73 | 0.27 | 0.00 |
 | [Require swimming venues to maintain single-sex or private changing facilities](622145.md) | 10,905 | 10,734 | 171 | 0 | 98.43 | 1.57 | 0.00 |
 | [Extend 30 hours free childcare to student midwives/nurses/paramedics](616557.md) | 10,890 | 10,858 | 32 | 0 | 99.71 | 0.29 | 0.00 |
-| [Referendum on whether the UK should be neutral in the Ukraine/Russia conflict](617939.md) | 10,758 | 10,557 | 201 | 0 | 98.13 | 1.87 | 0.00 |
+| [Referendum on whether the UK should be neutral in the Ukraine/Russia conflict](617939.md) | 10,759 | 10,558 | 201 | 0 | 98.13 | 1.87 | 0.00 |
 | [Reschedule psilocybin for medical research on untreatable conditions](621199.md) | 10,689 | 10,562 | 127 | 0 | 98.81 | 1.19 | 0.00 |
 | [Do not pass legislation to allow the gene editing of animals and crops](616480.md) | 10,408 | 10,269 | 139 | 0 | 98.66 | 1.34 | 0.00 |
 | [Make disregard for learners' safety an aggravating factor in driving offences](617180.md) | 10,273 | 10,258 | 15 | 0 | 99.85 | 0.15 | 0.00 |
