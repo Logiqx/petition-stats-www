@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-10-20 07:30:18
+Last refreshed 2022-10-20 08:30:17
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -48,7 +48,7 @@ Last refreshed 2022-10-20 07:30:18
 | [Keep gyms open during Tier 4 lockdown](563904.md) | 180,171 | 180,068 | 103 | 0 | 99.94 | 0.06 | 0.00 |
 | [Offer more support to the arts (particularly Theatres and Music) amidst COVID-19](320711.md) | 179,699 | 178,265 | 1,434 | 0 | 99.20 | 0.80 | 0.00 |
 | [Increase pay for NHS healthcare workers and recognise their work](300073.md) | 178,820 | 177,996 | 824 | 0 | 99.54 | 0.46 | 0.00 |
-| [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 175,074 | 174,660 | 414 | 0 | 99.76 | 0.24 | 0.00 |
+| [Make it a legal requirement for nightclubs to thoroughly search guests on entry](598986.md) | 175,075 | 174,661 | 414 | 0 | 99.76 | 0.24 | 0.00 |
 | [Lower university tuition fees for students until online teaching ends](552911.md) | 171,137 | 170,463 | 674 | 0 | 99.61 | 0.39 | 0.00 |
 | [Scrap removal of free transport for under-18s from TfL bailout](331453.md) | 171,010 | 170,426 | 584 | 0 | 99.66 | 0.34 | 0.00 |
 | [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 167,461 | 166,507 | 954 | 0 | 99.43 | 0.57 | 0.00 |
