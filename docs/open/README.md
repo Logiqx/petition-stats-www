@@ -4,16 +4,16 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-10-20 02:30:05
+Last refreshed 2022-10-20 03:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Call an immediate general election to end the chaos of the current government](619781.md) | 647,711 | 640,031 | 7,680 | 0 | 98.81 | 1.19 | 0.00 |
-| [Include abortion rights in the Bill of Rights](619334.md) | 165,435 | 164,934 | 501 | 0 | 99.70 | 0.30 | 0.00 |
+| [Call an immediate general election to end the chaos of the current government](619781.md) | 647,732 | 640,052 | 7,680 | 0 | 98.81 | 1.19 | 0.00 |
+| [Include abortion rights in the Bill of Rights](619334.md) | 165,436 | 164,935 | 501 | 0 | 99.70 | 0.30 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 155,401 | 152,266 | 3,135 | 0 | 97.98 | 2.02 | 0.00 |
 | [Ensure Trans people are fully protected under any conversion therapy ban](613556.md) | 149,126 | 147,701 | 1,425 | 0 | 99.04 | 0.96 | 0.00 |
 | [Automatically suspend PR rights of parent guilty of murdering the other parent.](614893.md) | 130,039 | 129,489 | 550 | 0 | 99.58 | 0.42 | 0.00 |
-| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 126,308 | 125,535 | 773 | 0 | 99.39 | 0.61 | 0.00 |
+| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 126,309 | 125,536 | 773 | 0 | 99.39 | 0.61 | 0.00 |
 | [Do not reduce staff-child ratios in early years childcare](615623.md) | 105,957 | 105,740 | 217 | 0 | 99.80 | 0.20 | 0.00 |
 | [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 103,812 | 102,509 | 1,303 | 0 | 98.74 | 1.26 | 0.00 |
 | [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 87,300 | 87,047 | 253 | 0 | 99.71 | 0.29 | 0.00 |
@@ -23,10 +23,10 @@ Last refreshed 2022-10-20 02:30:05
 | [Introduce independent body to enforce the ministerial code on ministers.](614813.md) | 54,370 | 53,755 | 615 | 0 | 98.87 | 1.13 | 0.00 |
 | [Suspend Section 25 of the Landlord and Tenant Act (Grounds C to G)](614202.md) | 45,703 | 45,395 | 308 | 0 | 99.33 | 0.67 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 37,358 | 37,325 | 33 | 0 | 99.91 | 0.09 | 0.00 |
-| [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 31,443 | 31,318 | 125 | 0 | 99.60 | 0.40 | 0.00 |
+| [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 31,444 | 31,319 | 125 | 0 | 99.60 | 0.40 | 0.00 |
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 27,215 | 27,072 | 143 | 0 | 99.47 | 0.53 | 0.00 |
-| [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 26,768 | 25,327 | 1,441 | 0 | 94.62 | 5.38 | 0.00 |
-| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 23,956 | 23,892 | 64 | 0 | 99.73 | 0.27 | 0.00 |
+| [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 26,771 | 25,330 | 1,441 | 0 | 94.62 | 5.38 | 0.00 |
+| [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 23,957 | 23,893 | 64 | 0 | 99.73 | 0.27 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 21,954 | 21,561 | 393 | 0 | 98.21 | 1.79 | 0.00 |
 | [Change legal definition of stillborn to include all delivered babies](615852.md) | 20,126 | 20,015 | 111 | 0 | 99.45 | 0.55 | 0.00 |
 | [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 19,894 | 19,741 | 153 | 0 | 99.23 | 0.77 | 0.00 |
@@ -41,7 +41,7 @@ Last refreshed 2022-10-20 02:30:05
 | [Require local authorities in England to permit motorcycles in bus lanes](614294.md) | 14,687 | 14,649 | 38 | 0 | 99.74 | 0.26 | 0.00 |
 | [Reinstate a dedicated Minister of State for Veterans’ Affairs](623527.md) | 14,477 | 14,074 | 403 | 0 | 97.22 | 2.78 | 0.00 |
 | [Full review of Personal Independence Payment (PIP) application process](620962.md) | 14,377 | 14,348 | 29 | 0 | 99.80 | 0.20 | 0.00 |
-| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 13,367 | 13,250 | 117 | 0 | 99.12 | 0.88 | 0.00 |
+| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 13,374 | 13,257 | 117 | 0 | 99.13 | 0.87 | 0.00 |
 | [Require all businesses and public services to accept cash payments](622284.md) | 12,954 | 12,796 | 158 | 0 | 98.78 | 1.22 | 0.00 |
 | [Stop the government's 'one way ticket' plan to send asylum seekers to Rwanda](614913.md) | 12,812 | 12,604 | 208 | 0 | 98.38 | 1.62 | 0.00 |
 | [Ban the religious slaughter of animals without first stunning them](614742.md) | 12,326 | 12,190 | 136 | 0 | 98.90 | 1.10 | 0.00 |
@@ -53,7 +53,7 @@ Last refreshed 2022-10-20 02:30:05
 | [Add Romanian to the Modern Languages GCSE ](617718.md) | 11,017 | 10,987 | 30 | 0 | 99.73 | 0.27 | 0.00 |
 | [Require swimming venues to maintain single-sex or private changing facilities](622145.md) | 10,926 | 10,754 | 172 | 0 | 98.43 | 1.57 | 0.00 |
 | [Extend 30 hours free childcare to student midwives/nurses/paramedics](616557.md) | 10,911 | 10,879 | 32 | 0 | 99.71 | 0.29 | 0.00 |
-| [Referendum on whether the UK should be neutral in the Ukraine/Russia conflict](617939.md) | 10,867 | 10,665 | 202 | 0 | 98.14 | 1.86 | 0.00 |
+| [Referendum on whether the UK should be neutral in the Ukraine/Russia conflict](617939.md) | 10,868 | 10,666 | 202 | 0 | 98.14 | 1.86 | 0.00 |
 | [Reschedule psilocybin for medical research on untreatable conditions](621199.md) | 10,794 | 10,667 | 127 | 0 | 98.82 | 1.18 | 0.00 |
 | [Do not pass legislation to allow the gene editing of animals and crops](616480.md) | 10,419 | 10,279 | 140 | 0 | 98.66 | 1.34 | 0.00 |
 | [Make disregard for learners' safety an aggravating factor in driving offences](617180.md) | 10,280 | 10,264 | 16 | 0 | 99.84 | 0.16 | 0.00 |
