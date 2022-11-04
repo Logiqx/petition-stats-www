@@ -4,11 +4,11 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-11-04 03:30:06
+Last refreshed 2022-11-04 04:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Call an immediate general election to end the chaos of the current government](619781.md) | 894,364 | 883,106 | 11,258 | 0 | 98.74 | 1.26 | 0.00 |
+| [Call an immediate general election to end the chaos of the current government](619781.md) | 894,368 | 883,110 | 11,258 | 0 | 98.74 | 1.26 | 0.00 |
 | [Include abortion rights in the Bill of Rights](619334.md) | 166,343 | 165,836 | 507 | 0 | 99.70 | 0.30 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 155,604 | 152,468 | 3,136 | 0 | 97.98 | 2.02 | 0.00 |
 | [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 144,343 | 143,478 | 865 | 0 | 99.40 | 0.60 | 0.00 |
@@ -20,11 +20,11 @@ Last refreshed 2022-11-04 03:30:06
 | [Limit the shooting season of Woodcock](619615.md) | 57,159 | 56,697 | 462 | 0 | 99.19 | 0.81 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 37,751 | 37,717 | 34 | 0 | 99.91 | 0.09 | 0.00 |
 | [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 32,461 | 32,334 | 127 | 0 | 99.61 | 0.39 | 0.00 |
-| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 32,083 | 31,773 | 310 | 0 | 99.03 | 0.97 | 0.00 |
+| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 32,085 | 31,775 | 310 | 0 | 99.03 | 0.97 | 0.00 |
 | [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 28,867 | 27,312 | 1,555 | 0 | 94.61 | 5.39 | 0.00 |
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 27,405 | 27,261 | 144 | 0 | 99.47 | 0.53 | 0.00 |
 | [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 24,221 | 24,157 | 64 | 0 | 99.74 | 0.26 | 0.00 |
-| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 22,197 | 21,779 | 418 | 0 | 98.12 | 1.88 | 0.00 |
+| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 22,225 | 21,806 | 419 | 0 | 98.11 | 1.89 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 22,057 | 21,664 | 393 | 0 | 98.22 | 1.78 | 0.00 |
 | [Hold a General Election within 100 days of the new PM being appointed](621931.md) | 20,814 | 20,308 | 506 | 0 | 97.57 | 2.43 | 0.00 |
 | [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 20,320 | 20,163 | 157 | 0 | 99.23 | 0.77 | 0.00 |
@@ -45,7 +45,7 @@ Last refreshed 2022-11-04 03:30:06
 | [Fund free BSL Courses for parents or guardians of deaf children](623900.md) | 12,959 | 12,917 | 42 | 0 | 99.68 | 0.32 | 0.00 |
 | [Apply to Join the European Union (EU)](616636.md) | 12,841 | 12,283 | 558 | 0 | 95.65 | 4.35 | 0.00 |
 | [Residential Park Home residents should be eligible for £400 electricity grant](617700.md) | 12,106 | 12,081 | 25 | 0 | 99.79 | 0.21 | 0.00 |
-| [Ban sale of fireworks to the public and limit sales to licensed displays only](616868.md) | 11,703 | 11,672 | 31 | 0 | 99.74 | 0.26 | 0.00 |
+| [Ban sale of fireworks to the public and limit sales to licensed displays only](616868.md) | 11,704 | 11,673 | 31 | 0 | 99.74 | 0.26 | 0.00 |
 | [Lift ban on import of rescue animals from Romania, Ukraine, Belarus and Poland](616592.md) | 11,591 | 11,435 | 156 | 0 | 98.65 | 1.35 | 0.00 |
 | [Make the NHS Pension scheme tax-unregistered](620093.md) | 11,470 | 11,445 | 25 | 0 | 99.78 | 0.22 | 0.00 |
 | [Increase staffing to reduce waiting times for visas](615711.md) | 11,355 | 10,781 | 574 | 0 | 94.94 | 5.06 | 0.00 |
