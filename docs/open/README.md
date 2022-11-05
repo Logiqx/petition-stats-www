@@ -4,48 +4,48 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-11-05 10:30:06
+Last refreshed 2022-11-05 11:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Call an immediate general election to end the chaos of the current government](619781.md) | 894,828 | 883,569 | 11,259 | 0 | 98.74 | 1.26 | 0.00 |
-| [Include abortion rights in the Bill of Rights](619334.md) | 166,381 | 165,874 | 507 | 0 | 99.70 | 0.30 | 0.00 |
+| [Call an immediate general election to end the chaos of the current government](619781.md) | 894,850 | 883,591 | 11,259 | 0 | 98.74 | 1.26 | 0.00 |
+| [Include abortion rights in the Bill of Rights](619334.md) | 166,383 | 165,876 | 507 | 0 | 99.70 | 0.30 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 155,612 | 152,476 | 3,136 | 0 | 97.98 | 2.02 | 0.00 |
-| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 144,609 | 143,744 | 865 | 0 | 99.40 | 0.60 | 0.00 |
-| [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 106,980 | 106,534 | 446 | 0 | 99.58 | 0.42 | 0.00 |
-| [Do not reduce staff-child ratios in early years childcare](615623.md) | 106,979 | 106,758 | 221 | 0 | 99.79 | 0.21 | 0.00 |
-| [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 105,062 | 103,749 | 1,313 | 0 | 98.75 | 1.25 | 0.00 |
-| [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 83,649 | 83,428 | 221 | 0 | 99.74 | 0.26 | 0.00 |
+| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 144,622 | 143,757 | 865 | 0 | 99.40 | 0.60 | 0.00 |
+| [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 106,982 | 106,536 | 446 | 0 | 99.58 | 0.42 | 0.00 |
+| [Do not reduce staff-child ratios in early years childcare](615623.md) | 106,981 | 106,760 | 221 | 0 | 99.79 | 0.21 | 0.00 |
+| [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 105,065 | 103,752 | 1,313 | 0 | 98.75 | 1.25 | 0.00 |
+| [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 83,650 | 83,429 | 221 | 0 | 99.74 | 0.26 | 0.00 |
 | [Fund pay rise for police officers in line with inflation, plus 1%](614869.md) | 68,058 | 67,794 | 264 | 0 | 99.61 | 0.39 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 57,250 | 56,788 | 462 | 0 | 99.19 | 0.81 | 0.00 |
-| [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 37,766 | 37,732 | 34 | 0 | 99.91 | 0.09 | 0.00 |
-| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 32,620 | 32,298 | 322 | 0 | 99.01 | 0.99 | 0.00 |
-| [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 32,516 | 32,389 | 127 | 0 | 99.61 | 0.39 | 0.00 |
-| [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 28,937 | 27,380 | 1,557 | 0 | 94.62 | 5.38 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 57,256 | 56,794 | 462 | 0 | 99.19 | 0.81 | 0.00 |
+| [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 37,768 | 37,734 | 34 | 0 | 99.91 | 0.09 | 0.00 |
+| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 32,647 | 32,324 | 323 | 0 | 99.01 | 0.99 | 0.00 |
+| [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 32,520 | 32,393 | 127 | 0 | 99.61 | 0.39 | 0.00 |
+| [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 28,938 | 27,381 | 1,557 | 0 | 94.62 | 5.38 | 0.00 |
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 27,417 | 27,273 | 144 | 0 | 99.47 | 0.53 | 0.00 |
-| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 26,052 | 25,564 | 488 | 0 | 98.13 | 1.87 | 0.00 |
+| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 26,189 | 25,698 | 491 | 0 | 98.13 | 1.87 | 0.00 |
 | [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 24,235 | 24,171 | 64 | 0 | 99.74 | 0.26 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 22,064 | 21,671 | 393 | 0 | 98.22 | 1.78 | 0.00 |
-| [Hold a General Election within 100 days of the new PM being appointed](621931.md) | 20,893 | 20,387 | 506 | 0 | 97.58 | 2.42 | 0.00 |
-| [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 20,357 | 20,200 | 157 | 0 | 99.23 | 0.77 | 0.00 |
-| [Change legal definition of stillborn to include all delivered babies](615852.md) | 20,188 | 20,077 | 111 | 0 | 99.45 | 0.55 | 0.00 |
+| [Hold a General Election within 100 days of the new PM being appointed](621931.md) | 20,897 | 20,391 | 506 | 0 | 97.58 | 2.42 | 0.00 |
+| [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 20,360 | 20,203 | 157 | 0 | 99.23 | 0.77 | 0.00 |
+| [Change legal definition of stillborn to include all delivered babies](615852.md) | 20,189 | 20,078 | 111 | 0 | 99.45 | 0.55 | 0.00 |
 | [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 19,505 | 19,341 | 164 | 0 | 99.16 | 0.84 | 0.00 |
 | [Exempt charities using IPAFFS from ban on importing animals from Eastern Europe](616575.md) | 18,552 | 18,319 | 233 | 0 | 98.74 | 1.26 | 0.00 |
 | [Allow EU nationals to come to the UK to work in hospitality for up to 2 Years](621932.md) | 17,812 | 17,637 | 175 | 0 | 99.02 | 0.98 | 0.00 |
-| [Ban school uniforms in sex shops and pornography](615829.md) | 15,961 | 15,711 | 250 | 0 | 98.43 | 1.57 | 0.00 |
+| [Ban school uniforms in sex shops and pornography](615829.md) | 15,962 | 15,712 | 250 | 0 | 98.43 | 1.57 | 0.00 |
 | [Make Graduate visa extendable and count towards permanent residency](614931.md) | 15,759 | 15,543 | 216 | 0 | 98.63 | 1.37 | 0.00 |
 | [Set a Minimum Pension Guarantee (MPG) of at least £200 pw for state pensioners](620839.md) | 15,613 | 15,183 | 430 | 0 | 97.25 | 2.75 | 0.00 |
 | [Review UK foreign policy in light of reports of Israeli apartheid](618802.md) | 14,872 | 14,652 | 220 | 0 | 98.52 | 1.48 | 0.00 |
-| [Full review of Personal Independence Payment (PIP) application process](620962.md) | 14,817 | 14,787 | 30 | 0 | 99.80 | 0.20 | 0.00 |
+| [Full review of Personal Independence Payment (PIP) application process](620962.md) | 14,823 | 14,793 | 30 | 0 | 99.80 | 0.20 | 0.00 |
 | [Reinstate a dedicated Minister of State for Veterans’ Affairs](623527.md) | 14,705 | 14,296 | 409 | 0 | 97.22 | 2.78 | 0.00 |
-| [Ban sale of fireworks to the public and limit sales to licensed displays only](616868.md) | 14,239 | 14,197 | 42 | 0 | 99.71 | 0.29 | 0.00 |
-| [Require all new builds to have solar panels as condition of planning permission](617573.md) | 13,655 | 13,555 | 100 | 0 | 99.27 | 0.73 | 0.00 |
-| [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 13,604 | 13,590 | 14 | 0 | 99.90 | 0.10 | 0.00 |
+| [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 14,492 | 14,477 | 15 | 0 | 99.90 | 0.10 | 0.00 |
+| [Ban sale of fireworks to the public and limit sales to licensed displays only](616868.md) | 14,338 | 14,295 | 43 | 0 | 99.70 | 0.30 | 0.00 |
+| [Fund free BSL Courses for parents or guardians of deaf children](623900.md) | 13,725 | 13,678 | 47 | 0 | 99.66 | 0.34 | 0.00 |
+| [Require all new builds to have solar panels as condition of planning permission](617573.md) | 13,664 | 13,564 | 100 | 0 | 99.27 | 0.73 | 0.00 |
 | [Require all businesses and public services to accept cash payments](622284.md) | 13,548 | 13,385 | 163 | 0 | 98.80 | 1.20 | 0.00 |
-| [Fund free BSL Courses for parents or guardians of deaf children](623900.md) | 13,408 | 13,363 | 45 | 0 | 99.66 | 0.34 | 0.00 |
-| [Remove indemnity from the manufacturers of covid-19 vaccines](619190.md) | 13,192 | 12,954 | 238 | 0 | 98.20 | 1.80 | 0.00 |
-| [Referendum on whether the UK should be neutral in the Ukraine/Russia conflict](617939.md) | 13,115 | 12,834 | 281 | 0 | 97.86 | 2.14 | 0.00 |
-| [Apply to Join the European Union (EU)](616636.md) | 12,941 | 12,381 | 560 | 0 | 95.67 | 4.33 | 0.00 |
+| [Remove indemnity from the manufacturers of covid-19 vaccines](619190.md) | 13,196 | 12,958 | 238 | 0 | 98.20 | 1.80 | 0.00 |
+| [Referendum on whether the UK should be neutral in the Ukraine/Russia conflict](617939.md) | 13,116 | 12,835 | 281 | 0 | 97.86 | 2.14 | 0.00 |
+| [Apply to Join the European Union (EU)](616636.md) | 12,950 | 12,388 | 562 | 0 | 95.66 | 4.34 | 0.00 |
 | [Residential Park Home residents should be eligible for £400 electricity grant](617700.md) | 12,117 | 12,092 | 25 | 0 | 99.79 | 0.21 | 0.00 |
 | [Lift ban on import of rescue animals from Romania, Ukraine, Belarus and Poland](616592.md) | 11,594 | 11,438 | 156 | 0 | 98.65 | 1.35 | 0.00 |
 | [Make the NHS Pension scheme tax-unregistered](620093.md) | 11,472 | 11,447 | 25 | 0 | 99.78 | 0.22 | 0.00 |
@@ -57,4 +57,4 @@ Last refreshed 2022-11-05 10:30:06
 | [Require swimming venues to maintain single-sex or private changing facilities](622145.md) | 11,034 | 10,862 | 172 | 0 | 98.44 | 1.56 | 0.00 |
 | [Make disregard for learners' safety an aggravating factor in driving offences](617180.md) | 10,576 | 10,559 | 17 | 0 | 99.84 | 0.16 | 0.00 |
 | [Do not pass legislation to allow the gene editing of animals and crops](616480.md) | 10,495 | 10,355 | 140 | 0 | 98.67 | 1.33 | 0.00 |
-| [Make Video Games a compulsory part of the national school curriculum](621900.md) | 10,430 | 10,381 | 49 | 0 | 99.53 | 0.47 | 0.00 |
+| [Make Video Games a compulsory part of the national school curriculum](621900.md) | 10,431 | 10,382 | 49 | 0 | 99.53 | 0.47 | 0.00 |
