@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-11-07 03:30:06
+Last refreshed 2022-11-07 04:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -17,16 +17,16 @@ Last refreshed 2022-11-07 03:30:06
 | [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 105,161 | 103,848 | 1,313 | 0 | 98.75 | 1.25 | 0.00 |
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 83,688 | 83,467 | 221 | 0 | 99.74 | 0.26 | 0.00 |
 | [Limit the shooting season of Woodcock](619615.md) | 57,323 | 56,860 | 463 | 0 | 99.19 | 0.81 | 0.00 |
-| [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 53,259 | 53,200 | 59 | 0 | 99.89 | 0.11 | 0.00 |
+| [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 53,348 | 53,289 | 59 | 0 | 99.89 | 0.11 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 37,818 | 37,784 | 34 | 0 | 99.91 | 0.09 | 0.00 |
-| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 33,444 | 33,111 | 333 | 0 | 99.00 | 1.00 | 0.00 |
-| [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 32,617 | 32,490 | 127 | 0 | 99.61 | 0.39 | 0.00 |
-| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 29,270 | 28,748 | 522 | 0 | 98.22 | 1.78 | 0.00 |
+| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 33,446 | 33,113 | 333 | 0 | 99.00 | 1.00 | 0.00 |
+| [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 32,618 | 32,491 | 127 | 0 | 99.61 | 0.39 | 0.00 |
+| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 29,272 | 28,750 | 522 | 0 | 98.22 | 1.78 | 0.00 |
 | [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 29,062 | 27,502 | 1,560 | 0 | 94.63 | 5.37 | 0.00 |
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 27,436 | 27,292 | 144 | 0 | 99.48 | 0.52 | 0.00 |
-| [Ban sale of fireworks to the public and limit sales to licensed displays only](616868.md) | 25,879 | 25,817 | 62 | 0 | 99.76 | 0.24 | 0.00 |
+| [Ban sale of fireworks to the public and limit sales to licensed displays only](616868.md) | 25,899 | 25,836 | 63 | 0 | 99.76 | 0.24 | 0.00 |
 | [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 24,259 | 24,195 | 64 | 0 | 99.74 | 0.26 | 0.00 |
-| [End the UK’s membership of the World Health Organisation](617450.md) | 22,086 | 21,693 | 393 | 0 | 98.22 | 1.78 | 0.00 |
+| [End the UK’s membership of the World Health Organisation](617450.md) | 22,087 | 21,694 | 393 | 0 | 98.22 | 1.78 | 0.00 |
 | [Hold a General Election within 100 days of the new PM being appointed](621931.md) | 21,055 | 20,547 | 508 | 0 | 97.59 | 2.41 | 0.00 |
 | [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 20,402 | 20,245 | 157 | 0 | 99.23 | 0.77 | 0.00 |
 | [Change legal definition of stillborn to include all delivered babies](615852.md) | 20,194 | 20,083 | 111 | 0 | 99.45 | 0.55 | 0.00 |
@@ -40,7 +40,7 @@ Last refreshed 2022-11-07 03:30:06
 | [Full review of Personal Independence Payment (PIP) application process](620962.md) | 14,885 | 14,855 | 30 | 0 | 99.80 | 0.20 | 0.00 |
 | [Reinstate a dedicated Minister of State for Veterans’ Affairs](623527.md) | 14,711 | 14,301 | 410 | 0 | 97.21 | 2.79 | 0.00 |
 | [Require all new builds to have solar panels as condition of planning permission](617573.md) | 13,853 | 13,752 | 101 | 0 | 99.27 | 0.73 | 0.00 |
-| [Require all businesses and public services to accept cash payments](622284.md) | 13,569 | 13,406 | 163 | 0 | 98.80 | 1.20 | 0.00 |
+| [Require all businesses and public services to accept cash payments](622284.md) | 13,570 | 13,407 | 163 | 0 | 98.80 | 1.20 | 0.00 |
 | [Remove indemnity from the manufacturers of covid-19 vaccines](619190.md) | 13,281 | 13,042 | 239 | 0 | 98.20 | 1.80 | 0.00 |
 | [Referendum on whether the UK should be neutral in the Ukraine/Russia conflict](617939.md) | 13,154 | 12,872 | 282 | 0 | 97.86 | 2.14 | 0.00 |
 | [Apply to Join the European Union (EU)](616636.md) | 13,058 | 12,493 | 565 | 0 | 95.67 | 4.33 | 0.00 |
