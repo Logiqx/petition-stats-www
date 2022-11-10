@@ -4,31 +4,31 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-11-09 23:30:06
+Last refreshed 2022-11-10 00:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Call an immediate general election to end the chaos of the current government](619781.md) | 896,149 | 884,880 | 11,269 | 0 | 98.74 | 1.26 | 0.00 |
-| [Include abortion rights in the Bill of Rights](619334.md) | 166,548 | 166,040 | 508 | 0 | 99.69 | 0.31 | 0.00 |
+| [Call an immediate general election to end the chaos of the current government](619781.md) | 896,162 | 884,893 | 11,269 | 0 | 98.74 | 1.26 | 0.00 |
+| [Include abortion rights in the Bill of Rights](619334.md) | 166,549 | 166,041 | 508 | 0 | 99.69 | 0.31 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 155,643 | 152,507 | 3,136 | 0 | 97.99 | 2.01 | 0.00 |
-| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 145,756 | 144,880 | 876 | 0 | 99.40 | 0.60 | 0.00 |
-| [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 128,513 | 128,391 | 122 | 0 | 99.91 | 0.09 | 0.00 |
-| [Do not reduce staff-child ratios in early years childcare](615623.md) | 107,207 | 106,985 | 222 | 0 | 99.79 | 0.21 | 0.00 |
-| [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 107,168 | 106,720 | 448 | 0 | 99.58 | 0.42 | 0.00 |
+| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 145,758 | 144,882 | 876 | 0 | 99.40 | 0.60 | 0.00 |
+| [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 128,604 | 128,482 | 122 | 0 | 99.91 | 0.09 | 0.00 |
+| [Do not reduce staff-child ratios in early years childcare](615623.md) | 107,208 | 106,986 | 222 | 0 | 99.79 | 0.21 | 0.00 |
+| [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 107,169 | 106,721 | 448 | 0 | 99.58 | 0.42 | 0.00 |
 | [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 105,308 | 103,990 | 1,318 | 0 | 98.75 | 1.25 | 0.00 |
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 83,730 | 83,508 | 222 | 0 | 99.73 | 0.27 | 0.00 |
 | [Limit the shooting season of Woodcock](619615.md) | 57,390 | 56,927 | 463 | 0 | 99.19 | 0.81 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 37,927 | 37,893 | 34 | 0 | 99.91 | 0.09 | 0.00 |
-| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 34,723 | 34,377 | 346 | 0 | 99.00 | 1.00 | 0.00 |
-| [Ban sale of fireworks to the public and limit sales to licensed displays only](616868.md) | 34,266 | 34,180 | 86 | 0 | 99.75 | 0.25 | 0.00 |
+| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 34,736 | 34,390 | 346 | 0 | 99.00 | 1.00 | 0.00 |
+| [Ban sale of fireworks to the public and limit sales to licensed displays only](616868.md) | 34,291 | 34,205 | 86 | 0 | 99.75 | 0.25 | 0.00 |
 | [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 32,774 | 32,647 | 127 | 0 | 99.61 | 0.39 | 0.00 |
-| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 32,254 | 31,671 | 583 | 0 | 98.19 | 1.81 | 0.00 |
+| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 32,263 | 31,680 | 583 | 0 | 98.19 | 1.81 | 0.00 |
 | [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 29,245 | 27,676 | 1,569 | 0 | 94.63 | 5.37 | 0.00 |
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 27,447 | 27,303 | 144 | 0 | 99.48 | 0.52 | 0.00 |
 | [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 24,290 | 24,226 | 64 | 0 | 99.74 | 0.26 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 22,233 | 21,838 | 395 | 0 | 98.22 | 1.78 | 0.00 |
-| [Hold a General Election within 100 days of the new PM being appointed](621931.md) | 21,170 | 20,662 | 508 | 0 | 97.60 | 2.40 | 0.00 |
-| [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 20,458 | 20,301 | 157 | 0 | 99.23 | 0.77 | 0.00 |
+| [Hold a General Election within 100 days of the new PM being appointed](621931.md) | 21,171 | 20,663 | 508 | 0 | 97.60 | 2.40 | 0.00 |
+| [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 20,459 | 20,302 | 157 | 0 | 99.23 | 0.77 | 0.00 |
 | [Change legal definition of stillborn to include all delivered babies](615852.md) | 20,200 | 20,089 | 111 | 0 | 99.45 | 0.55 | 0.00 |
 | [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 19,534 | 19,370 | 164 | 0 | 99.16 | 0.84 | 0.00 |
 | [Exempt charities using IPAFFS from ban on importing animals from Eastern Europe](616575.md) | 18,557 | 18,324 | 233 | 0 | 98.74 | 1.26 | 0.00 |
@@ -36,7 +36,7 @@ Last refreshed 2022-11-09 23:30:06
 | [Fund free BSL Courses for parents or guardians of deaf children](623900.md) | 16,658 | 16,576 | 82 | 0 | 99.51 | 0.49 | 0.00 |
 | [Ban school uniforms in sex shops and pornography](615829.md) | 15,988 | 15,738 | 250 | 0 | 98.44 | 1.56 | 0.00 |
 | [Set a Minimum Pension Guarantee (MPG) of at least £200 pw for state pensioners](620839.md) | 15,636 | 15,204 | 432 | 0 | 97.24 | 2.76 | 0.00 |
-| [Full review of Personal Independence Payment (PIP) application process](620962.md) | 15,048 | 15,018 | 30 | 0 | 99.80 | 0.20 | 0.00 |
+| [Full review of Personal Independence Payment (PIP) application process](620962.md) | 15,061 | 15,031 | 30 | 0 | 99.80 | 0.20 | 0.00 |
 | [Review UK foreign policy in light of reports of Israeli apartheid](618802.md) | 14,941 | 14,720 | 221 | 0 | 98.52 | 1.48 | 0.00 |
 | [Reinstate a dedicated Minister of State for Veterans’ Affairs](623527.md) | 14,721 | 14,310 | 411 | 0 | 97.21 | 2.79 | 0.00 |
 | [Require all new builds to have solar panels as condition of planning permission](617573.md) | 14,071 | 13,967 | 104 | 0 | 99.26 | 0.74 | 0.00 |
@@ -56,5 +56,5 @@ Last refreshed 2022-11-09 23:30:06
 | [Make disregard for learners' safety an aggravating factor in driving offences](617180.md) | 10,605 | 10,588 | 17 | 0 | 99.84 | 0.16 | 0.00 |
 | [Do not pass legislation to allow the gene editing of animals and crops](616480.md) | 10,505 | 10,365 | 140 | 0 | 98.67 | 1.33 | 0.00 |
 | [Make Video Games a compulsory part of the national school curriculum](621900.md) | 10,465 | 10,416 | 49 | 0 | 99.53 | 0.47 | 0.00 |
-| [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 9,252 | 9,150 | 102 | 0 | 98.90 | 1.10 | 0.00 |
+| [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 9,280 | 9,178 | 102 | 0 | 98.90 | 1.10 | 0.00 |
 | [Give Animal Rescue Centres a grant to offset this winters increased heating cost](622806.md) | 9,171 | 9,126 | 45 | 0 | 99.51 | 0.49 | 0.00 |
