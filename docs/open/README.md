@@ -4,25 +4,25 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-11-13 04:30:05
+Last refreshed 2022-11-13 05:30:16
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Call an immediate general election to end the chaos of the current government](619781.md) | 896,731 | 885,444 | 11,287 | 0 | 98.74 | 1.26 | 0.00 |
+| [Call an immediate general election to end the chaos of the current government](619781.md) | 896,733 | 885,445 | 11,288 | 0 | 98.74 | 1.26 | 0.00 |
 | [Include abortion rights in the Bill of Rights](619334.md) | 166,689 | 166,180 | 509 | 0 | 99.69 | 0.31 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 155,667 | 152,531 | 3,136 | 0 | 97.99 | 2.01 | 0.00 |
 | [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 146,152 | 145,274 | 878 | 0 | 99.40 | 0.60 | 0.00 |
-| [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 142,902 | 142,764 | 138 | 0 | 99.90 | 0.10 | 0.00 |
+| [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 142,909 | 142,771 | 138 | 0 | 99.90 | 0.10 | 0.00 |
 | [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 107,270 | 106,821 | 449 | 0 | 99.58 | 0.42 | 0.00 |
 | [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 106,312 | 104,986 | 1,326 | 0 | 98.75 | 1.25 | 0.00 |
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 83,765 | 83,543 | 222 | 0 | 99.73 | 0.27 | 0.00 |
 | [Limit the shooting season of Woodcock](619615.md) | 57,451 | 56,987 | 464 | 0 | 99.19 | 0.81 | 0.00 |
-| [Ban sale of fireworks to the public and limit sales to licensed displays only](616868.md) | 40,480 | 40,375 | 105 | 0 | 99.74 | 0.26 | 0.00 |
+| [Ban sale of fireworks to the public and limit sales to licensed displays only](616868.md) | 40,489 | 40,384 | 105 | 0 | 99.74 | 0.26 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 38,194 | 38,160 | 34 | 0 | 99.91 | 0.09 | 0.00 |
-| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 36,016 | 35,656 | 360 | 0 | 99.00 | 1.00 | 0.00 |
-| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 33,715 | 33,100 | 615 | 0 | 98.18 | 1.82 | 0.00 |
+| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 36,019 | 35,659 | 360 | 0 | 99.00 | 1.00 | 0.00 |
+| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 33,718 | 33,102 | 616 | 0 | 98.17 | 1.83 | 0.00 |
 | [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 32,926 | 32,798 | 128 | 0 | 99.61 | 0.39 | 0.00 |
-| [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 29,518 | 27,942 | 1,576 | 0 | 94.66 | 5.34 | 0.00 |
+| [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 29,519 | 27,943 | 1,576 | 0 | 94.66 | 5.34 | 0.00 |
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 27,458 | 27,314 | 144 | 0 | 99.48 | 0.52 | 0.00 |
 | [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 24,322 | 24,258 | 64 | 0 | 99.74 | 0.26 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 22,265 | 21,870 | 395 | 0 | 98.23 | 1.77 | 0.00 |
@@ -34,9 +34,9 @@ Last refreshed 2022-11-13 04:30:05
 | [Allow EU nationals to come to the UK to work in hospitality for up to 2 Years](621932.md) | 17,872 | 17,697 | 175 | 0 | 99.02 | 0.98 | 0.00 |
 | [Fund free BSL Courses for parents or guardians of deaf children](623900.md) | 16,934 | 16,851 | 83 | 0 | 99.51 | 0.49 | 0.00 |
 | [Ban school uniforms in sex shops and pornography](615829.md) | 16,001 | 15,751 | 250 | 0 | 98.44 | 1.56 | 0.00 |
-| [Set a Minimum Pension Guarantee (MPG) of at least £200 pw for state pensioners](620839.md) | 15,663 | 15,231 | 432 | 0 | 97.24 | 2.76 | 0.00 |
+| [Set a Minimum Pension Guarantee (MPG) of at least £200 pw for state pensioners](620839.md) | 15,664 | 15,232 | 432 | 0 | 97.24 | 2.76 | 0.00 |
 | [Full review of Personal Independence Payment (PIP) application process](620962.md) | 15,567 | 15,537 | 30 | 0 | 99.81 | 0.19 | 0.00 |
-| [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 15,218 | 15,072 | 146 | 0 | 99.04 | 0.96 | 0.00 |
+| [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 15,234 | 15,088 | 146 | 0 | 99.04 | 0.96 | 0.00 |
 | [Review UK foreign policy in light of reports of Israeli apartheid](618802.md) | 14,962 | 14,739 | 223 | 0 | 98.51 | 1.49 | 0.00 |
 | [Reinstate a dedicated Minister of State for Veterans’ Affairs](623527.md) | 14,730 | 14,319 | 411 | 0 | 97.21 | 2.79 | 0.00 |
 | [Require all new builds to have solar panels as condition of planning permission](617573.md) | 14,195 | 14,091 | 104 | 0 | 99.27 | 0.73 | 0.00 |
@@ -57,4 +57,4 @@ Last refreshed 2022-11-13 04:30:05
 | [Do not pass legislation to allow the gene editing of animals and crops](616480.md) | 10,512 | 10,372 | 140 | 0 | 98.67 | 1.33 | 0.00 |
 | [Make Video Games a compulsory part of the national school curriculum](621900.md) | 10,484 | 10,435 | 49 | 0 | 99.53 | 0.47 | 0.00 |
 | [Give Animal Rescue Centres a grant to offset this winters increased heating cost](622806.md) | 9,404 | 9,359 | 45 | 0 | 99.52 | 0.48 | 0.00 |
-| [Validate Brazilian Drivers Licence and exchange to British equivalent in the UK](621225.md) | 8,875 | 8,799 | 76 | 0 | 99.14 | 0.86 | 0.00 |
+| [Validate Brazilian Drivers Licence and exchange to British equivalent in the UK](621225.md) | 8,876 | 8,800 | 76 | 0 | 99.14 | 0.86 | 0.00 |
