@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-11-15 02:30:04
+Last refreshed 2022-11-15 03:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -12,17 +12,17 @@ Last refreshed 2022-11-15 02:30:04
 | [Include abortion rights in the Bill of Rights](619334.md) | 166,736 | 166,227 | 509 | 0 | 99.69 | 0.31 | 0.00 |
 | [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 155,685 | 152,549 | 3,136 | 0 | 97.99 | 2.01 | 0.00 |
 | [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 146,281 | 145,398 | 883 | 0 | 99.40 | 0.60 | 0.00 |
-| [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 145,025 | 144,884 | 141 | 0 | 99.90 | 0.10 | 0.00 |
+| [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 145,027 | 144,886 | 141 | 0 | 99.90 | 0.10 | 0.00 |
 | [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 107,308 | 106,859 | 449 | 0 | 99.58 | 0.42 | 0.00 |
-| [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 106,523 | 105,192 | 1,331 | 0 | 98.75 | 1.25 | 0.00 |
+| [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 106,525 | 105,194 | 1,331 | 0 | 98.75 | 1.25 | 0.00 |
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 83,817 | 83,595 | 222 | 0 | 99.74 | 0.26 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 57,512 | 57,046 | 466 | 0 | 99.19 | 0.81 | 0.00 |
-| [Ban sale of fireworks to the public and limit sales to licensed displays only](616868.md) | 43,184 | 43,070 | 114 | 0 | 99.74 | 0.26 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 57,513 | 57,047 | 466 | 0 | 99.19 | 0.81 | 0.00 |
+| [Ban sale of fireworks to the public and limit sales to licensed displays only](616868.md) | 43,190 | 43,076 | 114 | 0 | 99.74 | 0.26 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 38,227 | 38,193 | 34 | 0 | 99.91 | 0.09 | 0.00 |
-| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 37,063 | 36,697 | 366 | 0 | 99.01 | 0.99 | 0.00 |
-| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 34,673 | 34,048 | 625 | 0 | 98.20 | 1.80 | 0.00 |
+| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 37,066 | 36,700 | 366 | 0 | 99.01 | 0.99 | 0.00 |
+| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 34,678 | 34,052 | 626 | 0 | 98.19 | 1.81 | 0.00 |
 | [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 33,011 | 32,882 | 129 | 0 | 99.61 | 0.39 | 0.00 |
-| [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 29,874 | 28,291 | 1,583 | 0 | 94.70 | 5.30 | 0.00 |
+| [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 29,877 | 28,294 | 1,583 | 0 | 94.70 | 5.30 | 0.00 |
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 27,473 | 27,329 | 144 | 0 | 99.48 | 0.52 | 0.00 |
 | [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 24,334 | 24,270 | 64 | 0 | 99.74 | 0.26 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 22,288 | 21,892 | 396 | 0 | 98.22 | 1.78 | 0.00 |
@@ -31,12 +31,12 @@ Last refreshed 2022-11-15 02:30:04
 | [Change legal definition of stillborn to include all delivered babies](615852.md) | 20,210 | 20,099 | 111 | 0 | 99.45 | 0.55 | 0.00 |
 | [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 19,546 | 19,382 | 164 | 0 | 99.16 | 0.84 | 0.00 |
 | [Exempt charities using IPAFFS from ban on importing animals from Eastern Europe](616575.md) | 18,559 | 18,326 | 233 | 0 | 98.74 | 1.26 | 0.00 |
-| [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 18,506 | 18,341 | 165 | 0 | 99.11 | 0.89 | 0.00 |
+| [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 18,511 | 18,346 | 165 | 0 | 99.11 | 0.89 | 0.00 |
 | [Allow EU nationals to come to the UK to work in hospitality for up to 2 Years](621932.md) | 17,878 | 17,703 | 175 | 0 | 99.02 | 0.98 | 0.00 |
-| [Fund free BSL Courses for parents or guardians of deaf children](623900.md) | 17,119 | 17,034 | 85 | 0 | 99.50 | 0.50 | 0.00 |
+| [Fund free BSL Courses for parents or guardians of deaf children](623900.md) | 17,120 | 17,035 | 85 | 0 | 99.50 | 0.50 | 0.00 |
 | [Ban school uniforms in sex shops and pornography](615829.md) | 16,010 | 15,760 | 250 | 0 | 98.44 | 1.56 | 0.00 |
 | [Set a Minimum Pension Guarantee (MPG) of at least £200 pw for state pensioners](620839.md) | 15,675 | 15,243 | 432 | 0 | 97.24 | 2.76 | 0.00 |
-| [Full review of Personal Independence Payment (PIP) application process](620962.md) | 15,600 | 15,570 | 30 | 0 | 99.81 | 0.19 | 0.00 |
+| [Full review of Personal Independence Payment (PIP) application process](620962.md) | 15,601 | 15,571 | 30 | 0 | 99.81 | 0.19 | 0.00 |
 | [Review UK foreign policy in light of reports of Israeli apartheid](618802.md) | 14,987 | 14,764 | 223 | 0 | 98.51 | 1.49 | 0.00 |
 | [Reinstate a dedicated Minister of State for Veterans’ Affairs](623527.md) | 14,735 | 14,323 | 412 | 0 | 97.20 | 2.80 | 0.00 |
 | [Require all new builds to have solar panels as condition of planning permission](617573.md) | 14,370 | 14,266 | 104 | 0 | 99.28 | 0.72 | 0.00 |
