@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-11-18 07:30:15
+Last refreshed 2022-11-18 08:30:16
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -53,7 +53,7 @@ Last refreshed 2022-11-18 07:30:15
 | [Scrap removal of free transport for under-18s from TfL bailout](331453.md) | 171,010 | 170,426 | 584 | 0 | 99.66 | 0.34 | 0.00 |
 | [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 167,461 | 166,507 | 954 | 0 | 99.43 | 0.57 | 0.00 |
 | [Cancel GCSE and A-levels in 2021 replace with Course Work and Teacher Assessment](564696.md) | 157,810 | 156,798 | 1,012 | 0 | 99.36 | 0.64 | 0.00 |
-| [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 156,081 | 152,938 | 3,143 | 0 | 97.99 | 2.01 | 0.00 |
+| [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 156,082 | 152,939 | 3,143 | 0 | 97.99 | 2.01 | 0.00 |
 | [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 155,799 | 154,797 | 1,002 | 0 | 99.36 | 0.64 | 0.00 |
 | [Stop work on HS2 immediately and hold a new vote to repeal the legislation](563380.md) | 155,253 | 154,237 | 1,016 | 0 | 99.35 | 0.65 | 0.00 |
 | [Government to offer economic assistance to the events industry during COVID-19](301186.md) | 154,815 | 153,903 | 912 | 0 | 99.41 | 0.59 | 0.00 |
