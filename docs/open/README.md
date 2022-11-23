@@ -4,21 +4,21 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-11-23 03:30:05
+Last refreshed 2022-11-23 04:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Call an immediate general election to end the chaos of the current government](619781.md) | 898,623 | 887,322 | 11,301 | 0 | 98.74 | 1.26 | 0.00 |
 | [Include abortion rights in the Bill of Rights](619334.md) | 166,960 | 166,450 | 510 | 0 | 99.69 | 0.31 | 0.00 |
-| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 150,916 | 150,011 | 905 | 0 | 99.40 | 0.60 | 0.00 |
+| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 150,918 | 150,013 | 905 | 0 | 99.40 | 0.60 | 0.00 |
 | [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 149,719 | 149,574 | 145 | 0 | 99.90 | 0.10 | 0.00 |
-| [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 107,477 | 106,136 | 1,341 | 0 | 98.75 | 1.25 | 0.00 |
+| [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 107,480 | 106,139 | 1,341 | 0 | 98.75 | 1.25 | 0.00 |
 | [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 107,397 | 106,947 | 450 | 0 | 99.58 | 0.42 | 0.00 |
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 83,921 | 83,699 | 222 | 0 | 99.74 | 0.26 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 64,787 | 64,280 | 507 | 0 | 99.22 | 0.78 | 0.00 |
-| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 53,288 | 51,856 | 1,432 | 0 | 97.31 | 2.69 | 0.00 |
-| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 52,721 | 52,238 | 483 | 0 | 99.08 | 0.92 | 0.00 |
-| [Ban sale of fireworks to the public and limit sales to licensed displays only](616868.md) | 46,240 | 46,109 | 131 | 0 | 99.72 | 0.28 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 64,794 | 64,287 | 507 | 0 | 99.22 | 0.78 | 0.00 |
+| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 53,309 | 51,877 | 1,432 | 0 | 97.31 | 2.69 | 0.00 |
+| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 52,736 | 52,253 | 483 | 0 | 99.08 | 0.92 | 0.00 |
+| [Ban sale of fireworks to the public and limit sales to licensed displays only](616868.md) | 46,245 | 46,114 | 131 | 0 | 99.72 | 0.28 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 38,435 | 38,401 | 34 | 0 | 99.91 | 0.09 | 0.00 |
 | [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 37,185 | 36,520 | 665 | 0 | 98.21 | 1.79 | 0.00 |
 | [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 33,662 | 33,530 | 132 | 0 | 99.61 | 0.39 | 0.00 |
