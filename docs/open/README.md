@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-11-24 03:30:06
+Last refreshed 2022-11-24 04:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -15,13 +15,13 @@ Last refreshed 2022-11-24 03:30:06
 | [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 107,630 | 106,288 | 1,342 | 0 | 98.75 | 1.25 | 0.00 |
 | [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 107,489 | 107,039 | 450 | 0 | 99.58 | 0.42 | 0.00 |
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 83,928 | 83,706 | 222 | 0 | 99.74 | 0.26 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 66,774 | 66,243 | 531 | 0 | 99.20 | 0.80 | 0.00 |
-| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 56,240 | 55,744 | 496 | 0 | 99.12 | 0.88 | 0.00 |
-| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 56,209 | 54,656 | 1,553 | 0 | 97.24 | 2.76 | 0.00 |
-| [Ban sale of fireworks to the public and limit sales to licensed displays only](616868.md) | 46,354 | 46,223 | 131 | 0 | 99.72 | 0.28 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 66,781 | 66,250 | 531 | 0 | 99.20 | 0.80 | 0.00 |
+| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 56,254 | 55,757 | 497 | 0 | 99.12 | 0.88 | 0.00 |
+| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 56,220 | 54,666 | 1,554 | 0 | 97.24 | 2.76 | 0.00 |
+| [Ban sale of fireworks to the public and limit sales to licensed displays only](616868.md) | 46,355 | 46,224 | 131 | 0 | 99.72 | 0.28 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 38,489 | 38,455 | 34 | 0 | 99.91 | 0.09 | 0.00 |
-| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 37,487 | 36,814 | 673 | 0 | 98.20 | 1.80 | 0.00 |
-| [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 33,713 | 33,581 | 132 | 0 | 99.61 | 0.39 | 0.00 |
+| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 37,490 | 36,817 | 673 | 0 | 98.20 | 1.80 | 0.00 |
+| [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 33,714 | 33,582 | 132 | 0 | 99.61 | 0.39 | 0.00 |
 | [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 30,793 | 29,184 | 1,609 | 0 | 94.77 | 5.23 | 0.00 |
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 27,576 | 27,432 | 144 | 0 | 99.48 | 0.52 | 0.00 |
 | [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 25,865 | 25,644 | 221 | 0 | 99.15 | 0.85 | 0.00 |
@@ -37,7 +37,7 @@ Last refreshed 2022-11-24 03:30:06
 | [Set a Minimum Pension Guarantee (MPG) of at least £200 pw for state pensioners](620839.md) | 15,748 | 15,314 | 434 | 0 | 97.24 | 2.76 | 0.00 |
 | [Full review of Personal Independence Payment (PIP) application process](620962.md) | 15,683 | 15,653 | 30 | 0 | 99.81 | 0.19 | 0.00 |
 | [Review UK foreign policy in light of reports of Israeli apartheid](618802.md) | 15,079 | 14,856 | 223 | 0 | 98.52 | 1.48 | 0.00 |
-| [Require all new builds to have solar panels as condition of planning permission](617573.md) | 14,853 | 14,746 | 107 | 0 | 99.28 | 0.72 | 0.00 |
+| [Require all new builds to have solar panels as condition of planning permission](617573.md) | 14,854 | 14,747 | 107 | 0 | 99.28 | 0.72 | 0.00 |
 | [Remove indemnity from the manufacturers of covid-19 vaccines](619190.md) | 14,769 | 14,499 | 270 | 0 | 98.17 | 1.83 | 0.00 |
 | [Reinstate a dedicated Minister of State for Veterans’ Affairs](623527.md) | 14,748 | 14,336 | 412 | 0 | 97.21 | 2.79 | 0.00 |
 | [Apply to Join the European Union (EU)](616636.md) | 14,290 | 13,687 | 603 | 0 | 95.78 | 4.22 | 0.00 |
