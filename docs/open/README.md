@@ -4,20 +4,20 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-11-28 04:30:05
+Last refreshed 2022-11-28 05:30:16
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Call an immediate general election to end the chaos of the current government](619781.md) | 899,025 | 887,714 | 11,311 | 0 | 98.74 | 1.26 | 0.00 |
 | [Include abortion rights in the Bill of Rights](619334.md) | 167,044 | 166,532 | 512 | 0 | 99.69 | 0.31 | 0.00 |
-| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 151,266 | 150,359 | 907 | 0 | 99.40 | 0.60 | 0.00 |
+| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 151,268 | 150,361 | 907 | 0 | 99.40 | 0.60 | 0.00 |
 | [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 151,187 | 151,040 | 147 | 0 | 99.90 | 0.10 | 0.00 |
-| [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 107,988 | 106,644 | 1,344 | 0 | 98.76 | 1.24 | 0.00 |
+| [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 107,989 | 106,645 | 1,344 | 0 | 98.76 | 1.24 | 0.00 |
 | [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 107,675 | 107,215 | 460 | 0 | 99.57 | 0.43 | 0.00 |
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 83,974 | 83,751 | 223 | 0 | 99.73 | 0.27 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 72,557 | 71,965 | 592 | 0 | 99.18 | 0.82 | 0.00 |
-| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 61,967 | 61,426 | 541 | 0 | 99.13 | 0.87 | 0.00 |
-| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 60,030 | 58,319 | 1,711 | 0 | 97.15 | 2.85 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 72,581 | 71,989 | 592 | 0 | 99.18 | 0.82 | 0.00 |
+| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 61,974 | 61,432 | 542 | 0 | 99.13 | 0.87 | 0.00 |
+| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 60,032 | 58,320 | 1,712 | 0 | 97.15 | 2.85 | 0.00 |
 | [Ban sale of fireworks to the public and limit sales to licensed displays only](616868.md) | 46,538 | 46,405 | 133 | 0 | 99.71 | 0.29 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 38,522 | 38,488 | 34 | 0 | 99.91 | 0.09 | 0.00 |
 | [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 38,260 | 37,573 | 687 | 0 | 98.20 | 1.80 | 0.00 |
@@ -26,7 +26,7 @@ Last refreshed 2022-11-28 04:30:05
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 27,631 | 27,487 | 144 | 0 | 99.48 | 0.52 | 0.00 |
 | [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 26,430 | 26,204 | 226 | 0 | 99.14 | 0.86 | 0.00 |
 | [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 24,515 | 24,449 | 66 | 0 | 99.73 | 0.27 | 0.00 |
-| [Apply to Join the European Union (EU)](616636.md) | 22,657 | 21,611 | 1,046 | 0 | 95.38 | 4.62 | 0.00 |
+| [Apply to Join the European Union (EU)](616636.md) | 22,660 | 21,614 | 1,046 | 0 | 95.38 | 4.62 | 0.00 |
 | [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 22,536 | 22,370 | 166 | 0 | 99.26 | 0.74 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 22,394 | 21,996 | 398 | 0 | 98.22 | 1.78 | 0.00 |
 | [Hold a General Election within 100 days of the new PM being appointed](621931.md) | 21,390 | 20,880 | 510 | 0 | 97.62 | 2.38 | 0.00 |
@@ -38,7 +38,7 @@ Last refreshed 2022-11-28 04:30:05
 | [Full review of Personal Independence Payment (PIP) application process](620962.md) | 15,705 | 15,675 | 30 | 0 | 99.81 | 0.19 | 0.00 |
 | [Remove indemnity from the manufacturers of covid-19 vaccines](619190.md) | 15,182 | 14,896 | 286 | 0 | 98.12 | 1.88 | 0.00 |
 | [Review UK foreign policy in light of reports of Israeli apartheid](618802.md) | 15,106 | 14,883 | 223 | 0 | 98.52 | 1.48 | 0.00 |
-| [Require all new builds to have solar panels as condition of planning permission](617573.md) | 14,946 | 14,838 | 108 | 0 | 99.28 | 0.72 | 0.00 |
+| [Require all new builds to have solar panels as condition of planning permission](617573.md) | 14,947 | 14,839 | 108 | 0 | 99.28 | 0.72 | 0.00 |
 | [Reinstate a dedicated Minister of State for Veterans’ Affairs](623527.md) | 14,753 | 14,341 | 412 | 0 | 97.21 | 2.79 | 0.00 |
 | [Withdraw the UK from the European Convention on Human Rights](618456.md) | 13,917 | 13,761 | 156 | 0 | 98.88 | 1.12 | 0.00 |
 | [Require all businesses and public services to accept cash payments](622284.md) | 13,751 | 13,584 | 167 | 0 | 98.79 | 1.21 | 0.00 |
@@ -52,7 +52,7 @@ Last refreshed 2022-11-28 04:30:05
 | [Require swimming venues to maintain single-sex or private changing facilities](622145.md) | 11,138 | 10,966 | 172 | 0 | 98.46 | 1.54 | 0.00 |
 | [Add Romanian to the Modern Languages GCSE ](617718.md) | 11,090 | 11,056 | 34 | 0 | 99.69 | 0.31 | 0.00 |
 | [Do not require parents to register home educated children with local authorities](617340.md) | 11,075 | 11,027 | 48 | 0 | 99.57 | 0.43 | 0.00 |
-| [Minimum wage pay for all healthcare students for placement hours worked!](619609.md) | 10,909 | 10,883 | 26 | 0 | 99.76 | 0.24 | 0.00 |
+| [Minimum wage pay for all healthcare students for placement hours worked!](619609.md) | 10,911 | 10,885 | 26 | 0 | 99.76 | 0.24 | 0.00 |
 | [Make disregard for learners' safety an aggravating factor in driving offences](617180.md) | 10,653 | 10,636 | 17 | 0 | 99.84 | 0.16 | 0.00 |
 | [Make Video Games a compulsory part of the national school curriculum](621900.md) | 10,598 | 10,549 | 49 | 0 | 99.54 | 0.46 | 0.00 |
 | [Do not pass legislation to allow the gene editing of animals and crops](616480.md) | 10,546 | 10,405 | 141 | 0 | 98.66 | 1.34 | 0.00 |
