@@ -4,29 +4,29 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-11-28 16:30:06
+Last refreshed 2022-11-28 17:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Call an immediate general election to end the chaos of the current government](619781.md) | 899,054 | 887,743 | 11,311 | 0 | 98.74 | 1.26 | 0.00 |
+| [Call an immediate general election to end the chaos of the current government](619781.md) | 899,058 | 887,747 | 11,311 | 0 | 98.74 | 1.26 | 0.00 |
 | [Include abortion rights in the Bill of Rights](619334.md) | 167,052 | 166,540 | 512 | 0 | 99.69 | 0.31 | 0.00 |
-| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 151,316 | 150,409 | 907 | 0 | 99.40 | 0.60 | 0.00 |
-| [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 151,278 | 151,131 | 147 | 0 | 99.90 | 0.10 | 0.00 |
-| [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 108,107 | 106,763 | 1,344 | 0 | 98.76 | 1.24 | 0.00 |
+| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 151,319 | 150,412 | 907 | 0 | 99.40 | 0.60 | 0.00 |
+| [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 151,288 | 151,141 | 147 | 0 | 99.90 | 0.10 | 0.00 |
+| [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 108,238 | 106,894 | 1,344 | 0 | 98.76 | 1.24 | 0.00 |
 | [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 107,689 | 107,226 | 463 | 0 | 99.57 | 0.43 | 0.00 |
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 83,976 | 83,753 | 223 | 0 | 99.73 | 0.27 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 74,801 | 74,184 | 617 | 0 | 99.18 | 0.82 | 0.00 |
-| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 62,356 | 61,812 | 544 | 0 | 99.13 | 0.87 | 0.00 |
-| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 61,029 | 59,275 | 1,754 | 0 | 97.13 | 2.87 | 0.00 |
-| [Ban sale of fireworks to the public and limit sales to licensed displays only](616868.md) | 46,553 | 46,420 | 133 | 0 | 99.71 | 0.29 | 0.00 |
-| [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 38,526 | 38,492 | 34 | 0 | 99.91 | 0.09 | 0.00 |
-| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 38,351 | 37,660 | 691 | 0 | 98.20 | 1.80 | 0.00 |
-| [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 33,837 | 33,705 | 132 | 0 | 99.61 | 0.39 | 0.00 |
-| [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 30,933 | 29,319 | 1,614 | 0 | 94.78 | 5.22 | 0.00 |
-| [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 27,642 | 27,498 | 144 | 0 | 99.48 | 0.52 | 0.00 |
-| [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 26,498 | 26,272 | 226 | 0 | 99.15 | 0.85 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 74,925 | 74,306 | 619 | 0 | 99.17 | 0.83 | 0.00 |
+| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 62,394 | 61,849 | 545 | 0 | 99.13 | 0.87 | 0.00 |
+| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 61,388 | 59,626 | 1,762 | 0 | 97.13 | 2.87 | 0.00 |
+| [Ban sale of fireworks to the public and limit sales to licensed displays only](616868.md) | 46,556 | 46,423 | 133 | 0 | 99.71 | 0.29 | 0.00 |
+| [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 38,528 | 38,494 | 34 | 0 | 99.91 | 0.09 | 0.00 |
+| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 38,357 | 37,666 | 691 | 0 | 98.20 | 1.80 | 0.00 |
+| [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 33,838 | 33,706 | 132 | 0 | 99.61 | 0.39 | 0.00 |
+| [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 30,937 | 29,323 | 1,614 | 0 | 94.78 | 5.22 | 0.00 |
+| [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 27,643 | 27,499 | 144 | 0 | 99.48 | 0.52 | 0.00 |
+| [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 26,508 | 26,281 | 227 | 0 | 99.14 | 0.86 | 0.00 |
 | [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 24,515 | 24,449 | 66 | 0 | 99.73 | 0.27 | 0.00 |
-| [Apply to Join the European Union (EU)](616636.md) | 22,832 | 21,777 | 1,055 | 0 | 95.38 | 4.62 | 0.00 |
+| [Apply to Join the European Union (EU)](616636.md) | 22,846 | 21,790 | 1,056 | 0 | 95.38 | 4.62 | 0.00 |
 | [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 22,549 | 22,383 | 166 | 0 | 99.26 | 0.74 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 22,400 | 22,002 | 398 | 0 | 98.22 | 1.78 | 0.00 |
 | [Hold a General Election within 100 days of the new PM being appointed](621931.md) | 21,391 | 20,881 | 510 | 0 | 97.62 | 2.38 | 0.00 |
@@ -36,15 +36,15 @@ Last refreshed 2022-11-28 16:30:06
 | [Allow EU nationals to come to the UK to work in hospitality for up to 2 Years](621932.md) | 17,921 | 17,746 | 175 | 0 | 99.02 | 0.98 | 0.00 |
 | [Set a Minimum Pension Guarantee (MPG) of at least £200 pw for state pensioners](620839.md) | 15,769 | 15,335 | 434 | 0 | 97.25 | 2.75 | 0.00 |
 | [Full review of Personal Independence Payment (PIP) application process](620962.md) | 15,710 | 15,680 | 30 | 0 | 99.81 | 0.19 | 0.00 |
-| [Remove indemnity from the manufacturers of covid-19 vaccines](619190.md) | 15,194 | 14,908 | 286 | 0 | 98.12 | 1.88 | 0.00 |
-| [Review UK foreign policy in light of reports of Israeli apartheid](618802.md) | 15,115 | 14,892 | 223 | 0 | 98.52 | 1.48 | 0.00 |
-| [Require all new builds to have solar panels as condition of planning permission](617573.md) | 14,952 | 14,844 | 108 | 0 | 99.28 | 0.72 | 0.00 |
+| [Remove indemnity from the manufacturers of covid-19 vaccines](619190.md) | 15,195 | 14,909 | 286 | 0 | 98.12 | 1.88 | 0.00 |
+| [Review UK foreign policy in light of reports of Israeli apartheid](618802.md) | 15,118 | 14,895 | 223 | 0 | 98.52 | 1.48 | 0.00 |
+| [Require all new builds to have solar panels as condition of planning permission](617573.md) | 14,953 | 14,845 | 108 | 0 | 99.28 | 0.72 | 0.00 |
 | [Reinstate a dedicated Minister of State for Veterans’ Affairs](623527.md) | 14,753 | 14,341 | 412 | 0 | 97.21 | 2.79 | 0.00 |
-| [Withdraw the UK from the European Convention on Human Rights](618456.md) | 13,953 | 13,796 | 157 | 0 | 98.87 | 1.13 | 0.00 |
+| [Withdraw the UK from the European Convention on Human Rights](618456.md) | 13,961 | 13,804 | 157 | 0 | 98.88 | 1.12 | 0.00 |
 | [Require all businesses and public services to accept cash payments](622284.md) | 13,754 | 13,587 | 167 | 0 | 98.79 | 1.21 | 0.00 |
 | [Referendum on whether the UK should be neutral in the Ukraine/Russia conflict](617939.md) | 13,391 | 13,104 | 287 | 0 | 97.86 | 2.14 | 0.00 |
 | [Residential Park Home residents should be eligible for £400 electricity grant](617700.md) | 12,254 | 12,228 | 26 | 0 | 99.79 | 0.21 | 0.00 |
-| [Increase funding for schools to ensure that they do not enter deficit](627130.md) | 11,913 | 11,896 | 17 | 0 | 99.86 | 0.14 | 0.00 |
+| [Increase funding for schools to ensure that they do not enter deficit](627130.md) | 11,914 | 11,897 | 17 | 0 | 99.86 | 0.14 | 0.00 |
 | [Lift ban on import of rescue animals from Romania, Ukraine, Belarus and Poland](616592.md) | 11,663 | 11,506 | 157 | 0 | 98.65 | 1.35 | 0.00 |
 | [Make the NHS Pension scheme tax-unregistered](620093.md) | 11,484 | 11,459 | 25 | 0 | 99.78 | 0.22 | 0.00 |
 | [Extend 30 hours free childcare to student midwives/nurses/paramedics](616557.md) | 11,359 | 11,326 | 33 | 0 | 99.71 | 0.29 | 0.00 |
@@ -52,9 +52,9 @@ Last refreshed 2022-11-28 16:30:06
 | [Require swimming venues to maintain single-sex or private changing facilities](622145.md) | 11,139 | 10,967 | 172 | 0 | 98.46 | 1.54 | 0.00 |
 | [Add Romanian to the Modern Languages GCSE ](617718.md) | 11,091 | 11,057 | 34 | 0 | 99.69 | 0.31 | 0.00 |
 | [Do not require parents to register home educated children with local authorities](617340.md) | 11,075 | 11,027 | 48 | 0 | 99.57 | 0.43 | 0.00 |
-| [Minimum wage pay for all healthcare students for placement hours worked!](619609.md) | 11,008 | 10,982 | 26 | 0 | 99.76 | 0.24 | 0.00 |
-| [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 10,781 | 10,525 | 256 | 0 | 97.63 | 2.37 | 0.00 |
-| [Make disregard for learners' safety an aggravating factor in driving offences](617180.md) | 10,658 | 10,641 | 17 | 0 | 99.84 | 0.16 | 0.00 |
-| [Make Video Games a compulsory part of the national school curriculum](621900.md) | 10,599 | 10,550 | 49 | 0 | 99.54 | 0.46 | 0.00 |
+| [Minimum wage pay for all healthcare students for placement hours worked!](619609.md) | 11,028 | 11,002 | 26 | 0 | 99.76 | 0.24 | 0.00 |
+| [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 10,885 | 10,627 | 258 | 0 | 97.63 | 2.37 | 0.00 |
+| [Make disregard for learners' safety an aggravating factor in driving offences](617180.md) | 10,659 | 10,642 | 17 | 0 | 99.84 | 0.16 | 0.00 |
+| [Make Video Games a compulsory part of the national school curriculum](621900.md) | 10,601 | 10,552 | 49 | 0 | 99.54 | 0.46 | 0.00 |
 | [Do not pass legislation to allow the gene editing of animals and crops](616480.md) | 10,547 | 10,406 | 141 | 0 | 98.66 | 1.34 | 0.00 |
 | [Give Animal Rescue Centres a grant to offset this winters increased heating cost](622806.md) | 9,833 | 9,787 | 46 | 0 | 99.53 | 0.47 | 0.00 |
