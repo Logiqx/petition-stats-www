@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-12-11 01:30:06
+Last refreshed 2022-12-11 02:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -15,10 +15,10 @@ Last refreshed 2022-12-11 01:30:06
 | [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 110,230 | 108,871 | 1,359 | 0 | 98.77 | 1.23 | 0.00 |
 | [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 107,934 | 107,468 | 466 | 0 | 99.57 | 0.43 | 0.00 |
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 84,046 | 83,822 | 224 | 0 | 99.73 | 0.27 | 0.00 |
-| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 83,284 | 80,664 | 2,620 | 0 | 96.85 | 3.15 | 0.00 |
+| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 83,287 | 80,667 | 2,620 | 0 | 96.85 | 3.15 | 0.00 |
 | [Limit the shooting season of Woodcock](619615.md) | 81,568 | 80,896 | 672 | 0 | 99.18 | 0.82 | 0.00 |
-| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 70,329 | 69,728 | 601 | 0 | 99.15 | 0.85 | 0.00 |
-| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 40,091 | 39,355 | 736 | 0 | 98.16 | 1.84 | 0.00 |
+| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 70,337 | 69,736 | 601 | 0 | 99.15 | 0.85 | 0.00 |
+| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 40,094 | 39,358 | 736 | 0 | 98.16 | 1.84 | 0.00 |
 | [Increase statutory maternity pay in line with cost of living crisis](617155.md) | 38,600 | 38,565 | 35 | 0 | 99.91 | 0.09 | 0.00 |
 | [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 35,731 | 35,413 | 318 | 0 | 99.11 | 0.89 | 0.00 |
 | [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 34,131 | 33,996 | 135 | 0 | 99.60 | 0.40 | 0.00 |
@@ -29,7 +29,7 @@ Last refreshed 2022-12-11 01:30:06
 | [End the UK’s membership of the World Health Organisation](617450.md) | 22,450 | 22,051 | 399 | 0 | 98.22 | 1.78 | 0.00 |
 | [Hold a General Election within 100 days of the new PM being appointed](621931.md) | 21,431 | 20,920 | 511 | 0 | 97.62 | 2.38 | 0.00 |
 | [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 19,697 | 19,533 | 164 | 0 | 99.17 | 0.83 | 0.00 |
-| [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 18,996 | 18,530 | 466 | 0 | 97.55 | 2.45 | 0.00 |
+| [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 18,998 | 18,532 | 466 | 0 | 97.55 | 2.45 | 0.00 |
 | [Fund free BSL Courses for parents or guardians of deaf children](623900.md) | 18,741 | 18,640 | 101 | 0 | 99.46 | 0.54 | 0.00 |
 | [Allow EU nationals to come to the UK to work in hospitality for up to 2 Years](621932.md) | 17,947 | 17,772 | 175 | 0 | 99.02 | 0.98 | 0.00 |
 | [Withdraw the UK from the European Convention on Human Rights](618456.md) | 17,190 | 16,996 | 194 | 0 | 98.87 | 1.13 | 0.00 |
@@ -39,7 +39,7 @@ Last refreshed 2022-12-11 01:30:06
 | [Review UK foreign policy in light of reports of Israeli apartheid](618802.md) | 15,215 | 14,986 | 229 | 0 | 98.49 | 1.51 | 0.00 |
 | [Require all new builds to have solar panels as condition of planning permission](617573.md) | 15,084 | 14,973 | 111 | 0 | 99.26 | 0.74 | 0.00 |
 | [Reinstate a dedicated Minister of State for Veterans’ Affairs](623527.md) | 14,769 | 14,357 | 412 | 0 | 97.21 | 2.79 | 0.00 |
-| [End assessments and consider disability benefit claims on medical advice alone](619481.md) | 14,692 | 14,611 | 81 | 0 | 99.45 | 0.55 | 0.00 |
+| [End assessments and consider disability benefit claims on medical advice alone](619481.md) | 14,722 | 14,641 | 81 | 0 | 99.45 | 0.55 | 0.00 |
 | [Require all businesses and public services to accept cash payments](622284.md) | 13,979 | 13,809 | 170 | 0 | 98.78 | 1.22 | 0.00 |
 | [Referendum on whether the UK should be neutral in the Ukraine/Russia conflict](617939.md) | 13,455 | 13,164 | 291 | 0 | 97.84 | 2.16 | 0.00 |
 | [Residential Park Home residents should be eligible for £400 electricity grant](617700.md) | 12,315 | 12,289 | 26 | 0 | 99.79 | 0.21 | 0.00 |
@@ -52,9 +52,9 @@ Last refreshed 2022-12-11 01:30:06
 | [Require swimming venues to maintain single-sex or private changing facilities](622145.md) | 11,180 | 11,008 | 172 | 0 | 98.46 | 1.54 | 0.00 |
 | [Add Romanian to the Modern Languages GCSE ](617718.md) | 11,130 | 11,096 | 34 | 0 | 99.69 | 0.31 | 0.00 |
 | [Do not require parents to register home educated children with local authorities](617340.md) | 11,114 | 11,066 | 48 | 0 | 99.57 | 0.43 | 0.00 |
-| [Prevent the introduction of any "programmable" CBDC in the UK](624159.md) | 10,715 | 10,555 | 160 | 0 | 98.51 | 1.49 | 0.00 |
+| [Prevent the introduction of any "programmable" CBDC in the UK](624159.md) | 10,716 | 10,556 | 160 | 0 | 98.51 | 1.49 | 0.00 |
 | [Make disregard for learners' safety an aggravating factor in driving offences](617180.md) | 10,704 | 10,687 | 17 | 0 | 99.84 | 0.16 | 0.00 |
 | [Make Video Games a compulsory part of the national school curriculum](621900.md) | 10,629 | 10,580 | 49 | 0 | 99.54 | 0.46 | 0.00 |
 | [Give Animal Rescue Centres a grant to offset this winters increased heating cost](622806.md) | 10,521 | 10,471 | 50 | 0 | 99.52 | 0.48 | 0.00 |
 | [Negotiate sustainable catch limits for all 5 UK cod stocks with the EU in 2022.](618769.md) | 10,231 | 10,006 | 225 | 0 | 97.80 | 2.20 | 0.00 |
-| [Raise the standard Personal TAX Allowance from £12,570 to £20,000](618661.md) | 9,778 | 9,747 | 31 | 0 | 99.68 | 0.32 | 0.00 |
+| [Raise the standard Personal TAX Allowance from £12,570 to £20,000](618661.md) | 9,779 | 9,748 | 31 | 0 | 99.68 | 0.32 | 0.00 |
