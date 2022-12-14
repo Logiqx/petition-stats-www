@@ -4,48 +4,48 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-12-14 20:30:07
+Last refreshed 2022-12-14 21:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Call an immediate general election to end the chaos of the current government](619781.md) | 900,552 | 889,220 | 11,332 | 0 | 98.74 | 1.26 | 0.00 |
+| [Call an immediate general election to end the chaos of the current government](619781.md) | 900,557 | 889,225 | 11,332 | 0 | 98.74 | 1.26 | 0.00 |
 | [Include abortion rights in the Bill of Rights](619334.md) | 167,331 | 166,813 | 518 | 0 | 99.69 | 0.31 | 0.00 |
 | [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 152,409 | 151,493 | 916 | 0 | 99.40 | 0.60 | 0.00 |
-| [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 152,075 | 151,923 | 152 | 0 | 99.90 | 0.10 | 0.00 |
-| [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 110,765 | 109,398 | 1,367 | 0 | 98.77 | 1.23 | 0.00 |
-| [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 107,977 | 107,511 | 466 | 0 | 99.57 | 0.43 | 0.00 |
-| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 84,416 | 81,753 | 2,663 | 0 | 96.85 | 3.15 | 0.00 |
-| [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 84,076 | 83,852 | 224 | 0 | 99.73 | 0.27 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 82,439 | 81,754 | 685 | 0 | 99.17 | 0.83 | 0.00 |
-| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 72,447 | 71,833 | 614 | 0 | 99.15 | 0.85 | 0.00 |
-| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 42,400 | 41,619 | 781 | 0 | 98.16 | 1.84 | 0.00 |
-| [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 36,494 | 36,166 | 328 | 0 | 99.10 | 0.90 | 0.00 |
-| [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 34,192 | 34,057 | 135 | 0 | 99.61 | 0.39 | 0.00 |
-| [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 31,517 | 29,890 | 1,627 | 0 | 94.84 | 5.16 | 0.00 |
+| [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 152,089 | 151,937 | 152 | 0 | 99.90 | 0.10 | 0.00 |
+| [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 110,771 | 109,404 | 1,367 | 0 | 98.77 | 1.23 | 0.00 |
+| [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 107,978 | 107,512 | 466 | 0 | 99.57 | 0.43 | 0.00 |
+| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 84,434 | 81,771 | 2,663 | 0 | 96.85 | 3.15 | 0.00 |
+| [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 84,080 | 83,856 | 224 | 0 | 99.73 | 0.27 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 82,441 | 81,756 | 685 | 0 | 99.17 | 0.83 | 0.00 |
+| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 72,496 | 71,882 | 614 | 0 | 99.15 | 0.85 | 0.00 |
+| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 42,437 | 41,656 | 781 | 0 | 98.16 | 1.84 | 0.00 |
+| [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 36,497 | 36,169 | 328 | 0 | 99.10 | 0.90 | 0.00 |
+| [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 34,193 | 34,058 | 135 | 0 | 99.61 | 0.39 | 0.00 |
+| [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 31,520 | 29,893 | 1,627 | 0 | 94.84 | 5.16 | 0.00 |
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 27,689 | 27,544 | 145 | 0 | 99.48 | 0.52 | 0.00 |
 | [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 24,621 | 24,555 | 66 | 0 | 99.73 | 0.27 | 0.00 |
-| [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 23,008 | 22,462 | 546 | 0 | 97.63 | 2.37 | 0.00 |
-| [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 22,810 | 22,640 | 170 | 0 | 99.25 | 0.75 | 0.00 |
+| [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 23,051 | 22,505 | 546 | 0 | 97.63 | 2.37 | 0.00 |
+| [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 22,818 | 22,648 | 170 | 0 | 99.25 | 0.75 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 22,479 | 22,080 | 399 | 0 | 98.23 | 1.77 | 0.00 |
 | [Hold a General Election within 100 days of the new PM being appointed](621931.md) | 21,449 | 20,938 | 511 | 0 | 97.62 | 2.38 | 0.00 |
-| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 19,717 | 19,553 | 164 | 0 | 99.17 | 0.83 | 0.00 |
+| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 19,718 | 19,554 | 164 | 0 | 99.17 | 0.83 | 0.00 |
 | [Fund free BSL Courses for parents or guardians of deaf children](623900.md) | 18,897 | 18,793 | 104 | 0 | 99.45 | 0.55 | 0.00 |
-| [End assessments and consider disability benefit claims on medical advice alone](619481.md) | 18,171 | 18,081 | 90 | 0 | 99.50 | 0.50 | 0.00 |
-| [Allow EU nationals to come to the UK to work in hospitality for up to 2 Years](621932.md) | 17,949 | 17,774 | 175 | 0 | 99.03 | 0.97 | 0.00 |
+| [End assessments and consider disability benefit claims on medical advice alone](619481.md) | 18,184 | 18,094 | 90 | 0 | 99.51 | 0.49 | 0.00 |
+| [Allow EU nationals to come to the UK to work in hospitality for up to 2 Years](621932.md) | 17,951 | 17,776 | 175 | 0 | 99.03 | 0.97 | 0.00 |
 | [Withdraw the UK from the European Convention on Human Rights](618456.md) | 17,287 | 17,093 | 194 | 0 | 98.88 | 1.12 | 0.00 |
 | [Full review of Personal Independence Payment (PIP) application process](620962.md) | 15,913 | 15,883 | 30 | 0 | 99.81 | 0.19 | 0.00 |
 | [Set a Minimum Pension Guarantee (MPG) of at least £200 pw for state pensioners](620839.md) | 15,876 | 15,439 | 437 | 0 | 97.25 | 2.75 | 0.00 |
 | [Remove indemnity from the manufacturers of covid-19 vaccines](619190.md) | 15,375 | 15,086 | 289 | 0 | 98.12 | 1.88 | 0.00 |
 | [Review UK foreign policy in light of reports of Israeli apartheid](618802.md) | 15,224 | 14,995 | 229 | 0 | 98.50 | 1.50 | 0.00 |
-| [Require all new builds to have solar panels as condition of planning permission](617573.md) | 15,108 | 14,997 | 111 | 0 | 99.27 | 0.73 | 0.00 |
+| [Require all new builds to have solar panels as condition of planning permission](617573.md) | 15,110 | 14,999 | 111 | 0 | 99.27 | 0.73 | 0.00 |
 | [Reinstate a dedicated Minister of State for Veterans’ Affairs](623527.md) | 14,774 | 14,361 | 413 | 0 | 97.20 | 2.80 | 0.00 |
 | [Require all businesses and public services to accept cash payments](622284.md) | 14,010 | 13,840 | 170 | 0 | 98.79 | 1.21 | 0.00 |
-| [Referendum on whether the UK should be neutral in the Ukraine/Russia conflict](617939.md) | 13,465 | 13,174 | 291 | 0 | 97.84 | 2.16 | 0.00 |
-| [Require train operators maintain ticket offices at railway stations](622391.md) | 12,452 | 12,405 | 47 | 0 | 99.62 | 0.38 | 0.00 |
+| [Referendum on whether the UK should be neutral in the Ukraine/Russia conflict](617939.md) | 13,466 | 13,175 | 291 | 0 | 97.84 | 2.16 | 0.00 |
+| [Require train operators maintain ticket offices at railway stations](622391.md) | 12,460 | 12,413 | 47 | 0 | 99.62 | 0.38 | 0.00 |
 | [Residential Park Home residents should be eligible for £400 electricity grant](617700.md) | 12,328 | 12,302 | 26 | 0 | 99.79 | 0.21 | 0.00 |
-| [Increase funding for schools to ensure that they do not enter deficit](627130.md) | 12,071 | 12,054 | 17 | 0 | 99.86 | 0.14 | 0.00 |
-| [Increase funding for early years settings](628412.md) | 11,882 | 11,868 | 14 | 0 | 99.88 | 0.12 | 0.00 |
-| [Prevent the introduction of any "programmable" CBDC in the UK](624159.md) | 11,600 | 11,436 | 164 | 0 | 98.59 | 1.41 | 0.00 |
+| [Increase funding for schools to ensure that they do not enter deficit](627130.md) | 12,072 | 12,055 | 17 | 0 | 99.86 | 0.14 | 0.00 |
+| [Increase funding for early years settings](628412.md) | 11,888 | 11,874 | 14 | 0 | 99.88 | 0.12 | 0.00 |
+| [Prevent the introduction of any "programmable" CBDC in the UK](624159.md) | 11,602 | 11,438 | 164 | 0 | 98.59 | 1.41 | 0.00 |
 | [Make the NHS Pension scheme tax-unregistered](620093.md) | 11,498 | 11,473 | 25 | 0 | 99.78 | 0.22 | 0.00 |
 | [Minimum wage pay for all healthcare students for placement hours worked!](619609.md) | 11,443 | 11,414 | 29 | 0 | 99.75 | 0.25 | 0.00 |
 | [Reschedule psilocybin for medical research on untreatable conditions](621199.md) | 11,363 | 11,234 | 129 | 0 | 98.86 | 1.14 | 0.00 |
@@ -55,6 +55,6 @@ Last refreshed 2022-12-14 20:30:07
 | [Make Video Games a compulsory part of the national school curriculum](621900.md) | 10,634 | 10,585 | 49 | 0 | 99.54 | 0.46 | 0.00 |
 | [Give Animal Rescue Centres a grant to offset this winters increased heating cost](622806.md) | 10,617 | 10,566 | 51 | 0 | 99.52 | 0.48 | 0.00 |
 | [Negotiate sustainable catch limits for all 5 UK cod stocks with the EU in 2022.](618769.md) | 10,289 | 10,063 | 226 | 0 | 97.80 | 2.20 | 0.00 |
-| [Commit to not amending the Equality Act's definition of sex](627984.md) | 10,218 | 10,071 | 147 | 0 | 98.56 | 1.44 | 0.00 |
-| [Raise the standard Personal TAX Allowance from £12,570 to £20,000](618661.md) | 10,029 | 9,998 | 31 | 0 | 99.69 | 0.31 | 0.00 |
-| [Reinstate tax relief allowing mortgage interest to be set against rental income](627785.md) | 9,164 | 9,138 | 26 | 0 | 99.72 | 0.28 | 0.00 |
+| [Commit to not amending the Equality Act's definition of sex](627984.md) | 10,226 | 10,079 | 147 | 0 | 98.56 | 1.44 | 0.00 |
+| [Raise the standard Personal TAX Allowance from £12,570 to £20,000](618661.md) | 10,031 | 10,000 | 31 | 0 | 99.69 | 0.31 | 0.00 |
+| [Reinstate tax relief allowing mortgage interest to be set against rental income](627785.md) | 9,180 | 9,154 | 26 | 0 | 99.72 | 0.28 | 0.00 |
