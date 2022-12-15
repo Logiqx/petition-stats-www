@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-12-15 01:30:06
+Last refreshed 2022-12-15 02:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -14,23 +14,23 @@ Last refreshed 2022-12-15 01:30:06
 | [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 152,102 | 151,950 | 152 | 0 | 99.90 | 0.10 | 0.00 |
 | [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 110,787 | 109,419 | 1,368 | 0 | 98.77 | 1.23 | 0.00 |
 | [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 107,978 | 107,512 | 466 | 0 | 99.57 | 0.43 | 0.00 |
-| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 84,461 | 81,796 | 2,665 | 0 | 96.84 | 3.16 | 0.00 |
+| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 84,463 | 81,798 | 2,665 | 0 | 96.84 | 3.16 | 0.00 |
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 84,081 | 83,857 | 224 | 0 | 99.73 | 0.27 | 0.00 |
 | [Limit the shooting season of Woodcock](619615.md) | 82,448 | 81,763 | 685 | 0 | 99.17 | 0.83 | 0.00 |
-| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 72,566 | 71,952 | 614 | 0 | 99.15 | 0.85 | 0.00 |
-| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 42,513 | 41,731 | 782 | 0 | 98.16 | 1.84 | 0.00 |
-| [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 36,511 | 36,183 | 328 | 0 | 99.10 | 0.90 | 0.00 |
-| [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 34,193 | 34,058 | 135 | 0 | 99.61 | 0.39 | 0.00 |
-| [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 31,525 | 29,898 | 1,627 | 0 | 94.84 | 5.16 | 0.00 |
+| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 72,570 | 71,956 | 614 | 0 | 99.15 | 0.85 | 0.00 |
+| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 42,514 | 41,732 | 782 | 0 | 98.16 | 1.84 | 0.00 |
+| [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 36,512 | 36,184 | 328 | 0 | 99.10 | 0.90 | 0.00 |
+| [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 34,195 | 34,060 | 135 | 0 | 99.61 | 0.39 | 0.00 |
+| [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 31,526 | 29,899 | 1,627 | 0 | 94.84 | 5.16 | 0.00 |
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 27,689 | 27,544 | 145 | 0 | 99.48 | 0.52 | 0.00 |
 | [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 24,622 | 24,556 | 66 | 0 | 99.73 | 0.27 | 0.00 |
-| [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 23,125 | 22,578 | 547 | 0 | 97.63 | 2.37 | 0.00 |
+| [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 23,126 | 22,579 | 547 | 0 | 97.63 | 2.37 | 0.00 |
 | [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 22,838 | 22,668 | 170 | 0 | 99.26 | 0.74 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 22,480 | 22,081 | 399 | 0 | 98.23 | 1.77 | 0.00 |
 | [Hold a General Election within 100 days of the new PM being appointed](621931.md) | 21,450 | 20,939 | 511 | 0 | 97.62 | 2.38 | 0.00 |
 | [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 19,720 | 19,556 | 164 | 0 | 99.17 | 0.83 | 0.00 |
 | [Fund free BSL Courses for parents or guardians of deaf children](623900.md) | 18,899 | 18,795 | 104 | 0 | 99.45 | 0.55 | 0.00 |
-| [End assessments and consider disability benefit claims on medical advice alone](619481.md) | 18,242 | 18,152 | 90 | 0 | 99.51 | 0.49 | 0.00 |
+| [End assessments and consider disability benefit claims on medical advice alone](619481.md) | 18,244 | 18,154 | 90 | 0 | 99.51 | 0.49 | 0.00 |
 | [Allow EU nationals to come to the UK to work in hospitality for up to 2 Years](621932.md) | 17,952 | 17,777 | 175 | 0 | 99.03 | 0.97 | 0.00 |
 | [Withdraw the UK from the European Convention on Human Rights](618456.md) | 17,289 | 17,095 | 194 | 0 | 98.88 | 1.12 | 0.00 |
 | [Full review of Personal Independence Payment (PIP) application process](620962.md) | 15,914 | 15,884 | 30 | 0 | 99.81 | 0.19 | 0.00 |
@@ -56,5 +56,5 @@ Last refreshed 2022-12-15 01:30:06
 | [Negotiate sustainable catch limits for all 5 UK cod stocks with the EU in 2022.](618769.md) | 10,289 | 10,063 | 226 | 0 | 97.80 | 2.20 | 0.00 |
 | [Commit to not amending the Equality Act's definition of sex](627984.md) | 10,247 | 10,100 | 147 | 0 | 98.57 | 1.43 | 0.00 |
 | [Raise the standard Personal TAX Allowance from £12,570 to £20,000](618661.md) | 10,032 | 10,001 | 31 | 0 | 99.69 | 0.31 | 0.00 |
-| [Reinstate tax relief allowing mortgage interest to be set against rental income](627785.md) | 9,210 | 9,184 | 26 | 0 | 99.72 | 0.28 | 0.00 |
+| [Reinstate tax relief allowing mortgage interest to be set against rental income](627785.md) | 9,211 | 9,185 | 26 | 0 | 99.72 | 0.28 | 0.00 |
 | [Stop legal aid for court appeals for people entering the UK illegally](627168.md) | 9,160 | 9,070 | 90 | 0 | 99.02 | 0.98 | 0.00 |
