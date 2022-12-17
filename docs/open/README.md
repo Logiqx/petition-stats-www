@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-12-17 03:30:05
+Last refreshed 2022-12-17 04:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -12,13 +12,13 @@ Last refreshed 2022-12-17 03:30:05
 | [Include abortion rights in the Bill of Rights](619334.md) | 167,343 | 166,825 | 518 | 0 | 99.69 | 0.31 | 0.00 |
 | [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 152,479 | 151,563 | 916 | 0 | 99.40 | 0.60 | 0.00 |
 | [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 152,141 | 151,989 | 152 | 0 | 99.90 | 0.10 | 0.00 |
-| [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 110,917 | 109,549 | 1,368 | 0 | 98.77 | 1.23 | 0.00 |
+| [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 110,919 | 109,551 | 1,368 | 0 | 98.77 | 1.23 | 0.00 |
 | [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 107,993 | 107,527 | 466 | 0 | 99.57 | 0.43 | 0.00 |
-| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 84,745 | 82,071 | 2,674 | 0 | 96.84 | 3.16 | 0.00 |
+| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 84,746 | 82,071 | 2,675 | 0 | 96.84 | 3.16 | 0.00 |
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 84,094 | 83,870 | 224 | 0 | 99.73 | 0.27 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 82,919 | 82,233 | 686 | 0 | 99.17 | 0.83 | 0.00 |
-| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 73,354 | 72,736 | 618 | 0 | 99.16 | 0.84 | 0.00 |
-| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 43,404 | 42,608 | 796 | 0 | 98.17 | 1.83 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 82,923 | 82,237 | 686 | 0 | 99.17 | 0.83 | 0.00 |
+| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 73,355 | 72,737 | 618 | 0 | 99.16 | 0.84 | 0.00 |
+| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 43,406 | 42,610 | 796 | 0 | 98.17 | 1.83 | 0.00 |
 | [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 36,638 | 36,307 | 331 | 0 | 99.10 | 0.90 | 0.00 |
 | [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 34,224 | 34,089 | 135 | 0 | 99.61 | 0.39 | 0.00 |
 | [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 31,586 | 29,958 | 1,628 | 0 | 94.85 | 5.15 | 0.00 |
@@ -51,10 +51,10 @@ Last refreshed 2022-12-17 03:30:05
 | [Reschedule psilocybin for medical research on untreatable conditions](621199.md) | 11,375 | 11,246 | 129 | 0 | 98.87 | 1.13 | 0.00 |
 | [Require swimming venues to maintain single-sex or private changing facilities](622145.md) | 11,197 | 11,025 | 172 | 0 | 98.46 | 1.54 | 0.00 |
 | [Add Romanian to the Modern Languages GCSE ](617718.md) | 11,135 | 11,101 | 34 | 0 | 99.69 | 0.31 | 0.00 |
-| [Give Animal Rescue Centres a grant to offset this winters increased heating cost](622806.md) | 10,637 | 10,586 | 51 | 0 | 99.52 | 0.48 | 0.00 |
+| [Give Animal Rescue Centres a grant to offset this winters increased heating cost](622806.md) | 10,638 | 10,587 | 51 | 0 | 99.52 | 0.48 | 0.00 |
 | [Make Video Games a compulsory part of the national school curriculum](621900.md) | 10,635 | 10,586 | 49 | 0 | 99.54 | 0.46 | 0.00 |
 | [Commit to not amending the Equality Act's definition of sex](627984.md) | 10,404 | 10,256 | 148 | 0 | 98.58 | 1.42 | 0.00 |
 | [Negotiate sustainable catch limits for all 5 UK cod stocks with the EU in 2022.](618769.md) | 10,323 | 10,097 | 226 | 0 | 97.81 | 2.19 | 0.00 |
-| [Raise the standard Personal TAX Allowance from £12,570 to £20,000](618661.md) | 10,059 | 10,028 | 31 | 0 | 99.69 | 0.31 | 0.00 |
+| [Raise the standard Personal TAX Allowance from £12,570 to £20,000](618661.md) | 10,060 | 10,029 | 31 | 0 | 99.69 | 0.31 | 0.00 |
 | [Reinstate tax relief allowing mortgage interest to be set against rental income](627785.md) | 9,445 | 9,417 | 28 | 0 | 99.70 | 0.30 | 0.00 |
 | [Stop legal aid for court appeals for people entering the UK illegally](627168.md) | 9,239 | 9,149 | 90 | 0 | 99.03 | 0.97 | 0.00 |
