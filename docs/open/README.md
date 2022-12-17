@@ -4,33 +4,33 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-12-17 05:30:18
+Last refreshed 2022-12-17 06:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Call an immediate general election to end the chaos of the current government](619781.md) | 900,761 | 889,427 | 11,334 | 0 | 98.74 | 1.26 | 0.00 |
+| [Call an immediate general election to end the chaos of the current government](619781.md) | 900,762 | 889,428 | 11,334 | 0 | 98.74 | 1.26 | 0.00 |
 | [Include abortion rights in the Bill of Rights](619334.md) | 167,343 | 166,825 | 518 | 0 | 99.69 | 0.31 | 0.00 |
 | [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 152,479 | 151,563 | 916 | 0 | 99.40 | 0.60 | 0.00 |
-| [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 152,141 | 151,989 | 152 | 0 | 99.90 | 0.10 | 0.00 |
+| [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 152,143 | 151,991 | 152 | 0 | 99.90 | 0.10 | 0.00 |
 | [Increase State pensions to £380 a week, and lower retirement age to 60](617603.md) | 110,919 | 109,551 | 1,368 | 0 | 98.77 | 1.23 | 0.00 |
 | [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 107,993 | 107,527 | 466 | 0 | 99.57 | 0.43 | 0.00 |
-| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 84,748 | 82,073 | 2,675 | 0 | 96.84 | 3.16 | 0.00 |
+| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 84,751 | 82,075 | 2,676 | 0 | 96.84 | 3.16 | 0.00 |
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 84,094 | 83,870 | 224 | 0 | 99.73 | 0.27 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 82,926 | 82,240 | 686 | 0 | 99.17 | 0.83 | 0.00 |
-| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 73,356 | 72,738 | 618 | 0 | 99.16 | 0.84 | 0.00 |
-| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 43,409 | 42,613 | 796 | 0 | 98.17 | 1.83 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 82,936 | 82,250 | 686 | 0 | 99.17 | 0.83 | 0.00 |
+| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 73,359 | 72,741 | 618 | 0 | 99.16 | 0.84 | 0.00 |
+| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 43,413 | 42,617 | 796 | 0 | 98.17 | 1.83 | 0.00 |
 | [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 36,638 | 36,307 | 331 | 0 | 99.10 | 0.90 | 0.00 |
 | [Increase Carer's Allowance to equal 35hrs at National Minimum Wage](617874.md) | 34,224 | 34,089 | 135 | 0 | 99.61 | 0.39 | 0.00 |
 | [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 31,586 | 29,958 | 1,628 | 0 | 94.85 | 5.15 | 0.00 |
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 27,697 | 27,552 | 145 | 0 | 99.48 | 0.52 | 0.00 |
 | [Make people on disability benefits eligible for the £650 one off payment.](617425.md) | 24,630 | 24,564 | 66 | 0 | 99.73 | 0.27 | 0.00 |
-| [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 23,655 | 23,098 | 557 | 0 | 97.65 | 2.35 | 0.00 |
+| [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 23,656 | 23,099 | 557 | 0 | 97.65 | 2.35 | 0.00 |
 | [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 22,915 | 22,745 | 170 | 0 | 99.26 | 0.74 | 0.00 |
 | [End the UK’s membership of the World Health Organisation](617450.md) | 22,482 | 22,083 | 399 | 0 | 98.23 | 1.77 | 0.00 |
 | [Hold a General Election within 100 days of the new PM being appointed](621931.md) | 21,456 | 20,945 | 511 | 0 | 97.62 | 2.38 | 0.00 |
 | [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 19,729 | 19,565 | 164 | 0 | 99.17 | 0.83 | 0.00 |
 | [Fund free BSL Courses for parents or guardians of deaf children](623900.md) | 18,925 | 18,821 | 104 | 0 | 99.45 | 0.55 | 0.00 |
-| [End assessments and consider disability benefit claims on medical advice alone](619481.md) | 18,573 | 18,481 | 92 | 0 | 99.50 | 0.50 | 0.00 |
+| [End assessments and consider disability benefit claims on medical advice alone](619481.md) | 18,574 | 18,482 | 92 | 0 | 99.50 | 0.50 | 0.00 |
 | [Allow EU nationals to come to the UK to work in hospitality for up to 2 Years](621932.md) | 17,958 | 17,783 | 175 | 0 | 99.03 | 0.97 | 0.00 |
 | [Withdraw the UK from the European Convention on Human Rights](618456.md) | 17,401 | 17,205 | 196 | 0 | 98.87 | 1.13 | 0.00 |
 | [Full review of Personal Independence Payment (PIP) application process](620962.md) | 15,934 | 15,904 | 30 | 0 | 99.81 | 0.19 | 0.00 |
@@ -56,5 +56,5 @@ Last refreshed 2022-12-17 05:30:18
 | [Commit to not amending the Equality Act's definition of sex](627984.md) | 10,404 | 10,256 | 148 | 0 | 98.58 | 1.42 | 0.00 |
 | [Negotiate sustainable catch limits for all 5 UK cod stocks with the EU in 2022.](618769.md) | 10,323 | 10,097 | 226 | 0 | 97.81 | 2.19 | 0.00 |
 | [Raise the standard Personal TAX Allowance from £12,570 to £20,000](618661.md) | 10,060 | 10,029 | 31 | 0 | 99.69 | 0.31 | 0.00 |
-| [Reinstate tax relief allowing mortgage interest to be set against rental income](627785.md) | 9,446 | 9,418 | 28 | 0 | 99.70 | 0.30 | 0.00 |
-| [Stop legal aid for court appeals for people entering the UK illegally](627168.md) | 9,239 | 9,149 | 90 | 0 | 99.03 | 0.97 | 0.00 |
+| [Reinstate tax relief allowing mortgage interest to be set against rental income](627785.md) | 9,448 | 9,420 | 28 | 0 | 99.70 | 0.30 | 0.00 |
+| [Stop legal aid for court appeals for people entering the UK illegally](627168.md) | 9,240 | 9,150 | 90 | 0 | 99.03 | 0.97 | 0.00 |
