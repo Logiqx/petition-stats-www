@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-12-24 05:30:19
+Last refreshed 2022-12-24 06:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -14,18 +14,18 @@ Last refreshed 2022-12-24 05:30:19
 | [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 152,693 | 151,777 | 916 | 0 | 99.40 | 0.60 | 0.00 |
 | [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 108,040 | 107,574 | 466 | 0 | 99.57 | 0.43 | 0.00 |
 | [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 88,463 | 85,574 | 2,889 | 0 | 96.73 | 3.27 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 86,799 | 86,100 | 699 | 0 | 99.19 | 0.81 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 86,802 | 86,103 | 699 | 0 | 99.19 | 0.81 | 0.00 |
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 84,142 | 83,918 | 224 | 0 | 99.73 | 0.27 | 0.00 |
-| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 75,860 | 75,221 | 639 | 0 | 99.16 | 0.84 | 0.00 |
-| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 56,986 | 55,969 | 1,017 | 0 | 98.22 | 1.78 | 0.00 |
+| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 75,865 | 75,226 | 639 | 0 | 99.16 | 0.84 | 0.00 |
+| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 56,995 | 55,978 | 1,017 | 0 | 98.22 | 1.78 | 0.00 |
 | [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 37,665 | 37,332 | 333 | 0 | 99.12 | 0.88 | 0.00 |
 | [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 31,915 | 30,276 | 1,639 | 0 | 94.86 | 5.14 | 0.00 |
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 27,712 | 27,567 | 145 | 0 | 99.48 | 0.52 | 0.00 |
 | [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 24,244 | 23,676 | 568 | 0 | 97.66 | 2.34 | 0.00 |
 | [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 23,081 | 22,911 | 170 | 0 | 99.26 | 0.74 | 0.00 |
-| [End assessments and consider disability benefit claims on medical advice alone](619481.md) | 23,028 | 22,928 | 100 | 0 | 99.57 | 0.43 | 0.00 |
+| [End assessments and consider disability benefit claims on medical advice alone](619481.md) | 23,030 | 22,930 | 100 | 0 | 99.57 | 0.43 | 0.00 |
 | [Hold a General Election within 100 days of the new PM being appointed](621931.md) | 21,500 | 20,989 | 511 | 0 | 97.62 | 2.38 | 0.00 |
-| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 20,333 | 20,169 | 164 | 0 | 99.19 | 0.81 | 0.00 |
+| [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 20,340 | 20,176 | 164 | 0 | 99.19 | 0.81 | 0.00 |
 | [Fund free BSL Courses for parents or guardians of deaf children](623900.md) | 18,969 | 18,865 | 104 | 0 | 99.45 | 0.55 | 0.00 |
 | [Allow EU nationals to come to the UK to work in hospitality for up to 2 Years](621932.md) | 17,976 | 17,801 | 175 | 0 | 99.03 | 0.97 | 0.00 |
 | [Withdraw the UK from the European Convention on Human Rights](618456.md) | 17,500 | 17,303 | 197 | 0 | 98.87 | 1.13 | 0.00 |
@@ -34,7 +34,7 @@ Last refreshed 2022-12-24 05:30:19
 | [Remove indemnity from the manufacturers of covid-19 vaccines](619190.md) | 15,463 | 15,172 | 291 | 0 | 98.12 | 1.88 | 0.00 |
 | [Review UK foreign policy in light of reports of Israeli apartheid](618802.md) | 15,343 | 15,114 | 229 | 0 | 98.51 | 1.49 | 0.00 |
 | [Reinstate a dedicated Minister of State for Veterans’ Affairs](623527.md) | 14,783 | 14,369 | 414 | 0 | 97.20 | 2.80 | 0.00 |
-| [Reinstate tax relief allowing mortgage interest to be set against rental income](627785.md) | 14,252 | 14,195 | 57 | 0 | 99.60 | 0.40 | 0.00 |
+| [Reinstate tax relief allowing mortgage interest to be set against rental income](627785.md) | 14,257 | 14,200 | 57 | 0 | 99.60 | 0.40 | 0.00 |
 | [Require all businesses and public services to accept cash payments](622284.md) | 14,165 | 13,994 | 171 | 0 | 98.79 | 1.21 | 0.00 |
 | [Referendum on whether the UK should be neutral in the Ukraine/Russia conflict](617939.md) | 13,524 | 13,233 | 291 | 0 | 97.85 | 2.15 | 0.00 |
 | [Prevent the introduction of any "programmable" CBDC in the UK](624159.md) | 12,648 | 12,478 | 170 | 0 | 98.66 | 1.34 | 0.00 |
