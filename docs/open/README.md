@@ -4,57 +4,57 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-12-29 17:30:06
+Last refreshed 2022-12-29 18:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Call an immediate general election to end the chaos of the current government](619781.md) | 901,505 | 890,163 | 11,342 | 0 | 98.74 | 1.26 | 0.00 |
+| [Call an immediate general election to end the chaos of the current government](619781.md) | 901,515 | 890,173 | 11,342 | 0 | 98.74 | 1.26 | 0.00 |
 | [Include abortion rights in the Bill of Rights](619334.md) | 167,452 | 166,931 | 521 | 0 | 99.69 | 0.31 | 0.00 |
-| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 153,236 | 152,316 | 920 | 0 | 99.40 | 0.60 | 0.00 |
+| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 153,238 | 152,318 | 920 | 0 | 99.40 | 0.60 | 0.00 |
 | [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 153,126 | 152,973 | 153 | 0 | 99.90 | 0.10 | 0.00 |
 | [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 108,060 | 107,594 | 466 | 0 | 99.57 | 0.43 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 97,647 | 96,821 | 826 | 0 | 99.15 | 0.85 | 0.00 |
-| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 90,653 | 87,687 | 2,966 | 0 | 96.73 | 3.27 | 0.00 |
-| [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 84,306 | 84,082 | 224 | 0 | 99.73 | 0.27 | 0.00 |
-| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 78,145 | 77,482 | 663 | 0 | 99.15 | 0.85 | 0.00 |
-| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 63,022 | 61,910 | 1,112 | 0 | 98.24 | 1.76 | 0.00 |
-| [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 38,279 | 37,940 | 339 | 0 | 99.11 | 0.89 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 97,737 | 96,911 | 826 | 0 | 99.15 | 0.85 | 0.00 |
+| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 90,683 | 87,716 | 2,967 | 0 | 96.73 | 3.27 | 0.00 |
+| [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 84,307 | 84,083 | 224 | 0 | 99.73 | 0.27 | 0.00 |
+| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 78,206 | 77,542 | 664 | 0 | 99.15 | 0.85 | 0.00 |
+| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 63,065 | 61,951 | 1,114 | 0 | 98.23 | 1.77 | 0.00 |
+| [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 38,289 | 37,950 | 339 | 0 | 99.11 | 0.89 | 0.00 |
 | [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 32,014 | 30,375 | 1,639 | 0 | 94.88 | 5.12 | 0.00 |
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 27,725 | 27,580 | 145 | 0 | 99.48 | 0.52 | 0.00 |
-| [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 24,444 | 23,872 | 572 | 0 | 97.66 | 2.34 | 0.00 |
+| [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 24,446 | 23,874 | 572 | 0 | 97.66 | 2.34 | 0.00 |
 | [End assessments and consider disability benefit claims on medical advice alone](619481.md) | 23,371 | 23,270 | 101 | 0 | 99.57 | 0.43 | 0.00 |
-| [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 23,263 | 23,093 | 170 | 0 | 99.27 | 0.73 | 0.00 |
+| [Save the bees: cut hazardous pesticides and support nature-friendly farming](618926.md) | 23,264 | 23,094 | 170 | 0 | 99.27 | 0.73 | 0.00 |
 | [Hold a General Election within 100 days of the new PM being appointed](621931.md) | 21,522 | 21,011 | 511 | 0 | 97.63 | 2.37 | 0.00 |
 | [Fund the drug bevacizumab (Avastin) on the NHS to treat colorectal cancer](616742.md) | 20,786 | 20,621 | 165 | 0 | 99.21 | 0.79 | 0.00 |
-| [Fund free BSL Courses for parents or guardians of deaf children](623900.md) | 19,193 | 19,089 | 104 | 0 | 99.46 | 0.54 | 0.00 |
+| [Fund free BSL Courses for parents or guardians of deaf children](623900.md) | 19,195 | 19,091 | 104 | 0 | 99.46 | 0.54 | 0.00 |
 | [Withdraw the UK from the European Convention on Human Rights](618456.md) | 18,179 | 17,972 | 207 | 0 | 98.86 | 1.14 | 0.00 |
 | [Allow EU nationals to come to the UK to work in hospitality for up to 2 Years](621932.md) | 17,984 | 17,809 | 175 | 0 | 99.03 | 0.97 | 0.00 |
 | [Full review of Personal Independence Payment (PIP) application process](620962.md) | 16,042 | 16,012 | 30 | 0 | 99.81 | 0.19 | 0.00 |
 | [Set a Minimum Pension Guarantee (MPG) of at least £200 pw for state pensioners](620839.md) | 15,905 | 15,468 | 437 | 0 | 97.25 | 2.75 | 0.00 |
-| [Reinstate tax relief allowing mortgage interest to be set against rental income](627785.md) | 15,741 | 15,681 | 60 | 0 | 99.62 | 0.38 | 0.00 |
+| [Reinstate tax relief allowing mortgage interest to be set against rental income](627785.md) | 15,748 | 15,688 | 60 | 0 | 99.62 | 0.38 | 0.00 |
 | [Remove indemnity from the manufacturers of covid-19 vaccines](619190.md) | 15,508 | 15,217 | 291 | 0 | 98.12 | 1.88 | 0.00 |
 | [Review UK foreign policy in light of reports of Israeli apartheid](618802.md) | 15,383 | 15,154 | 229 | 0 | 98.51 | 1.49 | 0.00 |
 | [Reinstate a dedicated Minister of State for Veterans’ Affairs](623527.md) | 14,787 | 14,373 | 414 | 0 | 97.20 | 2.80 | 0.00 |
 | [Require all businesses and public services to accept cash payments](622284.md) | 14,195 | 14,024 | 171 | 0 | 98.80 | 1.20 | 0.00 |
-| [Prevent the introduction of any "programmable" CBDC in the UK](624159.md) | 12,817 | 12,645 | 172 | 0 | 98.66 | 1.34 | 0.00 |
-| [Require train operators maintain ticket offices at railway stations](622391.md) | 12,658 | 12,611 | 47 | 0 | 99.63 | 0.37 | 0.00 |
+| [Prevent the introduction of any "programmable" CBDC in the UK](624159.md) | 12,820 | 12,648 | 172 | 0 | 98.66 | 1.34 | 0.00 |
+| [Require train operators maintain ticket offices at railway stations](622391.md) | 12,661 | 12,614 | 47 | 0 | 99.63 | 0.37 | 0.00 |
 | [Increase funding for early years settings](628412.md) | 12,173 | 12,159 | 14 | 0 | 99.88 | 0.12 | 0.00 |
 | [Increase funding for schools to ensure that they do not enter deficit](627130.md) | 12,110 | 12,093 | 17 | 0 | 99.86 | 0.14 | 0.00 |
-| [Commit to not amending the Equality Act's definition of sex](627984.md) | 12,106 | 11,928 | 178 | 0 | 98.53 | 1.47 | 0.00 |
+| [Commit to not amending the Equality Act's definition of sex](627984.md) | 12,107 | 11,929 | 178 | 0 | 98.53 | 1.47 | 0.00 |
 | [Minimum wage pay for all healthcare students for placement hours worked!](619609.md) | 11,566 | 11,537 | 29 | 0 | 99.75 | 0.25 | 0.00 |
 | [Make the NHS Pension scheme tax-unregistered](620093.md) | 11,502 | 11,477 | 25 | 0 | 99.78 | 0.22 | 0.00 |
 | [Reschedule psilocybin for medical research on untreatable conditions](621199.md) | 11,434 | 11,305 | 129 | 0 | 98.87 | 1.13 | 0.00 |
 | [Require swimming venues to maintain single-sex or private changing facilities](622145.md) | 11,269 | 11,096 | 173 | 0 | 98.46 | 1.54 | 0.00 |
-| [Stop legal aid for court appeals for people entering the UK illegally](627168.md) | 10,817 | 10,713 | 104 | 0 | 99.04 | 0.96 | 0.00 |
+| [Stop legal aid for court appeals for people entering the UK illegally](627168.md) | 10,837 | 10,733 | 104 | 0 | 99.04 | 0.96 | 0.00 |
 | [Give Animal Rescue Centres a grant to offset this winters increased heating cost](622806.md) | 10,683 | 10,632 | 51 | 0 | 99.52 | 0.48 | 0.00 |
 | [Make Video Games a compulsory part of the national school curriculum](621900.md) | 10,640 | 10,591 | 49 | 0 | 99.54 | 0.46 | 0.00 |
-| [Negotiate sustainable catch limits for all 5 UK cod stocks with the EU in 2022.](618769.md) | 10,513 | 10,286 | 227 | 0 | 97.84 | 2.16 | 0.00 |
-| [Raise the standard Personal TAX Allowance from £12,570 to £20,000](618661.md) | 10,433 | 10,401 | 32 | 0 | 99.69 | 0.31 | 0.00 |
+| [Negotiate sustainable catch limits for all 5 UK cod stocks with the EU in 2022.](618769.md) | 10,514 | 10,287 | 227 | 0 | 97.84 | 2.16 | 0.00 |
+| [Raise the standard Personal TAX Allowance from £12,570 to £20,000](618661.md) | 10,434 | 10,402 | 32 | 0 | 99.69 | 0.31 | 0.00 |
 | [Provide an update on the release of £50 million for MND research](628954.md) | 9,157 | 9,052 | 105 | 0 | 98.85 | 1.15 | 0.00 |
-| [Increase funding for treatment of pulmonary fibrosis & interstitial lung disease](622481.md) | 8,982 | 8,901 | 81 | 0 | 99.10 | 0.90 | 0.00 |
+| [Increase funding for treatment of pulmonary fibrosis & interstitial lung disease](622481.md) | 8,983 | 8,902 | 81 | 0 | 99.10 | 0.90 | 0.00 |
 | [Validate Brazilian Drivers Licence and exchange to British equivalent in the UK](621225.md) | 8,966 | 8,885 | 81 | 0 | 99.10 | 0.90 | 0.00 |
 | [Fund free access to baby CPR training during pregnancy](622758.md) | 8,863 | 8,846 | 17 | 0 | 99.81 | 0.19 | 0.00 |
 | [Fund more specialist school places for children with special educational needs](619720.md) | 8,848 | 8,811 | 37 | 0 | 99.58 | 0.42 | 0.00 |
-| [Create statutory legal duty of care for students in Higher Education](622847.md) | 8,426 | 8,341 | 85 | 0 | 98.99 | 1.01 | 0.00 |
-| [Require honey labels to reflect all countries of origin of the honey. ](624402.md) | 8,401 | 8,363 | 38 | 0 | 99.55 | 0.45 | 0.00 |
-| [Repeal the Gender Recognition Act 2004](628382.md) | 8,363 | 8,216 | 147 | 0 | 98.24 | 1.76 | 0.00 |
+| [Create statutory legal duty of care for students in Higher Education](622847.md) | 8,446 | 8,361 | 85 | 0 | 98.99 | 1.01 | 0.00 |
+| [Repeal the Gender Recognition Act 2004](628382.md) | 8,440 | 8,293 | 147 | 0 | 98.26 | 1.74 | 0.00 |
+| [Require honey labels to reflect all countries of origin of the honey. ](624402.md) | 8,403 | 8,365 | 38 | 0 | 99.55 | 0.45 | 0.00 |
