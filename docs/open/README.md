@@ -4,20 +4,20 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2022-12-30 04:30:05
+Last refreshed 2022-12-30 05:30:21
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Call an immediate general election to end the chaos of the current government](619781.md) | 901,557 | 890,214 | 11,343 | 0 | 98.74 | 1.26 | 0.00 |
+| [Call an immediate general election to end the chaos of the current government](619781.md) | 901,560 | 890,217 | 11,343 | 0 | 98.74 | 1.26 | 0.00 |
 | [Include abortion rights in the Bill of Rights](619334.md) | 167,454 | 166,933 | 521 | 0 | 99.69 | 0.31 | 0.00 |
 | [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 153,254 | 152,334 | 920 | 0 | 99.40 | 0.60 | 0.00 |
-| [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 153,155 | 153,002 | 153 | 0 | 99.90 | 0.10 | 0.00 |
+| [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 153,157 | 153,004 | 153 | 0 | 99.90 | 0.10 | 0.00 |
 | [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 108,061 | 107,595 | 466 | 0 | 99.57 | 0.43 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 98,274 | 97,444 | 830 | 0 | 99.16 | 0.84 | 0.00 |
-| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 90,855 | 87,884 | 2,971 | 0 | 96.73 | 3.27 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 98,280 | 97,450 | 830 | 0 | 99.16 | 0.84 | 0.00 |
+| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 90,861 | 87,889 | 2,972 | 0 | 96.73 | 3.27 | 0.00 |
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 84,308 | 84,084 | 224 | 0 | 99.73 | 0.27 | 0.00 |
-| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 78,387 | 77,721 | 666 | 0 | 99.15 | 0.85 | 0.00 |
-| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 63,389 | 62,263 | 1,126 | 0 | 98.22 | 1.78 | 0.00 |
+| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 78,388 | 77,722 | 666 | 0 | 99.15 | 0.85 | 0.00 |
+| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 63,395 | 62,269 | 1,126 | 0 | 98.22 | 1.78 | 0.00 |
 | [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 38,339 | 38,000 | 339 | 0 | 99.12 | 0.88 | 0.00 |
 | [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 32,024 | 30,385 | 1,639 | 0 | 94.88 | 5.12 | 0.00 |
 | [Place a complete ban on the sale and use of disposable BBQ’s in the UK](618664.md) | 27,726 | 27,581 | 145 | 0 | 99.48 | 0.52 | 0.00 |
@@ -36,7 +36,7 @@ Last refreshed 2022-12-30 04:30:05
 | [Review UK foreign policy in light of reports of Israeli apartheid](618802.md) | 15,383 | 15,154 | 229 | 0 | 98.51 | 1.49 | 0.00 |
 | [Reinstate a dedicated Minister of State for Veterans’ Affairs](623527.md) | 14,788 | 14,374 | 414 | 0 | 97.20 | 2.80 | 0.00 |
 | [Require all businesses and public services to accept cash payments](622284.md) | 14,198 | 14,027 | 171 | 0 | 98.80 | 1.20 | 0.00 |
-| [Prevent the introduction of any "programmable" CBDC in the UK](624159.md) | 12,862 | 12,690 | 172 | 0 | 98.66 | 1.34 | 0.00 |
+| [Prevent the introduction of any "programmable" CBDC in the UK](624159.md) | 12,864 | 12,692 | 172 | 0 | 98.66 | 1.34 | 0.00 |
 | [Require train operators maintain ticket offices at railway stations](622391.md) | 12,666 | 12,619 | 47 | 0 | 99.63 | 0.37 | 0.00 |
 | [Increase funding for early years settings](628412.md) | 12,174 | 12,160 | 14 | 0 | 99.89 | 0.11 | 0.00 |
 | [Commit to not amending the Equality Act's definition of sex](627984.md) | 12,117 | 11,939 | 178 | 0 | 98.53 | 1.47 | 0.00 |
@@ -55,6 +55,6 @@ Last refreshed 2022-12-30 04:30:05
 | [Validate Brazilian Drivers Licence and exchange to British equivalent in the UK](621225.md) | 8,967 | 8,886 | 81 | 0 | 99.10 | 0.90 | 0.00 |
 | [Fund free access to baby CPR training during pregnancy](622758.md) | 8,863 | 8,846 | 17 | 0 | 99.81 | 0.19 | 0.00 |
 | [Fund more specialist school places for children with special educational needs](619720.md) | 8,863 | 8,826 | 37 | 0 | 99.58 | 0.42 | 0.00 |
-| [Create statutory legal duty of care for students in Higher Education](622847.md) | 8,744 | 8,657 | 87 | 0 | 99.01 | 0.99 | 0.00 |
-| [Repeal the Gender Recognition Act 2004](628382.md) | 8,706 | 8,555 | 151 | 0 | 98.27 | 1.73 | 0.00 |
+| [Create statutory legal duty of care for students in Higher Education](622847.md) | 8,748 | 8,661 | 87 | 0 | 99.01 | 0.99 | 0.00 |
+| [Repeal the Gender Recognition Act 2004](628382.md) | 8,711 | 8,559 | 152 | 0 | 98.26 | 1.74 | 0.00 |
 | [Require honey labels to reflect all countries of origin of the honey. ](624402.md) | 8,409 | 8,371 | 38 | 0 | 99.55 | 0.45 | 0.00 |
