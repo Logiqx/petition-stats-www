@@ -4,26 +4,26 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-01-14 03:30:06
+Last refreshed 2023-01-14 04:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Call an immediate general election to end the chaos of the current government](619781.md) | 904,054 | 892,697 | 11,357 | 0 | 98.74 | 1.26 | 0.00 |
+| [Call an immediate general election to end the chaos of the current government](619781.md) | 904,056 | 892,699 | 11,357 | 0 | 98.74 | 1.26 | 0.00 |
 | [Include abortion rights in the Bill of Rights](619334.md) | 167,615 | 167,093 | 522 | 0 | 99.69 | 0.31 | 0.00 |
-| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 155,479 | 154,545 | 934 | 0 | 99.40 | 0.60 | 0.00 |
+| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 155,481 | 154,547 | 934 | 0 | 99.40 | 0.60 | 0.00 |
 | [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 153,522 | 153,368 | 154 | 0 | 99.90 | 0.10 | 0.00 |
 | [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 108,122 | 107,656 | 466 | 0 | 99.57 | 0.43 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 105,019 | 104,138 | 881 | 0 | 99.16 | 0.84 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 105,020 | 104,139 | 881 | 0 | 99.16 | 0.84 | 0.00 |
 | [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 94,263 | 91,181 | 3,082 | 0 | 96.73 | 3.27 | 0.00 |
-| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 89,742 | 88,944 | 798 | 0 | 99.11 | 0.89 | 0.00 |
+| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 89,747 | 88,949 | 798 | 0 | 99.11 | 0.89 | 0.00 |
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 84,429 | 84,204 | 225 | 0 | 99.73 | 0.27 | 0.00 |
-| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 69,437 | 68,176 | 1,261 | 0 | 98.18 | 1.82 | 0.00 |
-| [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 44,276 | 43,886 | 390 | 0 | 99.12 | 0.88 | 0.00 |
+| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 69,439 | 68,178 | 1,261 | 0 | 98.18 | 1.82 | 0.00 |
+| [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 44,277 | 43,887 | 390 | 0 | 99.12 | 0.88 | 0.00 |
 | [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 36,970 | 35,225 | 1,745 | 0 | 95.28 | 4.72 | 0.00 |
-| [Remove references to 'gender identity' from relationships education guidance](618970.md) | 36,011 | 35,741 | 270 | 0 | 99.25 | 0.75 | 0.00 |
-| [End assessments and consider disability benefit claims on medical advice alone](619481.md) | 28,730 | 28,621 | 109 | 0 | 99.62 | 0.38 | 0.00 |
+| [Remove references to 'gender identity' from relationships education guidance](618970.md) | 36,013 | 35,743 | 270 | 0 | 99.25 | 0.75 | 0.00 |
+| [End assessments and consider disability benefit claims on medical advice alone](619481.md) | 28,731 | 28,622 | 109 | 0 | 99.62 | 0.38 | 0.00 |
 | [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 26,192 | 25,558 | 634 | 0 | 97.58 | 2.42 | 0.00 |
-| [Reinstate tax relief allowing mortgage interest to be set against rental income](627785.md) | 25,812 | 25,690 | 122 | 0 | 99.53 | 0.47 | 0.00 |
+| [Reinstate tax relief allowing mortgage interest to be set against rental income](627785.md) | 25,815 | 25,693 | 122 | 0 | 99.53 | 0.47 | 0.00 |
 | [Hold a General Election within 100 days of the new PM being appointed](621931.md) | 21,641 | 21,128 | 513 | 0 | 97.63 | 2.37 | 0.00 |
 | [Fund free BSL Courses for parents or guardians of deaf children](623900.md) | 19,545 | 19,438 | 107 | 0 | 99.45 | 0.55 | 0.00 |
 | [Allow EU nationals to come to the UK to work in hospitality for up to 2 Years](621932.md) | 18,020 | 17,844 | 176 | 0 | 99.02 | 0.98 | 0.00 |
@@ -34,7 +34,7 @@ Last refreshed 2023-01-14 03:30:06
 | [Require train operators maintain ticket offices at railway stations](622391.md) | 14,882 | 14,817 | 65 | 0 | 99.56 | 0.44 | 0.00 |
 | [Reinstate a dedicated Minister of State for Veterans’ Affairs](623527.md) | 14,803 | 14,389 | 414 | 0 | 97.20 | 2.80 | 0.00 |
 | [Require all businesses and public services to accept cash payments](622284.md) | 14,332 | 14,161 | 171 | 0 | 98.81 | 1.19 | 0.00 |
-| [Prevent the introduction of any "programmable" CBDC in the UK](624159.md) | 14,274 | 14,099 | 175 | 0 | 98.77 | 1.23 | 0.00 |
+| [Prevent the introduction of any "programmable" CBDC in the UK](624159.md) | 14,275 | 14,100 | 175 | 0 | 98.77 | 1.23 | 0.00 |
 | [Increase funding for early years settings](628412.md) | 13,450 | 13,434 | 16 | 0 | 99.88 | 0.12 | 0.00 |
 | [Create statutory legal duty of care for students in Higher Education](622847.md) | 13,068 | 12,946 | 122 | 0 | 99.07 | 0.93 | 0.00 |
 | [Commit to not amending the Equality Act's definition of sex](627984.md) | 12,386 | 12,206 | 180 | 0 | 98.55 | 1.45 | 0.00 |
