@@ -4,32 +4,32 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-01-15 02:30:05
+Last refreshed 2023-01-15 03:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Call an immediate general election to end the chaos of the current government](619781.md) | 904,280 | 892,923 | 11,357 | 0 | 98.74 | 1.26 | 0.00 |
-| [Include abortion rights in the Bill of Rights](619334.md) | 167,624 | 167,102 | 522 | 0 | 99.69 | 0.31 | 0.00 |
+| [Call an immediate general election to end the chaos of the current government](619781.md) | 904,284 | 892,927 | 11,357 | 0 | 98.74 | 1.26 | 0.00 |
+| [Include abortion rights in the Bill of Rights](619334.md) | 167,625 | 167,103 | 522 | 0 | 99.69 | 0.31 | 0.00 |
 | [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 155,678 | 154,742 | 936 | 0 | 99.40 | 0.60 | 0.00 |
 | [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 153,544 | 153,390 | 154 | 0 | 99.90 | 0.10 | 0.00 |
 | [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 108,123 | 107,657 | 466 | 0 | 99.57 | 0.43 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 105,204 | 104,323 | 881 | 0 | 99.16 | 0.84 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 105,205 | 104,324 | 881 | 0 | 99.16 | 0.84 | 0.00 |
 | [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 94,628 | 91,534 | 3,094 | 0 | 96.73 | 3.27 | 0.00 |
-| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 91,304 | 90,496 | 808 | 0 | 99.12 | 0.88 | 0.00 |
+| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 91,309 | 90,501 | 808 | 0 | 99.12 | 0.88 | 0.00 |
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 84,438 | 84,213 | 225 | 0 | 99.73 | 0.27 | 0.00 |
 | [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 69,812 | 68,542 | 1,270 | 0 | 98.18 | 1.82 | 0.00 |
 | [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 44,413 | 44,023 | 390 | 0 | 99.12 | 0.88 | 0.00 |
 | [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 37,034 | 35,289 | 1,745 | 0 | 95.29 | 4.71 | 0.00 |
-| [Remove references to 'gender identity' from relationships education guidance](618970.md) | 36,514 | 36,242 | 272 | 0 | 99.26 | 0.74 | 0.00 |
-| [End assessments and consider disability benefit claims on medical advice alone](619481.md) | 28,794 | 28,684 | 110 | 0 | 99.62 | 0.38 | 0.00 |
-| [Reinstate tax relief allowing mortgage interest to be set against rental income](627785.md) | 26,496 | 26,371 | 125 | 0 | 99.53 | 0.47 | 0.00 |
+| [Remove references to 'gender identity' from relationships education guidance](618970.md) | 36,520 | 36,248 | 272 | 0 | 99.26 | 0.74 | 0.00 |
+| [End assessments and consider disability benefit claims on medical advice alone](619481.md) | 28,795 | 28,685 | 110 | 0 | 99.62 | 0.38 | 0.00 |
+| [Reinstate tax relief allowing mortgage interest to be set against rental income](627785.md) | 26,502 | 26,377 | 125 | 0 | 99.53 | 0.47 | 0.00 |
 | [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 26,222 | 25,586 | 636 | 0 | 97.57 | 2.43 | 0.00 |
 | [Hold a General Election within 100 days of the new PM being appointed](621931.md) | 21,642 | 21,129 | 513 | 0 | 97.63 | 2.37 | 0.00 |
 | [Fund free BSL Courses for parents or guardians of deaf children](623900.md) | 19,562 | 19,455 | 107 | 0 | 99.45 | 0.55 | 0.00 |
 | [Allow EU nationals to come to the UK to work in hospitality for up to 2 Years](621932.md) | 18,022 | 17,846 | 176 | 0 | 99.02 | 0.98 | 0.00 |
 | [Full review of Personal Independence Payment (PIP) application process](620962.md) | 16,299 | 16,268 | 31 | 0 | 99.81 | 0.19 | 0.00 |
 | [Fund more specialist school places for children with special educational needs](619720.md) | 16,185 | 16,125 | 60 | 0 | 99.63 | 0.37 | 0.00 |
-| [Remove indemnity from the manufacturers of covid-19 vaccines](619190.md) | 15,996 | 15,693 | 303 | 0 | 98.11 | 1.89 | 0.00 |
+| [Remove indemnity from the manufacturers of covid-19 vaccines](619190.md) | 15,998 | 15,695 | 303 | 0 | 98.11 | 1.89 | 0.00 |
 | [Set a Minimum Pension Guarantee (MPG) of at least £200 pw for state pensioners](620839.md) | 15,958 | 15,517 | 441 | 0 | 97.24 | 2.76 | 0.00 |
 | [Require train operators maintain ticket offices at railway stations](622391.md) | 14,919 | 14,854 | 65 | 0 | 99.56 | 0.44 | 0.00 |
 | [Reinstate a dedicated Minister of State for Veterans’ Affairs](623527.md) | 14,806 | 14,392 | 414 | 0 | 97.20 | 2.80 | 0.00 |
