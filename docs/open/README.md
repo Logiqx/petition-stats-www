@@ -4,26 +4,26 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-01-20 03:30:06
+Last refreshed 2023-01-20 04:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Call an immediate general election to end the chaos of the current government](619781.md) | 904,998 | 893,634 | 11,364 | 0 | 98.74 | 1.26 | 0.00 |
-| [Remove LGBT content from the Relationships Education curriculum](630932.md) | 169,039 | 168,374 | 665 | 0 | 99.61 | 0.39 | 0.00 |
+| [Call an immediate general election to end the chaos of the current government](619781.md) | 905,000 | 893,636 | 11,364 | 0 | 98.74 | 1.26 | 0.00 |
+| [Remove LGBT content from the Relationships Education curriculum](630932.md) | 169,075 | 168,408 | 667 | 0 | 99.61 | 0.39 | 0.00 |
 | [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 155,955 | 155,017 | 938 | 0 | 99.40 | 0.60 | 0.00 |
 | [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 153,660 | 153,506 | 154 | 0 | 99.90 | 0.10 | 0.00 |
 | [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 108,142 | 107,676 | 466 | 0 | 99.57 | 0.43 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 106,176 | 105,289 | 887 | 0 | 99.16 | 0.84 | 0.00 |
-| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 100,984 | 100,094 | 890 | 0 | 99.12 | 0.88 | 0.00 |
-| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 97,067 | 93,871 | 3,196 | 0 | 96.71 | 3.29 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 106,178 | 105,291 | 887 | 0 | 99.16 | 0.84 | 0.00 |
+| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 100,988 | 100,098 | 890 | 0 | 99.12 | 0.88 | 0.00 |
+| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 97,073 | 93,877 | 3,196 | 0 | 96.71 | 3.29 | 0.00 |
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 84,546 | 84,320 | 226 | 0 | 99.73 | 0.27 | 0.00 |
 | [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 72,365 | 71,036 | 1,329 | 0 | 98.16 | 1.84 | 0.00 |
 | [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 45,241 | 44,843 | 398 | 0 | 99.12 | 0.88 | 0.00 |
-| [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 37,265 | 35,506 | 1,759 | 0 | 95.28 | 4.72 | 0.00 |
-| [Reinstate tax relief allowing mortgage interest to be set against rental income](627785.md) | 29,047 | 28,905 | 142 | 0 | 99.51 | 0.49 | 0.00 |
+| [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 37,266 | 35,507 | 1,759 | 0 | 95.28 | 4.72 | 0.00 |
+| [Reinstate tax relief allowing mortgage interest to be set against rental income](627785.md) | 29,048 | 28,906 | 142 | 0 | 99.51 | 0.49 | 0.00 |
 | [End assessments and consider disability benefit claims on medical advice alone](619481.md) | 28,948 | 28,837 | 111 | 0 | 99.62 | 0.38 | 0.00 |
 | [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 26,310 | 25,673 | 637 | 0 | 97.58 | 2.42 | 0.00 |
-| [Hold a General Election within 100 days of the new PM being appointed](621931.md) | 21,659 | 21,146 | 513 | 0 | 97.63 | 2.37 | 0.00 |
+| [Hold a General Election within 100 days of the new PM being appointed](621931.md) | 21,660 | 21,147 | 513 | 0 | 97.63 | 2.37 | 0.00 |
 | [Fund free BSL Courses for parents or guardians of deaf children](623900.md) | 19,654 | 19,547 | 107 | 0 | 99.46 | 0.54 | 0.00 |
 | [Allow EU nationals to come to the UK to work in hospitality for up to 2 Years](621932.md) | 18,033 | 17,855 | 178 | 0 | 99.01 | 0.99 | 0.00 |
 | [Fund more specialist school places for children with special educational needs](619720.md) | 16,556 | 16,494 | 62 | 0 | 99.63 | 0.37 | 0.00 |
@@ -46,12 +46,12 @@ Last refreshed 2023-01-20 03:30:06
 | [Withdraw the Transport Strikes (Minimum Service Levels) Bill](627487.md) | 11,383 | 11,351 | 32 | 0 | 99.72 | 0.28 | 0.00 |
 | [Require honey labels to reflect all countries of origin of the honey. ](624402.md) | 11,198 | 11,150 | 48 | 0 | 99.57 | 0.43 | 0.00 |
 | [Give Animal Rescue Centres a grant to offset this winters increased heating cost](622806.md) | 10,824 | 10,772 | 52 | 0 | 99.52 | 0.48 | 0.00 |
-| [Increase funding for treatment of pulmonary fibrosis & interstitial lung disease](622481.md) | 10,755 | 10,661 | 94 | 0 | 99.13 | 0.87 | 0.00 |
+| [Increase funding for treatment of pulmonary fibrosis & interstitial lung disease](622481.md) | 10,756 | 10,662 | 94 | 0 | 99.13 | 0.87 | 0.00 |
 | [Make Video Games a compulsory part of the national school curriculum](621900.md) | 10,677 | 10,628 | 49 | 0 | 99.54 | 0.46 | 0.00 |
 | [Provide an update on the release of £50 million for MND research](628954.md) | 9,415 | 9,307 | 108 | 0 | 98.85 | 1.15 | 0.00 |
 | [Fund free access to baby CPR training during pregnancy](622758.md) | 9,253 | 9,235 | 18 | 0 | 99.81 | 0.19 | 0.00 |
 | [Validate Brazilian Drivers Licence and exchange to British equivalent in the UK](621225.md) | 8,994 | 8,913 | 81 | 0 | 99.10 | 0.90 | 0.00 |
-| [Stop housing asylum seekers who entered the UK illegally in hotels](628324.md) | 8,396 | 8,324 | 72 | 0 | 99.14 | 0.86 | 0.00 |
+| [Stop housing asylum seekers who entered the UK illegally in hotels](628324.md) | 8,398 | 8,326 | 72 | 0 | 99.14 | 0.86 | 0.00 |
 | [Review and increase foster care allowances and tax exemptions](625515.md) | 8,368 | 8,362 | 6 | 0 | 99.93 | 0.07 | 0.00 |
 | [Cap energy price increases for small businesses.](619529.md) | 7,545 | 7,523 | 22 | 0 | 99.71 | 0.29 | 0.00 |
 | [Allow those diagnosed with Crohn’s and Colitis to access Medical Exemption card](621375.md) | 7,451 | 7,421 | 30 | 0 | 99.60 | 0.40 | 0.00 |
