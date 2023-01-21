@@ -4,24 +4,24 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-01-21 03:30:04
+Last refreshed 2023-01-21 04:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Call an immediate general election to end the chaos of the current government](619781.md) | 905,145 | 893,779 | 11,366 | 0 | 98.74 | 1.26 | 0.00 |
-| [Remove LGBT content from the Relationships Education curriculum](630932.md) | 173,461 | 172,775 | 686 | 0 | 99.60 | 0.40 | 0.00 |
-| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 156,008 | 155,069 | 939 | 0 | 99.40 | 0.60 | 0.00 |
+| [Remove LGBT content from the Relationships Education curriculum](630932.md) | 173,480 | 172,793 | 687 | 0 | 99.60 | 0.40 | 0.00 |
+| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 156,009 | 155,070 | 939 | 0 | 99.40 | 0.60 | 0.00 |
 | [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 153,699 | 153,545 | 154 | 0 | 99.90 | 0.10 | 0.00 |
 | [Find the time to take the Kept Animals Bill through Parliament and make it law](619442.md) | 108,147 | 107,681 | 466 | 0 | 99.57 | 0.43 | 0.00 |
-| [Limit the shooting season of Woodcock](619615.md) | 106,417 | 105,529 | 888 | 0 | 99.17 | 0.83 | 0.00 |
-| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 101,325 | 100,432 | 893 | 0 | 99.12 | 0.88 | 0.00 |
-| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 97,610 | 94,391 | 3,219 | 0 | 96.70 | 3.30 | 0.00 |
+| [Limit the shooting season of Woodcock](619615.md) | 106,418 | 105,530 | 888 | 0 | 99.17 | 0.83 | 0.00 |
+| [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 101,328 | 100,435 | 893 | 0 | 99.12 | 0.88 | 0.00 |
+| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 97,613 | 94,394 | 3,219 | 0 | 96.70 | 3.30 | 0.00 |
 | [Recognise Teaching Assistants as an important asset to schools by raising wage.](620264.md) | 84,599 | 84,373 | 226 | 0 | 99.73 | 0.27 | 0.00 |
-| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 72,602 | 71,270 | 1,332 | 0 | 98.17 | 1.83 | 0.00 |
+| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 72,603 | 71,271 | 1,332 | 0 | 98.17 | 1.83 | 0.00 |
 | [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 45,396 | 44,997 | 399 | 0 | 99.12 | 0.88 | 0.00 |
 | [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 37,276 | 35,517 | 1,759 | 0 | 95.28 | 4.72 | 0.00 |
-| [Reinstate tax relief allowing mortgage interest to be set against rental income](627785.md) | 29,410 | 29,267 | 143 | 0 | 99.51 | 0.49 | 0.00 |
-| [End assessments and consider disability benefit claims on medical advice alone](619481.md) | 29,014 | 28,901 | 113 | 0 | 99.61 | 0.39 | 0.00 |
+| [Reinstate tax relief allowing mortgage interest to be set against rental income](627785.md) | 29,412 | 29,268 | 144 | 0 | 99.51 | 0.49 | 0.00 |
+| [End assessments and consider disability benefit claims on medical advice alone](619481.md) | 29,015 | 28,902 | 113 | 0 | 99.61 | 0.39 | 0.00 |
 | [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 26,337 | 25,699 | 638 | 0 | 97.58 | 2.42 | 0.00 |
 | [Hold a General Election within 100 days of the new PM being appointed](621931.md) | 21,665 | 21,152 | 513 | 0 | 97.63 | 2.37 | 0.00 |
 | [Fund free BSL Courses for parents or guardians of deaf children](623900.md) | 19,709 | 19,602 | 107 | 0 | 99.46 | 0.54 | 0.00 |
@@ -53,8 +53,8 @@ Last refreshed 2023-01-21 03:30:04
 | [Validate Brazilian Drivers Licence and exchange to British equivalent in the UK](621225.md) | 8,996 | 8,915 | 81 | 0 | 99.10 | 0.90 | 0.00 |
 | [Stop housing asylum seekers who entered the UK illegally in hotels](628324.md) | 8,729 | 8,654 | 75 | 0 | 99.14 | 0.86 | 0.00 |
 | [Review and increase foster care allowances and tax exemptions](625515.md) | 8,411 | 8,405 | 6 | 0 | 99.93 | 0.07 | 0.00 |
-| [Enshrine in law rights to roam and wild camp in national parks](631241.md) | 7,973 | 7,913 | 60 | 0 | 99.25 | 0.75 | 0.00 |
+| [Enshrine in law rights to roam and wild camp in national parks](631241.md) | 7,975 | 7,915 | 60 | 0 | 99.25 | 0.75 | 0.00 |
 | [Cap energy price increases for small businesses.](619529.md) | 7,546 | 7,524 | 22 | 0 | 99.71 | 0.29 | 0.00 |
 | [Allow those diagnosed with Crohn’s and Colitis to access Medical Exemption card](621375.md) | 7,454 | 7,424 | 30 | 0 | 99.60 | 0.40 | 0.00 |
-| [Guarantee access to broadcast TV (Freeview) and aerial radio beyond 2040](630957.md) | 7,285 | 7,257 | 28 | 0 | 99.62 | 0.38 | 0.00 |
+| [Guarantee access to broadcast TV (Freeview) and aerial radio beyond 2040](630957.md) | 7,287 | 7,259 | 28 | 0 | 99.62 | 0.38 | 0.00 |
 | [Reform the Vaccine Damage Payment with payments based on the scale of disability](627524.md) | 7,049 | 6,975 | 74 | 0 | 98.95 | 1.05 | 0.00 |
