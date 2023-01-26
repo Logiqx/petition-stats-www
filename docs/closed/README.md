@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-01-26 10:30:16
+Last refreshed 2023-01-26 11:30:18
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -43,7 +43,7 @@ Last refreshed 2023-01-26 10:30:16
 | [Create a Minister for Hospitality in the UK Government](552201.md) | 209,983 | 208,584 | 1,399 | 0 | 99.33 | 0.67 | 0.00 |
 | [Allow football fans to attend matches at all levels](552036.md) | 200,571 | 199,011 | 1,560 | 0 | 99.22 | 0.78 | 0.00 |
 | [Close schools in Tier 4 areas](564209.md) | 194,882 | 194,677 | 205 | 0 | 99.89 | 0.11 | 0.00 |
-| [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,649 | 184,877 | 3,772 | 0 | 98.00 | 2.00 | 0.00 |
+| [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,650 | 184,878 | 3,772 | 0 | 98.00 | 2.00 | 0.00 |
 | [Improve Maternal Mortality Rates and Health Care for Black Women in the U.K.](301079.md) | 187,520 | 185,953 | 1,567 | 0 | 99.16 | 0.84 | 0.00 |
 | [Keep gyms open during Tier 4 lockdown](563904.md) | 180,171 | 180,068 | 103 | 0 | 99.94 | 0.06 | 0.00 |
 | [Offer more support to the arts (particularly Theatres and Music) amidst COVID-19](320711.md) | 179,699 | 178,265 | 1,434 | 0 | 99.20 | 0.80 | 0.00 |
@@ -54,7 +54,7 @@ Last refreshed 2023-01-26 10:30:16
 | [Include abortion rights in the Bill of Rights](619334.md) | 167,690 | 167,168 | 522 | 0 | 99.69 | 0.31 | 0.00 |
 | [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 167,461 | 166,507 | 954 | 0 | 99.43 | 0.57 | 0.00 |
 | [Cancel GCSE and A-levels in 2021 replace with Course Work and Teacher Assessment](564696.md) | 157,810 | 156,798 | 1,012 | 0 | 99.36 | 0.64 | 0.00 |
-| [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 156,084 | 152,941 | 3,143 | 0 | 97.99 | 2.01 | 0.00 |
+| [Do not sign any WHO Pandemic Treaty unless it is approved via public referendum](614335.md) | 156,085 | 152,942 | 3,143 | 0 | 97.99 | 2.01 | 0.00 |
 | [Legalise assisted dying for terminally ill, mentally competent adults](604383.md) | 155,799 | 154,797 | 1,002 | 0 | 99.36 | 0.64 | 0.00 |
 | [Stop work on HS2 immediately and hold a new vote to repeal the legislation](563380.md) | 155,253 | 154,237 | 1,016 | 0 | 99.35 | 0.65 | 0.00 |
 | [Government to offer economic assistance to the events industry during COVID-19](301186.md) | 154,815 | 153,903 | 912 | 0 | 99.41 | 0.59 | 0.00 |
