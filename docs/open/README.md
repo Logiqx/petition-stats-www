@@ -4,37 +4,37 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-02-11 03:30:05
+Last refreshed 2023-02-11 04:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Remove LGBT content from the Relationships Education curriculum](630932.md) | 203,483 | 202,628 | 855 | 0 | 99.58 | 0.42 | 0.00 |
-| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 157,667 | 156,716 | 951 | 0 | 99.40 | 0.60 | 0.00 |
-| [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 154,853 | 154,696 | 157 | 0 | 99.90 | 0.10 | 0.00 |
+| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 157,668 | 156,717 | 951 | 0 | 99.40 | 0.60 | 0.00 |
+| [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 154,854 | 154,697 | 157 | 0 | 99.90 | 0.10 | 0.00 |
 | [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 106,098 | 102,579 | 3,519 | 0 | 96.68 | 3.32 | 0.00 |
 | [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 103,243 | 102,335 | 908 | 0 | 99.12 | 0.88 | 0.00 |
 | [Do not remove LGBT content from the Relationships Education curriculum](631529.md) | 90,838 | 89,656 | 1,182 | 0 | 98.70 | 1.30 | 0.00 |
-| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 79,675 | 78,213 | 1,462 | 0 | 98.17 | 1.83 | 0.00 |
-| [Create a Turkish Family Scheme visa for people homeless due to the earthquake](632772.md) | 55,721 | 55,285 | 436 | 0 | 99.22 | 0.78 | 0.00 |
-| [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 48,548 | 48,118 | 430 | 0 | 99.11 | 0.89 | 0.00 |
+| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 79,676 | 78,214 | 1,462 | 0 | 98.17 | 1.83 | 0.00 |
+| [Create a Turkish Family Scheme visa for people homeless due to the earthquake](632772.md) | 55,797 | 55,360 | 437 | 0 | 99.22 | 0.78 | 0.00 |
+| [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 48,552 | 48,121 | 431 | 0 | 99.11 | 0.89 | 0.00 |
 | [Offer healthcare workers on tier2 visa ILR after 2 years instead of 5 years](631412.md) | 41,681 | 41,265 | 416 | 0 | 99.00 | 1.00 | 0.00 |
 | [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 37,666 | 35,892 | 1,774 | 0 | 95.29 | 4.71 | 0.00 |
-| [Hold a referendum on removing the London Assembly and London Mayor](631763.md) | 35,008 | 34,912 | 96 | 0 | 99.73 | 0.27 | 0.00 |
-| [Increase State Pensions to £416.80 per week & lower Retirement Age to 60 for All](630163.md) | 34,965 | 34,484 | 481 | 0 | 98.62 | 1.38 | 0.00 |
+| [Hold a referendum on removing the London Assembly and London Mayor](631763.md) | 35,012 | 34,916 | 96 | 0 | 99.73 | 0.27 | 0.00 |
+| [Increase State Pensions to £416.80 per week & lower Retirement Age to 60 for All](630163.md) | 34,966 | 34,485 | 481 | 0 | 98.62 | 1.38 | 0.00 |
 | [Reinstate tax relief allowing mortgage interest to be set against rental income](627785.md) | 33,540 | 33,362 | 178 | 0 | 99.47 | 0.53 | 0.00 |
-| [Enshrine in law rights to roam and wild camp in national parks](631241.md) | 31,016 | 30,697 | 319 | 0 | 98.97 | 1.03 | 0.00 |
+| [Enshrine in law rights to roam and wild camp in national parks](631241.md) | 31,019 | 30,700 | 319 | 0 | 98.97 | 1.03 | 0.00 |
 | [Reverse the decision to block the Gender Recognition Reform (Scotland) Bill](631561.md) | 27,738 | 27,375 | 363 | 0 | 98.69 | 1.31 | 0.00 |
 | [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 27,435 | 26,769 | 666 | 0 | 97.57 | 2.43 | 0.00 |
-| [Prevent the introduction of any "programmable" CBDC in the UK](624159.md) | 22,472 | 22,266 | 206 | 0 | 99.08 | 0.92 | 0.00 |
-| [Investigate UK excess deaths not related to Covid.](628188.md) | 22,161 | 21,721 | 440 | 0 | 98.01 | 1.99 | 0.00 |
+| [Prevent the introduction of any "programmable" CBDC in the UK](624159.md) | 22,476 | 22,270 | 206 | 0 | 99.08 | 0.92 | 0.00 |
+| [Investigate UK excess deaths not related to Covid.](628188.md) | 22,163 | 21,723 | 440 | 0 | 98.01 | 1.99 | 0.00 |
 | [Hold a General Election within 100 days of the new PM being appointed](621931.md) | 21,927 | 21,412 | 515 | 0 | 97.65 | 2.35 | 0.00 |
-| [Fund free BSL Courses for parents or guardians of deaf children](623900.md) | 20,337 | 20,226 | 111 | 0 | 99.45 | 0.55 | 0.00 |
+| [Fund free BSL Courses for parents or guardians of deaf children](623900.md) | 20,338 | 20,227 | 111 | 0 | 99.45 | 0.55 | 0.00 |
 | [Retain bans on cat, dog, seal fur imports, and extend to ban all fur imports](630751.md) | 19,337 | 19,124 | 213 | 0 | 98.90 | 1.10 | 0.00 |
 | [Create statutory legal duty of care for students in Higher Education](622847.md) | 18,218 | 18,023 | 195 | 0 | 98.93 | 1.07 | 0.00 |
 | [Allow EU nationals to come to the UK to work in hospitality for up to 2 Years](621932.md) | 18,150 | 17,969 | 181 | 0 | 99.00 | 1.00 | 0.00 |
 | [Full review of Personal Independence Payment (PIP) application process](620962.md) | 16,529 | 16,498 | 31 | 0 | 99.81 | 0.19 | 0.00 |
 | [Require train operators maintain ticket offices at railway stations](622391.md) | 15,579 | 15,509 | 70 | 0 | 99.55 | 0.45 | 0.00 |
-| [Require all businesses and public services to accept cash payments](622284.md) | 15,412 | 15,229 | 183 | 0 | 98.81 | 1.19 | 0.00 |
+| [Require all businesses and public services to accept cash payments](622284.md) | 15,413 | 15,230 | 183 | 0 | 98.81 | 1.19 | 0.00 |
 | [Reinstate a dedicated Minister of State for Veterans’ Affairs](623527.md) | 14,852 | 14,437 | 415 | 0 | 97.21 | 2.79 | 0.00 |
 | [Give secondary school students a right pray in school](631426.md) | 14,553 | 14,517 | 36 | 0 | 99.75 | 0.25 | 0.00 |
 | [Increase funding for early years settings](628412.md) | 13,969 | 13,951 | 18 | 0 | 99.87 | 0.13 | 0.00 |
