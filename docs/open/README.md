@@ -4,32 +4,32 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-02-14 01:30:05
+Last refreshed 2023-02-14 02:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Remove LGBT content from the Relationships Education curriculum](630932.md) | 204,035 | 203,178 | 857 | 0 | 99.58 | 0.42 | 0.00 |
+| [Remove LGBT content from the Relationships Education curriculum](630932.md) | 204,037 | 203,180 | 857 | 0 | 99.58 | 0.42 | 0.00 |
 | [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 157,743 | 156,792 | 951 | 0 | 99.40 | 0.60 | 0.00 |
 | [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 155,303 | 155,146 | 157 | 0 | 99.90 | 0.10 | 0.00 |
-| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 106,313 | 102,775 | 3,538 | 0 | 96.67 | 3.33 | 0.00 |
+| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 106,314 | 102,776 | 3,538 | 0 | 96.67 | 3.33 | 0.00 |
 | [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 103,285 | 102,377 | 908 | 0 | 99.12 | 0.88 | 0.00 |
 | [Do not remove LGBT content from the Relationships Education curriculum](631529.md) | 91,202 | 90,008 | 1,194 | 0 | 98.69 | 1.31 | 0.00 |
-| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 81,414 | 79,907 | 1,507 | 0 | 98.15 | 1.85 | 0.00 |
-| [Create a Turkish Family Scheme visa for people homeless due to the earthquake](632772.md) | 74,768 | 74,060 | 708 | 0 | 99.05 | 0.95 | 0.00 |
-| [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 49,187 | 48,753 | 434 | 0 | 99.12 | 0.88 | 0.00 |
-| [Offer healthcare workers on tier2 visa ILR after 2 years instead of 5 years](631412.md) | 42,142 | 41,722 | 420 | 0 | 99.00 | 1.00 | 0.00 |
-| [Hold a referendum on removing the London Assembly and London Mayor](631763.md) | 37,744 | 37,644 | 100 | 0 | 99.74 | 0.26 | 0.00 |
+| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 81,418 | 79,910 | 1,508 | 0 | 98.15 | 1.85 | 0.00 |
+| [Create a Turkish Family Scheme visa for people homeless due to the earthquake](632772.md) | 74,801 | 74,093 | 708 | 0 | 99.05 | 0.95 | 0.00 |
+| [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 49,188 | 48,754 | 434 | 0 | 99.12 | 0.88 | 0.00 |
+| [Offer healthcare workers on tier2 visa ILR after 2 years instead of 5 years](631412.md) | 42,143 | 41,723 | 420 | 0 | 99.00 | 1.00 | 0.00 |
+| [Hold a referendum on removing the London Assembly and London Mayor](631763.md) | 37,745 | 37,645 | 100 | 0 | 99.74 | 0.26 | 0.00 |
 | [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 37,689 | 35,915 | 1,774 | 0 | 95.29 | 4.71 | 0.00 |
-| [Increase State Pensions to £416.80 per week & lower Retirement Age to 60 for All](630163.md) | 35,574 | 35,091 | 483 | 0 | 98.64 | 1.36 | 0.00 |
+| [Increase State Pensions to £416.80 per week & lower Retirement Age to 60 for All](630163.md) | 35,577 | 35,094 | 483 | 0 | 98.64 | 1.36 | 0.00 |
 | [Reinstate tax relief allowing mortgage interest to be set against rental income](627785.md) | 33,723 | 33,545 | 178 | 0 | 99.47 | 0.53 | 0.00 |
-| [Enshrine in law rights to roam and wild camp in national parks](631241.md) | 31,709 | 31,383 | 326 | 0 | 98.97 | 1.03 | 0.00 |
-| [Reverse the decision to block the Gender Recognition Reform (Scotland) Bill](631561.md) | 27,902 | 27,538 | 364 | 0 | 98.70 | 1.30 | 0.00 |
+| [Enshrine in law rights to roam and wild camp in national parks](631241.md) | 31,711 | 31,384 | 327 | 0 | 98.97 | 1.03 | 0.00 |
+| [Reverse the decision to block the Gender Recognition Reform (Scotland) Bill](631561.md) | 27,906 | 27,542 | 364 | 0 | 98.70 | 1.30 | 0.00 |
 | [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 27,481 | 26,814 | 667 | 0 | 97.57 | 2.43 | 0.00 |
-| [Prevent the introduction of any "programmable" CBDC in the UK](624159.md) | 23,206 | 22,996 | 210 | 0 | 99.10 | 0.90 | 0.00 |
+| [Prevent the introduction of any "programmable" CBDC in the UK](624159.md) | 23,210 | 23,000 | 210 | 0 | 99.10 | 0.90 | 0.00 |
 | [Investigate UK excess deaths not related to Covid.](628188.md) | 22,535 | 22,089 | 446 | 0 | 98.02 | 1.98 | 0.00 |
-| [Retain bans on cat, dog, seal fur imports, and extend to ban all fur imports](630751.md) | 22,309 | 22,069 | 240 | 0 | 98.92 | 1.08 | 0.00 |
+| [Retain bans on cat, dog, seal fur imports, and extend to ban all fur imports](630751.md) | 22,311 | 22,071 | 240 | 0 | 98.92 | 1.08 | 0.00 |
 | [Hold a General Election within 100 days of the new PM being appointed](621931.md) | 21,952 | 21,437 | 515 | 0 | 97.65 | 2.35 | 0.00 |
-| [Create statutory legal duty of care for students in Higher Education](622847.md) | 21,571 | 21,362 | 209 | 0 | 99.03 | 0.97 | 0.00 |
+| [Create statutory legal duty of care for students in Higher Education](622847.md) | 21,576 | 21,367 | 209 | 0 | 99.03 | 0.97 | 0.00 |
 | [Fund free BSL Courses for parents or guardians of deaf children](623900.md) | 20,361 | 20,250 | 111 | 0 | 99.45 | 0.55 | 0.00 |
 | [Allow EU nationals to come to the UK to work in hospitality for up to 2 Years](621932.md) | 18,154 | 17,973 | 181 | 0 | 99.00 | 1.00 | 0.00 |
 | [Full review of Personal Independence Payment (PIP) application process](620962.md) | 16,551 | 16,520 | 31 | 0 | 99.81 | 0.19 | 0.00 |
@@ -39,15 +39,15 @@ Last refreshed 2023-02-14 01:30:05
 | [Give secondary school students a right pray in school](631426.md) | 14,689 | 14,652 | 37 | 0 | 99.75 | 0.25 | 0.00 |
 | [Increase funding for early years settings](628412.md) | 13,988 | 13,970 | 18 | 0 | 99.87 | 0.13 | 0.00 |
 | [Repeal the Gender Recognition Act 2004](628382.md) | 13,903 | 13,663 | 240 | 0 | 98.27 | 1.73 | 0.00 |
-| [Commit to not amending the Equality Act's definition of sex](627984.md) | 12,814 | 12,628 | 186 | 0 | 98.55 | 1.45 | 0.00 |
+| [Commit to not amending the Equality Act's definition of sex](627984.md) | 12,815 | 12,629 | 186 | 0 | 98.55 | 1.45 | 0.00 |
 | [Lifetime driving ban if you are convicted of causing death by dangerous driving.](623592.md) | 12,444 | 12,360 | 84 | 0 | 99.32 | 0.68 | 0.00 |
 | [Increase funding for schools to ensure that they do not enter deficit](627130.md) | 12,240 | 12,221 | 19 | 0 | 99.84 | 0.16 | 0.00 |
 | [Stop legal aid for court appeals for people entering the UK illegally](627168.md) | 12,193 | 12,071 | 122 | 0 | 99.00 | 1.00 | 0.00 |
-| [Stop housing asylum seekers who entered the UK illegally in hotels](628324.md) | 12,054 | 11,957 | 97 | 0 | 99.20 | 0.80 | 0.00 |
+| [Stop housing asylum seekers who entered the UK illegally in hotels](628324.md) | 12,055 | 11,958 | 97 | 0 | 99.20 | 0.80 | 0.00 |
 | [Require honey labels to reflect all countries of origin of the honey. ](624402.md) | 11,834 | 11,783 | 51 | 0 | 99.57 | 0.43 | 0.00 |
 | [Withdraw the Transport Strikes (Minimum Service Levels) Bill](627487.md) | 11,805 | 11,769 | 36 | 0 | 99.70 | 0.30 | 0.00 |
 | [Reschedule psilocybin for medical research on untreatable conditions](621199.md) | 11,669 | 11,539 | 130 | 0 | 98.89 | 1.11 | 0.00 |
-| [Require swimming venues to maintain single-sex or private changing facilities](622145.md) | 11,637 | 11,455 | 182 | 0 | 98.44 | 1.56 | 0.00 |
+| [Require swimming venues to maintain single-sex or private changing facilities](622145.md) | 11,638 | 11,456 | 182 | 0 | 98.44 | 1.56 | 0.00 |
 | [Increase funding for treatment of pulmonary fibrosis & interstitial lung disease](622481.md) | 11,630 | 11,524 | 106 | 0 | 99.09 | 0.91 | 0.00 |
 | [Give Animal Rescue Centres a grant to offset this winters increased heating cost](622806.md) | 10,950 | 10,898 | 52 | 0 | 99.53 | 0.47 | 0.00 |
 | [Make Video Games a compulsory part of the national school curriculum](621900.md) | 10,723 | 10,674 | 49 | 0 | 99.54 | 0.46 | 0.00 |
