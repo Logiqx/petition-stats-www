@@ -4,57 +4,57 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-03-15 08:30:05
+Last refreshed 2023-03-15 09:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Remove LGBT content from the Relationships Education curriculum](630932.md) | 208,970 | 208,073 | 897 | 0 | 99.57 | 0.43 | 0.00 |
-| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 160,282 | 159,318 | 964 | 0 | 99.40 | 0.60 | 0.00 |
-| [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 157,013 | 156,849 | 164 | 0 | 99.90 | 0.10 | 0.00 |
-| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 110,704 | 107,072 | 3,632 | 0 | 96.72 | 3.28 | 0.00 |
-| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 105,855 | 103,846 | 2,009 | 0 | 98.10 | 1.90 | 0.00 |
+| [Remove LGBT content from the Relationships Education curriculum](630932.md) | 208,987 | 208,090 | 897 | 0 | 99.57 | 0.43 | 0.00 |
+| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 160,295 | 159,331 | 964 | 0 | 99.40 | 0.60 | 0.00 |
+| [Fund 30 hours free childcare from age 1 for families where both parents work](624461.md) | 157,034 | 156,870 | 164 | 0 | 99.90 | 0.10 | 0.00 |
+| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 110,708 | 107,076 | 3,632 | 0 | 96.72 | 3.28 | 0.00 |
+| [Update the Equality Act to make clear the characteristic “sex” is biological sex](623243.md) | 105,877 | 103,867 | 2,010 | 0 | 98.10 | 1.90 | 0.00 |
 | [Repeal the current Dangerous Dogs Act and replace with new framework](624876.md) | 103,826 | 102,910 | 916 | 0 | 99.12 | 0.88 | 0.00 |
-| [Do not remove LGBT content from the Relationships Education curriculum](631529.md) | 95,224 | 93,967 | 1,257 | 0 | 98.68 | 1.32 | 0.00 |
-| [Create statutory legal duty of care for students in Higher Education](622847.md) | 92,902 | 92,007 | 895 | 0 | 99.04 | 0.96 | 0.00 |
-| [Create a Turkish Family Scheme visa for people homeless due to the earthquake](632772.md) | 82,196 | 81,344 | 852 | 0 | 98.96 | 1.04 | 0.00 |
-| [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 63,803 | 63,299 | 504 | 0 | 99.21 | 0.79 | 0.00 |
-| [Hold a referendum on removing the London Assembly and London Mayor](631763.md) | 51,443 | 51,312 | 131 | 0 | 99.75 | 0.25 | 0.00 |
+| [Do not remove LGBT content from the Relationships Education curriculum](631529.md) | 95,227 | 93,970 | 1,257 | 0 | 98.68 | 1.32 | 0.00 |
+| [Create statutory legal duty of care for students in Higher Education](622847.md) | 94,368 | 93,452 | 916 | 0 | 99.03 | 0.97 | 0.00 |
+| [Create a Turkish Family Scheme visa for people homeless due to the earthquake](632772.md) | 82,198 | 81,346 | 852 | 0 | 98.96 | 1.04 | 0.00 |
+| [Make swift bricks compulsory in new housing to help red-listed birds ](626737.md) | 63,820 | 63,315 | 505 | 0 | 99.21 | 0.79 | 0.00 |
+| [Hold a referendum on removing the London Assembly and London Mayor](631763.md) | 51,449 | 51,318 | 131 | 0 | 99.75 | 0.25 | 0.00 |
 | [Offer healthcare workers on tier2 visa ILR after 2 years instead of 5 years](631412.md) | 45,293 | 44,826 | 467 | 0 | 98.97 | 1.03 | 0.00 |
-| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 44,007 | 43,843 | 164 | 0 | 99.63 | 0.37 | 0.00 |
-| [Reinstate tax relief allowing mortgage interest to be set against rental income](627785.md) | 38,206 | 37,931 | 275 | 0 | 99.28 | 0.72 | 0.00 |
-| [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 37,909 | 36,129 | 1,780 | 0 | 95.30 | 4.70 | 0.00 |
-| [Increase State Pensions to £416.80 per week & lower Retirement Age to 60 for All](630163.md) | 37,689 | 37,172 | 517 | 0 | 98.63 | 1.37 | 0.00 |
-| [Enshrine in law rights to roam and wild camp in national parks](631241.md) | 35,311 | 34,951 | 360 | 0 | 98.98 | 1.02 | 0.00 |
+| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 44,065 | 43,900 | 165 | 0 | 99.63 | 0.37 | 0.00 |
+| [Reinstate tax relief allowing mortgage interest to be set against rental income](627785.md) | 38,212 | 37,937 | 275 | 0 | 99.28 | 0.72 | 0.00 |
+| [Maintain sanctions and introduce visa ban on people linked to Iranian regime](623572.md) | 37,910 | 36,130 | 1,780 | 0 | 95.30 | 4.70 | 0.00 |
+| [Increase State Pensions to £416.80 per week & lower Retirement Age to 60 for All](630163.md) | 37,705 | 37,188 | 517 | 0 | 98.63 | 1.37 | 0.00 |
+| [Enshrine in law rights to roam and wild camp in national parks](631241.md) | 35,316 | 34,956 | 360 | 0 | 98.98 | 1.02 | 0.00 |
 | [Reverse the decision to block the Gender Recognition Reform (Scotland) Bill](631561.md) | 28,672 | 28,301 | 371 | 0 | 98.71 | 1.29 | 0.00 |
-| [Prevent the introduction of any "programmable" CBDC in the UK](624159.md) | 28,395 | 28,147 | 248 | 0 | 99.13 | 0.87 | 0.00 |
-| [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 27,811 | 27,141 | 670 | 0 | 97.59 | 2.41 | 0.00 |
+| [Prevent the introduction of any "programmable" CBDC in the UK](624159.md) | 28,408 | 28,160 | 248 | 0 | 99.13 | 0.87 | 0.00 |
+| [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 27,812 | 27,142 | 670 | 0 | 97.59 | 2.41 | 0.00 |
 | [Retain bans on cat, dog, seal fur imports, and extend to ban all fur imports](630751.md) | 27,001 | 26,653 | 348 | 0 | 98.71 | 1.29 | 0.00 |
 | [Investigate UK excess deaths not related to Covid.](628188.md) | 23,503 | 23,044 | 459 | 0 | 98.05 | 1.95 | 0.00 |
-| [Fund free BSL Courses for parents or guardians of deaf children](623900.md) | 22,046 | 21,926 | 120 | 0 | 99.46 | 0.54 | 0.00 |
-| [Give Ukrainians on humanitarian visas rights to extend stay and settle in the UK](632761.md) | 18,091 | 17,798 | 293 | 0 | 98.38 | 1.62 | 0.00 |
-| [Amend the 1999 GLA Act to remove the Mayor's power to impose road use charges](633550.md) | 16,564 | 16,529 | 35 | 0 | 99.79 | 0.21 | 0.00 |
+| [Fund free BSL Courses for parents or guardians of deaf children](623900.md) | 22,068 | 21,948 | 120 | 0 | 99.46 | 0.54 | 0.00 |
+| [Give Ukrainians on humanitarian visas rights to extend stay and settle in the UK](632761.md) | 18,092 | 17,799 | 293 | 0 | 98.38 | 1.62 | 0.00 |
+| [Amend the 1999 GLA Act to remove the Mayor's power to impose road use charges](633550.md) | 16,609 | 16,574 | 35 | 0 | 99.79 | 0.21 | 0.00 |
 | [Do not permit any Council Tax increase of more than 5% without a referendum](632944.md) | 15,955 | 15,935 | 20 | 0 | 99.87 | 0.13 | 0.00 |
 | [Give secondary school students a right pray in school](631426.md) | 15,529 | 15,488 | 41 | 0 | 99.74 | 0.26 | 0.00 |
 | [Reinstate a dedicated Minister of State for Veterans’ Affairs](623527.md) | 14,885 | 14,470 | 415 | 0 | 97.21 | 2.79 | 0.00 |
 | [Stop housing asylum seekers who entered the UK illegally in hotels](628324.md) | 14,662 | 14,546 | 116 | 0 | 99.21 | 0.79 | 0.00 |
-| [Increase funding for early years settings](628412.md) | 14,528 | 14,510 | 18 | 0 | 99.88 | 0.12 | 0.00 |
-| [Repeal the Gender Recognition Act 2004](628382.md) | 14,526 | 14,260 | 266 | 0 | 98.17 | 1.83 | 0.00 |
-| [Reverse IR35 legislation   ](625524.md) | 13,722 | 13,675 | 47 | 0 | 99.66 | 0.34 | 0.00 |
+| [Increase funding for early years settings](628412.md) | 14,547 | 14,529 | 18 | 0 | 99.88 | 0.12 | 0.00 |
+| [Repeal the Gender Recognition Act 2004](628382.md) | 14,527 | 14,261 | 266 | 0 | 98.17 | 1.83 | 0.00 |
+| [Reverse IR35 legislation   ](625524.md) | 13,723 | 13,676 | 47 | 0 | 99.66 | 0.34 | 0.00 |
 | [Amend the Gender Recognition Act to allow for posthumous and expedited grants](633194.md) | 13,063 | 12,872 | 191 | 0 | 98.54 | 1.46 | 0.00 |
-| [Lifetime driving ban if you are convicted of causing death by dangerous driving.](623592.md) | 13,008 | 12,921 | 87 | 0 | 99.33 | 0.67 | 0.00 |
+| [Lifetime driving ban if you are convicted of causing death by dangerous driving.](623592.md) | 13,009 | 12,922 | 87 | 0 | 99.33 | 0.67 | 0.00 |
 | [Commit to not amending the Equality Act's definition of sex](627984.md) | 12,972 | 12,783 | 189 | 0 | 98.54 | 1.46 | 0.00 |
-| [Review and increase foster care allowances and tax exemptions](625515.md) | 12,921 | 12,911 | 10 | 0 | 99.92 | 0.08 | 0.00 |
-| [Stop legal aid for court appeals for people entering the UK illegally](627168.md) | 12,669 | 12,545 | 124 | 0 | 99.02 | 0.98 | 0.00 |
-| [Protect the Environmental Information Regulations (EIR) 2004](633609.md) | 12,655 | 12,611 | 44 | 0 | 99.65 | 0.35 | 0.00 |
-| [Carry out an independent review into Low Traffic Neighbourhoods (LTNs)](632748.md) | 12,506 | 12,480 | 26 | 0 | 99.79 | 0.21 | 0.00 |
+| [Review and increase foster care allowances and tax exemptions](625515.md) | 12,926 | 12,916 | 10 | 0 | 99.92 | 0.08 | 0.00 |
+| [Protect the Environmental Information Regulations (EIR) 2004](633609.md) | 12,683 | 12,639 | 44 | 0 | 99.65 | 0.35 | 0.00 |
+| [Stop legal aid for court appeals for people entering the UK illegally](627168.md) | 12,671 | 12,547 | 124 | 0 | 99.02 | 0.98 | 0.00 |
+| [Carry out an independent review into Low Traffic Neighbourhoods (LTNs)](632748.md) | 12,519 | 12,493 | 26 | 0 | 99.79 | 0.21 | 0.00 |
 | [Increase funding for schools to ensure that they do not enter deficit](627130.md) | 12,301 | 12,281 | 20 | 0 | 99.84 | 0.16 | 0.00 |
-| [Grant a Section 30 Order to enable a Scottish Independence Referendum](628746.md) | 12,274 | 12,010 | 264 | 0 | 97.85 | 2.15 | 0.00 |
+| [Grant a Section 30 Order to enable a Scottish Independence Referendum](628746.md) | 12,277 | 12,013 | 264 | 0 | 97.85 | 2.15 | 0.00 |
 | [Require honey labels to reflect all countries of origin of the honey. ](624402.md) | 12,217 | 12,165 | 52 | 0 | 99.57 | 0.43 | 0.00 |
 | [Withdraw the Transport Strikes (Minimum Service Levels) Bill](627487.md) | 11,977 | 11,939 | 38 | 0 | 99.68 | 0.32 | 0.00 |
 | [Give Animal Rescue Centres a grant to offset this winters increased heating cost](622806.md) | 11,133 | 11,078 | 55 | 0 | 99.51 | 0.49 | 0.00 |
-| [Add content on death, dying and bereavement to the national curriculum](624185.md) | 11,022 | 10,965 | 57 | 0 | 99.48 | 0.52 | 0.00 |
+| [Add content on death, dying and bereavement to the national curriculum](624185.md) | 11,025 | 10,968 | 57 | 0 | 99.48 | 0.52 | 0.00 |
+| [Reduce the VAT on Hospitality businesses to 10%](625741.md) | 10,785 | 10,757 | 28 | 0 | 99.74 | 0.26 | 0.00 |
 | [Guarantee access to broadcast TV (Freeview) and aerial radio beyond 2040](630957.md) | 10,760 | 10,723 | 37 | 0 | 99.66 | 0.34 | 0.00 |
-| [Reduce the VAT on Hospitality businesses to 10%](625741.md) | 10,718 | 10,690 | 28 | 0 | 99.74 | 0.26 | 0.00 |
-| [Public Inquiry into Ofcom's guidance on broadcast standards during the pandemic](633007.md) | 10,067 | 9,890 | 177 | 0 | 98.24 | 1.76 | 0.00 |
+| [Public Inquiry into Ofcom's guidance on broadcast standards during the pandemic](633007.md) | 10,136 | 9,958 | 178 | 0 | 98.24 | 1.76 | 0.00 |
 | [Provide an update on the release of £50 million for MND research](628954.md) | 9,636 | 9,523 | 113 | 0 | 98.83 | 1.17 | 0.00 |
 | [Investigate Anti-Hindu propaganda & hatred attacks on Hindu Community](629845.md) | 8,940 | 8,886 | 54 | 0 | 99.40 | 0.60 | 0.00 |
