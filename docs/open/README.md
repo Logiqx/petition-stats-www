@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-05-01 03:30:05
+Last refreshed 2023-05-01 04:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -21,9 +21,9 @@ Last refreshed 2023-05-01 03:30:05
 | [Increase State Pensions to £416.80 per week & lower Retirement Age to 60 for All](630163.md) | 41,671 | 41,098 | 573 | 0 | 98.62 | 1.38 | 0.00 |
 | [Reinstate tax relief allowing mortgage interest to be set against rental income](627785.md) | 40,087 | 39,797 | 290 | 0 | 99.28 | 0.72 | 0.00 |
 | [Enshrine in law rights to roam and wild camp in national parks](631241.md) | 37,061 | 36,686 | 375 | 0 | 98.99 | 1.01 | 0.00 |
-| [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 36,807 | 35,921 | 886 | 0 | 97.59 | 2.41 | 0.00 |
+| [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 36,808 | 35,922 | 886 | 0 | 97.59 | 2.41 | 0.00 |
 | [Reverse the decision to block the Gender Recognition Reform (Scotland) Bill](631561.md) | 29,267 | 28,888 | 379 | 0 | 98.71 | 1.29 | 0.00 |
-| [Guarantee access to broadcast TV (Freeview) and aerial radio beyond 2040](630957.md) | 27,706 | 27,644 | 62 | 0 | 99.78 | 0.22 | 0.00 |
+| [Guarantee access to broadcast TV (Freeview) and aerial radio beyond 2040](630957.md) | 27,708 | 27,646 | 62 | 0 | 99.78 | 0.22 | 0.00 |
 | [Investigate UK excess deaths not related to Covid.](628188.md) | 24,752 | 24,240 | 512 | 0 | 97.93 | 2.07 | 0.00 |
 | [Amend the 1999 GLA Act to remove the Mayor's power to impose road use charges](633550.md) | 24,465 | 24,413 | 52 | 0 | 99.79 | 0.21 | 0.00 |
 | [Protect the Environmental Information Regulations (EIR) 2004](633609.md) | 24,001 | 23,912 | 89 | 0 | 99.63 | 0.37 | 0.00 |
@@ -31,7 +31,7 @@ Last refreshed 2023-05-01 03:30:05
 | [Abolish Council Tax for State Pensioners](635079.md) | 20,833 | 20,795 | 38 | 0 | 99.82 | 0.18 | 0.00 |
 | [Overturn the decision to allow use of neonicotinoid pesticides on sugar crops](631948.md) | 19,976 | 19,800 | 176 | 0 | 99.12 | 0.88 | 0.00 |
 | [Deny Sex Offenders the right to apply for removal from the Sex Offender Register](632806.md) | 19,674 | 19,606 | 68 | 0 | 99.65 | 0.35 | 0.00 |
-| [Condemn Israel for their actions against Palestinians and impose trade ban](636256.md) | 19,333 | 19,232 | 101 | 0 | 99.48 | 0.52 | 0.00 |
+| [Condemn Israel for their actions against Palestinians and impose trade ban](636256.md) | 19,334 | 19,233 | 101 | 0 | 99.48 | 0.52 | 0.00 |
 | [Give Ukrainians on humanitarian visas rights to extend stay and settle in the UK](632761.md) | 19,020 | 18,712 | 308 | 0 | 98.38 | 1.62 | 0.00 |
 | [Reduce the VAT on Hospitality businesses to 10%](625741.md) | 18,335 | 18,265 | 70 | 0 | 99.62 | 0.38 | 0.00 |
 | [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 17,511 | 17,068 | 443 | 0 | 97.47 | 2.53 | 0.00 |
@@ -44,7 +44,7 @@ Last refreshed 2023-05-01 03:30:05
 | [Give secondary school students a right pray in school](631426.md) | 15,735 | 15,693 | 42 | 0 | 99.73 | 0.27 | 0.00 |
 | [Carry out an independent review into Low Traffic Neighbourhoods (LTNs)](632748.md) | 15,472 | 15,441 | 31 | 0 | 99.80 | 0.20 | 0.00 |
 | [Repeal the Gender Recognition Act 2004](628382.md) | 15,290 | 15,000 | 290 | 0 | 98.10 | 1.90 | 0.00 |
-| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 15,134 | 14,831 | 303 | 0 | 98.00 | 2.00 | 0.00 |
+| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 15,163 | 14,860 | 303 | 0 | 98.00 | 2.00 | 0.00 |
 | [Increase the basic State Pension to match the new State Pension](632855.md) | 14,577 | 14,221 | 356 | 0 | 97.56 | 2.44 | 0.00 |
 | [Grant a Section 30 Order to enable a Scottish Independence Referendum](628746.md) | 14,394 | 14,079 | 315 | 0 | 97.81 | 2.19 | 0.00 |
 | [Investigate Anti-Hindu propaganda & hatred attacks on Hindu Community](629845.md) | 13,607 | 13,511 | 96 | 0 | 99.29 | 0.71 | 0.00 |
