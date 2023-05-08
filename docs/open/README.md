@@ -4,12 +4,12 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-05-08 02:30:05
+Last refreshed 2023-05-08 03:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Remove LGBT content from the Relationships Education curriculum](630932.md) | 212,770 | 211,844 | 926 | 0 | 99.56 | 0.44 | 0.00 |
-| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 203,762 | 197,107 | 6,655 | 0 | 96.73 | 3.27 | 0.00 |
+| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 203,763 | 197,108 | 6,655 | 0 | 96.73 | 3.27 | 0.00 |
 | [Commit to not amending the Equality Act's definition of sex](627984.md) | 138,734 | 137,255 | 1,479 | 0 | 98.93 | 1.07 | 0.00 |
 | [Do not remove LGBT content from the Relationships Education curriculum](631529.md) | 102,903 | 101,553 | 1,350 | 0 | 98.69 | 1.31 | 0.00 |
 | [Create a Turkish Family Scheme visa for people homeless due to the earthquake](632772.md) | 82,506 | 81,643 | 863 | 0 | 98.95 | 1.05 | 0.00 |
@@ -28,10 +28,10 @@ Last refreshed 2023-05-08 02:30:05
 | [Amend the 1999 GLA Act to remove the Mayor's power to impose road use charges](633550.md) | 24,634 | 24,582 | 52 | 0 | 99.79 | 0.21 | 0.00 |
 | [Protect the Environmental Information Regulations (EIR) 2004](633609.md) | 24,145 | 24,056 | 89 | 0 | 99.63 | 0.37 | 0.00 |
 | [Make school uniform VAT exempt](633778.md) | 23,650 | 23,615 | 35 | 0 | 99.85 | 0.15 | 0.00 |
-| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 23,625 | 23,150 | 475 | 0 | 97.99 | 2.01 | 0.00 |
+| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 23,630 | 23,155 | 475 | 0 | 97.99 | 2.01 | 0.00 |
 | [Abolish Council Tax for State Pensioners](635079.md) | 21,314 | 21,274 | 40 | 0 | 99.81 | 0.19 | 0.00 |
 | [Ensure fair grading for GCSE and A Level students in 2023](631743.md) | 20,747 | 20,482 | 265 | 0 | 98.72 | 1.28 | 0.00 |
-| [Overturn the decision to allow use of neonicotinoid pesticides on sugar crops](631948.md) | 20,426 | 20,244 | 182 | 0 | 99.11 | 0.89 | 0.00 |
+| [Overturn the decision to allow use of neonicotinoid pesticides on sugar crops](631948.md) | 20,427 | 20,245 | 182 | 0 | 99.11 | 0.89 | 0.00 |
 | [Deny Sex Offenders the right to apply for removal from the Sex Offender Register](632806.md) | 19,802 | 19,732 | 70 | 0 | 99.65 | 0.35 | 0.00 |
 | [Condemn Israel for their actions against Palestinians and impose trade ban](636256.md) | 19,437 | 19,335 | 102 | 0 | 99.48 | 0.52 | 0.00 |
 | [Give Ukrainians on humanitarian visas rights to extend stay and settle in the UK](632761.md) | 19,109 | 18,801 | 308 | 0 | 98.39 | 1.61 | 0.00 |
@@ -45,9 +45,9 @@ Last refreshed 2023-05-08 02:30:05
 | [Give secondary school students a right pray in school](631426.md) | 15,754 | 15,712 | 42 | 0 | 99.73 | 0.27 | 0.00 |
 | [Carry out an independent review into Low Traffic Neighbourhoods (LTNs)](632748.md) | 15,491 | 15,460 | 31 | 0 | 99.80 | 0.20 | 0.00 |
 | [Repeal the Gender Recognition Act 2004](628382.md) | 15,331 | 15,040 | 291 | 0 | 98.10 | 1.90 | 0.00 |
-| [Investigate Anti-Hindu propaganda & hatred attacks on Hindu Community](629845.md) | 15,031 | 14,926 | 105 | 0 | 99.30 | 0.70 | 0.00 |
+| [Investigate Anti-Hindu propaganda & hatred attacks on Hindu Community](629845.md) | 15,032 | 14,927 | 105 | 0 | 99.30 | 0.70 | 0.00 |
 | [Increase the basic State Pension to match the new State Pension](632855.md) | 14,976 | 14,617 | 359 | 0 | 97.60 | 2.40 | 0.00 |
-| [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 14,542 | 14,324 | 218 | 0 | 98.50 | 1.50 | 0.00 |
+| [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 14,544 | 14,326 | 218 | 0 | 98.50 | 1.50 | 0.00 |
 | [Grant a Section 30 Order to enable a Scottish Independence Referendum](628746.md) | 14,419 | 14,101 | 318 | 0 | 97.79 | 2.21 | 0.00 |
 | [Amend the Gender Recognition Act to allow for posthumous and expedited grants](633194.md) | 13,588 | 13,384 | 204 | 0 | 98.50 | 1.50 | 0.00 |
 | [Introduce an unmetered monthly tariff for energy for the elderly and disabled](624795.md) | 13,303 | 13,285 | 18 | 0 | 99.86 | 0.14 | 0.00 |
