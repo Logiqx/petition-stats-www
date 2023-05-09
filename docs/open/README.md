@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-05-09 01:30:05
+Last refreshed 2023-05-09 02:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -16,7 +16,7 @@ Last refreshed 2023-05-09 01:30:05
 | [Hold a referendum on removing the London Assembly and London Mayor](631763.md) | 65,179 | 65,012 | 167 | 0 | 99.74 | 0.26 | 0.00 |
 | [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 62,904 | 62,665 | 239 | 0 | 99.62 | 0.38 | 0.00 |
 | [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 58,019 | 57,735 | 284 | 0 | 99.51 | 0.49 | 0.00 |
-| [Offer healthcare workers on tier2 visa ILR after 2 years instead of 5 years](631412.md) | 48,416 | 47,901 | 515 | 0 | 98.94 | 1.06 | 0.00 |
+| [Offer healthcare workers on tier2 visa ILR after 2 years instead of 5 years](631412.md) | 48,417 | 47,902 | 515 | 0 | 98.94 | 1.06 | 0.00 |
 | [Retain bans on cat, dog, seal fur imports, and extend to ban all fur imports](630751.md) | 44,276 | 43,475 | 801 | 0 | 98.19 | 1.81 | 0.00 |
 | [Increase State Pensions to £416.80 per week & lower Retirement Age to 60 for All](630163.md) | 42,123 | 41,548 | 575 | 0 | 98.63 | 1.37 | 0.00 |
 | [Reinstate tax relief allowing mortgage interest to be set against rental income](627785.md) | 40,155 | 39,864 | 291 | 0 | 99.28 | 0.72 | 0.00 |
@@ -27,13 +27,13 @@ Last refreshed 2023-05-09 01:30:05
 | [Investigate UK excess deaths not related to Covid.](628188.md) | 24,827 | 24,314 | 513 | 0 | 97.93 | 2.07 | 0.00 |
 | [Amend the 1999 GLA Act to remove the Mayor's power to impose road use charges](633550.md) | 24,650 | 24,598 | 52 | 0 | 99.79 | 0.21 | 0.00 |
 | [Protect the Environmental Information Regulations (EIR) 2004](633609.md) | 24,165 | 24,076 | 89 | 0 | 99.63 | 0.37 | 0.00 |
-| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 24,000 | 23,520 | 480 | 0 | 98.00 | 2.00 | 0.00 |
+| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 24,002 | 23,521 | 481 | 0 | 98.00 | 2.00 | 0.00 |
 | [Make school uniform VAT exempt](633778.md) | 23,660 | 23,625 | 35 | 0 | 99.85 | 0.15 | 0.00 |
-| [Ensure fair grading for GCSE and A Level students in 2023](631743.md) | 21,840 | 21,569 | 271 | 0 | 98.76 | 1.24 | 0.00 |
+| [Ensure fair grading for GCSE and A Level students in 2023](631743.md) | 21,845 | 21,574 | 271 | 0 | 98.76 | 1.24 | 0.00 |
 | [Abolish Council Tax for State Pensioners](635079.md) | 21,322 | 21,282 | 40 | 0 | 99.81 | 0.19 | 0.00 |
 | [Overturn the decision to allow use of neonicotinoid pesticides on sugar crops](631948.md) | 20,479 | 20,297 | 182 | 0 | 99.11 | 0.89 | 0.00 |
 | [Deny Sex Offenders the right to apply for removal from the Sex Offender Register](632806.md) | 19,809 | 19,739 | 70 | 0 | 99.65 | 0.35 | 0.00 |
-| [Condemn Israel for their actions against Palestinians and impose trade ban](636256.md) | 19,448 | 19,346 | 102 | 0 | 99.48 | 0.52 | 0.00 |
+| [Condemn Israel for their actions against Palestinians and impose trade ban](636256.md) | 19,449 | 19,347 | 102 | 0 | 99.48 | 0.52 | 0.00 |
 | [Give Ukrainians on humanitarian visas rights to extend stay and settle in the UK](632761.md) | 19,114 | 18,806 | 308 | 0 | 98.39 | 1.61 | 0.00 |
 | [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 18,564 | 18,094 | 470 | 0 | 97.47 | 2.53 | 0.00 |
 | [Require public referendums on 15-minute town and city policies](633819.md) | 17,373 | 17,263 | 110 | 0 | 99.37 | 0.63 | 0.00 |
@@ -47,7 +47,7 @@ Last refreshed 2023-05-09 01:30:05
 | [Repeal the Gender Recognition Act 2004](628382.md) | 15,336 | 15,045 | 291 | 0 | 98.10 | 1.90 | 0.00 |
 | [Investigate Anti-Hindu propaganda & hatred attacks on Hindu Community](629845.md) | 15,147 | 15,042 | 105 | 0 | 99.31 | 0.69 | 0.00 |
 | [Increase the basic State Pension to match the new State Pension](632855.md) | 14,992 | 14,633 | 359 | 0 | 97.61 | 2.39 | 0.00 |
-| [Grant a Section 30 Order to enable a Scottish Independence Referendum](628746.md) | 14,655 | 14,333 | 322 | 0 | 97.80 | 2.20 | 0.00 |
+| [Grant a Section 30 Order to enable a Scottish Independence Referendum](628746.md) | 14,657 | 14,335 | 322 | 0 | 97.80 | 2.20 | 0.00 |
 | [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 14,646 | 14,428 | 218 | 0 | 98.51 | 1.49 | 0.00 |
 | [Amend the Gender Recognition Act to allow for posthumous and expedited grants](633194.md) | 13,590 | 13,386 | 204 | 0 | 98.50 | 1.50 | 0.00 |
 | [Hold a referendum on ending devolution in Scotland](634090.md) | 13,358 | 13,249 | 109 | 0 | 99.18 | 0.82 | 0.00 |
