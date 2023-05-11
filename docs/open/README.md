@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-05-11 02:30:03
+Last refreshed 2023-05-11 03:30:03
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -16,25 +16,25 @@ Last refreshed 2023-05-11 02:30:03
 | [Hold a referendum on removing the London Assembly and London Mayor](631763.md) | 65,500 | 65,332 | 168 | 0 | 99.74 | 0.26 | 0.00 |
 | [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 63,215 | 62,973 | 242 | 0 | 99.62 | 0.38 | 0.00 |
 | [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 58,072 | 57,788 | 284 | 0 | 99.51 | 0.49 | 0.00 |
-| [Offer healthcare workers on tier2 visa ILR after 2 years instead of 5 years](631412.md) | 49,372 | 48,850 | 522 | 0 | 98.94 | 1.06 | 0.00 |
-| [Retain bans on cat, dog, seal fur imports, and extend to ban all fur imports](630751.md) | 44,507 | 43,706 | 801 | 0 | 98.20 | 1.80 | 0.00 |
+| [Offer healthcare workers on tier2 visa ILR after 2 years instead of 5 years](631412.md) | 49,373 | 48,851 | 522 | 0 | 98.94 | 1.06 | 0.00 |
+| [Retain bans on cat, dog, seal fur imports, and extend to ban all fur imports](630751.md) | 44,508 | 43,707 | 801 | 0 | 98.20 | 1.80 | 0.00 |
 | [Increase State Pensions to £416.80 per week & lower Retirement Age to 60 for All](630163.md) | 42,261 | 41,684 | 577 | 0 | 98.63 | 1.37 | 0.00 |
 | [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 37,693 | 36,796 | 897 | 0 | 97.62 | 2.38 | 0.00 |
 | [Enshrine in law rights to roam and wild camp in national parks](631241.md) | 37,175 | 36,798 | 377 | 0 | 98.99 | 1.01 | 0.00 |
 | [Guarantee access to broadcast TV (Freeview) and aerial radio beyond 2040](630957.md) | 29,418 | 29,353 | 65 | 0 | 99.78 | 0.22 | 0.00 |
 | [Reverse the decision to block the Gender Recognition Reform (Scotland) Bill](631561.md) | 29,352 | 28,973 | 379 | 0 | 98.71 | 1.29 | 0.00 |
-| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 25,421 | 24,908 | 513 | 0 | 97.98 | 2.02 | 0.00 |
+| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 25,428 | 24,915 | 513 | 0 | 97.98 | 2.02 | 0.00 |
 | [Investigate UK excess deaths not related to Covid.](628188.md) | 24,991 | 24,476 | 515 | 0 | 97.94 | 2.06 | 0.00 |
 | [Amend the 1999 GLA Act to remove the Mayor's power to impose road use charges](633550.md) | 24,683 | 24,631 | 52 | 0 | 99.79 | 0.21 | 0.00 |
 | [Protect the Environmental Information Regulations (EIR) 2004](633609.md) | 24,191 | 24,102 | 89 | 0 | 99.63 | 0.37 | 0.00 |
 | [Make school uniform VAT exempt](633778.md) | 23,676 | 23,641 | 35 | 0 | 99.85 | 0.15 | 0.00 |
-| [Ensure fair grading for GCSE and A Level students in 2023](631743.md) | 23,322 | 23,044 | 278 | 0 | 98.81 | 1.19 | 0.00 |
+| [Ensure fair grading for GCSE and A Level students in 2023](631743.md) | 23,323 | 23,045 | 278 | 0 | 98.81 | 1.19 | 0.00 |
 | [Abolish Council Tax for State Pensioners](635079.md) | 21,349 | 21,309 | 40 | 0 | 99.81 | 0.19 | 0.00 |
 | [Overturn the decision to allow use of neonicotinoid pesticides on sugar crops](631948.md) | 20,610 | 20,427 | 183 | 0 | 99.11 | 0.89 | 0.00 |
 | [Deny Sex Offenders the right to apply for removal from the Sex Offender Register](632806.md) | 19,837 | 19,766 | 71 | 0 | 99.64 | 0.36 | 0.00 |
 | [Condemn Israel for their actions against Palestinians and impose trade ban](636256.md) | 19,459 | 19,357 | 102 | 0 | 99.48 | 0.52 | 0.00 |
 | [Give Ukrainians on humanitarian visas rights to extend stay and settle in the UK](632761.md) | 19,123 | 18,815 | 308 | 0 | 98.39 | 1.61 | 0.00 |
-| [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 18,999 | 18,523 | 476 | 0 | 97.49 | 2.51 | 0.00 |
+| [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 19,000 | 18,524 | 476 | 0 | 97.49 | 2.51 | 0.00 |
 | [Require public referendums on 15-minute town and city policies](633819.md) | 17,412 | 17,302 | 110 | 0 | 99.37 | 0.63 | 0.00 |
 | [Make chanting about tragedies and death at a football match a criminal offence](636134.md) | 17,327 | 16,926 | 401 | 0 | 97.69 | 2.31 | 0.00 |
 | [Do not permit any Council Tax increase of more than 5% without a referendum](632944.md) | 17,289 | 17,265 | 24 | 0 | 99.86 | 0.14 | 0.00 |
