@@ -4,30 +4,30 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-05-12 00:30:05
+Last refreshed 2023-05-12 01:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Remove LGBT content from the Relationships Education curriculum](630932.md) | 213,013 | 212,085 | 928 | 0 | 99.56 | 0.44 | 0.00 |
-| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 204,887 | 198,123 | 6,764 | 0 | 96.70 | 3.30 | 0.00 |
+| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 204,890 | 198,126 | 6,764 | 0 | 96.70 | 3.30 | 0.00 |
 | [Commit to not amending the Equality Act's definition of sex](627984.md) | 138,808 | 137,327 | 1,481 | 0 | 98.93 | 1.07 | 0.00 |
 | [Do not remove LGBT content from the Relationships Education curriculum](631529.md) | 103,117 | 101,765 | 1,352 | 0 | 98.69 | 1.31 | 0.00 |
 | [Create a Turkish Family Scheme visa for people homeless due to the earthquake](632772.md) | 82,517 | 81,653 | 864 | 0 | 98.95 | 1.05 | 0.00 |
-| [Hold a referendum on removing the London Assembly and London Mayor](631763.md) | 65,567 | 65,399 | 168 | 0 | 99.74 | 0.26 | 0.00 |
-| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 63,296 | 63,054 | 242 | 0 | 99.62 | 0.38 | 0.00 |
+| [Hold a referendum on removing the London Assembly and London Mayor](631763.md) | 65,570 | 65,402 | 168 | 0 | 99.74 | 0.26 | 0.00 |
+| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 63,297 | 63,055 | 242 | 0 | 99.62 | 0.38 | 0.00 |
 | [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 58,098 | 57,814 | 284 | 0 | 99.51 | 0.49 | 0.00 |
-| [Offer healthcare workers on tier2 visa ILR after 2 years instead of 5 years](631412.md) | 49,719 | 49,196 | 523 | 0 | 98.95 | 1.05 | 0.00 |
+| [Offer healthcare workers on tier2 visa ILR after 2 years instead of 5 years](631412.md) | 49,720 | 49,197 | 523 | 0 | 98.95 | 1.05 | 0.00 |
 | [Retain bans on cat, dog, seal fur imports, and extend to ban all fur imports](630751.md) | 44,551 | 43,750 | 801 | 0 | 98.20 | 1.80 | 0.00 |
 | [Increase State Pensions to £416.80 per week & lower Retirement Age to 60 for All](630163.md) | 42,335 | 41,758 | 577 | 0 | 98.64 | 1.36 | 0.00 |
-| [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 37,808 | 36,911 | 897 | 0 | 97.63 | 2.37 | 0.00 |
+| [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 37,810 | 36,913 | 897 | 0 | 97.63 | 2.37 | 0.00 |
 | [Enshrine in law rights to roam and wild camp in national parks](631241.md) | 37,193 | 36,816 | 377 | 0 | 98.99 | 1.01 | 0.00 |
 | [Guarantee access to broadcast TV (Freeview) and aerial radio beyond 2040](630957.md) | 29,425 | 29,360 | 65 | 0 | 99.78 | 0.22 | 0.00 |
 | [Reverse the decision to block the Gender Recognition Reform (Scotland) Bill](631561.md) | 29,358 | 28,978 | 380 | 0 | 98.71 | 1.29 | 0.00 |
-| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 25,947 | 25,415 | 532 | 0 | 97.95 | 2.05 | 0.00 |
+| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 25,962 | 25,430 | 532 | 0 | 97.95 | 2.05 | 0.00 |
 | [Investigate UK excess deaths not related to Covid.](628188.md) | 25,023 | 24,507 | 516 | 0 | 97.94 | 2.06 | 0.00 |
 | [Amend the 1999 GLA Act to remove the Mayor's power to impose road use charges](633550.md) | 24,692 | 24,639 | 53 | 0 | 99.79 | 0.21 | 0.00 |
 | [Protect the Environmental Information Regulations (EIR) 2004](633609.md) | 24,197 | 24,108 | 89 | 0 | 99.63 | 0.37 | 0.00 |
-| [Ensure fair grading for GCSE and A Level students in 2023](631743.md) | 23,975 | 23,688 | 287 | 0 | 98.80 | 1.20 | 0.00 |
+| [Ensure fair grading for GCSE and A Level students in 2023](631743.md) | 23,978 | 23,691 | 287 | 0 | 98.80 | 1.20 | 0.00 |
 | [Make school uniform VAT exempt](633778.md) | 23,686 | 23,651 | 35 | 0 | 99.85 | 0.15 | 0.00 |
 | [Abolish Council Tax for State Pensioners](635079.md) | 21,358 | 21,318 | 40 | 0 | 99.81 | 0.19 | 0.00 |
 | [Overturn the decision to allow use of neonicotinoid pesticides on sugar crops](631948.md) | 20,646 | 20,463 | 183 | 0 | 99.11 | 0.89 | 0.00 |
@@ -48,13 +48,13 @@ Last refreshed 2023-05-12 00:30:05
 | [Grant a Section 30 Order to enable a Scottish Independence Referendum](628746.md) | 15,045 | 14,717 | 328 | 0 | 97.82 | 2.18 | 0.00 |
 | [Increase the basic State Pension to match the new State Pension](632855.md) | 15,020 | 14,660 | 360 | 0 | 97.60 | 2.40 | 0.00 |
 | [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 14,988 | 14,768 | 220 | 0 | 98.53 | 1.47 | 0.00 |
-| [Hold a referendum on ending devolution in Scotland](634090.md) | 14,325 | 14,212 | 113 | 0 | 99.21 | 0.79 | 0.00 |
+| [Hold a referendum on ending devolution in Scotland](634090.md) | 14,326 | 14,213 | 113 | 0 | 99.21 | 0.79 | 0.00 |
 | [Amend the Gender Recognition Act to allow for posthumous and expedited grants](633194.md) | 13,595 | 13,391 | 204 | 0 | 98.50 | 1.50 | 0.00 |
 | [Allow Serbian citizens to visit the UK for up to 90 days without a visa](636456.md) | 12,660 | 11,891 | 769 | 0 | 93.93 | 6.07 | 0.00 |
 | [Free prescriptions for all cystic fibrosis (CF) patients](633794.md) | 12,088 | 12,012 | 76 | 0 | 99.37 | 0.63 | 0.00 |
 | [Hold referendums on joining new trade blocks eg CPTPP](635583.md) | 11,619 | 11,300 | 319 | 0 | 97.25 | 2.75 | 0.00 |
 | [ Extend Bereavement Support Payments (BSP) for widowed parents ](633097.md) | 11,465 | 11,384 | 81 | 0 | 99.29 | 0.71 | 0.00 |
-| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 11,321 | 11,163 | 158 | 0 | 98.60 | 1.40 | 0.00 |
+| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 11,328 | 11,170 | 158 | 0 | 98.61 | 1.39 | 0.00 |
 | [Public Inquiry into Ofcom's guidance on broadcast standards during the pandemic](633007.md) | 11,077 | 10,889 | 188 | 0 | 98.30 | 1.70 | 0.00 |
 | [Increase funding for special educational needs and disabilities (SEND) education](634116.md) | 10,845 | 10,813 | 32 | 0 | 99.70 | 0.30 | 0.00 |
 | [Do not extend the period before a vehicle’s first MOT to 4 years](631650.md) | 10,441 | 10,434 | 7 | 0 | 99.93 | 0.07 | 0.00 |
