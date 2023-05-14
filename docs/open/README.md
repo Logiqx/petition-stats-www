@@ -4,14 +4,14 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-05-14 02:30:06
+Last refreshed 2023-05-14 03:30:07
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Remove LGBT content from the Relationships Education curriculum](630932.md) | 213,220 | 212,290 | 930 | 0 | 99.56 | 0.44 | 0.00 |
 | [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 205,318 | 198,535 | 6,783 | 0 | 96.70 | 3.30 | 0.00 |
 | [Commit to not amending the Equality Act's definition of sex](627984.md) | 138,848 | 137,366 | 1,482 | 0 | 98.93 | 1.07 | 0.00 |
-| [Do not remove LGBT content from the Relationships Education curriculum](631529.md) | 103,226 | 101,874 | 1,352 | 0 | 98.69 | 1.31 | 0.00 |
+| [Do not remove LGBT content from the Relationships Education curriculum](631529.md) | 103,227 | 101,875 | 1,352 | 0 | 98.69 | 1.31 | 0.00 |
 | [Create a Turkish Family Scheme visa for people homeless due to the earthquake](632772.md) | 82,523 | 81,659 | 864 | 0 | 98.95 | 1.05 | 0.00 |
 | [Hold a referendum on removing the London Assembly and London Mayor](631763.md) | 65,659 | 65,491 | 168 | 0 | 99.74 | 0.26 | 0.00 |
 | [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 63,429 | 63,186 | 243 | 0 | 99.62 | 0.38 | 0.00 |
@@ -19,13 +19,13 @@ Last refreshed 2023-05-14 02:30:06
 | [Offer healthcare workers on tier2 visa ILR after 2 years instead of 5 years](631412.md) | 49,858 | 49,333 | 525 | 0 | 98.95 | 1.05 | 0.00 |
 | [Retain bans on cat, dog, seal fur imports, and extend to ban all fur imports](630751.md) | 44,606 | 43,804 | 802 | 0 | 98.20 | 1.80 | 0.00 |
 | [Increase State Pensions to £416.80 per week & lower Retirement Age to 60 for All](630163.md) | 42,494 | 41,915 | 579 | 0 | 98.64 | 1.36 | 0.00 |
-| [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 37,850 | 36,952 | 898 | 0 | 97.63 | 2.37 | 0.00 |
+| [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 37,851 | 36,953 | 898 | 0 | 97.63 | 2.37 | 0.00 |
 | [Enshrine in law rights to roam and wild camp in national parks](631241.md) | 37,226 | 36,849 | 377 | 0 | 98.99 | 1.01 | 0.00 |
 | [Guarantee access to broadcast TV (Freeview) and aerial radio beyond 2040](630957.md) | 29,451 | 29,385 | 66 | 0 | 99.78 | 0.22 | 0.00 |
 | [Reverse the decision to block the Gender Recognition Reform (Scotland) Bill](631561.md) | 29,367 | 28,987 | 380 | 0 | 98.71 | 1.29 | 0.00 |
-| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 26,594 | 26,046 | 548 | 0 | 97.94 | 2.06 | 0.00 |
+| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 26,595 | 26,047 | 548 | 0 | 97.94 | 2.06 | 0.00 |
 | [Investigate UK excess deaths not related to Covid.](628188.md) | 25,078 | 24,561 | 517 | 0 | 97.94 | 2.06 | 0.00 |
-| [Ensure fair grading for GCSE and A Level students in 2023](631743.md) | 24,824 | 24,534 | 290 | 0 | 98.83 | 1.17 | 0.00 |
+| [Ensure fair grading for GCSE and A Level students in 2023](631743.md) | 24,826 | 24,536 | 290 | 0 | 98.83 | 1.17 | 0.00 |
 | [Amend the 1999 GLA Act to remove the Mayor's power to impose road use charges](633550.md) | 24,702 | 24,649 | 53 | 0 | 99.79 | 0.21 | 0.00 |
 | [Protect the Environmental Information Regulations (EIR) 2004](633609.md) | 24,218 | 24,129 | 89 | 0 | 99.63 | 0.37 | 0.00 |
 | [Make school uniform VAT exempt](633778.md) | 23,714 | 23,679 | 35 | 0 | 99.85 | 0.15 | 0.00 |
@@ -38,7 +38,7 @@ Last refreshed 2023-05-14 02:30:06
 | [Require public referendums on 15-minute town and city policies](633819.md) | 17,549 | 17,438 | 111 | 0 | 99.37 | 0.63 | 0.00 |
 | [Make chanting about tragedies and death at a football match a criminal offence](636134.md) | 17,331 | 16,930 | 401 | 0 | 97.69 | 2.31 | 0.00 |
 | [Do not permit any Council Tax increase of more than 5% without a referendum](632944.md) | 17,297 | 17,273 | 24 | 0 | 99.86 | 0.14 | 0.00 |
-| [Identify and sanction individuals from Pakistan involved in illegal activities](635202.md) | 16,723 | 15,246 | 1,477 | 0 | 91.17 | 8.83 | 0.00 |
+| [Identify and sanction individuals from Pakistan involved in illegal activities](635202.md) | 16,728 | 15,251 | 1,477 | 0 | 91.17 | 8.83 | 0.00 |
 | [Investigate Anti-Hindu propaganda & hatred attacks on Hindu Community](629845.md) | 16,339 | 16,221 | 118 | 0 | 99.28 | 0.72 | 0.00 |
 | [Increase funding for early years settings](628412.md) | 15,968 | 15,949 | 19 | 0 | 99.88 | 0.12 | 0.00 |
 | [Stop housing asylum seekers who entered the UK illegally in hotels](628324.md) | 15,931 | 15,810 | 121 | 0 | 99.24 | 0.76 | 0.00 |
@@ -48,8 +48,8 @@ Last refreshed 2023-05-14 02:30:06
 | [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 15,147 | 14,918 | 229 | 0 | 98.49 | 1.51 | 0.00 |
 | [Grant a Section 30 Order to enable a Scottish Independence Referendum](628746.md) | 15,066 | 14,738 | 328 | 0 | 97.82 | 2.18 | 0.00 |
 | [Increase the basic State Pension to match the new State Pension](632855.md) | 15,031 | 14,670 | 361 | 0 | 97.60 | 2.40 | 0.00 |
-| [Hold a referendum on ending devolution in Scotland](634090.md) | 14,670 | 14,555 | 115 | 0 | 99.22 | 0.78 | 0.00 |
-| [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 13,970 | 13,925 | 45 | 0 | 99.68 | 0.32 | 0.00 |
+| [Hold a referendum on ending devolution in Scotland](634090.md) | 14,671 | 14,556 | 115 | 0 | 99.22 | 0.78 | 0.00 |
+| [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 14,014 | 13,969 | 45 | 0 | 99.68 | 0.32 | 0.00 |
 | [Amend the Gender Recognition Act to allow for posthumous and expedited grants](633194.md) | 13,597 | 13,393 | 204 | 0 | 98.50 | 1.50 | 0.00 |
 | [Allow Serbian citizens to visit the UK for up to 90 days without a visa](636456.md) | 12,692 | 11,922 | 770 | 0 | 93.93 | 6.07 | 0.00 |
 | [Free prescriptions for all cystic fibrosis (CF) patients](633794.md) | 12,103 | 12,027 | 76 | 0 | 99.37 | 0.63 | 0.00 |
