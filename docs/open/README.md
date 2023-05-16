@@ -4,33 +4,33 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-05-16 02:30:05
+Last refreshed 2023-05-16 03:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Remove LGBT content from the Relationships Education curriculum](630932.md) | 213,421 | 212,488 | 933 | 0 | 99.56 | 0.44 | 0.00 |
-| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 212,063 | 205,019 | 7,044 | 0 | 96.68 | 3.32 | 0.00 |
+| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 212,070 | 205,026 | 7,044 | 0 | 96.68 | 3.32 | 0.00 |
 | [Do not remove LGBT content from the Relationships Education curriculum](631529.md) | 103,277 | 101,924 | 1,353 | 0 | 98.69 | 1.31 | 0.00 |
 | [Create a Turkish Family Scheme visa for people homeless due to the earthquake](632772.md) | 82,533 | 81,669 | 864 | 0 | 98.95 | 1.05 | 0.00 |
 | [Hold a referendum on removing the London Assembly and London Mayor](631763.md) | 65,765 | 65,596 | 169 | 0 | 99.74 | 0.26 | 0.00 |
-| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 63,520 | 63,276 | 244 | 0 | 99.62 | 0.38 | 0.00 |
-| [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 58,856 | 58,571 | 285 | 0 | 99.52 | 0.48 | 0.00 |
+| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 63,521 | 63,277 | 244 | 0 | 99.62 | 0.38 | 0.00 |
+| [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 58,857 | 58,572 | 285 | 0 | 99.52 | 0.48 | 0.00 |
 | [Offer healthcare workers on tier2 visa ILR after 2 years instead of 5 years](631412.md) | 49,955 | 49,427 | 528 | 0 | 98.94 | 1.06 | 0.00 |
 | [Retain bans on cat, dog, seal fur imports, and extend to ban all fur imports](630751.md) | 44,669 | 43,867 | 802 | 0 | 98.20 | 1.80 | 0.00 |
-| [Increase State Pensions to £416.80 per week & lower Retirement Age to 60 for All](630163.md) | 42,708 | 42,128 | 580 | 0 | 98.64 | 1.36 | 0.00 |
-| [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 39,285 | 38,359 | 926 | 0 | 97.64 | 2.36 | 0.00 |
+| [Increase State Pensions to £416.80 per week & lower Retirement Age to 60 for All](630163.md) | 42,709 | 42,129 | 580 | 0 | 98.64 | 1.36 | 0.00 |
+| [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 39,286 | 38,360 | 926 | 0 | 97.64 | 2.36 | 0.00 |
 | [Enshrine in law rights to roam and wild camp in national parks](631241.md) | 37,242 | 36,865 | 377 | 0 | 98.99 | 1.01 | 0.00 |
-| [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 31,169 | 31,054 | 115 | 0 | 99.63 | 0.37 | 0.00 |
+| [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 31,211 | 31,096 | 115 | 0 | 99.63 | 0.37 | 0.00 |
 | [Guarantee access to broadcast TV (Freeview) and aerial radio beyond 2040](630957.md) | 29,461 | 29,395 | 66 | 0 | 99.78 | 0.22 | 0.00 |
 | [Reverse the decision to block the Gender Recognition Reform (Scotland) Bill](631561.md) | 29,378 | 28,998 | 380 | 0 | 98.71 | 1.29 | 0.00 |
-| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 26,848 | 26,290 | 558 | 0 | 97.92 | 2.08 | 0.00 |
-| [Ensure fair grading for GCSE and A Level students in 2023](631743.md) | 25,861 | 25,566 | 295 | 0 | 98.86 | 1.14 | 0.00 |
+| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 26,851 | 26,293 | 558 | 0 | 97.92 | 2.08 | 0.00 |
+| [Ensure fair grading for GCSE and A Level students in 2023](631743.md) | 25,865 | 25,570 | 295 | 0 | 98.86 | 1.14 | 0.00 |
 | [Investigate UK excess deaths not related to Covid.](628188.md) | 25,105 | 24,588 | 517 | 0 | 97.94 | 2.06 | 0.00 |
 | [Amend the 1999 GLA Act to remove the Mayor's power to impose road use charges](633550.md) | 24,715 | 24,662 | 53 | 0 | 99.79 | 0.21 | 0.00 |
 | [Protect the Environmental Information Regulations (EIR) 2004](633609.md) | 24,224 | 24,135 | 89 | 0 | 99.63 | 0.37 | 0.00 |
 | [Make school uniform VAT exempt](633778.md) | 23,731 | 23,696 | 35 | 0 | 99.85 | 0.15 | 0.00 |
 | [Abolish Council Tax for State Pensioners](635079.md) | 21,393 | 21,353 | 40 | 0 | 99.81 | 0.19 | 0.00 |
-| [Overturn the decision to allow use of neonicotinoid pesticides on sugar crops](631948.md) | 20,810 | 20,626 | 184 | 0 | 99.12 | 0.88 | 0.00 |
+| [Overturn the decision to allow use of neonicotinoid pesticides on sugar crops](631948.md) | 20,811 | 20,627 | 184 | 0 | 99.12 | 0.88 | 0.00 |
 | [Deny Sex Offenders the right to apply for removal from the Sex Offender Register](632806.md) | 19,954 | 19,883 | 71 | 0 | 99.64 | 0.36 | 0.00 |
 | [Condemn Israel for their actions against Palestinians and impose trade ban](636256.md) | 19,504 | 19,402 | 102 | 0 | 99.48 | 0.52 | 0.00 |
 | [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 19,322 | 18,842 | 480 | 0 | 97.52 | 2.48 | 0.00 |
@@ -55,6 +55,6 @@ Last refreshed 2023-05-16 02:30:05
 | [Free prescriptions for all cystic fibrosis (CF) patients](633794.md) | 12,110 | 12,034 | 76 | 0 | 99.37 | 0.63 | 0.00 |
 | [Hold referendums on joining new trade blocks eg CPTPP](635583.md) | 11,626 | 11,307 | 319 | 0 | 97.26 | 2.74 | 0.00 |
 | [ Extend Bereavement Support Payments (BSP) for widowed parents ](633097.md) | 11,474 | 11,393 | 81 | 0 | 99.29 | 0.71 | 0.00 |
-| [Increase funding for special educational needs and disabilities (SEND) education](634116.md) | 11,100 | 11,066 | 34 | 0 | 99.69 | 0.31 | 0.00 |
+| [Increase funding for special educational needs and disabilities (SEND) education](634116.md) | 11,101 | 11,067 | 34 | 0 | 99.69 | 0.31 | 0.00 |
 | [Public Inquiry into Ofcom's guidance on broadcast standards during the pandemic](633007.md) | 11,095 | 10,907 | 188 | 0 | 98.31 | 1.69 | 0.00 |
 | [Do not extend the period before a vehicle’s first MOT to 4 years](631650.md) | 10,459 | 10,452 | 7 | 0 | 99.93 | 0.07 | 0.00 |
