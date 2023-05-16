@@ -4,27 +4,27 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-05-16 03:30:05
+Last refreshed 2023-05-16 04:30:07
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Remove LGBT content from the Relationships Education curriculum](630932.md) | 213,421 | 212,488 | 933 | 0 | 99.56 | 0.44 | 0.00 |
-| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 212,070 | 205,026 | 7,044 | 0 | 96.68 | 3.32 | 0.00 |
+| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 212,082 | 205,037 | 7,045 | 0 | 96.68 | 3.32 | 0.00 |
 | [Do not remove LGBT content from the Relationships Education curriculum](631529.md) | 103,277 | 101,924 | 1,353 | 0 | 98.69 | 1.31 | 0.00 |
 | [Create a Turkish Family Scheme visa for people homeless due to the earthquake](632772.md) | 82,533 | 81,669 | 864 | 0 | 98.95 | 1.05 | 0.00 |
-| [Hold a referendum on removing the London Assembly and London Mayor](631763.md) | 65,765 | 65,596 | 169 | 0 | 99.74 | 0.26 | 0.00 |
-| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 63,521 | 63,277 | 244 | 0 | 99.62 | 0.38 | 0.00 |
-| [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 58,857 | 58,572 | 285 | 0 | 99.52 | 0.48 | 0.00 |
+| [Hold a referendum on removing the London Assembly and London Mayor](631763.md) | 65,766 | 65,597 | 169 | 0 | 99.74 | 0.26 | 0.00 |
+| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 63,522 | 63,278 | 244 | 0 | 99.62 | 0.38 | 0.00 |
+| [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 58,861 | 58,576 | 285 | 0 | 99.52 | 0.48 | 0.00 |
 | [Offer healthcare workers on tier2 visa ILR after 2 years instead of 5 years](631412.md) | 49,955 | 49,427 | 528 | 0 | 98.94 | 1.06 | 0.00 |
 | [Retain bans on cat, dog, seal fur imports, and extend to ban all fur imports](630751.md) | 44,669 | 43,867 | 802 | 0 | 98.20 | 1.80 | 0.00 |
 | [Increase State Pensions to £416.80 per week & lower Retirement Age to 60 for All](630163.md) | 42,709 | 42,129 | 580 | 0 | 98.64 | 1.36 | 0.00 |
-| [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 39,286 | 38,360 | 926 | 0 | 97.64 | 2.36 | 0.00 |
+| [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 39,288 | 38,362 | 926 | 0 | 97.64 | 2.36 | 0.00 |
 | [Enshrine in law rights to roam and wild camp in national parks](631241.md) | 37,242 | 36,865 | 377 | 0 | 98.99 | 1.01 | 0.00 |
-| [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 31,211 | 31,096 | 115 | 0 | 99.63 | 0.37 | 0.00 |
+| [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 31,297 | 31,182 | 115 | 0 | 99.63 | 0.37 | 0.00 |
 | [Guarantee access to broadcast TV (Freeview) and aerial radio beyond 2040](630957.md) | 29,461 | 29,395 | 66 | 0 | 99.78 | 0.22 | 0.00 |
 | [Reverse the decision to block the Gender Recognition Reform (Scotland) Bill](631561.md) | 29,378 | 28,998 | 380 | 0 | 98.71 | 1.29 | 0.00 |
-| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 26,851 | 26,293 | 558 | 0 | 97.92 | 2.08 | 0.00 |
-| [Ensure fair grading for GCSE and A Level students in 2023](631743.md) | 25,865 | 25,570 | 295 | 0 | 98.86 | 1.14 | 0.00 |
+| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 26,852 | 26,294 | 558 | 0 | 97.92 | 2.08 | 0.00 |
+| [Ensure fair grading for GCSE and A Level students in 2023](631743.md) | 25,871 | 25,576 | 295 | 0 | 98.86 | 1.14 | 0.00 |
 | [Investigate UK excess deaths not related to Covid.](628188.md) | 25,105 | 24,588 | 517 | 0 | 97.94 | 2.06 | 0.00 |
 | [Amend the 1999 GLA Act to remove the Mayor's power to impose road use charges](633550.md) | 24,715 | 24,662 | 53 | 0 | 99.79 | 0.21 | 0.00 |
 | [Protect the Environmental Information Regulations (EIR) 2004](633609.md) | 24,224 | 24,135 | 89 | 0 | 99.63 | 0.37 | 0.00 |
