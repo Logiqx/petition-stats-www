@@ -4,37 +4,37 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-05-17 12:30:05
+Last refreshed 2023-05-17 13:30:07
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 214,315 | 207,205 | 7,110 | 0 | 96.68 | 3.32 | 0.00 |
-| [Remove LGBT content from the Relationships Education curriculum](630932.md) | 213,513 | 212,580 | 933 | 0 | 99.56 | 0.44 | 0.00 |
-| [Do not remove LGBT content from the Relationships Education curriculum](631529.md) | 103,316 | 101,963 | 1,353 | 0 | 98.69 | 1.31 | 0.00 |
-| [Create a Turkish Family Scheme visa for people homeless due to the earthquake](632772.md) | 82,536 | 81,671 | 865 | 0 | 98.95 | 1.05 | 0.00 |
-| [Hold a referendum on removing the London Assembly and London Mayor](631763.md) | 65,875 | 65,705 | 170 | 0 | 99.74 | 0.26 | 0.00 |
-| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 63,837 | 63,591 | 246 | 0 | 99.61 | 0.39 | 0.00 |
-| [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 59,297 | 59,010 | 287 | 0 | 99.52 | 0.48 | 0.00 |
-| [Offer healthcare workers on tier2 visa ILR after 2 years instead of 5 years](631412.md) | 49,983 | 49,454 | 529 | 0 | 98.94 | 1.06 | 0.00 |
-| [Retain bans on cat, dog, seal fur imports, and extend to ban all fur imports](630751.md) | 44,696 | 43,894 | 802 | 0 | 98.21 | 1.79 | 0.00 |
-| [Increase State Pensions to £416.80 per week & lower Retirement Age to 60 for All](630163.md) | 42,800 | 42,219 | 581 | 0 | 98.64 | 1.36 | 0.00 |
-| [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 39,913 | 38,975 | 938 | 0 | 97.65 | 2.35 | 0.00 |
-| [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 39,910 | 39,726 | 184 | 0 | 99.54 | 0.46 | 0.00 |
+| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 214,478 | 207,365 | 7,113 | 0 | 96.68 | 3.32 | 0.00 |
+| [Remove LGBT content from the Relationships Education curriculum](630932.md) | 213,514 | 212,581 | 933 | 0 | 99.56 | 0.44 | 0.00 |
+| [Do not remove LGBT content from the Relationships Education curriculum](631529.md) | 103,317 | 101,964 | 1,353 | 0 | 98.69 | 1.31 | 0.00 |
+| [Create a Turkish Family Scheme visa for people homeless due to the earthquake](632772.md) | 82,537 | 81,672 | 865 | 0 | 98.95 | 1.05 | 0.00 |
+| [Hold a referendum on removing the London Assembly and London Mayor](631763.md) | 65,883 | 65,713 | 170 | 0 | 99.74 | 0.26 | 0.00 |
+| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 63,844 | 63,598 | 246 | 0 | 99.61 | 0.39 | 0.00 |
+| [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 59,308 | 59,021 | 287 | 0 | 99.52 | 0.48 | 0.00 |
+| [Offer healthcare workers on tier2 visa ILR after 2 years instead of 5 years](631412.md) | 49,989 | 49,460 | 529 | 0 | 98.94 | 1.06 | 0.00 |
+| [Retain bans on cat, dog, seal fur imports, and extend to ban all fur imports](630751.md) | 44,697 | 43,895 | 802 | 0 | 98.21 | 1.79 | 0.00 |
+| [Increase State Pensions to £416.80 per week & lower Retirement Age to 60 for All](630163.md) | 42,802 | 42,221 | 581 | 0 | 98.64 | 1.36 | 0.00 |
+| [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 40,224 | 40,039 | 185 | 0 | 99.54 | 0.46 | 0.00 |
+| [Launch a Public Inquiry into the approval process for covid-19 vaccines](628165.md) | 39,923 | 38,985 | 938 | 0 | 97.65 | 2.35 | 0.00 |
 | [Enshrine in law rights to roam and wild camp in national parks](631241.md) | 37,255 | 36,877 | 378 | 0 | 98.99 | 1.01 | 0.00 |
 | [Guarantee access to broadcast TV (Freeview) and aerial radio beyond 2040](630957.md) | 29,465 | 29,399 | 66 | 0 | 99.78 | 0.22 | 0.00 |
 | [Reverse the decision to block the Gender Recognition Reform (Scotland) Bill](631561.md) | 29,386 | 29,005 | 381 | 0 | 98.70 | 1.30 | 0.00 |
-| [Ensure fair grading for GCSE and A Level students in 2023](631743.md) | 27,107 | 26,803 | 304 | 0 | 98.88 | 1.12 | 0.00 |
-| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 26,928 | 26,366 | 562 | 0 | 97.91 | 2.09 | 0.00 |
+| [Ensure fair grading for GCSE and A Level students in 2023](631743.md) | 27,138 | 26,833 | 305 | 0 | 98.88 | 1.12 | 0.00 |
+| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 26,932 | 26,370 | 562 | 0 | 97.91 | 2.09 | 0.00 |
 | [Investigate UK excess deaths not related to Covid.](628188.md) | 25,128 | 24,611 | 517 | 0 | 97.94 | 2.06 | 0.00 |
 | [Amend the 1999 GLA Act to remove the Mayor's power to impose road use charges](633550.md) | 24,737 | 24,684 | 53 | 0 | 99.79 | 0.21 | 0.00 |
 | [Protect the Environmental Information Regulations (EIR) 2004](633609.md) | 24,233 | 24,143 | 90 | 0 | 99.63 | 0.37 | 0.00 |
 | [Make school uniform VAT exempt](633778.md) | 23,741 | 23,706 | 35 | 0 | 99.85 | 0.15 | 0.00 |
 | [Abolish Council Tax for State Pensioners](635079.md) | 21,406 | 21,366 | 40 | 0 | 99.81 | 0.19 | 0.00 |
-| [Overturn the decision to allow use of neonicotinoid pesticides on sugar crops](631948.md) | 20,942 | 20,757 | 185 | 0 | 99.12 | 0.88 | 0.00 |
-| [Deny Sex Offenders the right to apply for removal from the Sex Offender Register](632806.md) | 20,039 | 19,967 | 72 | 0 | 99.64 | 0.36 | 0.00 |
+| [Overturn the decision to allow use of neonicotinoid pesticides on sugar crops](631948.md) | 20,948 | 20,763 | 185 | 0 | 99.12 | 0.88 | 0.00 |
+| [Deny Sex Offenders the right to apply for removal from the Sex Offender Register](632806.md) | 20,040 | 19,968 | 72 | 0 | 99.64 | 0.36 | 0.00 |
 | [Condemn Israel for their actions against Palestinians and impose trade ban](636256.md) | 19,511 | 19,408 | 103 | 0 | 99.47 | 0.53 | 0.00 |
-| [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 19,408 | 18,925 | 483 | 0 | 97.51 | 2.49 | 0.00 |
-| [Give Ukrainians on humanitarian visas rights to extend stay and settle in the UK](632761.md) | 19,205 | 18,897 | 308 | 0 | 98.40 | 1.60 | 0.00 |
+| [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 19,410 | 18,927 | 483 | 0 | 97.51 | 2.49 | 0.00 |
+| [Give Ukrainians on humanitarian visas rights to extend stay and settle in the UK](632761.md) | 19,207 | 18,899 | 308 | 0 | 98.40 | 1.60 | 0.00 |
 | [Require public referendums on 15-minute town and city policies](633819.md) | 17,606 | 17,495 | 111 | 0 | 99.37 | 0.63 | 0.00 |
 | [Make chanting about tragedies and death at a football match a criminal offence](636134.md) | 17,338 | 16,937 | 401 | 0 | 97.69 | 2.31 | 0.00 |
 | [Do not permit any Council Tax increase of more than 5% without a referendum](632944.md) | 17,314 | 17,290 | 24 | 0 | 99.86 | 0.14 | 0.00 |
@@ -42,19 +42,19 @@ Last refreshed 2023-05-17 12:30:05
 | [Investigate Anti-Hindu propaganda & hatred attacks on Hindu Community](629845.md) | 16,618 | 16,497 | 121 | 0 | 99.27 | 0.73 | 0.00 |
 | [Increase funding for early years settings](628412.md) | 15,975 | 15,956 | 19 | 0 | 99.88 | 0.12 | 0.00 |
 | [Stop housing asylum seekers who entered the UK illegally in hotels](628324.md) | 15,961 | 15,840 | 121 | 0 | 99.24 | 0.76 | 0.00 |
-| [Give secondary school students a right pray in school](631426.md) | 15,790 | 15,748 | 42 | 0 | 99.73 | 0.27 | 0.00 |
+| [Give secondary school students a right pray in school](631426.md) | 15,791 | 15,749 | 42 | 0 | 99.73 | 0.27 | 0.00 |
 | [Carry out an independent review into Low Traffic Neighbourhoods (LTNs)](632748.md) | 15,515 | 15,484 | 31 | 0 | 99.80 | 0.20 | 0.00 |
 | [Repeal the Gender Recognition Act 2004](628382.md) | 15,392 | 15,100 | 292 | 0 | 98.10 | 1.90 | 0.00 |
 | [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 15,305 | 15,073 | 232 | 0 | 98.48 | 1.52 | 0.00 |
 | [Grant a Section 30 Order to enable a Scottish Independence Referendum](628746.md) | 15,079 | 14,750 | 329 | 0 | 97.82 | 2.18 | 0.00 |
-| [Increase the basic State Pension to match the new State Pension](632855.md) | 15,074 | 14,713 | 361 | 0 | 97.61 | 2.39 | 0.00 |
-| [Hold a referendum on ending devolution in Scotland](634090.md) | 15,061 | 14,941 | 120 | 0 | 99.20 | 0.80 | 0.00 |
+| [Increase the basic State Pension to match the new State Pension](632855.md) | 15,075 | 14,714 | 361 | 0 | 97.61 | 2.39 | 0.00 |
+| [Hold a referendum on ending devolution in Scotland](634090.md) | 15,064 | 14,944 | 120 | 0 | 99.20 | 0.80 | 0.00 |
 | [Amend the Gender Recognition Act to allow for posthumous and expedited grants](633194.md) | 13,603 | 13,398 | 205 | 0 | 98.49 | 1.51 | 0.00 |
-| [Allow Serbian citizens to visit the UK for up to 90 days without a visa](636456.md) | 12,765 | 11,994 | 771 | 0 | 93.96 | 6.04 | 0.00 |
-| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 12,292 | 12,124 | 168 | 0 | 98.63 | 1.37 | 0.00 |
+| [Allow Serbian citizens to visit the UK for up to 90 days without a visa](636456.md) | 12,766 | 11,995 | 771 | 0 | 93.96 | 6.04 | 0.00 |
+| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 12,298 | 12,130 | 168 | 0 | 98.63 | 1.37 | 0.00 |
 | [Free prescriptions for all cystic fibrosis (CF) patients](633794.md) | 12,118 | 12,042 | 76 | 0 | 99.37 | 0.63 | 0.00 |
 | [Hold referendums on joining new trade blocks eg CPTPP](635583.md) | 11,631 | 11,312 | 319 | 0 | 97.26 | 2.74 | 0.00 |
 | [ Extend Bereavement Support Payments (BSP) for widowed parents ](633097.md) | 11,480 | 11,399 | 81 | 0 | 99.29 | 0.71 | 0.00 |
-| [Increase funding for special educational needs and disabilities (SEND) education](634116.md) | 11,168 | 11,134 | 34 | 0 | 99.70 | 0.30 | 0.00 |
+| [Increase funding for special educational needs and disabilities (SEND) education](634116.md) | 11,170 | 11,136 | 34 | 0 | 99.70 | 0.30 | 0.00 |
 | [Public Inquiry into Ofcom's guidance on broadcast standards during the pandemic](633007.md) | 11,097 | 10,909 | 188 | 0 | 98.31 | 1.69 | 0.00 |
-| [Seek visa-free travel to Europe for BRP holders](635282.md) | 10,819 | 10,749 | 70 | 0 | 99.35 | 0.65 | 0.00 |
+| [Seek visa-free travel to Europe for BRP holders](635282.md) | 11,020 | 10,949 | 71 | 0 | 99.36 | 0.64 | 0.00 |
