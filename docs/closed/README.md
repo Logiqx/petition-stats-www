@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-05-19 19:30:16
+Last refreshed 2023-05-19 20:30:17
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -39,7 +39,7 @@ Last refreshed 2023-05-19 19:30:16
 | [Do not reform the Human Rights Act](607712.md) | 231,136 | 229,505 | 1,631 | 0 | 99.29 | 0.71 | 0.00 |
 | [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 230,017 | 229,846 | 171 | 0 | 99.93 | 0.07 | 0.00 |
 | [Implement sanctions against the Nigerian Government and officials](554150.md) | 221,258 | 200,166 | 21,092 | 0 | 90.47 | 9.53 | 0.00 |
-| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 216,800 | 209,627 | 7,173 | 0 | 96.69 | 3.31 | 0.00 |
+| [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 216,802 | 209,629 | 7,173 | 0 | 96.69 | 3.31 | 0.00 |
 | [Cancel GCSEs and A Levels in 2021](326066.md) | 211,974 | 210,752 | 1,222 | 0 | 99.42 | 0.58 | 0.00 |
 | [Broker a ceasefire for all sides in Yemen to carry out humanitarian aid](326932.md) | 211,848 | 209,517 | 2,331 | 0 | 98.90 | 1.10 | 0.00 |
 | [Create a Minister for Hospitality in the UK Government](552201.md) | 209,983 | 208,584 | 1,399 | 0 | 99.33 | 0.67 | 0.00 |
