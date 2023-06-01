@@ -4,34 +4,34 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-06-01 00:30:06
+Last refreshed 2023-06-01 01:30:07
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Remove LGBT content from the Relationships Education curriculum](630932.md) | 215,185 | 214,245 | 940 | 0 | 99.56 | 0.44 | 0.00 |
-| [Do not remove LGBT content from the Relationships Education curriculum](631529.md) | 103,714 | 102,357 | 1,357 | 0 | 98.69 | 1.31 | 0.00 |
+| [Remove LGBT content from the Relationships Education curriculum](630932.md) | 215,187 | 214,247 | 940 | 0 | 99.56 | 0.44 | 0.00 |
+| [Do not remove LGBT content from the Relationships Education curriculum](631529.md) | 103,715 | 102,358 | 1,357 | 0 | 98.69 | 1.31 | 0.00 |
 | [Create a Turkish Family Scheme visa for people homeless due to the earthquake](632772.md) | 82,581 | 81,715 | 866 | 0 | 98.95 | 1.05 | 0.00 |
-| [Hold a referendum on removing the London Assembly and London Mayor](631763.md) | 67,480 | 67,304 | 176 | 0 | 99.74 | 0.26 | 0.00 |
-| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 65,490 | 65,229 | 261 | 0 | 99.60 | 0.40 | 0.00 |
+| [Hold a referendum on removing the London Assembly and London Mayor](631763.md) | 67,482 | 67,306 | 176 | 0 | 99.74 | 0.26 | 0.00 |
+| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 65,491 | 65,230 | 261 | 0 | 99.60 | 0.40 | 0.00 |
 | [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 61,850 | 61,545 | 305 | 0 | 99.51 | 0.49 | 0.00 |
-| [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 58,432 | 58,159 | 273 | 0 | 99.53 | 0.47 | 0.00 |
-| [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 54,760 | 53,631 | 1,129 | 0 | 97.94 | 2.06 | 0.00 |
+| [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 58,433 | 58,160 | 273 | 0 | 99.53 | 0.47 | 0.00 |
+| [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 54,820 | 53,690 | 1,130 | 0 | 97.94 | 2.06 | 0.00 |
 | [Offer healthcare workers on tier2 visa ILR after 2 years instead of 5 years](631412.md) | 50,789 | 50,249 | 540 | 0 | 98.94 | 1.06 | 0.00 |
-| [Retain bans on cat, dog, seal fur imports, and extend to ban all fur imports](630751.md) | 49,562 | 48,712 | 850 | 0 | 98.28 | 1.72 | 0.00 |
+| [Retain bans on cat, dog, seal fur imports, and extend to ban all fur imports](630751.md) | 49,564 | 48,714 | 850 | 0 | 98.29 | 1.71 | 0.00 |
 | [Increase State Pensions to £416.80 per week & lower Retirement Age to 60 for All](630163.md) | 43,786 | 43,180 | 606 | 0 | 98.62 | 1.38 | 0.00 |
 | [Enshrine in law rights to roam and wild camp in national parks](631241.md) | 37,438 | 37,058 | 380 | 0 | 98.98 | 1.02 | 0.00 |
-| [Ensure fair grading for GCSE and A Level students in 2023](631743.md) | 36,047 | 35,671 | 376 | 0 | 98.96 | 1.04 | 0.00 |
+| [Ensure fair grading for GCSE and A Level students in 2023](631743.md) | 36,048 | 35,672 | 376 | 0 | 98.96 | 1.04 | 0.00 |
 | [Guarantee access to broadcast TV (Freeview) and aerial radio beyond 2040](630957.md) | 29,516 | 29,450 | 66 | 0 | 99.78 | 0.22 | 0.00 |
 | [Reverse the decision to block the Gender Recognition Reform (Scotland) Bill](631561.md) | 29,447 | 29,065 | 382 | 0 | 98.70 | 1.30 | 0.00 |
-| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 27,485 | 26,901 | 584 | 0 | 97.88 | 2.12 | 0.00 |
+| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 27,486 | 26,902 | 584 | 0 | 97.88 | 2.12 | 0.00 |
 | [Amend the 1999 GLA Act to remove the Mayor's power to impose road use charges](633550.md) | 25,703 | 25,647 | 56 | 0 | 99.78 | 0.22 | 0.00 |
 | [Protect the Environmental Information Regulations (EIR) 2004](633609.md) | 24,365 | 24,274 | 91 | 0 | 99.63 | 0.37 | 0.00 |
-| [Make school uniform VAT exempt](633778.md) | 23,834 | 23,799 | 35 | 0 | 99.85 | 0.15 | 0.00 |
+| [Make school uniform VAT exempt](633778.md) | 23,835 | 23,800 | 35 | 0 | 99.85 | 0.15 | 0.00 |
 | [Seek visa-free travel to Europe for BRP holders](635282.md) | 22,628 | 22,493 | 135 | 0 | 99.40 | 0.60 | 0.00 |
 | [Overturn the decision to allow use of neonicotinoid pesticides on sugar crops](631948.md) | 21,591 | 21,400 | 191 | 0 | 99.12 | 0.88 | 0.00 |
 | [Abolish Council Tax for State Pensioners](635079.md) | 21,531 | 21,491 | 40 | 0 | 99.81 | 0.19 | 0.00 |
 | [Deny Sex Offenders the right to apply for removal from the Sex Offender Register](632806.md) | 20,196 | 20,123 | 73 | 0 | 99.64 | 0.36 | 0.00 |
-| [Allow people to pay their mortgage through salary sacrifice](633889.md) | 19,979 | 19,953 | 26 | 0 | 99.87 | 0.13 | 0.00 |
+| [Allow people to pay their mortgage through salary sacrifice](633889.md) | 19,980 | 19,954 | 26 | 0 | 99.87 | 0.13 | 0.00 |
 | [Condemn Israel for their actions against Palestinians and impose trade ban](636256.md) | 19,582 | 19,476 | 106 | 0 | 99.46 | 0.54 | 0.00 |
 | [Give Ukrainians on humanitarian visas rights to extend stay and settle in the UK](632761.md) | 19,556 | 19,244 | 312 | 0 | 98.40 | 1.60 | 0.00 |
 | [Require public referendums on 15-minute town and city policies](633819.md) | 17,789 | 17,676 | 113 | 0 | 99.36 | 0.64 | 0.00 |
@@ -43,11 +43,11 @@ Last refreshed 2023-06-01 00:30:06
 | [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 15,917 | 15,673 | 244 | 0 | 98.47 | 1.53 | 0.00 |
 | [Hold a referendum on ending devolution in Scotland](634090.md) | 15,632 | 15,506 | 126 | 0 | 99.19 | 0.81 | 0.00 |
 | [Carry out an independent review into Low Traffic Neighbourhoods (LTNs)](632748.md) | 15,569 | 15,538 | 31 | 0 | 99.80 | 0.20 | 0.00 |
-| [Increase the basic State Pension to match the new State Pension](632855.md) | 15,232 | 14,863 | 369 | 0 | 97.58 | 2.42 | 0.00 |
-| [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 14,856 | 14,832 | 24 | 0 | 99.84 | 0.16 | 0.00 |
+| [Increase the basic State Pension to match the new State Pension](632855.md) | 15,233 | 14,863 | 370 | 0 | 97.57 | 2.43 | 0.00 |
+| [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 14,861 | 14,837 | 24 | 0 | 99.84 | 0.16 | 0.00 |
 | [Do Not Leave the European Convention on Human Rights](636358.md) | 14,668 | 14,344 | 324 | 0 | 97.79 | 2.21 | 0.00 |
 | [Amend the Gender Recognition Act to allow for posthumous and expedited grants](633194.md) | 13,614 | 13,408 | 206 | 0 | 98.49 | 1.51 | 0.00 |
-| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 13,012 | 12,834 | 178 | 0 | 98.63 | 1.37 | 0.00 |
+| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 13,014 | 12,836 | 178 | 0 | 98.63 | 1.37 | 0.00 |
 | [Allow Serbian citizens to visit the UK for up to 90 days without a visa](636456.md) | 12,893 | 12,120 | 773 | 0 | 94.00 | 6.00 | 0.00 |
 | [Create a Government exam board to make new language GCSEs based on census data](636788.md) | 12,790 | 12,728 | 62 | 0 | 99.52 | 0.48 | 0.00 |
 | [Free prescriptions for all cystic fibrosis (CF) patients](633794.md) | 12,203 | 12,126 | 77 | 0 | 99.37 | 0.63 | 0.00 |
