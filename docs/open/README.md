@@ -4,23 +4,23 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-06-02 02:30:07
+Last refreshed 2023-06-02 03:30:08
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Remove LGBT content from the Relationships Education curriculum](630932.md) | 215,257 | 214,317 | 940 | 0 | 99.56 | 0.44 | 0.00 |
 | [Do not remove LGBT content from the Relationships Education curriculum](631529.md) | 103,732 | 102,375 | 1,357 | 0 | 98.69 | 1.31 | 0.00 |
 | [Create a Turkish Family Scheme visa for people homeless due to the earthquake](632772.md) | 82,584 | 81,718 | 866 | 0 | 98.95 | 1.05 | 0.00 |
-| [Hold a referendum on removing the London Assembly and London Mayor](631763.md) | 67,522 | 67,346 | 176 | 0 | 99.74 | 0.26 | 0.00 |
-| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 65,592 | 65,331 | 261 | 0 | 99.60 | 0.40 | 0.00 |
+| [Hold a referendum on removing the London Assembly and London Mayor](631763.md) | 67,523 | 67,347 | 176 | 0 | 99.74 | 0.26 | 0.00 |
+| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 65,594 | 65,333 | 261 | 0 | 99.60 | 0.40 | 0.00 |
 | [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 61,906 | 61,601 | 305 | 0 | 99.51 | 0.49 | 0.00 |
-| [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 60,087 | 58,851 | 1,236 | 0 | 97.94 | 2.06 | 0.00 |
+| [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 60,100 | 58,863 | 1,237 | 0 | 97.94 | 2.06 | 0.00 |
 | [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 58,670 | 58,395 | 275 | 0 | 99.53 | 0.47 | 0.00 |
 | [Offer healthcare workers on tier2 visa ILR after 2 years instead of 5 years](631412.md) | 50,818 | 50,277 | 541 | 0 | 98.94 | 1.06 | 0.00 |
-| [Retain bans on cat, dog, seal fur imports, and extend to ban all fur imports](630751.md) | 49,986 | 49,132 | 854 | 0 | 98.29 | 1.71 | 0.00 |
-| [Increase State Pensions to £416.80 per week & lower Retirement Age to 60 for All](630163.md) | 43,826 | 43,219 | 607 | 0 | 98.61 | 1.39 | 0.00 |
+| [Retain bans on cat, dog, seal fur imports, and extend to ban all fur imports](630751.md) | 49,988 | 49,134 | 854 | 0 | 98.29 | 1.71 | 0.00 |
+| [Increase State Pensions to £416.80 per week & lower Retirement Age to 60 for All](630163.md) | 43,827 | 43,220 | 607 | 0 | 98.62 | 1.38 | 0.00 |
 | [Enshrine in law rights to roam and wild camp in national parks](631241.md) | 37,446 | 37,066 | 380 | 0 | 98.99 | 1.01 | 0.00 |
-| [Ensure fair grading for GCSE and A Level students in 2023](631743.md) | 36,074 | 35,698 | 376 | 0 | 98.96 | 1.04 | 0.00 |
+| [Ensure fair grading for GCSE and A Level students in 2023](631743.md) | 36,075 | 35,699 | 376 | 0 | 98.96 | 1.04 | 0.00 |
 | [Guarantee access to broadcast TV (Freeview) and aerial radio beyond 2040](630957.md) | 29,522 | 29,456 | 66 | 0 | 99.78 | 0.22 | 0.00 |
 | [Reverse the decision to block the Gender Recognition Reform (Scotland) Bill](631561.md) | 29,449 | 29,067 | 382 | 0 | 98.70 | 1.30 | 0.00 |
 | [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 27,511 | 26,925 | 586 | 0 | 97.87 | 2.13 | 0.00 |
@@ -41,8 +41,8 @@ Last refreshed 2023-06-02 02:30:07
 | [Identify and sanction individuals from Pakistan involved in illegal activities](635202.md) | 16,896 | 15,413 | 1,483 | 0 | 91.22 | 8.78 | 0.00 |
 | [Give secondary school students a right pray in school](631426.md) | 15,996 | 15,953 | 43 | 0 | 99.73 | 0.27 | 0.00 |
 | [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 15,929 | 15,685 | 244 | 0 | 98.47 | 1.53 | 0.00 |
+| [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 15,639 | 15,614 | 25 | 0 | 99.84 | 0.16 | 0.00 |
 | [Hold a referendum on ending devolution in Scotland](634090.md) | 15,638 | 15,512 | 126 | 0 | 99.19 | 0.81 | 0.00 |
-| [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 15,633 | 15,608 | 25 | 0 | 99.84 | 0.16 | 0.00 |
 | [Carry out an independent review into Low Traffic Neighbourhoods (LTNs)](632748.md) | 15,573 | 15,542 | 31 | 0 | 99.80 | 0.20 | 0.00 |
 | [Increase the basic State Pension to match the new State Pension](632855.md) | 15,239 | 14,869 | 370 | 0 | 97.57 | 2.43 | 0.00 |
 | [Do Not Leave the European Convention on Human Rights](636358.md) | 14,703 | 14,377 | 326 | 0 | 97.78 | 2.22 | 0.00 |
