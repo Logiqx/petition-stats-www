@@ -4,16 +4,16 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-06-13 03:30:05
+Last refreshed 2023-06-13 04:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Remove LGBT content from the Relationships Education curriculum](630932.md) | 216,898 | 215,951 | 947 | 0 | 99.56 | 0.44 | 0.00 |
 | [Do not remove LGBT content from the Relationships Education curriculum](631529.md) | 103,971 | 102,614 | 1,357 | 0 | 98.69 | 1.31 | 0.00 |
 | [Create a Turkish Family Scheme visa for people homeless due to the earthquake](632772.md) | 82,601 | 81,734 | 867 | 0 | 98.95 | 1.05 | 0.00 |
-| [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 73,139 | 71,642 | 1,497 | 0 | 97.95 | 2.05 | 0.00 |
+| [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 73,144 | 71,647 | 1,497 | 0 | 97.95 | 2.05 | 0.00 |
 | [Hold a referendum on removing the London Assembly and London Mayor](631763.md) | 68,232 | 68,053 | 179 | 0 | 99.74 | 0.26 | 0.00 |
-| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 66,468 | 66,198 | 270 | 0 | 99.59 | 0.41 | 0.00 |
+| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 66,469 | 66,198 | 271 | 0 | 99.59 | 0.41 | 0.00 |
 | [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 62,107 | 61,802 | 305 | 0 | 99.51 | 0.49 | 0.00 |
 | [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 59,465 | 59,187 | 278 | 0 | 99.53 | 0.47 | 0.00 |
 | [Retain bans on cat, dog, seal fur imports, and extend to ban all fur imports](630751.md) | 52,734 | 51,863 | 871 | 0 | 98.35 | 1.65 | 0.00 |
@@ -32,7 +32,7 @@ Last refreshed 2023-06-13 03:30:05
 | [Overturn the decision to allow use of neonicotinoid pesticides on sugar crops](631948.md) | 21,831 | 21,639 | 192 | 0 | 99.12 | 0.88 | 0.00 |
 | [Abolish Council Tax for State Pensioners](635079.md) | 21,626 | 21,586 | 40 | 0 | 99.82 | 0.18 | 0.00 |
 | [Deny Sex Offenders the right to apply for removal from the Sex Offender Register](632806.md) | 20,280 | 20,207 | 73 | 0 | 99.64 | 0.36 | 0.00 |
-| [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 19,864 | 19,829 | 35 | 0 | 99.82 | 0.18 | 0.00 |
+| [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 19,869 | 19,834 | 35 | 0 | 99.82 | 0.18 | 0.00 |
 | [Give Ukrainians on humanitarian visas rights to extend stay and settle in the UK](632761.md) | 19,698 | 19,382 | 316 | 0 | 98.40 | 1.60 | 0.00 |
 | [Condemn Israel for their actions against Palestinians and impose trade ban](636256.md) | 19,628 | 19,520 | 108 | 0 | 99.45 | 0.55 | 0.00 |
 | [Investigate Anti-Hindu propaganda & hatred attacks on Hindu Community](629845.md) | 18,202 | 18,071 | 131 | 0 | 99.28 | 0.72 | 0.00 |
@@ -46,7 +46,7 @@ Last refreshed 2023-06-13 03:30:05
 | [Hold a referendum on ending devolution in Scotland](634090.md) | 15,860 | 15,733 | 127 | 0 | 99.20 | 0.80 | 0.00 |
 | [Carry out an independent review into Low Traffic Neighbourhoods (LTNs)](632748.md) | 15,674 | 15,642 | 32 | 0 | 99.80 | 0.20 | 0.00 |
 | [Increase the basic State Pension to match the new State Pension](632855.md) | 15,325 | 14,954 | 371 | 0 | 97.58 | 2.42 | 0.00 |
-| [Fund non-consolidated payments for organisations providing NHS funded services](638701.md) | 15,122 | 15,083 | 39 | 0 | 99.74 | 0.26 | 0.00 |
+| [Fund non-consolidated payments for organisations providing NHS funded services](638701.md) | 15,123 | 15,084 | 39 | 0 | 99.74 | 0.26 | 0.00 |
 | [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 14,305 | 14,106 | 199 | 0 | 98.61 | 1.39 | 0.00 |
 | [Amend the Gender Recognition Act to allow for posthumous and expedited grants](633194.md) | 13,627 | 13,421 | 206 | 0 | 98.49 | 1.51 | 0.00 |
 | [Create a Government exam board to make new language GCSEs based on census data](636788.md) | 13,206 | 13,142 | 64 | 0 | 99.52 | 0.48 | 0.00 |
@@ -56,5 +56,5 @@ Last refreshed 2023-06-13 03:30:05
 | [Increase funding for special educational needs and disabilities (SEND) education](634116.md) | 11,597 | 11,562 | 35 | 0 | 99.70 | 0.30 | 0.00 |
 | [ Extend Bereavement Support Payments (BSP) for widowed parents ](633097.md) | 11,533 | 11,452 | 81 | 0 | 99.30 | 0.70 | 0.00 |
 | [Urgent funding for research into Long Covid and ME/CFS treatments and cures](630551.md) | 11,531 | 11,378 | 153 | 0 | 98.67 | 1.33 | 0.00 |
-| [Provide dedicated funding for diagnosis/treatment of hypermobile EDS and HSD](637313.md) | 11,529 | 11,454 | 75 | 0 | 99.35 | 0.65 | 0.00 |
+| [Provide dedicated funding for diagnosis/treatment of hypermobile EDS and HSD](637313.md) | 11,530 | 11,455 | 75 | 0 | 99.35 | 0.65 | 0.00 |
 | [Public Inquiry into Ofcom's guidance on broadcast standards during the pandemic](633007.md) | 11,380 | 11,188 | 192 | 0 | 98.31 | 1.69 | 0.00 |
