@@ -4,19 +4,19 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-06-19 01:30:05
+Last refreshed 2023-06-19 02:30:07
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Remove LGBT content from the Relationships Education curriculum](630932.md) | 227,939 | 226,944 | 995 | 0 | 99.56 | 0.44 | 0.00 |
+| [Remove LGBT content from the Relationships Education curriculum](630932.md) | 227,969 | 226,974 | 995 | 0 | 99.56 | 0.44 | 0.00 |
 | [Do not remove LGBT content from the Relationships Education curriculum](631529.md) | 104,180 | 102,821 | 1,359 | 0 | 98.70 | 1.30 | 0.00 |
 | [Create a Turkish Family Scheme visa for people homeless due to the earthquake](632772.md) | 82,609 | 81,742 | 867 | 0 | 98.95 | 1.05 | 0.00 |
-| [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 76,873 | 75,291 | 1,582 | 0 | 97.94 | 2.06 | 0.00 |
+| [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 76,883 | 75,299 | 1,584 | 0 | 97.94 | 2.06 | 0.00 |
 | [Hold a referendum on removing the London Assembly and London Mayor](631763.md) | 68,796 | 68,617 | 179 | 0 | 99.74 | 0.26 | 0.00 |
-| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 68,626 | 68,345 | 281 | 0 | 99.59 | 0.41 | 0.00 |
+| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 68,628 | 68,347 | 281 | 0 | 99.59 | 0.41 | 0.00 |
 | [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 62,239 | 61,932 | 307 | 0 | 99.51 | 0.49 | 0.00 |
 | [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 59,741 | 59,463 | 278 | 0 | 99.53 | 0.47 | 0.00 |
-| [Retain bans on cat, dog, seal fur imports, and extend to ban all fur imports](630751.md) | 55,205 | 54,284 | 921 | 0 | 98.33 | 1.67 | 0.00 |
+| [Retain bans on cat, dog, seal fur imports, and extend to ban all fur imports](630751.md) | 55,208 | 54,287 | 921 | 0 | 98.33 | 1.67 | 0.00 |
 | [Offer healthcare workers on tier2 visa ILR after 2 years instead of 5 years](631412.md) | 52,334 | 51,785 | 549 | 0 | 98.95 | 1.05 | 0.00 |
 | [Increase State Pensions to £416.80 per week & lower Retirement Age to 60 for All](630163.md) | 44,571 | 43,950 | 621 | 0 | 98.61 | 1.39 | 0.00 |
 | [Enshrine in law rights to roam and wild camp in national parks](631241.md) | 37,577 | 37,197 | 380 | 0 | 98.99 | 1.01 | 0.00 |
@@ -31,13 +31,13 @@ Last refreshed 2023-06-19 01:30:05
 | [Seek visa-free travel to Europe for BRP holders](635282.md) | 23,909 | 23,759 | 150 | 0 | 99.37 | 0.63 | 0.00 |
 | [Overturn the decision to allow use of neonicotinoid pesticides on sugar crops](631948.md) | 21,915 | 21,723 | 192 | 0 | 99.12 | 0.88 | 0.00 |
 | [Abolish Council Tax for State Pensioners](635079.md) | 21,718 | 21,678 | 40 | 0 | 99.82 | 0.18 | 0.00 |
-| [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 21,279 | 21,238 | 41 | 0 | 99.81 | 0.19 | 0.00 |
+| [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 21,283 | 21,242 | 41 | 0 | 99.81 | 0.19 | 0.00 |
 | [Deny Sex Offenders the right to apply for removal from the Sex Offender Register](632806.md) | 20,320 | 20,247 | 73 | 0 | 99.64 | 0.36 | 0.00 |
 | [Give Ukrainians on humanitarian visas rights to extend stay and settle in the UK](632761.md) | 19,773 | 19,457 | 316 | 0 | 98.40 | 1.60 | 0.00 |
 | [Condemn Israel for their actions against Palestinians and impose trade ban](636256.md) | 19,655 | 19,547 | 108 | 0 | 99.45 | 0.55 | 0.00 |
 | [Require education staff to be trained on learning disabilities and autism](639050.md) | 18,456 | 18,346 | 110 | 0 | 99.40 | 0.60 | 0.00 |
 | [Investigate Anti-Hindu propaganda & hatred attacks on Hindu Community](629845.md) | 18,454 | 18,320 | 134 | 0 | 99.27 | 0.73 | 0.00 |
-| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 18,356 | 18,094 | 262 | 0 | 98.57 | 1.43 | 0.00 |
+| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 18,357 | 18,095 | 262 | 0 | 98.57 | 1.43 | 0.00 |
 | [Require public referendums on 15-minute town and city policies](633819.md) | 18,305 | 18,191 | 114 | 0 | 99.38 | 0.62 | 0.00 |
 | [Make chanting about tragedies and death at a football match a criminal offence](636134.md) | 17,707 | 17,299 | 408 | 0 | 97.70 | 2.30 | 0.00 |
 | [Do not permit any Council Tax increase of more than 5% without a referendum](632944.md) | 17,478 | 17,454 | 24 | 0 | 99.86 | 0.14 | 0.00 |
