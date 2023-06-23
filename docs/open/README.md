@@ -4,41 +4,41 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-06-23 03:30:08
+Last refreshed 2023-06-23 04:30:07
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Remove LGBT content from the Relationships Education curriculum](630932.md) | 238,439 | 237,400 | 1,039 | 0 | 99.56 | 0.44 | 0.00 |
+| [Remove LGBT content from the Relationships Education curriculum](630932.md) | 238,455 | 237,416 | 1,039 | 0 | 99.56 | 0.44 | 0.00 |
 | [Do not remove LGBT content from the Relationships Education curriculum](631529.md) | 104,324 | 102,963 | 1,361 | 0 | 98.70 | 1.30 | 0.00 |
-| [Create a Turkish Family Scheme visa for people homeless due to the earthquake](632772.md) | 82,622 | 81,755 | 867 | 0 | 98.95 | 1.05 | 0.00 |
-| [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 78,724 | 77,092 | 1,632 | 0 | 97.93 | 2.07 | 0.00 |
-| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 69,185 | 68,900 | 285 | 0 | 99.59 | 0.41 | 0.00 |
-| [Hold a referendum on removing the London Assembly and London Mayor](631763.md) | 69,130 | 68,951 | 179 | 0 | 99.74 | 0.26 | 0.00 |
+| [Create a Turkish Family Scheme visa for people homeless due to the earthquake](632772.md) | 82,623 | 81,756 | 867 | 0 | 98.95 | 1.05 | 0.00 |
+| [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 78,726 | 77,094 | 1,632 | 0 | 97.93 | 2.07 | 0.00 |
+| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 69,187 | 68,902 | 285 | 0 | 99.59 | 0.41 | 0.00 |
+| [Hold a referendum on removing the London Assembly and London Mayor](631763.md) | 69,131 | 68,952 | 179 | 0 | 99.74 | 0.26 | 0.00 |
 | [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 62,257 | 61,950 | 307 | 0 | 99.51 | 0.49 | 0.00 |
-| [Retain bans on cat, dog, seal fur imports, and extend to ban all fur imports](630751.md) | 60,354 | 59,416 | 938 | 0 | 98.45 | 1.55 | 0.00 |
+| [Retain bans on cat, dog, seal fur imports, and extend to ban all fur imports](630751.md) | 60,370 | 59,432 | 938 | 0 | 98.45 | 1.55 | 0.00 |
 | [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 60,084 | 59,803 | 281 | 0 | 99.53 | 0.47 | 0.00 |
 | [Offer healthcare workers on tier2 visa ILR after 2 years instead of 5 years](631412.md) | 52,390 | 51,841 | 549 | 0 | 98.95 | 1.05 | 0.00 |
-| [Increase State Pensions to £416.80 per week & lower Retirement Age to 60 for All](630163.md) | 44,730 | 44,106 | 624 | 0 | 98.60 | 1.40 | 0.00 |
+| [Increase State Pensions to £416.80 per week & lower Retirement Age to 60 for All](630163.md) | 44,731 | 44,107 | 624 | 0 | 98.60 | 1.40 | 0.00 |
 | [Enshrine in law rights to roam and wild camp in national parks](631241.md) | 37,599 | 37,219 | 380 | 0 | 98.99 | 1.01 | 0.00 |
 | [Ensure fair grading for GCSE and A Level students in 2023](631743.md) | 36,957 | 36,578 | 379 | 0 | 98.97 | 1.03 | 0.00 |
-| [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 32,846 | 32,478 | 368 | 0 | 98.88 | 1.12 | 0.00 |
+| [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 32,851 | 32,483 | 368 | 0 | 98.88 | 1.12 | 0.00 |
 | [Guarantee access to broadcast TV (Freeview) and aerial radio beyond 2040](630957.md) | 29,580 | 29,514 | 66 | 0 | 99.78 | 0.22 | 0.00 |
 | [Reverse the decision to block the Gender Recognition Reform (Scotland) Bill](631561.md) | 29,513 | 29,130 | 383 | 0 | 98.70 | 1.30 | 0.00 |
-| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 28,180 | 27,580 | 600 | 0 | 97.87 | 2.13 | 0.00 |
+| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 28,181 | 27,581 | 600 | 0 | 97.87 | 2.13 | 0.00 |
 | [Allow people to pay their mortgage through salary sacrifice](633889.md) | 26,237 | 26,204 | 33 | 0 | 99.87 | 0.13 | 0.00 |
 | [Amend the 1999 GLA Act to remove the Mayor's power to impose road use charges](633550.md) | 26,151 | 26,094 | 57 | 0 | 99.78 | 0.22 | 0.00 |
 | [Protect the Environmental Information Regulations (EIR) 2004](633609.md) | 24,434 | 24,343 | 91 | 0 | 99.63 | 0.37 | 0.00 |
 | [Seek visa-free travel to Europe for BRP holders](635282.md) | 24,338 | 24,186 | 152 | 0 | 99.38 | 0.62 | 0.00 |
 | [Make school uniform VAT exempt](633778.md) | 23,964 | 23,928 | 36 | 0 | 99.85 | 0.15 | 0.00 |
-| [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 22,853 | 22,809 | 44 | 0 | 99.81 | 0.19 | 0.00 |
+| [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 22,858 | 22,814 | 44 | 0 | 99.81 | 0.19 | 0.00 |
 | [Overturn the decision to allow use of neonicotinoid pesticides on sugar crops](631948.md) | 21,954 | 21,762 | 192 | 0 | 99.13 | 0.87 | 0.00 |
 | [Abolish Council Tax for State Pensioners](635079.md) | 21,751 | 21,711 | 40 | 0 | 99.82 | 0.18 | 0.00 |
-| [Require education staff to be trained on learning disabilities and autism](639050.md) | 20,605 | 20,487 | 118 | 0 | 99.43 | 0.57 | 0.00 |
+| [Require education staff to be trained on learning disabilities and autism](639050.md) | 20,607 | 20,489 | 118 | 0 | 99.43 | 0.57 | 0.00 |
 | [Deny Sex Offenders the right to apply for removal from the Sex Offender Register](632806.md) | 20,363 | 20,290 | 73 | 0 | 99.64 | 0.36 | 0.00 |
 | [Give Ukrainians on humanitarian visas rights to extend stay and settle in the UK](632761.md) | 19,855 | 19,537 | 318 | 0 | 98.40 | 1.60 | 0.00 |
 | [Condemn Israel for their actions against Palestinians and impose trade ban](636256.md) | 19,684 | 19,572 | 112 | 0 | 99.43 | 0.57 | 0.00 |
-| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 18,681 | 18,409 | 272 | 0 | 98.54 | 1.46 | 0.00 |
-| [Require public referendums on 15-minute town and city policies](633819.md) | 18,337 | 18,223 | 114 | 0 | 99.38 | 0.62 | 0.00 |
+| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 18,683 | 18,411 | 272 | 0 | 98.54 | 1.46 | 0.00 |
+| [Require public referendums on 15-minute town and city policies](633819.md) | 18,338 | 18,224 | 114 | 0 | 99.38 | 0.62 | 0.00 |
 | [Make chanting about tragedies and death at a football match a criminal offence](636134.md) | 17,712 | 17,304 | 408 | 0 | 97.70 | 2.30 | 0.00 |
 | [Do not permit any Council Tax increase of more than 5% without a referendum](632944.md) | 17,490 | 17,466 | 24 | 0 | 99.86 | 0.14 | 0.00 |
 | [Identify and sanction individuals from Pakistan involved in illegal activities](635202.md) | 16,963 | 15,478 | 1,485 | 0 | 91.25 | 8.75 | 0.00 |
@@ -54,7 +54,7 @@ Last refreshed 2023-06-23 03:30:08
 | [Provide dedicated funding for diagnosis/treatment of hypermobile EDS and HSD](637313.md) | 12,499 | 12,416 | 83 | 0 | 99.34 | 0.66 | 0.00 |
 | [Free prescriptions for all cystic fibrosis (CF) patients](633794.md) | 12,467 | 12,388 | 79 | 0 | 99.37 | 0.63 | 0.00 |
 | [Athena’s Law: Introduce new requirements for drivers who hit a cat](633536.md) | 12,267 | 12,153 | 114 | 0 | 99.07 | 0.93 | 0.00 |
-| [Reverse the decision not to proceed with the Animal Welfare (Kept Animals) Bill](638720.md) | 12,020 | 11,859 | 161 | 0 | 98.66 | 1.34 | 0.00 |
+| [Reverse the decision not to proceed with the Animal Welfare (Kept Animals) Bill](638720.md) | 12,027 | 11,866 | 161 | 0 | 98.66 | 1.34 | 0.00 |
 | [Hold referendums on joining new trade blocks eg CPTPP](635583.md) | 11,901 | 11,578 | 323 | 0 | 97.29 | 2.71 | 0.00 |
 | [Increase funding for special educational needs and disabilities (SEND) education](634116.md) | 11,876 | 11,840 | 36 | 0 | 99.70 | 0.30 | 0.00 |
-| [Urgent funding for research into Long Covid and ME/CFS treatments and cures](630551.md) | 11,870 | 11,714 | 156 | 0 | 98.69 | 1.31 | 0.00 |
+| [Urgent funding for research into Long Covid and ME/CFS treatments and cures](630551.md) | 11,871 | 11,715 | 156 | 0 | 98.69 | 1.31 | 0.00 |
