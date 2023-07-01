@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-07-01 03:30:05
+Last refreshed 2023-07-01 04:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -24,10 +24,10 @@ Last refreshed 2023-07-01 03:30:05
 | [Guarantee access to broadcast TV (Freeview) and aerial radio beyond 2040](630957.md) | 29,693 | 29,627 | 66 | 0 | 99.78 | 0.22 | 0.00 |
 | [Reverse the decision to block the Gender Recognition Reform (Scotland) Bill](631561.md) | 29,538 | 29,155 | 383 | 0 | 98.70 | 1.30 | 0.00 |
 | [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 28,302 | 27,699 | 603 | 0 | 97.87 | 2.13 | 0.00 |
-| [Require education staff to be trained on learning disabilities and autism](639050.md) | 26,718 | 26,566 | 152 | 0 | 99.43 | 0.57 | 0.00 |
+| [Require education staff to be trained on learning disabilities and autism](639050.md) | 26,724 | 26,572 | 152 | 0 | 99.43 | 0.57 | 0.00 |
 | [Amend the 1999 GLA Act to remove the Mayor's power to impose road use charges](633550.md) | 26,610 | 26,553 | 57 | 0 | 99.79 | 0.21 | 0.00 |
 | [Allow people to pay their mortgage through salary sacrifice](633889.md) | 26,361 | 26,328 | 33 | 0 | 99.87 | 0.13 | 0.00 |
-| [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 25,824 | 25,771 | 53 | 0 | 99.79 | 0.21 | 0.00 |
+| [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 25,825 | 25,772 | 53 | 0 | 99.79 | 0.21 | 0.00 |
 | [Seek visa-free travel to Europe for BRP holders](635282.md) | 24,553 | 24,401 | 152 | 0 | 99.38 | 0.62 | 0.00 |
 | [Protect the Environmental Information Regulations (EIR) 2004](633609.md) | 24,463 | 24,372 | 91 | 0 | 99.63 | 0.37 | 0.00 |
 | [Make school uniform VAT exempt](633778.md) | 24,011 | 23,975 | 36 | 0 | 99.85 | 0.15 | 0.00 |
@@ -47,7 +47,7 @@ Last refreshed 2023-07-01 03:30:05
 | [Give secondary school students a right pray in school](631426.md) | 16,094 | 16,051 | 43 | 0 | 99.73 | 0.27 | 0.00 |
 | [Carry out an independent review into Low Traffic Neighbourhoods (LTNs)](632748.md) | 15,744 | 15,711 | 33 | 0 | 99.79 | 0.21 | 0.00 |
 | [Increase the basic State Pension to match the new State Pension](632855.md) | 15,476 | 15,104 | 372 | 0 | 97.60 | 2.40 | 0.00 |
-| [Stop deep-sea mining](636545.md) | 14,673 | 14,482 | 191 | 0 | 98.70 | 1.30 | 0.00 |
+| [Stop deep-sea mining](636545.md) | 14,675 | 14,484 | 191 | 0 | 98.70 | 1.30 | 0.00 |
 | [Amend the Gender Recognition Act to allow for posthumous and expedited grants](633194.md) | 13,653 | 13,446 | 207 | 0 | 98.48 | 1.52 | 0.00 |
 | [Provide dedicated funding for diagnosis/treatment of hypermobile EDS and HSD](637313.md) | 13,529 | 13,437 | 92 | 0 | 99.32 | 0.68 | 0.00 |
 | [Create a Government exam board to make new language GCSEs based on census data](636788.md) | 13,305 | 13,238 | 67 | 0 | 99.50 | 0.50 | 0.00 |
