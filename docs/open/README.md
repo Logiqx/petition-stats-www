@@ -4,11 +4,11 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-07-02 00:30:04
+Last refreshed 2023-07-02 01:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Remove LGBT content from the Relationships Education curriculum](630932.md) | 245,437 | 244,351 | 1,086 | 0 | 99.56 | 0.44 | 0.00 |
+| [Remove LGBT content from the Relationships Education curriculum](630932.md) | 245,440 | 244,354 | 1,086 | 0 | 99.56 | 0.44 | 0.00 |
 | [Do not remove LGBT content from the Relationships Education curriculum](631529.md) | 104,539 | 103,177 | 1,362 | 0 | 98.70 | 1.30 | 0.00 |
 | [Create a Turkish Family Scheme visa for people homeless due to the earthquake](632772.md) | 82,643 | 81,776 | 867 | 0 | 98.95 | 1.05 | 0.00 |
 | [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 80,491 | 78,813 | 1,678 | 0 | 97.92 | 2.08 | 0.00 |
@@ -20,14 +20,14 @@ Last refreshed 2023-07-02 00:30:04
 | [Offer healthcare workers on tier2 visa ILR after 2 years instead of 5 years](631412.md) | 52,618 | 52,066 | 552 | 0 | 98.95 | 1.05 | 0.00 |
 | [Enshrine in law rights to roam and wild camp in national parks](631241.md) | 37,647 | 37,267 | 380 | 0 | 98.99 | 1.01 | 0.00 |
 | [Ensure fair grading for GCSE and A Level students in 2023](631743.md) | 37,014 | 36,631 | 383 | 0 | 98.97 | 1.03 | 0.00 |
-| [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 35,742 | 35,347 | 395 | 0 | 98.89 | 1.11 | 0.00 |
+| [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 35,744 | 35,349 | 395 | 0 | 98.89 | 1.11 | 0.00 |
 | [Guarantee access to broadcast TV (Freeview) and aerial radio beyond 2040](630957.md) | 29,694 | 29,628 | 66 | 0 | 99.78 | 0.22 | 0.00 |
 | [Reverse the decision to block the Gender Recognition Reform (Scotland) Bill](631561.md) | 29,539 | 29,156 | 383 | 0 | 98.70 | 1.30 | 0.00 |
 | [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 28,303 | 27,700 | 603 | 0 | 97.87 | 2.13 | 0.00 |
-| [Require education staff to be trained on learning disabilities and autism](639050.md) | 27,100 | 26,940 | 160 | 0 | 99.41 | 0.59 | 0.00 |
+| [Require education staff to be trained on learning disabilities and autism](639050.md) | 27,101 | 26,941 | 160 | 0 | 99.41 | 0.59 | 0.00 |
 | [Amend the 1999 GLA Act to remove the Mayor's power to impose road use charges](633550.md) | 26,625 | 26,567 | 58 | 0 | 99.78 | 0.22 | 0.00 |
 | [Allow people to pay their mortgage through salary sacrifice](633889.md) | 26,373 | 26,340 | 33 | 0 | 99.87 | 0.13 | 0.00 |
-| [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 25,931 | 25,877 | 54 | 0 | 99.79 | 0.21 | 0.00 |
+| [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 25,932 | 25,878 | 54 | 0 | 99.79 | 0.21 | 0.00 |
 | [Seek visa-free travel to Europe for BRP holders](635282.md) | 24,565 | 24,413 | 152 | 0 | 99.38 | 0.62 | 0.00 |
 | [Protect the Environmental Information Regulations (EIR) 2004](633609.md) | 24,466 | 24,375 | 91 | 0 | 99.63 | 0.37 | 0.00 |
 | [Make school uniform VAT exempt](633778.md) | 24,019 | 23,983 | 36 | 0 | 99.85 | 0.15 | 0.00 |
@@ -36,7 +36,7 @@ Last refreshed 2023-07-02 00:30:04
 | [Deny Sex Offenders the right to apply for removal from the Sex Offender Register](632806.md) | 20,427 | 20,353 | 74 | 0 | 99.64 | 0.36 | 0.00 |
 | [Give Ukrainians on humanitarian visas rights to extend stay and settle in the UK](632761.md) | 19,922 | 19,604 | 318 | 0 | 98.40 | 1.60 | 0.00 |
 | [Condemn Israel for their actions against Palestinians and impose trade ban](636256.md) | 19,709 | 19,596 | 113 | 0 | 99.43 | 0.57 | 0.00 |
-| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 19,435 | 19,150 | 285 | 0 | 98.53 | 1.47 | 0.00 |
+| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 19,438 | 19,153 | 285 | 0 | 98.53 | 1.47 | 0.00 |
 | [Require public referendums on 15-minute town and city policies](633819.md) | 18,406 | 18,291 | 115 | 0 | 99.38 | 0.62 | 0.00 |
 | [Make chanting about tragedies and death at a football match a criminal offence](636134.md) | 17,719 | 17,311 | 408 | 0 | 97.70 | 2.30 | 0.00 |
 | [Fund non-consolidated payments for organisations providing NHS funded services](638701.md) | 17,715 | 17,673 | 42 | 0 | 99.76 | 0.24 | 0.00 |
@@ -45,7 +45,7 @@ Last refreshed 2023-07-02 00:30:04
 | [Do Not Leave the European Convention on Human Rights](636358.md) | 16,928 | 16,562 | 366 | 0 | 97.84 | 2.16 | 0.00 |
 | [Hold a referendum on ending devolution in Scotland](634090.md) | 16,204 | 16,073 | 131 | 0 | 99.19 | 0.81 | 0.00 |
 | [Give secondary school students a right pray in school](631426.md) | 16,097 | 16,054 | 43 | 0 | 99.73 | 0.27 | 0.00 |
-| [Carry out an independent review into Low Traffic Neighbourhoods (LTNs)](632748.md) | 15,748 | 15,715 | 33 | 0 | 99.79 | 0.21 | 0.00 |
+| [Carry out an independent review into Low Traffic Neighbourhoods (LTNs)](632748.md) | 15,749 | 15,716 | 33 | 0 | 99.79 | 0.21 | 0.00 |
 | [Increase the basic State Pension to match the new State Pension](632855.md) | 15,484 | 15,112 | 372 | 0 | 97.60 | 2.40 | 0.00 |
 | [Stop deep-sea mining](636545.md) | 14,877 | 14,685 | 192 | 0 | 98.71 | 1.29 | 0.00 |
 | [Amend the Gender Recognition Act to allow for posthumous and expedited grants](633194.md) | 13,654 | 13,447 | 207 | 0 | 98.48 | 1.52 | 0.00 |
@@ -57,4 +57,4 @@ Last refreshed 2023-07-02 00:30:04
 | [Athena’s Law: Introduce new requirements for drivers who hit a cat](633536.md) | 12,402 | 12,288 | 114 | 0 | 99.08 | 0.92 | 0.00 |
 | [Urgent funding for research into Long Covid and ME/CFS treatments and cures](630551.md) | 12,121 | 11,962 | 159 | 0 | 98.69 | 1.31 | 0.00 |
 | [Increase funding for special educational needs and disabilities (SEND) education](634116.md) | 11,959 | 11,923 | 36 | 0 | 99.70 | 0.30 | 0.00 |
-| [Hold referendums on joining new trade blocks eg CPTPP](635583.md) | 11,906 | 11,583 | 323 | 0 | 97.29 | 2.71 | 0.00 |
+| [Hold referendums on joining new trade blocks eg CPTPP](635583.md) | 11,907 | 11,584 | 323 | 0 | 97.29 | 2.71 | 0.00 |
