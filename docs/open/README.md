@@ -4,21 +4,21 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-07-18 02:30:05
+Last refreshed 2023-07-18 03:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Do not remove LGBT content from the Relationships Education curriculum](631529.md) | 104,860 | 103,493 | 1,367 | 0 | 98.70 | 1.30 | 0.00 |
-| [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 95,328 | 93,257 | 2,071 | 0 | 97.83 | 2.17 | 0.00 |
+| [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 95,332 | 93,260 | 2,072 | 0 | 97.83 | 2.17 | 0.00 |
 | [Create a Turkish Family Scheme visa for people homeless due to the earthquake](632772.md) | 82,681 | 81,813 | 868 | 0 | 98.95 | 1.05 | 0.00 |
-| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 75,191 | 74,866 | 325 | 0 | 99.57 | 0.43 | 0.00 |
+| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 75,192 | 74,867 | 325 | 0 | 99.57 | 0.43 | 0.00 |
 | [Hold a referendum on removing the London Assembly and London Mayor](631763.md) | 70,727 | 70,544 | 183 | 0 | 99.74 | 0.26 | 0.00 |
 | [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 63,238 | 62,912 | 326 | 0 | 99.48 | 0.52 | 0.00 |
-| [Condemn burning of the Holy Qur’an in Sweden](632549.md) | 62,358 | 61,358 | 1,000 | 0 | 98.40 | 1.60 | 0.00 |
+| [Condemn burning of the Holy Qur’an in Sweden](632549.md) | 62,360 | 61,360 | 1,000 | 0 | 98.40 | 1.60 | 0.00 |
 | [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 60,788 | 60,505 | 283 | 0 | 99.53 | 0.47 | 0.00 |
 | [Offer healthcare workers on tier2 visa ILR after 2 years instead of 5 years](631412.md) | 52,915 | 52,356 | 559 | 0 | 98.94 | 1.06 | 0.00 |
-| [Require train operators keep ticket offices and platform staff at train stations](636542.md) | 51,378 | 51,083 | 295 | 0 | 99.43 | 0.57 | 0.00 |
-| [Require education staff to be trained on learning disabilities and autism](639050.md) | 47,431 | 47,177 | 254 | 0 | 99.46 | 0.54 | 0.00 |
+| [Require train operators keep ticket offices and platform staff at train stations](636542.md) | 51,379 | 51,084 | 295 | 0 | 99.43 | 0.57 | 0.00 |
+| [Require education staff to be trained on learning disabilities and autism](639050.md) | 47,432 | 47,178 | 254 | 0 | 99.46 | 0.54 | 0.00 |
 | [Ensure fair grading for GCSE and A Level students in 2023](631743.md) | 37,097 | 36,713 | 384 | 0 | 98.96 | 1.04 | 0.00 |
 | [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 36,116 | 35,715 | 401 | 0 | 98.89 | 1.11 | 0.00 |
 | [Reverse the decision to block the Gender Recognition Reform (Scotland) Bill](631561.md) | 29,571 | 29,188 | 383 | 0 | 98.70 | 1.30 | 0.00 |
@@ -43,16 +43,16 @@ Last refreshed 2023-07-18 02:30:05
 | [Do not permit any Council Tax increase of more than 5% without a referendum](632944.md) | 17,588 | 17,563 | 25 | 0 | 99.86 | 0.14 | 0.00 |
 | [Do Not Leave the European Convention on Human Rights](636358.md) | 17,042 | 16,674 | 368 | 0 | 97.84 | 2.16 | 0.00 |
 | [Identify and sanction individuals from Pakistan involved in illegal activities](635202.md) | 17,026 | 15,539 | 1,487 | 0 | 91.27 | 8.73 | 0.00 |
-| [Stop UK pensioners paying income tax on their state pension](635729.md) | 16,399 | 16,256 | 143 | 0 | 99.13 | 0.87 | 0.00 |
+| [Stop UK pensioners paying income tax on their state pension](635729.md) | 16,400 | 16,257 | 143 | 0 | 99.13 | 0.87 | 0.00 |
 | [Hold a referendum on ending devolution in Scotland](634090.md) | 16,377 | 16,246 | 131 | 0 | 99.20 | 0.80 | 0.00 |
 | [Give secondary school students a right pray in school](631426.md) | 16,299 | 16,255 | 44 | 0 | 99.73 | 0.27 | 0.00 |
 | [Carry out an independent review into Low Traffic Neighbourhoods (LTNs)](632748.md) | 15,808 | 15,774 | 34 | 0 | 99.78 | 0.22 | 0.00 |
 | [Increase the basic State Pension to match the new State Pension](632855.md) | 15,678 | 15,295 | 383 | 0 | 97.56 | 2.44 | 0.00 |
-| [Sanction individuals responsible for Sino-British Joint Declaration breaches](640649.md) | 14,930 | 13,691 | 1,239 | 0 | 91.70 | 8.30 | 0.00 |
+| [Sanction individuals responsible for Sino-British Joint Declaration breaches](640649.md) | 14,983 | 13,716 | 1,267 | 0 | 91.54 | 8.46 | 0.00 |
 | [Reverse the decision not to proceed with the Animal Welfare (Kept Animals) Bill](638720.md) | 14,706 | 14,518 | 188 | 0 | 98.72 | 1.28 | 0.00 |
-| [Require Universities to Train Staff on Neurodiversity](634354.md) | 14,274 | 14,175 | 99 | 0 | 99.31 | 0.69 | 0.00 |
+| [Require Universities to Train Staff on Neurodiversity](634354.md) | 14,279 | 14,180 | 99 | 0 | 99.31 | 0.69 | 0.00 |
 | [Provide dedicated funding for diagnosis/treatment of hypermobile EDS and HSD](637313.md) | 14,172 | 14,077 | 95 | 0 | 99.33 | 0.67 | 0.00 |
-| [Make pet abduction a specific criminal offence](640101.md) | 13,782 | 13,639 | 143 | 0 | 98.96 | 1.04 | 0.00 |
+| [Make pet abduction a specific criminal offence](640101.md) | 13,783 | 13,640 | 143 | 0 | 98.96 | 1.04 | 0.00 |
 | [Amend the Gender Recognition Act to allow for posthumous and expedited grants](633194.md) | 13,669 | 13,462 | 207 | 0 | 98.49 | 1.51 | 0.00 |
 | [Create a Government exam board to make new language GCSEs based on census data](636788.md) | 13,344 | 13,276 | 68 | 0 | 99.49 | 0.51 | 0.00 |
 | [Introduce new laws to force offenders to be present in court for sentencing](636546.md) | 13,231 | 13,171 | 60 | 0 | 99.55 | 0.45 | 0.00 |
