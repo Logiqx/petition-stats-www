@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-07-18 09:30:17
+Last refreshed 2023-07-18 10:30:17
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -56,5 +56,5 @@ Last refreshed 2023-07-18 09:30:17
 | [Scrap removal of free transport for under-18s from TfL bailout](331453.md) | 171,010 | 170,426 | 584 | 0 | 99.66 | 0.34 | 0.00 |
 | [Include abortion rights in the Bill of Rights](619334.md) | 167,690 | 167,168 | 522 | 0 | 99.69 | 0.31 | 0.00 |
 | [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 167,461 | 166,507 | 954 | 0 | 99.43 | 0.57 | 0.00 |
-| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 160,687 | 159,722 | 965 | 0 | 99.40 | 0.60 | 0.00 |
+| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 160,688 | 159,723 | 965 | 0 | 99.40 | 0.60 | 0.00 |
 | [Cancel GCSE and A-levels in 2021 replace with Course Work and Teacher Assessment](564696.md) | 157,810 | 156,798 | 1,012 | 0 | 99.36 | 0.64 | 0.00 |
