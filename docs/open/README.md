@@ -4,29 +4,29 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-07-27 03:30:06
+Last refreshed 2023-07-27 04:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 100,980 | 98,802 | 2,178 | 0 | 97.84 | 2.16 | 0.00 |
 | [Create a Turkish Family Scheme visa for people homeless due to the earthquake](632772.md) | 82,700 | 81,832 | 868 | 0 | 98.95 | 1.05 | 0.00 |
-| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 78,871 | 78,529 | 342 | 0 | 99.57 | 0.43 | 0.00 |
+| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 78,873 | 78,531 | 342 | 0 | 99.57 | 0.43 | 0.00 |
 | [Condemn burning of the Holy Qur’an in Sweden](632549.md) | 64,376 | 63,350 | 1,026 | 0 | 98.41 | 1.59 | 0.00 |
-| [Require train operators keep ticket offices and platform staff at train stations](636542.md) | 64,140 | 63,781 | 359 | 0 | 99.44 | 0.56 | 0.00 |
+| [Require train operators keep ticket offices and platform staff at train stations](636542.md) | 64,145 | 63,786 | 359 | 0 | 99.44 | 0.56 | 0.00 |
 | [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 63,295 | 62,968 | 327 | 0 | 99.48 | 0.52 | 0.00 |
 | [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 60,865 | 60,582 | 283 | 0 | 99.54 | 0.46 | 0.00 |
 | [Require education staff to be trained on learning disabilities and autism](639050.md) | 50,868 | 50,593 | 275 | 0 | 99.46 | 0.54 | 0.00 |
 | [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 36,270 | 35,868 | 402 | 0 | 98.89 | 1.11 | 0.00 |
-| [Stop deep-sea mining](636545.md) | 32,057 | 31,642 | 415 | 0 | 98.71 | 1.29 | 0.00 |
+| [Stop deep-sea mining](636545.md) | 32,063 | 31,648 | 415 | 0 | 98.71 | 1.29 | 0.00 |
 | [Introduce new laws to force offenders to be present in court for sentencing](636546.md) | 28,571 | 28,416 | 155 | 0 | 99.46 | 0.54 | 0.00 |
 | [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 28,412 | 27,806 | 606 | 0 | 97.87 | 2.13 | 0.00 |
 | [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 28,290 | 28,234 | 56 | 0 | 99.80 | 0.20 | 0.00 |
 | [Deny Sex Offenders the right to apply for removal from the Sex Offender Register](632806.md) | 28,018 | 27,922 | 96 | 0 | 99.66 | 0.34 | 0.00 |
-| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 27,920 | 27,543 | 377 | 0 | 98.65 | 1.35 | 0.00 |
+| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 27,936 | 27,559 | 377 | 0 | 98.65 | 1.35 | 0.00 |
 | [Amend the 1999 GLA Act to remove the Mayor's power to impose road use charges](633550.md) | 26,781 | 26,722 | 59 | 0 | 99.78 | 0.22 | 0.00 |
 | [Allow people to pay their mortgage through salary sacrifice](633889.md) | 26,603 | 26,569 | 34 | 0 | 99.87 | 0.13 | 0.00 |
 | [Seek visa-free travel to Europe for BRP holders](635282.md) | 25,029 | 24,870 | 159 | 0 | 99.36 | 0.64 | 0.00 |
-| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 24,988 | 24,888 | 100 | 0 | 99.60 | 0.40 | 0.00 |
+| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 24,990 | 24,890 | 100 | 0 | 99.60 | 0.40 | 0.00 |
 | [Protect the Environmental Information Regulations (EIR) 2004](633609.md) | 24,595 | 24,504 | 91 | 0 | 99.63 | 0.37 | 0.00 |
 | [Make school uniform VAT exempt](633778.md) | 24,191 | 24,153 | 38 | 0 | 99.84 | 0.16 | 0.00 |
 | [Overturn the decision to allow use of neonicotinoid pesticides on sugar crops](631948.md) | 22,333 | 22,137 | 196 | 0 | 99.12 | 0.88 | 0.00 |
@@ -42,13 +42,13 @@ Last refreshed 2023-07-27 03:30:06
 | [Stop UK pensioners paying income tax on their state pension](635729.md) | 17,061 | 16,910 | 151 | 0 | 99.11 | 0.89 | 0.00 |
 | [Identify and sanction individuals from Pakistan involved in illegal activities](635202.md) | 17,042 | 15,554 | 1,488 | 0 | 91.27 | 8.73 | 0.00 |
 | [Hold a referendum on ending devolution in Scotland](634090.md) | 16,422 | 16,291 | 131 | 0 | 99.20 | 0.80 | 0.00 |
-| [Make pet abduction a specific criminal offence](640101.md) | 16,367 | 16,205 | 162 | 0 | 99.01 | 0.99 | 0.00 |
+| [Make pet abduction a specific criminal offence](640101.md) | 16,371 | 16,209 | 162 | 0 | 99.01 | 0.99 | 0.00 |
 | [Carry out an independent review into Low Traffic Neighbourhoods (LTNs)](632748.md) | 15,862 | 15,827 | 35 | 0 | 99.78 | 0.22 | 0.00 |
 | [Increase the basic State Pension to match the new State Pension](632855.md) | 15,815 | 15,431 | 384 | 0 | 97.57 | 2.43 | 0.00 |
 | [Require Universities to Train Staff on Neurodiversity](634354.md) | 15,001 | 14,892 | 109 | 0 | 99.27 | 0.73 | 0.00 |
 | [Reverse the decision not to proceed with the Animal Welfare (Kept Animals) Bill](638720.md) | 14,857 | 14,668 | 189 | 0 | 98.73 | 1.27 | 0.00 |
 | [Provide dedicated funding for diagnosis/treatment of hypermobile EDS and HSD](637313.md) | 14,478 | 14,378 | 100 | 0 | 99.31 | 0.69 | 0.00 |
-| [Extend date for existing students to switch to Skilled Worker visa](641313.md) | 13,782 | 13,508 | 274 | 0 | 98.01 | 1.99 | 0.00 |
+| [Extend date for existing students to switch to Skilled Worker visa](641313.md) | 13,786 | 13,512 | 274 | 0 | 98.01 | 1.99 | 0.00 |
 | [Amend the Gender Recognition Act to allow for posthumous and expedited grants](633194.md) | 13,673 | 13,466 | 207 | 0 | 98.49 | 1.51 | 0.00 |
 | [Create a Government exam board to make new language GCSEs based on census data](636788.md) | 13,355 | 13,287 | 68 | 0 | 99.49 | 0.51 | 0.00 |
 | [Allow Serbian citizens to visit the UK for up to 90 days without a visa](636456.md) | 12,984 | 12,199 | 785 | 0 | 93.95 | 6.05 | 0.00 |
