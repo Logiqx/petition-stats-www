@@ -4,26 +4,26 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-08-03 02:30:05
+Last refreshed 2023-08-03 03:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 102,261 | 100,062 | 2,199 | 0 | 97.85 | 2.15 | 0.00 |
 | [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 83,229 | 82,874 | 355 | 0 | 99.57 | 0.43 | 0.00 |
 | [Create a Turkish Family Scheme visa for people homeless due to the earthquake](632772.md) | 82,711 | 81,843 | 868 | 0 | 98.95 | 1.05 | 0.00 |
-| [Require train operators keep ticket offices and platform staff at train stations](636542.md) | 68,495 | 68,117 | 378 | 0 | 99.45 | 0.55 | 0.00 |
+| [Require train operators keep ticket offices and platform staff at train stations](636542.md) | 68,499 | 68,121 | 378 | 0 | 99.45 | 0.55 | 0.00 |
 | [Condemn burning of the Holy Qur’an in Sweden](632549.md) | 64,646 | 63,614 | 1,032 | 0 | 98.40 | 1.60 | 0.00 |
 | [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 63,316 | 62,989 | 327 | 0 | 99.48 | 0.52 | 0.00 |
 | [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 60,904 | 60,621 | 283 | 0 | 99.54 | 0.46 | 0.00 |
 | [Require education staff to be trained on learning disabilities and autism](639050.md) | 52,502 | 52,216 | 286 | 0 | 99.46 | 0.54 | 0.00 |
-| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 48,792 | 48,262 | 530 | 0 | 98.91 | 1.09 | 0.00 |
+| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 48,796 | 48,266 | 530 | 0 | 98.91 | 1.09 | 0.00 |
 | [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 36,363 | 35,960 | 403 | 0 | 98.89 | 1.11 | 0.00 |
 | [Stop deep-sea mining](636545.md) | 33,133 | 32,689 | 444 | 0 | 98.66 | 1.34 | 0.00 |
-| [Introduce new laws to force offenders to be present in court for sentencing](636546.md) | 29,985 | 29,826 | 159 | 0 | 99.47 | 0.53 | 0.00 |
+| [Introduce new laws to force offenders to be present in court for sentencing](636546.md) | 29,987 | 29,828 | 159 | 0 | 99.47 | 0.53 | 0.00 |
 | [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 28,712 | 28,655 | 57 | 0 | 99.80 | 0.20 | 0.00 |
 | [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 28,526 | 27,916 | 610 | 0 | 97.86 | 2.14 | 0.00 |
-| [Deny Sex Offenders the right to apply for removal from the Sex Offender Register](632806.md) | 28,307 | 28,210 | 97 | 0 | 99.66 | 0.34 | 0.00 |
-| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 27,301 | 27,192 | 109 | 0 | 99.60 | 0.40 | 0.00 |
+| [Deny Sex Offenders the right to apply for removal from the Sex Offender Register](632806.md) | 28,311 | 28,214 | 97 | 0 | 99.66 | 0.34 | 0.00 |
+| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 27,306 | 27,197 | 109 | 0 | 99.60 | 0.40 | 0.00 |
 | [Amend the 1999 GLA Act to remove the Mayor's power to impose road use charges](633550.md) | 26,899 | 26,840 | 59 | 0 | 99.78 | 0.22 | 0.00 |
 | [Allow people to pay their mortgage through salary sacrifice](633889.md) | 26,655 | 26,621 | 34 | 0 | 99.87 | 0.13 | 0.00 |
 | [Make pet abduction a specific criminal offence](640101.md) | 25,603 | 25,336 | 267 | 0 | 98.96 | 1.04 | 0.00 |
