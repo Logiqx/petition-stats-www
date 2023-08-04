@@ -4,29 +4,29 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-08-04 00:30:05
+Last refreshed 2023-08-04 01:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 102,313 | 100,112 | 2,201 | 0 | 97.85 | 2.15 | 0.00 |
-| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 83,519 | 83,162 | 357 | 0 | 99.57 | 0.43 | 0.00 |
+| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 83,525 | 83,168 | 357 | 0 | 99.57 | 0.43 | 0.00 |
 | [Create a Turkish Family Scheme visa for people homeless due to the earthquake](632772.md) | 82,711 | 81,843 | 868 | 0 | 98.95 | 1.05 | 0.00 |
-| [Require train operators keep ticket offices and platform staff at train stations](636542.md) | 68,964 | 68,582 | 382 | 0 | 99.45 | 0.55 | 0.00 |
-| [Condemn burning of the Holy Qur’an in Sweden](632549.md) | 64,667 | 63,635 | 1,032 | 0 | 98.40 | 1.60 | 0.00 |
+| [Require train operators keep ticket offices and platform staff at train stations](636542.md) | 68,965 | 68,583 | 382 | 0 | 99.45 | 0.55 | 0.00 |
+| [Condemn burning of the Holy Qur’an in Sweden](632549.md) | 64,668 | 63,636 | 1,032 | 0 | 98.40 | 1.60 | 0.00 |
 | [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 63,325 | 62,998 | 327 | 0 | 99.48 | 0.52 | 0.00 |
 | [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 60,905 | 60,622 | 283 | 0 | 99.54 | 0.46 | 0.00 |
-| [Require education staff to be trained on learning disabilities and autism](639050.md) | 52,606 | 52,320 | 286 | 0 | 99.46 | 0.54 | 0.00 |
-| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 49,721 | 49,180 | 541 | 0 | 98.91 | 1.09 | 0.00 |
+| [Require education staff to be trained on learning disabilities and autism](639050.md) | 52,607 | 52,321 | 286 | 0 | 99.46 | 0.54 | 0.00 |
+| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 49,728 | 49,187 | 541 | 0 | 98.91 | 1.09 | 0.00 |
 | [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 36,370 | 35,967 | 403 | 0 | 98.89 | 1.11 | 0.00 |
 | [Stop deep-sea mining](636545.md) | 33,172 | 32,726 | 446 | 0 | 98.66 | 1.34 | 0.00 |
-| [Introduce new laws to force offenders to be present in court for sentencing](636546.md) | 30,094 | 29,934 | 160 | 0 | 99.47 | 0.53 | 0.00 |
+| [Introduce new laws to force offenders to be present in court for sentencing](636546.md) | 30,095 | 29,935 | 160 | 0 | 99.47 | 0.53 | 0.00 |
 | [Deny Sex Offenders the right to apply for removal from the Sex Offender Register](632806.md) | 29,091 | 28,989 | 102 | 0 | 99.65 | 0.35 | 0.00 |
-| [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 28,729 | 28,672 | 57 | 0 | 99.80 | 0.20 | 0.00 |
-| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 28,528 | 27,918 | 610 | 0 | 97.86 | 2.14 | 0.00 |
-| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 28,394 | 28,273 | 121 | 0 | 99.57 | 0.43 | 0.00 |
+| [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 28,730 | 28,673 | 57 | 0 | 99.80 | 0.20 | 0.00 |
+| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 28,529 | 27,919 | 610 | 0 | 97.86 | 2.14 | 0.00 |
+| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 28,402 | 28,281 | 121 | 0 | 99.57 | 0.43 | 0.00 |
 | [Amend the 1999 GLA Act to remove the Mayor's power to impose road use charges](633550.md) | 26,902 | 26,843 | 59 | 0 | 99.78 | 0.22 | 0.00 |
 | [Allow people to pay their mortgage through salary sacrifice](633889.md) | 26,660 | 26,626 | 34 | 0 | 99.87 | 0.13 | 0.00 |
-| [Make pet abduction a specific criminal offence](640101.md) | 25,750 | 25,481 | 269 | 0 | 98.96 | 1.04 | 0.00 |
+| [Make pet abduction a specific criminal offence](640101.md) | 25,753 | 25,484 | 269 | 0 | 98.96 | 1.04 | 0.00 |
 | [Seek visa-free travel to Europe for BRP holders](635282.md) | 25,138 | 24,978 | 160 | 0 | 99.36 | 0.64 | 0.00 |
 | [Protect the Environmental Information Regulations (EIR) 2004](633609.md) | 24,635 | 24,544 | 91 | 0 | 99.63 | 0.37 | 0.00 |
 | [Make school uniform VAT exempt](633778.md) | 24,253 | 24,215 | 38 | 0 | 99.84 | 0.16 | 0.00 |
