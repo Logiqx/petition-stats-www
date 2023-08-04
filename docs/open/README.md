@@ -4,35 +4,35 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-08-04 03:30:04
+Last refreshed 2023-08-04 04:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 102,315 | 100,114 | 2,201 | 0 | 97.85 | 2.15 | 0.00 |
-| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 83,527 | 83,170 | 357 | 0 | 99.57 | 0.43 | 0.00 |
+| [Invest to guarantee women’s access to breast screening – now and for the future](632824.md) | 83,529 | 83,172 | 357 | 0 | 99.57 | 0.43 | 0.00 |
 | [Create a Turkish Family Scheme visa for people homeless due to the earthquake](632772.md) | 82,711 | 81,843 | 868 | 0 | 98.95 | 1.05 | 0.00 |
-| [Require train operators keep ticket offices and platform staff at train stations](636542.md) | 68,966 | 68,584 | 382 | 0 | 99.45 | 0.55 | 0.00 |
+| [Require train operators keep ticket offices and platform staff at train stations](636542.md) | 68,968 | 68,586 | 382 | 0 | 99.45 | 0.55 | 0.00 |
 | [Condemn burning of the Holy Qur’an in Sweden](632549.md) | 64,668 | 63,636 | 1,032 | 0 | 98.40 | 1.60 | 0.00 |
 | [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 63,325 | 62,998 | 327 | 0 | 99.48 | 0.52 | 0.00 |
 | [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 60,905 | 60,622 | 283 | 0 | 99.54 | 0.46 | 0.00 |
-| [Require education staff to be trained on learning disabilities and autism](639050.md) | 52,608 | 52,322 | 286 | 0 | 99.46 | 0.54 | 0.00 |
-| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 49,796 | 49,255 | 541 | 0 | 98.91 | 1.09 | 0.00 |
+| [Require education staff to be trained on learning disabilities and autism](639050.md) | 52,609 | 52,323 | 286 | 0 | 99.46 | 0.54 | 0.00 |
+| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 49,804 | 49,263 | 541 | 0 | 98.91 | 1.09 | 0.00 |
 | [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 36,370 | 35,967 | 403 | 0 | 98.89 | 1.11 | 0.00 |
 | [Stop deep-sea mining](636545.md) | 33,172 | 32,726 | 446 | 0 | 98.66 | 1.34 | 0.00 |
 | [Introduce new laws to force offenders to be present in court for sentencing](636546.md) | 30,095 | 29,935 | 160 | 0 | 99.47 | 0.53 | 0.00 |
 | [Deny Sex Offenders the right to apply for removal from the Sex Offender Register](632806.md) | 29,091 | 28,989 | 102 | 0 | 99.65 | 0.35 | 0.00 |
 | [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 28,730 | 28,673 | 57 | 0 | 99.80 | 0.20 | 0.00 |
-| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 28,529 | 27,919 | 610 | 0 | 97.86 | 2.14 | 0.00 |
-| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 28,421 | 28,300 | 121 | 0 | 99.57 | 0.43 | 0.00 |
+| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 28,530 | 27,920 | 610 | 0 | 97.86 | 2.14 | 0.00 |
+| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 28,433 | 28,312 | 121 | 0 | 99.57 | 0.43 | 0.00 |
 | [Amend the 1999 GLA Act to remove the Mayor's power to impose road use charges](633550.md) | 26,902 | 26,843 | 59 | 0 | 99.78 | 0.22 | 0.00 |
 | [Allow people to pay their mortgage through salary sacrifice](633889.md) | 26,660 | 26,626 | 34 | 0 | 99.87 | 0.13 | 0.00 |
-| [Make pet abduction a specific criminal offence](640101.md) | 25,758 | 25,489 | 269 | 0 | 98.96 | 1.04 | 0.00 |
+| [Make pet abduction a specific criminal offence](640101.md) | 25,762 | 25,493 | 269 | 0 | 98.96 | 1.04 | 0.00 |
 | [Seek visa-free travel to Europe for BRP holders](635282.md) | 25,139 | 24,979 | 160 | 0 | 99.36 | 0.64 | 0.00 |
 | [Protect the Environmental Information Regulations (EIR) 2004](633609.md) | 24,635 | 24,544 | 91 | 0 | 99.63 | 0.37 | 0.00 |
-| [Make school uniform VAT exempt](633778.md) | 24,253 | 24,215 | 38 | 0 | 99.84 | 0.16 | 0.00 |
+| [Make school uniform VAT exempt](633778.md) | 24,254 | 24,216 | 38 | 0 | 99.84 | 0.16 | 0.00 |
 | [Abolish Council Tax for State Pensioners](635079.md) | 22,155 | 22,112 | 43 | 0 | 99.81 | 0.19 | 0.00 |
 | [Give Ukrainians on humanitarian visas rights to extend stay and settle in the UK](632761.md) | 20,562 | 20,238 | 324 | 0 | 98.42 | 1.58 | 0.00 |
-| [Sanction individuals responsible for Sino-British Joint Declaration breaches](640649.md) | 20,416 | 18,004 | 2,412 | 0 | 88.19 | 11.81 | 0.00 |
+| [Sanction individuals responsible for Sino-British Joint Declaration breaches](640649.md) | 20,417 | 18,005 | 2,412 | 0 | 88.19 | 11.81 | 0.00 |
 | [Condemn Israel for their actions against Palestinians and impose trade ban](636256.md) | 19,909 | 19,794 | 115 | 0 | 99.42 | 0.58 | 0.00 |
 | [Require public referendums on 15-minute town and city policies](633819.md) | 18,658 | 18,540 | 118 | 0 | 99.37 | 0.63 | 0.00 |
 | [Fund non-consolidated payments for organisations providing NHS funded services](638701.md) | 18,333 | 18,288 | 45 | 0 | 99.75 | 0.25 | 0.00 |
@@ -46,7 +46,7 @@ Last refreshed 2023-08-04 03:30:04
 | [Increase the basic State Pension to match the new State Pension](632855.md) | 15,883 | 15,498 | 385 | 0 | 97.58 | 2.42 | 0.00 |
 | [Reverse the decision not to proceed with the Animal Welfare (Kept Animals) Bill](638720.md) | 15,398 | 15,182 | 216 | 0 | 98.60 | 1.40 | 0.00 |
 | [Require Universities to Train Staff on Neurodiversity](634354.md) | 15,385 | 15,274 | 111 | 0 | 99.28 | 0.72 | 0.00 |
-| [Extend date for existing students to switch to Skilled Worker visa](641313.md) | 14,844 | 14,546 | 298 | 0 | 97.99 | 2.01 | 0.00 |
+| [Extend date for existing students to switch to Skilled Worker visa](641313.md) | 14,845 | 14,547 | 298 | 0 | 97.99 | 2.01 | 0.00 |
 | [Provide dedicated funding for diagnosis/treatment of hypermobile EDS and HSD](637313.md) | 14,603 | 14,503 | 100 | 0 | 99.32 | 0.68 | 0.00 |
 | [Make dogs attacking other pets a specific criminal offence](637398.md) | 13,973 | 13,920 | 53 | 0 | 99.62 | 0.38 | 0.00 |
 | [Amend the Gender Recognition Act to allow for posthumous and expedited grants](633194.md) | 13,712 | 13,504 | 208 | 0 | 98.48 | 1.52 | 0.00 |
