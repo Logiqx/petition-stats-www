@@ -4,57 +4,57 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-08-15 15:30:04
+Last refreshed 2023-08-15 16:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 103,119 | 100,893 | 2,226 | 0 | 97.84 | 2.16 | 0.00 |
-| [Require train operators keep ticket offices and platform staff at train stations](636542.md) | 73,465 | 73,058 | 407 | 0 | 99.45 | 0.55 | 0.00 |
-| [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 63,767 | 63,438 | 329 | 0 | 99.48 | 0.52 | 0.00 |
+| [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 103,123 | 100,897 | 2,226 | 0 | 97.84 | 2.16 | 0.00 |
+| [Require train operators keep ticket offices and platform staff at train stations](636542.md) | 73,481 | 73,074 | 407 | 0 | 99.45 | 0.55 | 0.00 |
+| [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 63,769 | 63,440 | 329 | 0 | 99.48 | 0.52 | 0.00 |
 | [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 61,002 | 60,717 | 285 | 0 | 99.53 | 0.47 | 0.00 |
-| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 60,894 | 60,251 | 643 | 0 | 98.94 | 1.06 | 0.00 |
-| [Require education staff to be trained on learning disabilities and autism](639050.md) | 54,158 | 53,857 | 301 | 0 | 99.44 | 0.56 | 0.00 |
-| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 39,960 | 39,802 | 158 | 0 | 99.60 | 0.40 | 0.00 |
-| [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 36,571 | 36,166 | 405 | 0 | 98.89 | 1.11 | 0.00 |
-| [Stop deep-sea mining](636545.md) | 33,479 | 33,020 | 459 | 0 | 98.63 | 1.37 | 0.00 |
-| [Introduce new laws to force offenders to be present in court for sentencing](636546.md) | 31,132 | 30,971 | 161 | 0 | 99.48 | 0.52 | 0.00 |
-| [Increase the state pension to equal 35 hours a week at the National Living Wage](636088.md) | 29,683 | 29,181 | 502 | 0 | 98.31 | 1.69 | 0.00 |
+| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 60,934 | 60,290 | 644 | 0 | 98.94 | 1.06 | 0.00 |
+| [Require education staff to be trained on learning disabilities and autism](639050.md) | 54,162 | 53,861 | 301 | 0 | 99.44 | 0.56 | 0.00 |
+| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 39,969 | 39,810 | 159 | 0 | 99.60 | 0.40 | 0.00 |
+| [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 36,573 | 36,168 | 405 | 0 | 98.89 | 1.11 | 0.00 |
+| [Stop deep-sea mining](636545.md) | 33,481 | 33,022 | 459 | 0 | 98.63 | 1.37 | 0.00 |
+| [Introduce new laws to force offenders to be present in court for sentencing](636546.md) | 31,136 | 30,975 | 161 | 0 | 99.48 | 0.52 | 0.00 |
+| [Increase the state pension to equal 35 hours a week at the National Living Wage](636088.md) | 29,693 | 29,191 | 502 | 0 | 98.31 | 1.69 | 0.00 |
 | [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 28,983 | 28,926 | 57 | 0 | 99.80 | 0.20 | 0.00 |
-| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 28,634 | 28,021 | 613 | 0 | 97.86 | 2.14 | 0.00 |
-| [Make pet abduction a specific criminal offence](640101.md) | 27,987 | 27,687 | 300 | 0 | 98.93 | 1.07 | 0.00 |
-| [Amend the 1999 GLA Act to remove the Mayor's power to impose road use charges](633550.md) | 27,001 | 26,942 | 59 | 0 | 99.78 | 0.22 | 0.00 |
+| [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 28,637 | 28,024 | 613 | 0 | 97.86 | 2.14 | 0.00 |
+| [Make pet abduction a specific criminal offence](640101.md) | 27,990 | 27,690 | 300 | 0 | 98.93 | 1.07 | 0.00 |
+| [Amend the 1999 GLA Act to remove the Mayor's power to impose road use charges](633550.md) | 27,006 | 26,947 | 59 | 0 | 99.78 | 0.22 | 0.00 |
 | [Allow people to pay their mortgage through salary sacrifice](633889.md) | 26,735 | 26,701 | 34 | 0 | 99.87 | 0.13 | 0.00 |
 | [Seek visa-free travel to Europe for BRP holders](635282.md) | 25,271 | 25,110 | 161 | 0 | 99.36 | 0.64 | 0.00 |
 | [Protect the Environmental Information Regulations (EIR) 2004](633609.md) | 24,670 | 24,579 | 91 | 0 | 99.63 | 0.37 | 0.00 |
-| [Make school uniform VAT exempt](633778.md) | 24,488 | 24,450 | 38 | 0 | 99.84 | 0.16 | 0.00 |
-| [Abolish Council Tax for State Pensioners](635079.md) | 22,309 | 22,266 | 43 | 0 | 99.81 | 0.19 | 0.00 |
-| [Stop UK pensioners paying income tax on their state pension](635729.md) | 21,607 | 21,420 | 187 | 0 | 99.13 | 0.87 | 0.00 |
+| [Make school uniform VAT exempt](633778.md) | 24,489 | 24,451 | 38 | 0 | 99.84 | 0.16 | 0.00 |
+| [Abolish Council Tax for State Pensioners](635079.md) | 22,311 | 22,268 | 43 | 0 | 99.81 | 0.19 | 0.00 |
+| [Stop UK pensioners paying income tax on their state pension](635729.md) | 21,609 | 21,422 | 187 | 0 | 99.13 | 0.87 | 0.00 |
 | [Sanction individuals responsible for Sino-British Joint Declaration breaches](640649.md) | 20,649 | 18,199 | 2,450 | 0 | 88.14 | 11.86 | 0.00 |
-| [Recognize period underwear as a menstrual product and remove the  20%VAT on them](635692.md) | 20,063 | 19,973 | 90 | 0 | 99.55 | 0.45 | 0.00 |
-| [Condemn Israel for their actions against Palestinians and impose trade ban](636256.md) | 19,948 | 19,833 | 115 | 0 | 99.42 | 0.58 | 0.00 |
-| [Do Not Leave the European Convention on Human Rights](636358.md) | 19,019 | 18,611 | 408 | 0 | 97.85 | 2.15 | 0.00 |
+| [Recognize period underwear as a menstrual product and remove the  20%VAT on them](635692.md) | 20,250 | 20,158 | 92 | 0 | 99.55 | 0.45 | 0.00 |
+| [Condemn Israel for their actions against Palestinians and impose trade ban](636256.md) | 19,950 | 19,835 | 115 | 0 | 99.42 | 0.58 | 0.00 |
+| [Do Not Leave the European Convention on Human Rights](636358.md) | 19,033 | 18,625 | 408 | 0 | 97.86 | 2.14 | 0.00 |
 | [Require public referendums on 15-minute town and city policies](633819.md) | 18,723 | 18,605 | 118 | 0 | 99.37 | 0.63 | 0.00 |
 | [Fund non-consolidated payments for organisations providing NHS funded services](638701.md) | 18,355 | 18,310 | 45 | 0 | 99.75 | 0.25 | 0.00 |
 | [Make chanting about tragedies and death at a football match a criminal offence](636134.md) | 17,815 | 17,405 | 410 | 0 | 97.70 | 2.30 | 0.00 |
-| [Provide dedicated funding for diagnosis/treatment of hypermobile EDS and HSD](637313.md) | 17,422 | 17,297 | 125 | 0 | 99.28 | 0.72 | 0.00 |
-| [Prohibit the Sale, Purchase, Deployment, and Use of Artificial Grass Products](633108.md) | 17,276 | 17,158 | 118 | 0 | 99.32 | 0.68 | 0.00 |
+| [Provide dedicated funding for diagnosis/treatment of hypermobile EDS and HSD](637313.md) | 17,428 | 17,303 | 125 | 0 | 99.28 | 0.72 | 0.00 |
+| [Prohibit the Sale, Purchase, Deployment, and Use of Artificial Grass Products](633108.md) | 17,375 | 17,256 | 119 | 0 | 99.32 | 0.68 | 0.00 |
 | [Identify and sanction individuals from Pakistan involved in illegal activities](635202.md) | 17,142 | 15,654 | 1,488 | 0 | 91.32 | 8.68 | 0.00 |
-| [Hold a referendum on ending devolution in Scotland](634090.md) | 16,476 | 16,345 | 131 | 0 | 99.20 | 0.80 | 0.00 |
-| [Do not increase visa fees and the Immigration Health Surcharge](641140.md) | 15,944 | 15,731 | 213 | 0 | 98.66 | 1.34 | 0.00 |
+| [Hold a referendum on ending devolution in Scotland](634090.md) | 16,477 | 16,346 | 131 | 0 | 99.20 | 0.80 | 0.00 |
+| [Do not increase visa fees and the Immigration Health Surcharge](641140.md) | 15,948 | 15,734 | 214 | 0 | 98.66 | 1.34 | 0.00 |
 | [Require Universities to Train Staff on Neurodiversity](634354.md) | 15,848 | 15,736 | 112 | 0 | 99.29 | 0.71 | 0.00 |
 | [Reverse the decision not to proceed with the Animal Welfare (Kept Animals) Bill](638720.md) | 15,607 | 15,390 | 217 | 0 | 98.61 | 1.39 | 0.00 |
 | [Extend date for existing students to switch to Skilled Worker visa](641313.md) | 15,108 | 14,799 | 309 | 0 | 97.95 | 2.05 | 0.00 |
 | [Make dogs attacking other pets a specific criminal offence](637398.md) | 14,232 | 14,179 | 53 | 0 | 99.63 | 0.37 | 0.00 |
 | [Amend the Gender Recognition Act to allow for posthumous and expedited grants](633194.md) | 13,777 | 13,569 | 208 | 0 | 98.49 | 1.51 | 0.00 |
 | [Create a Government exam board to make new language GCSEs based on census data](636788.md) | 13,368 | 13,299 | 69 | 0 | 99.48 | 0.52 | 0.00 |
-| [Stop all new oil and gas developments](640606.md) | 13,299 | 13,068 | 231 | 0 | 98.26 | 1.74 | 0.00 |
+| [Stop all new oil and gas developments](640606.md) | 13,302 | 13,071 | 231 | 0 | 98.26 | 1.74 | 0.00 |
 | [Free prescriptions for all cystic fibrosis (CF) patients](633794.md) | 13,060 | 12,978 | 82 | 0 | 99.37 | 0.63 | 0.00 |
 | [Athena’s Law: Introduce new requirements for drivers who hit a cat](633536.md) | 13,024 | 12,909 | 115 | 0 | 99.12 | 0.88 | 0.00 |
 | [Allow Serbian citizens to visit the UK for up to 90 days without a visa](636456.md) | 13,009 | 12,221 | 788 | 0 | 93.94 | 6.06 | 0.00 |
 | [Launch a Public Inquiry into excess mortality in England and Wales](639085.md) | 12,928 | 12,568 | 360 | 0 | 97.22 | 2.78 | 0.00 |
-| [Extend the older person's bus pass to cover free train travel](635105.md) | 12,749 | 12,720 | 29 | 0 | 99.77 | 0.23 | 0.00 |
+| [Extend the older person's bus pass to cover free train travel](635105.md) | 12,851 | 12,822 | 29 | 0 | 99.77 | 0.23 | 0.00 |
 | [Introduce new requirements to protect students with allergies in school](633614.md) | 12,598 | 12,556 | 42 | 0 | 99.67 | 0.33 | 0.00 |
 | [Increase funding for special educational needs and disabilities (SEND) education](634116.md) | 12,276 | 12,238 | 38 | 0 | 99.69 | 0.31 | 0.00 |
 | [Hold referendums on joining new trade blocks eg CPTPP](635583.md) | 11,954 | 11,631 | 323 | 0 | 97.30 | 2.70 | 0.00 |
 | [ Extend Bereavement Support Payments (BSP) for widowed parents ](633097.md) | 11,789 | 11,706 | 83 | 0 | 99.30 | 0.70 | 0.00 |
-| [Allow disabled people to keep all their benefits if they move in with a partner](633298.md) | 11,425 | 11,253 | 172 | 0 | 98.49 | 1.51 | 0.00 |
+| [Allow disabled people to keep all their benefits if they move in with a partner](633298.md) | 11,426 | 11,254 | 172 | 0 | 98.49 | 1.51 | 0.00 |
