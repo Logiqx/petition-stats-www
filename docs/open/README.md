@@ -4,20 +4,20 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-08-16 01:30:04
+Last refreshed 2023-08-16 02:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 103,132 | 100,906 | 2,226 | 0 | 97.84 | 2.16 | 0.00 |
 | [Require train operators keep ticket offices and platform staff at train stations](636542.md) | 73,578 | 73,171 | 407 | 0 | 99.45 | 0.55 | 0.00 |
 | [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 63,783 | 63,454 | 329 | 0 | 99.48 | 0.52 | 0.00 |
-| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 61,286 | 60,634 | 652 | 0 | 98.94 | 1.06 | 0.00 |
+| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 61,288 | 60,636 | 652 | 0 | 98.94 | 1.06 | 0.00 |
 | [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 61,002 | 60,717 | 285 | 0 | 99.53 | 0.47 | 0.00 |
 | [Require education staff to be trained on learning disabilities and autism](639050.md) | 54,229 | 53,928 | 301 | 0 | 99.44 | 0.56 | 0.00 |
-| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 40,063 | 39,904 | 159 | 0 | 99.60 | 0.40 | 0.00 |
+| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 40,067 | 39,908 | 159 | 0 | 99.60 | 0.40 | 0.00 |
 | [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 36,581 | 36,176 | 405 | 0 | 98.89 | 1.11 | 0.00 |
 | [Stop deep-sea mining](636545.md) | 33,496 | 33,036 | 460 | 0 | 98.63 | 1.37 | 0.00 |
-| [Introduce new laws to force offenders to be present in court for sentencing](636546.md) | 31,173 | 31,012 | 161 | 0 | 99.48 | 0.52 | 0.00 |
+| [Introduce new laws to force offenders to be present in court for sentencing](636546.md) | 31,174 | 31,013 | 161 | 0 | 99.48 | 0.52 | 0.00 |
 | [Increase the state pension to equal 35 hours a week at the National Living Wage](636088.md) | 29,744 | 29,240 | 504 | 0 | 98.31 | 1.69 | 0.00 |
 | [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 28,985 | 28,928 | 57 | 0 | 99.80 | 0.20 | 0.00 |
 | [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 28,643 | 28,030 | 613 | 0 | 97.86 | 2.14 | 0.00 |
@@ -28,23 +28,23 @@ Last refreshed 2023-08-16 01:30:04
 | [Protect the Environmental Information Regulations (EIR) 2004](633609.md) | 24,672 | 24,581 | 91 | 0 | 99.63 | 0.37 | 0.00 |
 | [Make school uniform VAT exempt](633778.md) | 24,493 | 24,455 | 38 | 0 | 99.84 | 0.16 | 0.00 |
 | [Abolish Council Tax for State Pensioners](635079.md) | 22,312 | 22,269 | 43 | 0 | 99.81 | 0.19 | 0.00 |
-| [Recognize period underwear as a menstrual product and remove the  20%VAT on them](635692.md) | 21,688 | 21,594 | 94 | 0 | 99.57 | 0.43 | 0.00 |
+| [Recognize period underwear as a menstrual product and remove the  20%VAT on them](635692.md) | 21,696 | 21,602 | 94 | 0 | 99.57 | 0.43 | 0.00 |
 | [Stop UK pensioners paying income tax on their state pension](635729.md) | 21,623 | 21,436 | 187 | 0 | 99.14 | 0.86 | 0.00 |
 | [Sanction individuals responsible for Sino-British Joint Declaration breaches](640649.md) | 20,650 | 18,200 | 2,450 | 0 | 88.14 | 11.86 | 0.00 |
 | [Condemn Israel for their actions against Palestinians and impose trade ban](636256.md) | 19,952 | 19,837 | 115 | 0 | 99.42 | 0.58 | 0.00 |
-| [Do Not Leave the European Convention on Human Rights](636358.md) | 19,079 | 18,668 | 411 | 0 | 97.85 | 2.15 | 0.00 |
+| [Do Not Leave the European Convention on Human Rights](636358.md) | 19,080 | 18,669 | 411 | 0 | 97.85 | 2.15 | 0.00 |
 | [Require public referendums on 15-minute town and city policies](633819.md) | 18,726 | 18,608 | 118 | 0 | 99.37 | 0.63 | 0.00 |
 | [Fund non-consolidated payments for organisations providing NHS funded services](638701.md) | 18,367 | 18,322 | 45 | 0 | 99.75 | 0.25 | 0.00 |
 | [Make chanting about tragedies and death at a football match a criminal offence](636134.md) | 17,815 | 17,405 | 410 | 0 | 97.70 | 2.30 | 0.00 |
-| [Provide dedicated funding for diagnosis/treatment of hypermobile EDS and HSD](637313.md) | 17,497 | 17,372 | 125 | 0 | 99.29 | 0.71 | 0.00 |
+| [Provide dedicated funding for diagnosis/treatment of hypermobile EDS and HSD](637313.md) | 17,498 | 17,373 | 125 | 0 | 99.29 | 0.71 | 0.00 |
 | [Identify and sanction individuals from Pakistan involved in illegal activities](635202.md) | 17,144 | 15,656 | 1,488 | 0 | 91.32 | 8.68 | 0.00 |
 | [Hold a referendum on ending devolution in Scotland](634090.md) | 16,478 | 16,347 | 131 | 0 | 99.21 | 0.79 | 0.00 |
-| [Do not increase visa fees and the Immigration Health Surcharge](641140.md) | 16,012 | 15,797 | 215 | 0 | 98.66 | 1.34 | 0.00 |
+| [Do not increase visa fees and the Immigration Health Surcharge](641140.md) | 16,013 | 15,798 | 215 | 0 | 98.66 | 1.34 | 0.00 |
 | [Require Universities to Train Staff on Neurodiversity](634354.md) | 15,850 | 15,738 | 112 | 0 | 99.29 | 0.71 | 0.00 |
 | [Reverse the decision not to proceed with the Animal Welfare (Kept Animals) Bill](638720.md) | 15,624 | 15,406 | 218 | 0 | 98.60 | 1.40 | 0.00 |
-| [Extend date for existing students to switch to Skilled Worker visa](641313.md) | 15,109 | 14,800 | 309 | 0 | 97.95 | 2.05 | 0.00 |
+| [Extend date for existing students to switch to Skilled Worker visa](641313.md) | 15,112 | 14,803 | 309 | 0 | 97.96 | 2.04 | 0.00 |
 | [Make dogs attacking other pets a specific criminal offence](637398.md) | 14,234 | 14,181 | 53 | 0 | 99.63 | 0.37 | 0.00 |
-| [Extend the older person's bus pass to cover free train travel](635105.md) | 13,425 | 13,396 | 29 | 0 | 99.78 | 0.22 | 0.00 |
+| [Extend the older person's bus pass to cover free train travel](635105.md) | 13,433 | 13,404 | 29 | 0 | 99.78 | 0.22 | 0.00 |
 | [Create a Government exam board to make new language GCSEs based on census data](636788.md) | 13,368 | 13,299 | 69 | 0 | 99.48 | 0.52 | 0.00 |
 | [Stop all new oil and gas developments](640606.md) | 13,317 | 13,085 | 232 | 0 | 98.26 | 1.74 | 0.00 |
 | [Free prescriptions for all cystic fibrosis (CF) patients](633794.md) | 13,074 | 12,992 | 82 | 0 | 99.37 | 0.63 | 0.00 |
