@@ -4,15 +4,15 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-08-20 03:30:04
+Last refreshed 2023-08-20 04:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 103,249 | 101,022 | 2,227 | 0 | 97.84 | 2.16 | 0.00 |
-| [Require train operators keep ticket offices and platform staff at train stations](636542.md) | 75,347 | 74,924 | 423 | 0 | 99.44 | 0.56 | 0.00 |
-| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 71,716 | 70,980 | 736 | 0 | 98.97 | 1.03 | 0.00 |
+| [Require train operators keep ticket offices and platform staff at train stations](636542.md) | 75,349 | 74,926 | 423 | 0 | 99.44 | 0.56 | 0.00 |
+| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 71,726 | 70,990 | 736 | 0 | 98.97 | 1.03 | 0.00 |
 | [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 63,841 | 63,511 | 330 | 0 | 99.48 | 0.52 | 0.00 |
-| [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 61,048 | 60,763 | 285 | 0 | 99.53 | 0.47 | 0.00 |
+| [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 61,049 | 60,764 | 285 | 0 | 99.53 | 0.47 | 0.00 |
 | [Require education staff to be trained on learning disabilities and autism](639050.md) | 54,479 | 54,175 | 304 | 0 | 99.44 | 0.56 | 0.00 |
 | [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 42,348 | 42,183 | 165 | 0 | 99.61 | 0.39 | 0.00 |
 | [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 36,632 | 36,227 | 405 | 0 | 98.89 | 1.11 | 0.00 |
@@ -20,7 +20,7 @@ Last refreshed 2023-08-20 03:30:04
 | [Introduce new laws to force offenders to be present in court for sentencing](636546.md) | 32,350 | 32,177 | 173 | 0 | 99.47 | 0.53 | 0.00 |
 | [Increase the state pension to equal 35 hours a week at the National Living Wage](636088.md) | 29,998 | 29,487 | 511 | 0 | 98.30 | 1.70 | 0.00 |
 | [Make pet abduction a specific criminal offence](640101.md) | 29,086 | 28,773 | 313 | 0 | 98.92 | 1.08 | 0.00 |
-| [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 29,026 | 28,969 | 57 | 0 | 99.80 | 0.20 | 0.00 |
+| [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 29,027 | 28,970 | 57 | 0 | 99.80 | 0.20 | 0.00 |
 | [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 28,656 | 28,043 | 613 | 0 | 97.86 | 2.14 | 0.00 |
 | [Amend the 1999 GLA Act to remove the Mayor's power to impose road use charges](633550.md) | 27,259 | 27,199 | 60 | 0 | 99.78 | 0.22 | 0.00 |
 | [Allow people to pay their mortgage through salary sacrifice](633889.md) | 26,761 | 26,727 | 34 | 0 | 99.87 | 0.13 | 0.00 |
@@ -34,10 +34,10 @@ Last refreshed 2023-08-20 03:30:04
 | [Condemn Israel for their actions against Palestinians and impose trade ban](636256.md) | 19,961 | 19,846 | 115 | 0 | 99.42 | 0.58 | 0.00 |
 | [Do Not Leave the European Convention on Human Rights](636358.md) | 19,273 | 18,858 | 415 | 0 | 97.85 | 2.15 | 0.00 |
 | [Require public referendums on 15-minute town and city policies](633819.md) | 18,743 | 18,625 | 118 | 0 | 99.37 | 0.63 | 0.00 |
-| [Extend the older person's bus pass to cover free train travel](635105.md) | 18,544 | 18,505 | 39 | 0 | 99.79 | 0.21 | 0.00 |
+| [Extend the older person's bus pass to cover free train travel](635105.md) | 18,545 | 18,506 | 39 | 0 | 99.79 | 0.21 | 0.00 |
 | [Fund non-consolidated payments for organisations providing NHS funded services](638701.md) | 18,372 | 18,327 | 45 | 0 | 99.76 | 0.24 | 0.00 |
 | [Make chanting about tragedies and death at a football match a criminal offence](636134.md) | 17,824 | 17,414 | 410 | 0 | 97.70 | 2.30 | 0.00 |
-| [Provide dedicated funding for diagnosis/treatment of hypermobile EDS and HSD](637313.md) | 17,723 | 17,598 | 125 | 0 | 99.29 | 0.71 | 0.00 |
+| [Provide dedicated funding for diagnosis/treatment of hypermobile EDS and HSD](637313.md) | 17,724 | 17,599 | 125 | 0 | 99.29 | 0.71 | 0.00 |
 | [Identify and sanction individuals from Pakistan involved in illegal activities](635202.md) | 17,159 | 15,671 | 1,488 | 0 | 91.33 | 8.67 | 0.00 |
 | [Do not increase visa fees and the Immigration Health Surcharge](641140.md) | 16,661 | 16,438 | 223 | 0 | 98.66 | 1.34 | 0.00 |
 | [Hold a referendum on ending devolution in Scotland](634090.md) | 16,493 | 16,362 | 131 | 0 | 99.21 | 0.79 | 0.00 |
@@ -53,7 +53,7 @@ Last refreshed 2023-08-20 03:30:04
 | [Launch a Public Inquiry into excess mortality in England and Wales](639085.md) | 12,971 | 12,608 | 363 | 0 | 97.20 | 2.80 | 0.00 |
 | [Introduce new requirements to protect students with allergies in school](633614.md) | 12,701 | 12,659 | 42 | 0 | 99.67 | 0.33 | 0.00 |
 | [Increase funding for special educational needs and disabilities (SEND) education](634116.md) | 12,292 | 12,253 | 39 | 0 | 99.68 | 0.32 | 0.00 |
-| [Make a UK law requiring all establishments to accept cash](636557.md) | 12,280 | 12,191 | 89 | 0 | 99.28 | 0.72 | 0.00 |
+| [Make a UK law requiring all establishments to accept cash](636557.md) | 12,285 | 12,196 | 89 | 0 | 99.28 | 0.72 | 0.00 |
 | [Hold referendums on joining new trade blocks eg CPTPP](635583.md) | 11,958 | 11,635 | 323 | 0 | 97.30 | 2.70 | 0.00 |
 | [Make MPs who are absent from their constituency and Parliament subject to recall](641224.md) | 11,253 | 10,953 | 300 | 0 | 97.33 | 2.67 | 0.00 |
 | [Set up a Public Inquiry into age discrimination and ageism in the UK](639611.md) | 11,083 | 11,030 | 53 | 0 | 99.52 | 0.48 | 0.00 |
