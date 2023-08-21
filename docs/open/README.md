@@ -4,20 +4,20 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-08-21 02:30:05
+Last refreshed 2023-08-21 03:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 103,273 | 101,046 | 2,227 | 0 | 97.84 | 2.16 | 0.00 |
 | [Require train operators keep ticket offices and platform staff at train stations](636542.md) | 75,776 | 75,352 | 424 | 0 | 99.44 | 0.56 | 0.00 |
-| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 73,426 | 72,675 | 751 | 0 | 98.98 | 1.02 | 0.00 |
+| [End the use of animals for toxicity tests & prioritise non-animal methods (NAMs)](633591.md) | 73,432 | 72,681 | 751 | 0 | 98.98 | 1.02 | 0.00 |
 | [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 63,846 | 63,516 | 330 | 0 | 99.48 | 0.52 | 0.00 |
 | [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 61,052 | 60,767 | 285 | 0 | 99.53 | 0.47 | 0.00 |
 | [Require education staff to be trained on learning disabilities and autism](639050.md) | 54,515 | 54,211 | 304 | 0 | 99.44 | 0.56 | 0.00 |
-| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 42,796 | 42,631 | 165 | 0 | 99.61 | 0.39 | 0.00 |
+| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 42,798 | 42,633 | 165 | 0 | 99.61 | 0.39 | 0.00 |
 | [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 36,637 | 36,232 | 405 | 0 | 98.89 | 1.11 | 0.00 |
 | [Stop deep-sea mining](636545.md) | 33,671 | 33,201 | 470 | 0 | 98.60 | 1.40 | 0.00 |
-| [Introduce new laws to force offenders to be present in court for sentencing](636546.md) | 32,833 | 32,657 | 176 | 0 | 99.46 | 0.54 | 0.00 |
+| [Introduce new laws to force offenders to be present in court for sentencing](636546.md) | 32,838 | 32,662 | 176 | 0 | 99.46 | 0.54 | 0.00 |
 | [Increase the state pension to equal 35 hours a week at the National Living Wage](636088.md) | 30,030 | 29,519 | 511 | 0 | 98.30 | 1.70 | 0.00 |
 | [Make pet abduction a specific criminal offence](640101.md) | 29,220 | 28,907 | 313 | 0 | 98.93 | 1.07 | 0.00 |
 | [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 29,031 | 28,974 | 57 | 0 | 99.80 | 0.20 | 0.00 |
@@ -48,7 +48,7 @@ Last refreshed 2023-08-21 02:30:05
 | [Make dogs attacking other pets a specific criminal offence](637398.md) | 14,308 | 14,253 | 55 | 0 | 99.62 | 0.38 | 0.00 |
 | [Stop all new oil and gas developments](640606.md) | 13,438 | 13,203 | 235 | 0 | 98.25 | 1.75 | 0.00 |
 | [Create a Government exam board to make new language GCSEs based on census data](636788.md) | 13,369 | 13,300 | 69 | 0 | 99.48 | 0.52 | 0.00 |
-| [Make a UK law requiring all establishments to accept cash](636557.md) | 13,237 | 13,142 | 95 | 0 | 99.28 | 0.72 | 0.00 |
+| [Make a UK law requiring all establishments to accept cash](636557.md) | 13,242 | 13,147 | 95 | 0 | 99.28 | 0.72 | 0.00 |
 | [Athena’s Law: Introduce new requirements for drivers who hit a cat](633536.md) | 13,054 | 12,938 | 116 | 0 | 99.11 | 0.89 | 0.00 |
 | [Allow Serbian citizens to visit the UK for up to 90 days without a visa](636456.md) | 13,014 | 12,226 | 788 | 0 | 93.94 | 6.06 | 0.00 |
 | [Launch a Public Inquiry into excess mortality in England and Wales](639085.md) | 12,975 | 12,612 | 363 | 0 | 97.20 | 2.80 | 0.00 |
