@@ -4,26 +4,26 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-09-09 01:30:06
+Last refreshed 2023-09-09 02:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 103,611 | 101,382 | 2,229 | 0 | 97.85 | 2.15 | 0.00 |
-| [Require train operators keep ticket offices and platform staff at train stations](636542.md) | 101,813 | 101,226 | 587 | 0 | 99.42 | 0.58 | 0.00 |
+| [Require train operators keep ticket offices and platform staff at train stations](636542.md) | 101,818 | 101,231 | 587 | 0 | 99.42 | 0.58 | 0.00 |
 | [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 63,928 | 63,598 | 330 | 0 | 99.48 | 0.52 | 0.00 |
 | [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 61,200 | 60,914 | 286 | 0 | 99.53 | 0.47 | 0.00 |
 | [Require education staff to be trained on learning disabilities and autism](639050.md) | 56,726 | 56,405 | 321 | 0 | 99.43 | 0.57 | 0.00 |
-| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 51,427 | 51,241 | 186 | 0 | 99.64 | 0.36 | 0.00 |
+| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 51,431 | 51,245 | 186 | 0 | 99.64 | 0.36 | 0.00 |
 | [Introduce new laws to force offenders to be present in court for sentencing](636546.md) | 38,719 | 38,490 | 229 | 0 | 99.41 | 0.59 | 0.00 |
 | [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 37,282 | 36,867 | 415 | 0 | 98.89 | 1.11 | 0.00 |
 | [Increase the state pension to equal 35 hours a week at the National Living Wage](636088.md) | 36,377 | 35,712 | 665 | 0 | 98.17 | 1.83 | 0.00 |
-| [Stop deep-sea mining](636545.md) | 34,161 | 33,665 | 496 | 0 | 98.55 | 1.45 | 0.00 |
+| [Stop deep-sea mining](636545.md) | 34,162 | 33,666 | 496 | 0 | 98.55 | 1.45 | 0.00 |
 | [Recognize period underwear as a menstrual product and remove the  20%VAT on them](635692.md) | 33,027 | 32,860 | 167 | 0 | 99.49 | 0.51 | 0.00 |
-| [Make pet abduction a specific criminal offence](640101.md) | 31,011 | 30,688 | 323 | 0 | 98.96 | 1.04 | 0.00 |
+| [Make pet abduction a specific criminal offence](640101.md) | 31,012 | 30,689 | 323 | 0 | 98.96 | 1.04 | 0.00 |
 | [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 29,201 | 29,142 | 59 | 0 | 99.80 | 0.20 | 0.00 |
 | [Create income replacement scheme for crew affected by writers and actors strikes](642539.md) | 29,013 | 28,811 | 202 | 0 | 99.30 | 0.70 | 0.00 |
 | [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 28,712 | 28,099 | 613 | 0 | 97.87 | 2.13 | 0.00 |
-| [Seek visa-free travel to Europe for BRP holders](635282.md) | 25,517 | 25,351 | 166 | 0 | 99.35 | 0.65 | 0.00 |
+| [Seek visa-free travel to Europe for BRP holders](635282.md) | 25,518 | 25,352 | 166 | 0 | 99.35 | 0.65 | 0.00 |
 | [Create a new regulatory body to hold NHS managers accountable](642631.md) | 24,115 | 23,935 | 180 | 0 | 99.25 | 0.75 | 0.00 |
 | [Abolish Council Tax for State Pensioners](635079.md) | 22,502 | 22,459 | 43 | 0 | 99.81 | 0.19 | 0.00 |
 | [Stop UK pensioners paying income tax on their state pension](635729.md) | 22,263 | 22,065 | 198 | 0 | 99.11 | 0.89 | 0.00 |
@@ -32,7 +32,7 @@ Last refreshed 2023-09-09 01:30:06
 | [Provide dedicated funding for diagnosis/treatment of hypermobile EDS and HSD](637313.md) | 20,628 | 20,474 | 154 | 0 | 99.25 | 0.75 | 0.00 |
 | [Condemn Israel for their actions against Palestinians and impose trade ban](636256.md) | 20,030 | 19,915 | 115 | 0 | 99.43 | 0.57 | 0.00 |
 | [Do Not Leave the European Convention on Human Rights](636358.md) | 19,573 | 19,157 | 416 | 0 | 97.87 | 2.13 | 0.00 |
-| [Make a UK law requiring all establishments to accept cash](636557.md) | 18,589 | 18,441 | 148 | 0 | 99.20 | 0.80 | 0.00 |
+| [Make a UK law requiring all establishments to accept cash](636557.md) | 18,591 | 18,443 | 148 | 0 | 99.20 | 0.80 | 0.00 |
 | [Fund non-consolidated payments for organisations providing NHS funded services](638701.md) | 18,403 | 18,358 | 45 | 0 | 99.76 | 0.24 | 0.00 |
 | [Make chanting about tragedies and death at a football match a criminal offence](636134.md) | 17,848 | 17,438 | 410 | 0 | 97.70 | 2.30 | 0.00 |
 | [Reverse the decision not to proceed with the Animal Welfare (Kept Animals) Bill](638720.md) | 17,812 | 17,581 | 231 | 0 | 98.70 | 1.30 | 0.00 |
@@ -40,7 +40,7 @@ Last refreshed 2023-09-09 01:30:06
 | [Identify and sanction individuals from Pakistan involved in illegal activities](635202.md) | 17,218 | 15,729 | 1,489 | 0 | 91.35 | 8.65 | 0.00 |
 | [Require Universities to Train Staff on Neurodiversity](634354.md) | 16,646 | 16,528 | 118 | 0 | 99.29 | 0.71 | 0.00 |
 | [Extend date for existing students to switch to Skilled Worker visa](641313.md) | 15,241 | 14,928 | 313 | 0 | 97.95 | 2.05 | 0.00 |
-| [Provide Ukrainian refugees with settled status to enable a stable life in the UK](642280.md) | 15,051 | 14,832 | 219 | 0 | 98.54 | 1.46 | 0.00 |
+| [Provide Ukrainian refugees with settled status to enable a stable life in the UK](642280.md) | 15,055 | 14,836 | 219 | 0 | 98.55 | 1.45 | 0.00 |
 | [Make dogs attacking other pets a specific criminal offence](637398.md) | 14,645 | 14,589 | 56 | 0 | 99.62 | 0.38 | 0.00 |
 | [Stop all new oil and gas developments](640606.md) | 13,833 | 13,593 | 240 | 0 | 98.27 | 1.73 | 0.00 |
 | [Ensure all GCSE students are issued equation sheets](637252.md) | 13,397 | 13,369 | 28 | 0 | 99.79 | 0.21 | 0.00 |
@@ -57,4 +57,4 @@ Last refreshed 2023-09-09 01:30:06
 | [Allow BN(O) holders to use e-gates at passport control](640994.md) | 10,632 | 10,298 | 334 | 0 | 96.86 | 3.14 | 0.00 |
 | [Create new requirements for dogs held under dangerous dogs legislation](635704.md) | 10,600 | 10,402 | 198 | 0 | 98.13 | 1.87 | 0.00 |
 | [A central register of Asbestos and phased removal of Asbestos from all buildings](635817.md) | 10,108 | 10,032 | 76 | 0 | 99.25 | 0.75 | 0.00 |
-| [Make knife crime prevention a compulsory requirement for all school curriculum](634860.md) | 10,010 | 9,898 | 112 | 0 | 98.88 | 1.12 | 0.00 |
+| [Make knife crime prevention a compulsory requirement for all school curriculum](634860.md) | 10,012 | 9,900 | 112 | 0 | 98.88 | 1.12 | 0.00 |
