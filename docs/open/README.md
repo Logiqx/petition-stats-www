@@ -4,15 +4,15 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-09-20 02:30:05
+Last refreshed 2023-09-20 03:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 552,330 | 549,580 | 2,750 | 0 | 99.50 | 0.50 | 0.00 |
+| [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 552,434 | 549,667 | 2,767 | 0 | 99.50 | 0.50 | 0.00 |
 | [Require train operators keep ticket offices and platform staff at train stations](636542.md) | 104,179 | 103,575 | 604 | 0 | 99.42 | 0.58 | 0.00 |
 | [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 103,813 | 101,580 | 2,233 | 0 | 97.85 | 2.15 | 0.00 |
 | [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 64,001 | 63,671 | 330 | 0 | 99.48 | 0.52 | 0.00 |
-| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 62,360 | 62,143 | 217 | 0 | 99.65 | 0.35 | 0.00 |
+| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 62,363 | 62,146 | 217 | 0 | 99.65 | 0.35 | 0.00 |
 | [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 61,420 | 61,133 | 287 | 0 | 99.53 | 0.47 | 0.00 |
 | [Require education staff to be trained on learning disabilities and autism](639050.md) | 57,882 | 57,559 | 323 | 0 | 99.44 | 0.56 | 0.00 |
 | [Introduce new laws to force offenders to be present in court for sentencing](636546.md) | 39,243 | 39,010 | 233 | 0 | 99.41 | 0.59 | 0.00 |
@@ -50,10 +50,10 @@ Last refreshed 2023-09-20 02:30:05
 | [Launch a Public Inquiry into excess mortality in England and Wales](639085.md) | 13,265 | 12,901 | 364 | 0 | 97.26 | 2.74 | 0.00 |
 | [Allow Serbian citizens to visit the UK for up to 90 days without a visa](636456.md) | 13,061 | 12,272 | 789 | 0 | 93.96 | 6.04 | 0.00 |
 | [Make MPs who are absent from their constituency and Parliament subject to recall](641224.md) | 12,853 | 12,520 | 333 | 0 | 97.41 | 2.59 | 0.00 |
-| [Introduce 'Grow Your Own' Laws for Legal Medical Cannabis Patients (CBPM)](635748.md) | 12,347 | 12,218 | 129 | 0 | 98.96 | 1.04 | 0.00 |
+| [Introduce 'Grow Your Own' Laws for Legal Medical Cannabis Patients (CBPM)](635748.md) | 12,348 | 12,219 | 129 | 0 | 98.96 | 1.04 | 0.00 |
 | [Hold referendums on joining new trade blocks eg CPTPP](635583.md) | 11,980 | 11,655 | 325 | 0 | 97.29 | 2.71 | 0.00 |
 | [Allow Healthcare Workers on skilled worker visas to work for any employer](637091.md) | 11,662 | 11,510 | 152 | 0 | 98.70 | 1.30 | 0.00 |
-| [Provide dairy-free alternatives as part of the national milk scheme for under 5s](639254.md) | 11,606 | 11,568 | 38 | 0 | 99.67 | 0.33 | 0.00 |
+| [Provide dairy-free alternatives as part of the national milk scheme for under 5s](639254.md) | 11,608 | 11,570 | 38 | 0 | 99.67 | 0.33 | 0.00 |
 | [Record the number of bereaved children to ensure they are supported](636718.md) | 11,193 | 11,110 | 83 | 0 | 99.26 | 0.74 | 0.00 |
 | [Set up a Public Inquiry into age discrimination and ageism in the UK](639611.md) | 11,154 | 11,101 | 53 | 0 | 99.52 | 0.48 | 0.00 |
 | [Create new requirements for dogs held under dangerous dogs legislation](635704.md) | 10,845 | 10,647 | 198 | 0 | 98.17 | 1.83 | 0.00 |
