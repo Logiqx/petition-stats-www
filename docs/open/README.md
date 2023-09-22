@@ -4,14 +4,14 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-09-22 02:30:04
+Last refreshed 2023-09-22 03:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 566,115 | 562,745 | 3,370 | 0 | 99.40 | 0.60 | 0.00 |
+| [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 566,151 | 562,775 | 3,376 | 0 | 99.40 | 0.60 | 0.00 |
 | [Require train operators keep ticket offices and platform staff at train stations](636542.md) | 104,398 | 103,793 | 605 | 0 | 99.42 | 0.58 | 0.00 |
 | [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 103,871 | 101,636 | 2,235 | 0 | 97.85 | 2.15 | 0.00 |
-| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 66,019 | 65,796 | 223 | 0 | 99.66 | 0.34 | 0.00 |
+| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 66,030 | 65,807 | 223 | 0 | 99.66 | 0.34 | 0.00 |
 | [Urgently review the current Ofsted Framework and associated methodology](635055.md) | 64,018 | 63,688 | 330 | 0 | 99.48 | 0.52 | 0.00 |
 | [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 61,450 | 61,163 | 287 | 0 | 99.53 | 0.47 | 0.00 |
 | [Require education staff to be trained on learning disabilities and autism](639050.md) | 58,315 | 57,990 | 325 | 0 | 99.44 | 0.56 | 0.00 |
@@ -25,7 +25,7 @@ Last refreshed 2023-09-22 02:30:04
 | [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 29,260 | 29,201 | 59 | 0 | 99.80 | 0.20 | 0.00 |
 | [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 28,774 | 28,157 | 617 | 0 | 97.86 | 2.14 | 0.00 |
 | [Make XL Bully a banned dog breed in the Dangerous Dogs Act](642809.md) | 26,151 | 26,020 | 131 | 0 | 99.50 | 0.50 | 0.00 |
-| [Reform the Grocery Supply Code of Practice to better protect farmers](643216.md) | 26,083 | 26,009 | 74 | 0 | 99.72 | 0.28 | 0.00 |
+| [Reform the Grocery Supply Code of Practice to better protect farmers](643216.md) | 26,095 | 26,020 | 75 | 0 | 99.71 | 0.29 | 0.00 |
 | [Seek visa-free travel to Europe for BRP holders](635282.md) | 25,611 | 25,445 | 166 | 0 | 99.35 | 0.65 | 0.00 |
 | [Create a new regulatory body to hold NHS managers accountable](642631.md) | 24,833 | 24,650 | 183 | 0 | 99.26 | 0.74 | 0.00 |
 | [Abolish Council Tax for State Pensioners](635079.md) | 22,730 | 22,687 | 43 | 0 | 99.81 | 0.19 | 0.00 |
@@ -33,17 +33,17 @@ Last refreshed 2023-09-22 02:30:04
 | [Extend the older person's bus pass to cover free train travel](635105.md) | 21,872 | 21,820 | 52 | 0 | 99.76 | 0.24 | 0.00 |
 | [Provide dedicated funding for diagnosis/treatment of hypermobile EDS and HSD](637313.md) | 21,384 | 21,229 | 155 | 0 | 99.28 | 0.72 | 0.00 |
 | [Sanction individuals responsible for Sino-British Joint Declaration breaches](640649.md) | 21,117 | 18,611 | 2,506 | 0 | 88.13 | 11.87 | 0.00 |
-| [Provide Ukrainian refugees with settled status to enable a stable life in the UK](642280.md) | 20,597 | 20,295 | 302 | 0 | 98.53 | 1.47 | 0.00 |
+| [Provide Ukrainian refugees with settled status to enable a stable life in the UK](642280.md) | 20,598 | 20,296 | 302 | 0 | 98.53 | 1.47 | 0.00 |
 | [Condemn Israel for their actions against Palestinians and impose trade ban](636256.md) | 20,093 | 19,977 | 116 | 0 | 99.42 | 0.58 | 0.00 |
 | [Make a UK law requiring all establishments to accept cash](636557.md) | 19,821 | 19,670 | 151 | 0 | 99.24 | 0.76 | 0.00 |
 | [Do Not Leave the European Convention on Human Rights](636358.md) | 19,698 | 19,280 | 418 | 0 | 97.88 | 2.12 | 0.00 |
-| [Do not increase visa fees and the Immigration Health Surcharge](641140.md) | 18,528 | 18,275 | 253 | 0 | 98.63 | 1.37 | 0.00 |
+| [Do not increase visa fees and the Immigration Health Surcharge](641140.md) | 18,529 | 18,276 | 253 | 0 | 98.63 | 1.37 | 0.00 |
 | [Fund non-consolidated payments for organisations providing NHS funded services](638701.md) | 18,413 | 18,368 | 45 | 0 | 99.76 | 0.24 | 0.00 |
 | [Reverse the decision not to proceed with the Animal Welfare (Kept Animals) Bill](638720.md) | 18,024 | 17,791 | 233 | 0 | 98.71 | 1.29 | 0.00 |
 | [Make chanting about tragedies and death at a football match a criminal offence](636134.md) | 17,882 | 17,472 | 410 | 0 | 97.71 | 2.29 | 0.00 |
 | [Identify and sanction individuals from Pakistan involved in illegal activities](635202.md) | 17,259 | 15,770 | 1,489 | 0 | 91.37 | 8.63 | 0.00 |
-| [Hold a referendum on ending devolution in Wales](643987.md) | 16,810 | 16,797 | 13 | 0 | 99.92 | 0.08 | 0.00 |
-| [Introduce mandatory neutering of pet cats](643251.md) | 15,485 | 15,412 | 73 | 0 | 99.53 | 0.47 | 0.00 |
+| [Hold a referendum on ending devolution in Wales](643987.md) | 16,844 | 16,831 | 13 | 0 | 99.92 | 0.08 | 0.00 |
+| [Introduce mandatory neutering of pet cats](643251.md) | 15,488 | 15,415 | 73 | 0 | 99.53 | 0.47 | 0.00 |
 | [Extend date for existing students to switch to Skilled Worker visa](641313.md) | 15,275 | 14,961 | 314 | 0 | 97.94 | 2.06 | 0.00 |
 | [Make dogs attacking other pets a specific criminal offence](637398.md) | 15,091 | 15,035 | 56 | 0 | 99.63 | 0.37 | 0.00 |
 | [Ensure all GCSE students are issued equation sheets](637252.md) | 14,733 | 14,703 | 30 | 0 | 99.80 | 0.20 | 0.00 |
