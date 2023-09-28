@@ -4,24 +4,24 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-09-28 02:30:05
+Last refreshed 2023-09-28 03:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 578,969 | 575,193 | 3,776 | 0 | 99.35 | 0.65 | 0.00 |
+| [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 578,976 | 575,199 | 3,777 | 0 | 99.35 | 0.65 | 0.00 |
 | [Require train operators keep ticket offices and platform staff at train stations](636542.md) | 104,886 | 104,280 | 606 | 0 | 99.42 | 0.58 | 0.00 |
 | [Hold a parliamentary vote on whether to reject amendments to the IHR 2005](635904.md) | 103,949 | 101,711 | 2,238 | 0 | 97.85 | 2.15 | 0.00 |
-| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 76,275 | 76,032 | 243 | 0 | 99.68 | 0.32 | 0.00 |
+| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 76,291 | 76,048 | 243 | 0 | 99.68 | 0.32 | 0.00 |
 | [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 61,535 | 61,248 | 287 | 0 | 99.53 | 0.47 | 0.00 |
 | [Require education staff to be trained on learning disabilities and autism](639050.md) | 59,417 | 59,090 | 327 | 0 | 99.45 | 0.55 | 0.00 |
-| [Reform the Grocery Supply Code of Practice to better protect farmers](643216.md) | 43,087 | 42,938 | 149 | 0 | 99.65 | 0.35 | 0.00 |
+| [Reform the Grocery Supply Code of Practice to better protect farmers](643216.md) | 43,094 | 42,945 | 149 | 0 | 99.65 | 0.35 | 0.00 |
 | [Introduce new laws to force offenders to be present in court for sentencing](636546.md) | 39,555 | 39,321 | 234 | 0 | 99.41 | 0.59 | 0.00 |
 | [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 37,676 | 37,256 | 420 | 0 | 98.89 | 1.11 | 0.00 |
 | [Increase the state pension to equal 35 hours a week at the National Living Wage](636088.md) | 37,580 | 36,899 | 681 | 0 | 98.19 | 1.81 | 0.00 |
 | [Recognize period underwear as a menstrual product and remove the  20%VAT on them](635692.md) | 35,311 | 35,131 | 180 | 0 | 99.49 | 0.51 | 0.00 |
 | [Make pet abduction a specific criminal offence](640101.md) | 34,970 | 34,632 | 338 | 0 | 99.03 | 0.97 | 0.00 |
 | [Stop deep-sea mining](636545.md) | 34,646 | 34,126 | 520 | 0 | 98.50 | 1.50 | 0.00 |
-| [Hold a referendum on ending devolution in Wales](643987.md) | 31,689 | 31,656 | 33 | 0 | 99.90 | 0.10 | 0.00 |
+| [Hold a referendum on ending devolution in Wales](643987.md) | 31,696 | 31,663 | 33 | 0 | 99.90 | 0.10 | 0.00 |
 | [Create income replacement scheme for crew affected by writers and actors strikes](642539.md) | 30,184 | 29,972 | 212 | 0 | 99.30 | 0.70 | 0.00 |
 | [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 29,294 | 29,235 | 59 | 0 | 99.80 | 0.20 | 0.00 |
 | [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 28,802 | 28,185 | 617 | 0 | 97.86 | 2.14 | 0.00 |
@@ -36,7 +36,7 @@ Last refreshed 2023-09-28 02:30:05
 | [Do Not Leave the European Convention on Human Rights](636358.md) | 19,838 | 19,418 | 420 | 0 | 97.88 | 2.12 | 0.00 |
 | [Do not increase visa fees and the Immigration Health Surcharge](641140.md) | 18,715 | 18,457 | 258 | 0 | 98.62 | 1.38 | 0.00 |
 | [Fund non-consolidated payments for organisations providing NHS funded services](638701.md) | 18,415 | 18,370 | 45 | 0 | 99.76 | 0.24 | 0.00 |
-| [Introduce mandatory neutering of pet cats](643251.md) | 18,133 | 18,047 | 86 | 0 | 99.53 | 0.47 | 0.00 |
+| [Introduce mandatory neutering of pet cats](643251.md) | 18,134 | 18,048 | 86 | 0 | 99.53 | 0.47 | 0.00 |
 | [Reverse the decision not to proceed with the Animal Welfare (Kept Animals) Bill](638720.md) | 18,053 | 17,817 | 236 | 0 | 98.69 | 1.31 | 0.00 |
 | [Make chanting about tragedies and death at a football match a criminal offence](636134.md) | 17,887 | 17,477 | 410 | 0 | 97.71 | 2.29 | 0.00 |
 | [Extend date for existing students to switch to Skilled Worker visa](641313.md) | 15,287 | 14,973 | 314 | 0 | 97.95 | 2.05 | 0.00 |
@@ -50,7 +50,7 @@ Last refreshed 2023-09-28 02:30:05
 | [Introduce 'Grow Your Own' Laws for Legal Medical Cannabis Patients (CBPM)](635748.md) | 12,473 | 12,343 | 130 | 0 | 98.96 | 1.04 | 0.00 |
 | [Hold referendums on joining new trade blocks eg CPTPP](635583.md) | 11,984 | 11,659 | 325 | 0 | 97.29 | 2.71 | 0.00 |
 | [Provide dairy-free alternatives as part of the national milk scheme for under 5s](639254.md) | 11,926 | 11,886 | 40 | 0 | 99.66 | 0.34 | 0.00 |
-| [Pause the Energy Bill and hold a public referendum before proceeding](643533.md) | 11,799 | 11,702 | 97 | 0 | 99.18 | 0.82 | 0.00 |
+| [Pause the Energy Bill and hold a public referendum before proceeding](643533.md) | 11,801 | 11,704 | 97 | 0 | 99.18 | 0.82 | 0.00 |
 | [Allow Healthcare Workers on skilled worker visas to work for any employer](637091.md) | 11,718 | 11,565 | 153 | 0 | 98.69 | 1.31 | 0.00 |
 | [Record the number of bereaved children to ensure they are supported](636718.md) | 11,245 | 11,162 | 83 | 0 | 99.26 | 0.74 | 0.00 |
 | [Set up a Public Inquiry into age discrimination and ageism in the UK](639611.md) | 11,197 | 11,144 | 53 | 0 | 99.53 | 0.47 | 0.00 |
