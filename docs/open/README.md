@@ -4,35 +4,35 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-10-09 01:30:05
+Last refreshed 2023-10-09 02:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 587,650 | 583,750 | 3,900 | 0 | 99.34 | 0.66 | 0.00 |
-| [Call an immediate general election](641904.md) | 239,915 | 237,343 | 2,572 | 0 | 98.93 | 1.07 | 0.00 |
+| [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 587,654 | 583,754 | 3,900 | 0 | 99.34 | 0.66 | 0.00 |
+| [Call an immediate general election](641904.md) | 239,977 | 237,403 | 2,574 | 0 | 98.93 | 1.07 | 0.00 |
 | [Require train operators keep ticket offices and platform staff at train stations](636542.md) | 105,730 | 105,118 | 612 | 0 | 99.42 | 0.58 | 0.00 |
 | [Change the legal driving age to 15](640011.md) | 92,098 | 90,077 | 2,021 | 0 | 97.81 | 2.19 | 0.00 |
-| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 90,225 | 89,946 | 279 | 0 | 99.69 | 0.31 | 0.00 |
+| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 90,229 | 89,950 | 279 | 0 | 99.69 | 0.31 | 0.00 |
 | [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 77,290 | 76,850 | 440 | 0 | 99.43 | 0.57 | 0.00 |
 | [Require education staff to be trained on learning disabilities and autism](639050.md) | 62,525 | 62,178 | 347 | 0 | 99.45 | 0.55 | 0.00 |
 | [Reform the Grocery Supply Code of Practice to better protect farmers](643216.md) | 57,922 | 57,715 | 207 | 0 | 99.64 | 0.36 | 0.00 |
 | [Introduce new laws to force offenders to be present in court for sentencing](636546.md) | 39,828 | 39,593 | 235 | 0 | 99.41 | 0.59 | 0.00 |
-| [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 39,194 | 38,756 | 438 | 0 | 98.88 | 1.12 | 0.00 |
-| [Change the school week to a four day week](643506.md) | 37,228 | 35,423 | 1,805 | 0 | 95.15 | 4.85 | 0.00 |
+| [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 39,195 | 38,757 | 438 | 0 | 98.88 | 1.12 | 0.00 |
+| [Change the school week to a four day week](643506.md) | 37,230 | 35,425 | 1,805 | 0 | 95.15 | 4.85 | 0.00 |
 | [Make pet abduction a specific criminal offence](640101.md) | 36,388 | 36,035 | 353 | 0 | 99.03 | 0.97 | 0.00 |
-| [Hold a referendum on ending devolution in Wales](643987.md) | 36,296 | 36,256 | 40 | 0 | 99.89 | 0.11 | 0.00 |
+| [Hold a referendum on ending devolution in Wales](643987.md) | 36,297 | 36,257 | 40 | 0 | 99.89 | 0.11 | 0.00 |
 | [Stop deep-sea mining](636545.md) | 34,884 | 34,357 | 527 | 0 | 98.49 | 1.51 | 0.00 |
 | [Create income replacement scheme for crew affected by writers and actors strikes](642539.md) | 30,239 | 30,026 | 213 | 0 | 99.30 | 0.70 | 0.00 |
 | [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 29,334 | 29,275 | 59 | 0 | 99.80 | 0.20 | 0.00 |
 | [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 28,921 | 28,304 | 617 | 0 | 97.87 | 2.13 | 0.00 |
-| [Make XL Bully a banned dog breed in the Dangerous Dogs Act](642809.md) | 27,633 | 27,491 | 142 | 0 | 99.49 | 0.51 | 0.00 |
+| [Make XL Bully a banned dog breed in the Dangerous Dogs Act](642809.md) | 27,634 | 27,492 | 142 | 0 | 99.49 | 0.51 | 0.00 |
 | [Create a new regulatory body to hold NHS managers accountable](642631.md) | 25,127 | 24,941 | 186 | 0 | 99.26 | 0.74 | 0.00 |
 | [Provide dedicated funding for diagnosis/treatment of hypermobile EDS and HSD](637313.md) | 23,576 | 23,399 | 177 | 0 | 99.25 | 0.75 | 0.00 |
 | [Provide Ukrainian refugees with settled status to enable a stable life in the UK](642280.md) | 21,906 | 21,571 | 335 | 0 | 98.47 | 1.53 | 0.00 |
 | [Sanction individuals responsible for Sino-British Joint Declaration breaches](640649.md) | 21,236 | 18,728 | 2,508 | 0 | 88.19 | 11.81 | 0.00 |
-| [Do Not Leave the European Convention on Human Rights](636358.md) | 21,055 | 20,616 | 439 | 0 | 97.91 | 2.09 | 0.00 |
+| [Do Not Leave the European Convention on Human Rights](636358.md) | 21,056 | 20,617 | 439 | 0 | 97.92 | 2.08 | 0.00 |
 | [Make a UK law requiring all establishments to accept cash](636557.md) | 20,548 | 20,393 | 155 | 0 | 99.25 | 0.75 | 0.00 |
-| [Introduce mandatory neutering of pet cats](643251.md) | 20,004 | 19,909 | 95 | 0 | 99.53 | 0.47 | 0.00 |
+| [Introduce mandatory neutering of pet cats](643251.md) | 20,006 | 19,911 | 95 | 0 | 99.53 | 0.47 | 0.00 |
 | [Do not increase visa fees and the Immigration Health Surcharge](641140.md) | 19,032 | 18,773 | 259 | 0 | 98.64 | 1.36 | 0.00 |
 | [Fund non-consolidated payments for organisations providing NHS funded services](638701.md) | 18,437 | 18,392 | 45 | 0 | 99.76 | 0.24 | 0.00 |
 | [Reverse the decision not to proceed with the Animal Welfare (Kept Animals) Bill](638720.md) | 18,105 | 17,869 | 236 | 0 | 98.70 | 1.30 | 0.00 |
@@ -52,7 +52,7 @@ Last refreshed 2023-10-09 01:30:05
 | [Record the number of bereaved children to ensure they are supported](636718.md) | 11,316 | 11,233 | 83 | 0 | 99.27 | 0.73 | 0.00 |
 | [Set up a Public Inquiry into age discrimination and ageism in the UK](639611.md) | 11,224 | 11,171 | 53 | 0 | 99.53 | 0.47 | 0.00 |
 | [Allow BN(O) holders to use e-gates at passport control](640994.md) | 11,156 | 10,799 | 357 | 0 | 96.80 | 3.20 | 0.00 |
-| [Deport all foreign and dual nationals imprisoned for a year or more](642364.md) | 11,032 | 10,914 | 118 | 0 | 98.93 | 1.07 | 0.00 |
+| [Deport all foreign and dual nationals imprisoned for a year or more](642364.md) | 11,033 | 10,915 | 118 | 0 | 98.93 | 1.07 | 0.00 |
 | [Introduce statutory licensing and regulation of builders](636359.md) | 10,963 | 10,935 | 28 | 0 | 99.74 | 0.26 | 0.00 |
 | [Fund routine breast cancer screening from the age of 25](643712.md) | 10,848 | 10,822 | 26 | 0 | 99.76 | 0.24 | 0.00 |
 | [Find time to take the Clean Air (Human Rights) Bill through the House of Commons](639320.md) | 10,379 | 10,277 | 102 | 0 | 99.02 | 0.98 | 0.00 |
