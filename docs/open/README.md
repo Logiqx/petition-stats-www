@@ -4,28 +4,28 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-10-17 02:30:04
+Last refreshed 2023-10-17 03:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 589,710 | 585,795 | 3,915 | 0 | 99.34 | 0.66 | 0.00 |
-| [Call an immediate general election](641904.md) | 262,712 | 259,776 | 2,936 | 0 | 98.88 | 1.12 | 0.00 |
-| [Remain neutral in Israel-Palestine conflict and withdraw support for Israel](648225.md) | 109,438 | 108,430 | 1,008 | 0 | 99.08 | 0.92 | 0.00 |
-| [Require train operators keep ticket offices and platform staff at train stations](636542.md) | 106,065 | 105,452 | 613 | 0 | 99.42 | 0.58 | 0.00 |
-| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 100,805 | 100,487 | 318 | 0 | 99.68 | 0.32 | 0.00 |
+| [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 589,711 | 585,796 | 3,915 | 0 | 99.34 | 0.66 | 0.00 |
+| [Call an immediate general election](641904.md) | 262,719 | 259,782 | 2,937 | 0 | 98.88 | 1.12 | 0.00 |
+| [Remain neutral in Israel-Palestine conflict and withdraw support for Israel](648225.md) | 109,613 | 108,591 | 1,022 | 0 | 99.07 | 0.93 | 0.00 |
+| [Require train operators keep ticket offices and platform staff at train stations](636542.md) | 106,066 | 105,453 | 613 | 0 | 99.42 | 0.58 | 0.00 |
+| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 100,806 | 100,488 | 318 | 0 | 99.68 | 0.32 | 0.00 |
 | [Change the legal driving age to 15](640011.md) | 93,378 | 91,340 | 2,038 | 0 | 97.82 | 2.18 | 0.00 |
-| [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 77,833 | 77,387 | 446 | 0 | 99.43 | 0.57 | 0.00 |
-| [Require education staff to be trained on learning disabilities and autism](639050.md) | 64,131 | 63,775 | 356 | 0 | 99.44 | 0.56 | 0.00 |
-| [Reform the Grocery Supply Code of Practice to better protect farmers](643216.md) | 63,831 | 63,608 | 223 | 0 | 99.65 | 0.35 | 0.00 |
-| [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 39,594 | 39,150 | 444 | 0 | 98.88 | 1.12 | 0.00 |
-| [Change the school week to a four day week](643506.md) | 38,268 | 36,437 | 1,831 | 0 | 95.22 | 4.78 | 0.00 |
+| [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 77,834 | 77,388 | 446 | 0 | 99.43 | 0.57 | 0.00 |
+| [Require education staff to be trained on learning disabilities and autism](639050.md) | 64,132 | 63,776 | 356 | 0 | 99.44 | 0.56 | 0.00 |
+| [Reform the Grocery Supply Code of Practice to better protect farmers](643216.md) | 63,832 | 63,609 | 223 | 0 | 99.65 | 0.35 | 0.00 |
+| [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 39,595 | 39,151 | 444 | 0 | 98.88 | 1.12 | 0.00 |
+| [Change the school week to a four day week](643506.md) | 38,270 | 36,438 | 1,832 | 0 | 95.21 | 4.79 | 0.00 |
 | [Hold a referendum on ending devolution in Wales](643987.md) | 37,166 | 37,124 | 42 | 0 | 99.89 | 0.11 | 0.00 |
-| [Make pet abduction a specific criminal offence](640101.md) | 36,689 | 36,335 | 354 | 0 | 99.04 | 0.96 | 0.00 |
+| [Make pet abduction a specific criminal offence](640101.md) | 36,690 | 36,336 | 354 | 0 | 99.04 | 0.96 | 0.00 |
 | [Create income replacement scheme for crew affected by writers and actors strikes](642539.md) | 30,265 | 30,052 | 213 | 0 | 99.30 | 0.70 | 0.00 |
 | [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 29,370 | 29,310 | 60 | 0 | 99.80 | 0.20 | 0.00 |
 | [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 28,947 | 28,330 | 617 | 0 | 97.87 | 2.13 | 0.00 |
 | [Make XL Bully a banned dog breed in the Dangerous Dogs Act](642809.md) | 27,973 | 27,830 | 143 | 0 | 99.49 | 0.51 | 0.00 |
-| [Create a new regulatory body to hold NHS managers accountable](642631.md) | 25,188 | 25,002 | 186 | 0 | 99.26 | 0.74 | 0.00 |
+| [Create a new regulatory body to hold NHS managers accountable](642631.md) | 25,189 | 25,003 | 186 | 0 | 99.26 | 0.74 | 0.00 |
 | [Provide dedicated funding for diagnosis/treatment of hypermobile EDS and HSD](637313.md) | 24,400 | 24,210 | 190 | 0 | 99.22 | 0.78 | 0.00 |
 | [Provide Ukrainian refugees with settled status to enable a stable life in the UK](642280.md) | 22,019 | 21,683 | 336 | 0 | 98.47 | 1.53 | 0.00 |
 | [Sanction individuals responsible for Sino-British Joint Declaration breaches](640649.md) | 21,253 | 18,745 | 2,508 | 0 | 88.20 | 11.80 | 0.00 |
