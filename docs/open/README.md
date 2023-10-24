@@ -4,57 +4,57 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-10-24 07:30:04
+Last refreshed 2023-10-24 08:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 591,299 | 587,369 | 3,930 | 0 | 99.34 | 0.66 | 0.00 |
-| [Call an immediate general election](641904.md) | 268,077 | 265,075 | 3,002 | 0 | 98.88 | 1.12 | 0.00 |
-| [Urge the Israel Government to allow fuel, electricity and food into Gaza](648383.md) | 178,768 | 176,513 | 2,255 | 0 | 98.74 | 1.26 | 0.00 |
-| [Remain neutral in Israel-Palestine conflict and withdraw support for Israel](648225.md) | 141,906 | 140,554 | 1,352 | 0 | 99.05 | 0.95 | 0.00 |
-| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 101,770 | 101,449 | 321 | 0 | 99.68 | 0.32 | 0.00 |
-| [Change the legal driving age to 15](640011.md) | 93,929 | 91,881 | 2,048 | 0 | 97.82 | 2.18 | 0.00 |
-| [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 78,318 | 77,870 | 448 | 0 | 99.43 | 0.57 | 0.00 |
-| [Reform the Grocery Supply Code of Practice to better protect farmers](643216.md) | 69,534 | 69,291 | 243 | 0 | 99.65 | 0.35 | 0.00 |
-| [Require education staff to be trained on learning disabilities and autism](639050.md) | 65,151 | 64,788 | 363 | 0 | 99.44 | 0.56 | 0.00 |
+| [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 591,301 | 587,371 | 3,930 | 0 | 99.34 | 0.66 | 0.00 |
+| [Call an immediate general election](641904.md) | 268,090 | 265,088 | 3,002 | 0 | 98.88 | 1.12 | 0.00 |
+| [Urge the Israel Government to allow fuel, electricity and food into Gaza](648383.md) | 178,829 | 176,573 | 2,256 | 0 | 98.74 | 1.26 | 0.00 |
+| [Remain neutral in Israel-Palestine conflict and withdraw support for Israel](648225.md) | 141,924 | 140,572 | 1,352 | 0 | 99.05 | 0.95 | 0.00 |
+| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 101,772 | 101,451 | 321 | 0 | 99.68 | 0.32 | 0.00 |
+| [Change the legal driving age to 15](640011.md) | 93,932 | 91,884 | 2,048 | 0 | 97.82 | 2.18 | 0.00 |
+| [Make Eid al-Fitr and Eid al-Adha public holidays](637278.md) | 78,320 | 77,872 | 448 | 0 | 99.43 | 0.57 | 0.00 |
+| [Reform the Grocery Supply Code of Practice to better protect farmers](643216.md) | 69,571 | 69,328 | 243 | 0 | 99.65 | 0.35 | 0.00 |
+| [Require education staff to be trained on learning disabilities and autism](639050.md) | 65,155 | 64,792 | 363 | 0 | 99.44 | 0.56 | 0.00 |
 | [Do not require schools to tell parents their child is transgender/non-binary](636802.md) | 39,880 | 39,430 | 450 | 0 | 98.87 | 1.13 | 0.00 |
-| [Change the school week to a four day week](643506.md) | 38,628 | 36,774 | 1,854 | 0 | 95.20 | 4.80 | 0.00 |
-| [Hold a referendum on ending devolution in Wales](643987.md) | 38,319 | 38,277 | 42 | 0 | 99.89 | 0.11 | 0.00 |
+| [Change the school week to a four day week](643506.md) | 38,629 | 36,775 | 1,854 | 0 | 95.20 | 4.80 | 0.00 |
+| [Hold a referendum on ending devolution in Wales](643987.md) | 38,339 | 38,297 | 42 | 0 | 99.89 | 0.11 | 0.00 |
 | [Make pet abduction a specific criminal offence](640101.md) | 36,866 | 36,512 | 354 | 0 | 99.04 | 0.96 | 0.00 |
-| [Create income replacement scheme for crew affected by writers and actors strikes](642539.md) | 30,287 | 30,074 | 213 | 0 | 99.30 | 0.70 | 0.00 |
+| [Create income replacement scheme for crew affected by writers and actors strikes](642539.md) | 30,288 | 30,075 | 213 | 0 | 99.30 | 0.70 | 0.00 |
 | [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 29,389 | 29,329 | 60 | 0 | 99.80 | 0.20 | 0.00 |
 | [Create a Sudanese Family Scheme visa for Sudanese people affected by war](637279.md) | 29,009 | 28,392 | 617 | 0 | 97.87 | 2.13 | 0.00 |
 | [Make XL Bully a banned dog breed in the Dangerous Dogs Act](642809.md) | 28,131 | 27,988 | 143 | 0 | 99.49 | 0.51 | 0.00 |
-| [Create a new regulatory body to hold NHS managers accountable](642631.md) | 25,242 | 25,055 | 187 | 0 | 99.26 | 0.74 | 0.00 |
+| [Create a new regulatory body to hold NHS managers accountable](642631.md) | 25,244 | 25,057 | 187 | 0 | 99.26 | 0.74 | 0.00 |
 | [Provide dedicated funding for diagnosis/treatment of hypermobile EDS and HSD](637313.md) | 24,749 | 24,557 | 192 | 0 | 99.22 | 0.78 | 0.00 |
-| [Introduce mandatory neutering of pet cats](643251.md) | 24,081 | 23,959 | 122 | 0 | 99.49 | 0.51 | 0.00 |
+| [Introduce mandatory neutering of pet cats](643251.md) | 24,096 | 23,974 | 122 | 0 | 99.49 | 0.51 | 0.00 |
 | [Provide Ukrainian refugees with settled status to enable a stable life in the UK](642280.md) | 22,116 | 21,780 | 336 | 0 | 98.48 | 1.52 | 0.00 |
-| [Reverse the requirement for parents on UC to be available to work for 30 hours](635441.md) | 21,669 | 21,618 | 51 | 0 | 99.76 | 0.24 | 0.00 |
+| [Reverse the requirement for parents on UC to be available to work for 30 hours](635441.md) | 21,856 | 21,805 | 51 | 0 | 99.77 | 0.23 | 0.00 |
 | [Sanction individuals responsible for Sino-British Joint Declaration breaches](640649.md) | 21,275 | 18,767 | 2,508 | 0 | 88.21 | 11.79 | 0.00 |
-| [Make abuse or violence towards retail workers a standalone criminal offence](647093.md) | 19,722 | 19,704 | 18 | 0 | 99.91 | 0.09 | 0.00 |
+| [Make abuse or violence towards retail workers a standalone criminal offence](647093.md) | 19,803 | 19,785 | 18 | 0 | 99.91 | 0.09 | 0.00 |
 | [Do not increase visa fees and the Immigration Health Surcharge](641140.md) | 19,176 | 18,916 | 260 | 0 | 98.64 | 1.36 | 0.00 |
 | [Fund non-consolidated payments for organisations providing NHS funded services](638701.md) | 18,482 | 18,437 | 45 | 0 | 99.76 | 0.24 | 0.00 |
 | [Reverse the decision not to proceed with the Animal Welfare (Kept Animals) Bill](638720.md) | 18,151 | 17,915 | 236 | 0 | 98.70 | 1.30 | 0.00 |
 | [Ensure all GCSE students are issued equation sheets](637252.md) | 17,968 | 17,932 | 36 | 0 | 99.80 | 0.20 | 0.00 |
-| [Ban the use of dogs for testing and research purposes in the UK](645885.md) | 17,568 | 17,402 | 166 | 0 | 99.06 | 0.94 | 0.00 |
+| [Ban the use of dogs for testing and research purposes in the UK](645885.md) | 17,571 | 17,405 | 166 | 0 | 99.06 | 0.94 | 0.00 |
 | [Make the State Pension equal to Minimum Wage (40hr/wk 23+) to all from age 60](640356.md) | 16,039 | 15,696 | 343 | 0 | 97.86 | 2.14 | 0.00 |
 | [Make dogs attacking other pets a specific criminal offence](637398.md) | 15,536 | 15,480 | 56 | 0 | 99.64 | 0.36 | 0.00 |
 | [Extend date for existing students to switch to Skilled Worker visa](641313.md) | 15,341 | 15,025 | 316 | 0 | 97.94 | 2.06 | 0.00 |
-| [Stop all new oil and gas developments](640606.md) | 14,968 | 14,718 | 250 | 0 | 98.33 | 1.67 | 0.00 |
-| [Deport all foreign and dual nationals imprisoned for a year or more](642364.md) | 14,613 | 14,457 | 156 | 0 | 98.93 | 1.07 | 0.00 |
-| [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](648292.md) | 14,305 | 14,071 | 234 | 0 | 98.36 | 1.64 | 0.00 |
+| [Stop all new oil and gas developments](640606.md) | 14,969 | 14,719 | 250 | 0 | 98.33 | 1.67 | 0.00 |
+| [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](648292.md) | 14,644 | 14,407 | 237 | 0 | 98.38 | 1.62 | 0.00 |
+| [Deport all foreign and dual nationals imprisoned for a year or more](642364.md) | 14,635 | 14,479 | 156 | 0 | 98.93 | 1.07 | 0.00 |
 | [Launch a Public Inquiry into excess mortality in England and Wales](639085.md) | 13,845 | 13,470 | 375 | 0 | 97.29 | 2.71 | 0.00 |
 | [Fund the reopening of the three state-of-the-art Rutherford Cancer Centres](644753.md) | 13,615 | 13,508 | 107 | 0 | 99.21 | 0.79 | 0.00 |
 | [Create a Government exam board to make new language GCSEs based on census data](636788.md) | 13,430 | 13,361 | 69 | 0 | 99.49 | 0.51 | 0.00 |
 | [Make MPs who are absent from their constituency and Parliament subject to recall](641224.md) | 13,157 | 12,820 | 337 | 0 | 97.44 | 2.56 | 0.00 |
-| [Pause the Energy Bill and hold a public referendum before proceeding](643533.md) | 12,979 | 12,875 | 104 | 0 | 99.20 | 0.80 | 0.00 |
+| [Pause the Energy Bill and hold a public referendum before proceeding](643533.md) | 12,980 | 12,876 | 104 | 0 | 99.20 | 0.80 | 0.00 |
 | [Provide dairy-free alternatives as part of the national milk scheme for under 5s](639254.md) | 12,809 | 12,766 | 43 | 0 | 99.66 | 0.34 | 0.00 |
-| [Increase Carer's Allowance to 35 hours a week at the minimum wage](640062.md) | 12,445 | 12,427 | 18 | 0 | 99.86 | 0.14 | 0.00 |
-| [Add hedgehogs to Schedule 5 Wildlife and Countryside Act 1981](643081.md) | 12,371 | 12,308 | 63 | 0 | 99.49 | 0.51 | 0.00 |
-| [Introduce national restrictions on pavement parking.](642947.md) | 11,933 | 11,881 | 52 | 0 | 99.56 | 0.44 | 0.00 |
-| [Allow Healthcare Workers on skilled worker visas to work for any employer](637091.md) | 11,802 | 11,649 | 153 | 0 | 98.70 | 1.30 | 0.00 |
+| [Increase Carer's Allowance to 35 hours a week at the minimum wage](640062.md) | 12,453 | 12,435 | 18 | 0 | 99.86 | 0.14 | 0.00 |
+| [Add hedgehogs to Schedule 5 Wildlife and Countryside Act 1981](643081.md) | 12,379 | 12,316 | 63 | 0 | 99.49 | 0.51 | 0.00 |
+| [Introduce national restrictions on pavement parking.](642947.md) | 11,941 | 11,889 | 52 | 0 | 99.56 | 0.44 | 0.00 |
+| [Allow Healthcare Workers on skilled worker visas to work for any employer](637091.md) | 11,803 | 11,650 | 153 | 0 | 98.70 | 1.30 | 0.00 |
 | [Record the number of bereaved children to ensure they are supported](636718.md) | 11,398 | 11,315 | 83 | 0 | 99.27 | 0.73 | 0.00 |
 | [Set up a Public Inquiry into age discrimination and ageism in the UK](639611.md) | 11,254 | 11,201 | 53 | 0 | 99.53 | 0.47 | 0.00 |
-| [Fund routine breast cancer screening from the age of 25](643712.md) | 11,235 | 11,208 | 27 | 0 | 99.76 | 0.24 | 0.00 |
+| [Fund routine breast cancer screening from the age of 25](643712.md) | 11,248 | 11,221 | 27 | 0 | 99.76 | 0.24 | 0.00 |
 | [Allow BN(O) holders to use e-gates at passport control](640994.md) | 11,200 | 10,839 | 361 | 0 | 96.78 | 3.22 | 0.00 |
-| [Find time to take the Clean Air (Human Rights) Bill through the House of Commons](639320.md) | 11,060 | 10,952 | 108 | 0 | 99.02 | 0.98 | 0.00 |
+| [Find time to take the Clean Air (Human Rights) Bill through the House of Commons](639320.md) | 11,075 | 10,967 | 108 | 0 | 99.02 | 0.98 | 0.00 |
