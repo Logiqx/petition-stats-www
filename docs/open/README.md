@@ -4,20 +4,20 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-10-31 02:30:03
+Last refreshed 2023-10-31 03:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 592,174 | 588,241 | 3,933 | 0 | 99.34 | 0.66 | 0.00 |
 | [Call an immediate general election](641904.md) | 270,126 | 267,095 | 3,031 | 0 | 98.88 | 1.12 | 0.00 |
-| [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](648292.md) | 194,556 | 191,498 | 3,058 | 0 | 98.43 | 1.57 | 0.00 |
-| [Urge the Israel Government to allow fuel, electricity and food into Gaza](648383.md) | 189,315 | 186,834 | 2,481 | 0 | 98.69 | 1.31 | 0.00 |
-| [Remain neutral in Israel-Palestine conflict and withdraw support for Israel](648225.md) | 145,010 | 143,598 | 1,412 | 0 | 99.03 | 0.97 | 0.00 |
+| [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](648292.md) | 194,590 | 191,532 | 3,058 | 0 | 98.43 | 1.57 | 0.00 |
+| [Urge the Israel Government to allow fuel, electricity and food into Gaza](648383.md) | 189,320 | 186,839 | 2,481 | 0 | 98.69 | 1.31 | 0.00 |
+| [Remain neutral in Israel-Palestine conflict and withdraw support for Israel](648225.md) | 145,012 | 143,600 | 1,412 | 0 | 99.03 | 0.97 | 0.00 |
 | [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 101,938 | 101,616 | 322 | 0 | 99.68 | 0.32 | 0.00 |
 | [Change the legal driving age to 15](640011.md) | 94,256 | 92,205 | 2,051 | 0 | 97.82 | 2.18 | 0.00 |
-| [Reform the Grocery Supply Code of Practice to better protect farmers](643216.md) | 72,264 | 72,011 | 253 | 0 | 99.65 | 0.35 | 0.00 |
+| [Reform the Grocery Supply Code of Practice to better protect farmers](643216.md) | 72,268 | 72,015 | 253 | 0 | 99.65 | 0.35 | 0.00 |
 | [Require education staff to be trained on learning disabilities and autism](639050.md) | 66,070 | 65,702 | 368 | 0 | 99.44 | 0.56 | 0.00 |
-| [End the UK’s membership of the World Health Organization](648609.md) | 40,194 | 39,431 | 763 | 0 | 98.10 | 1.90 | 0.00 |
+| [End the UK’s membership of the World Health Organization](648609.md) | 40,224 | 39,461 | 763 | 0 | 98.10 | 1.90 | 0.00 |
 | [Hold a referendum on ending devolution in Wales](643987.md) | 39,034 | 38,991 | 43 | 0 | 99.89 | 0.11 | 0.00 |
 | [Change the school week to a four day week](643506.md) | 38,839 | 36,984 | 1,855 | 0 | 95.22 | 4.78 | 0.00 |
 | [Make pet abduction a specific criminal offence](640101.md) | 37,332 | 36,974 | 358 | 0 | 99.04 | 0.96 | 0.00 |
@@ -27,13 +27,13 @@ Last refreshed 2023-10-31 02:30:03
 | [Make XL Bully a banned dog breed in the Dangerous Dogs Act](642809.md) | 28,256 | 28,111 | 145 | 0 | 99.49 | 0.51 | 0.00 |
 | [Provide dedicated funding for diagnosis/treatment of hypermobile EDS and HSD](637313.md) | 27,762 | 27,552 | 210 | 0 | 99.24 | 0.76 | 0.00 |
 | [Make abuse or violence towards retail workers a standalone criminal offence](647093.md) | 25,987 | 25,964 | 23 | 0 | 99.91 | 0.09 | 0.00 |
-| [Introduce mandatory neutering of pet cats](643251.md) | 25,703 | 25,573 | 130 | 0 | 99.49 | 0.51 | 0.00 |
+| [Introduce mandatory neutering of pet cats](643251.md) | 25,705 | 25,575 | 130 | 0 | 99.49 | 0.51 | 0.00 |
 | [Create a new regulatory body to hold NHS managers accountable](642631.md) | 25,323 | 25,135 | 188 | 0 | 99.26 | 0.74 | 0.00 |
 | [Provide Ukrainian refugees with settled status to enable a stable life in the UK](642280.md) | 22,242 | 21,903 | 339 | 0 | 98.48 | 1.52 | 0.00 |
 | [Sanction individuals responsible for Sino-British Joint Declaration breaches](640649.md) | 21,285 | 18,774 | 2,511 | 0 | 88.20 | 11.80 | 0.00 |
 | [Do not increase visa fees and the Immigration Health Surcharge](641140.md) | 19,264 | 19,003 | 261 | 0 | 98.65 | 1.35 | 0.00 |
 | [Fund non-consolidated payments for organisations providing NHS funded services](638701.md) | 18,498 | 18,453 | 45 | 0 | 99.76 | 0.24 | 0.00 |
-| [Ban the use of dogs for testing and research purposes in the UK](645885.md) | 18,353 | 18,180 | 173 | 0 | 99.06 | 0.94 | 0.00 |
+| [Ban the use of dogs for testing and research purposes in the UK](645885.md) | 18,354 | 18,181 | 173 | 0 | 99.06 | 0.94 | 0.00 |
 | [Reverse the decision not to proceed with the Animal Welfare (Kept Animals) Bill](638720.md) | 18,169 | 17,933 | 236 | 0 | 98.70 | 1.30 | 0.00 |
 | [Make the State Pension equal to Minimum Wage (40hr/wk 23+) to all from age 60](640356.md) | 16,217 | 15,866 | 351 | 0 | 97.84 | 2.16 | 0.00 |
 | [Deport all foreign and dual nationals imprisoned for a year or more](642364.md) | 15,589 | 15,418 | 171 | 0 | 98.90 | 1.10 | 0.00 |
@@ -55,6 +55,6 @@ Last refreshed 2023-10-31 02:30:03
 | [Record the number of bereaved children to ensure they are supported](636718.md) | 11,416 | 11,333 | 83 | 0 | 99.27 | 0.73 | 0.00 |
 | [Set up a Public Inquiry into age discrimination and ageism in the UK](639611.md) | 11,269 | 11,216 | 53 | 0 | 99.53 | 0.47 | 0.00 |
 | [Allow BN(O) holders to use e-gates at passport control](640994.md) | 11,213 | 10,852 | 361 | 0 | 96.78 | 3.22 | 0.00 |
-| [Reintroduce the Energy Bills Support Scheme for winter 2023/24](637663.md) | 10,878 | 10,866 | 12 | 0 | 99.89 | 0.11 | 0.00 |
+| [Reintroduce the Energy Bills Support Scheme for winter 2023/24](637663.md) | 10,880 | 10,868 | 12 | 0 | 99.89 | 0.11 | 0.00 |
 | [Fund free dental care for all](641073.md) | 10,745 | 10,731 | 14 | 0 | 99.87 | 0.13 | 0.00 |
 | [Record and publish numbers of companion animals euthanised in England](639459.md) | 10,229 | 10,102 | 127 | 0 | 98.76 | 1.24 | 0.00 |
