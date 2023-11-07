@@ -4,25 +4,25 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-11-07 04:30:04
+Last refreshed 2023-11-07 05:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 597,458 | 593,432 | 4,026 | 0 | 99.33 | 0.67 | 0.00 |
-| [Call an immediate general election](641904.md) | 271,199 | 268,155 | 3,044 | 0 | 98.88 | 1.12 | 0.00 |
-| [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](648292.md) | 218,868 | 215,462 | 3,406 | 0 | 98.44 | 1.56 | 0.00 |
+| [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 597,461 | 593,435 | 4,026 | 0 | 99.33 | 0.67 | 0.00 |
+| [Call an immediate general election](641904.md) | 271,200 | 268,156 | 3,044 | 0 | 98.88 | 1.12 | 0.00 |
+| [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](648292.md) | 218,888 | 215,480 | 3,408 | 0 | 98.44 | 1.56 | 0.00 |
 | [Urge the Israel Government to allow fuel, electricity and food into Gaza](648383.md) | 192,979 | 190,394 | 2,585 | 0 | 98.66 | 1.34 | 0.00 |
-| [Remain neutral in Israel-Palestine conflict and withdraw support for Israel](648225.md) | 146,354 | 144,903 | 1,451 | 0 | 99.01 | 0.99 | 0.00 |
+| [Remain neutral in Israel-Palestine conflict and withdraw support for Israel](648225.md) | 146,355 | 144,903 | 1,452 | 0 | 99.01 | 0.99 | 0.00 |
 | [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 102,113 | 101,791 | 322 | 0 | 99.68 | 0.32 | 0.00 |
 | [Change the legal driving age to 15](640011.md) | 94,637 | 92,557 | 2,080 | 0 | 97.80 | 2.20 | 0.00 |
 | [Reform the Grocery Supply Code of Practice to better protect farmers](643216.md) | 74,089 | 73,830 | 259 | 0 | 99.65 | 0.35 | 0.00 |
-| [Stop the implementation of betting affordability/financial risk checks   ](649894.md) | 70,452 | 69,837 | 615 | 0 | 99.13 | 0.87 | 0.00 |
+| [Stop the implementation of betting affordability/financial risk checks   ](649894.md) | 70,485 | 69,870 | 615 | 0 | 99.13 | 0.87 | 0.00 |
 | [Require education staff to be trained on learning disabilities and autism](639050.md) | 67,574 | 67,196 | 378 | 0 | 99.44 | 0.56 | 0.00 |
-| [End the UK’s membership of the World Health Organization](648609.md) | 50,516 | 49,507 | 1,009 | 0 | 98.00 | 2.00 | 0.00 |
+| [End the UK’s membership of the World Health Organization](648609.md) | 50,525 | 49,516 | 1,009 | 0 | 98.00 | 2.00 | 0.00 |
 | [Change the school week to a four day week](643506.md) | 39,555 | 37,673 | 1,882 | 0 | 95.24 | 4.76 | 0.00 |
 | [Hold a referendum on ending devolution in Wales](643987.md) | 39,391 | 39,348 | 43 | 0 | 99.89 | 0.11 | 0.00 |
 | [Make pet abduction a specific criminal offence](640101.md) | 37,541 | 37,180 | 361 | 0 | 99.04 | 0.96 | 0.00 |
-| [Ban the sale of fireworks to the general public](639319.md) | 33,099 | 33,010 | 89 | 0 | 99.73 | 0.27 | 0.00 |
+| [Ban the sale of fireworks to the general public](639319.md) | 33,112 | 33,023 | 89 | 0 | 99.73 | 0.27 | 0.00 |
 | [Seek to secure the release of hostages held by Hamas](648365.md) | 30,344 | 28,106 | 2,238 | 0 | 92.62 | 7.38 | 0.00 |
 | [Create income replacement scheme for crew affected by writers and actors strikes](642539.md) | 30,319 | 30,106 | 213 | 0 | 99.30 | 0.70 | 0.00 |
 | [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 29,484 | 29,424 | 60 | 0 | 99.80 | 0.20 | 0.00 |
@@ -30,7 +30,7 @@ Last refreshed 2023-11-07 04:30:04
 | [Make abuse or violence towards retail workers a standalone criminal offence](647093.md) | 28,050 | 28,025 | 25 | 0 | 99.91 | 0.09 | 0.00 |
 | [Introduce mandatory neutering of pet cats](643251.md) | 25,996 | 25,864 | 132 | 0 | 99.49 | 0.51 | 0.00 |
 | [Create a new regulatory body to hold NHS managers accountable](642631.md) | 25,371 | 25,183 | 188 | 0 | 99.26 | 0.74 | 0.00 |
-| [Ban the use of dogs for testing and research purposes in the UK](645885.md) | 24,724 | 24,419 | 305 | 0 | 98.77 | 1.23 | 0.00 |
+| [Ban the use of dogs for testing and research purposes in the UK](645885.md) | 24,729 | 24,424 | 305 | 0 | 98.77 | 1.23 | 0.00 |
 | [Provide Ukrainian refugees with settled status to enable a stable life in the UK](642280.md) | 22,501 | 22,160 | 341 | 0 | 98.48 | 1.52 | 0.00 |
 | [Sanction individuals responsible for Sino-British Joint Declaration breaches](640649.md) | 21,297 | 18,785 | 2,512 | 0 | 88.20 | 11.80 | 0.00 |
 | [Do not increase visa fees and the Immigration Health Surcharge](641140.md) | 19,426 | 19,165 | 261 | 0 | 98.66 | 1.34 | 0.00 |
@@ -55,6 +55,6 @@ Last refreshed 2023-11-07 04:30:04
 | [Reintroduce the Energy Bills Support Scheme for winter 2023/24](637663.md) | 11,429 | 11,417 | 12 | 0 | 99.90 | 0.10 | 0.00 |
 | [Set up a Public Inquiry into age discrimination and ageism in the UK](639611.md) | 11,275 | 11,222 | 53 | 0 | 99.53 | 0.47 | 0.00 |
 | [Allow BN(O) holders to use e-gates at passport control](640994.md) | 11,233 | 10,868 | 365 | 0 | 96.75 | 3.25 | 0.00 |
-| [Fund free dental care for all](641073.md) | 10,850 | 10,836 | 14 | 0 | 99.87 | 0.13 | 0.00 |
-| [Record and publish numbers of companion animals euthanised in England](639459.md) | 10,582 | 10,452 | 130 | 0 | 98.77 | 1.23 | 0.00 |
+| [Fund free dental care for all](641073.md) | 10,851 | 10,837 | 14 | 0 | 99.87 | 0.13 | 0.00 |
+| [Record and publish numbers of companion animals euthanised in England](639459.md) | 10,583 | 10,453 | 130 | 0 | 98.77 | 1.23 | 0.00 |
 | [Require police carry tranquilizer guns and ban use of police firearms on animals](638297.md) | 9,670 | 9,470 | 200 | 0 | 97.93 | 2.07 | 0.00 |
