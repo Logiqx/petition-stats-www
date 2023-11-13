@@ -4,57 +4,57 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-11-13 14:30:04
+Last refreshed 2023-11-13 15:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 600,091 | 595,985 | 4,106 | 0 | 99.32 | 0.68 | 0.00 |
-| [Call an immediate general election](641904.md) | 272,387 | 269,334 | 3,053 | 0 | 98.88 | 1.12 | 0.00 |
-| [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](648292.md) | 233,463 | 229,860 | 3,603 | 0 | 98.46 | 1.54 | 0.00 |
-| [Urge the Israel Government to allow fuel, electricity and food into Gaza](648383.md) | 194,450 | 191,837 | 2,613 | 0 | 98.66 | 1.34 | 0.00 |
-| [Remain neutral in Israel-Palestine conflict and withdraw support for Israel](648225.md) | 147,059 | 145,595 | 1,464 | 0 | 99.00 | 1.00 | 0.00 |
-| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 102,182 | 101,860 | 322 | 0 | 99.68 | 0.32 | 0.00 |
-| [Change the legal driving age to 15](640011.md) | 94,867 | 92,774 | 2,093 | 0 | 97.79 | 2.21 | 0.00 |
-| [Stop the implementation of betting affordability/financial risk checks   ](649894.md) | 82,768 | 82,054 | 714 | 0 | 99.14 | 0.86 | 0.00 |
-| [Reform the Grocery Supply Code of Practice to better protect farmers](643216.md) | 78,588 | 78,308 | 280 | 0 | 99.64 | 0.36 | 0.00 |
-| [Require education staff to be trained on learning disabilities and autism](639050.md) | 68,689 | 68,308 | 381 | 0 | 99.45 | 0.55 | 0.00 |
-| [End the UK’s membership of the World Health Organization](648609.md) | 55,960 | 54,803 | 1,157 | 0 | 97.93 | 2.07 | 0.00 |
-| [Ban the sale of fireworks to the general public](639319.md) | 43,487 | 43,375 | 112 | 0 | 99.74 | 0.26 | 0.00 |
-| [Hold a referendum on ending devolution in Wales](643987.md) | 39,832 | 39,789 | 43 | 0 | 99.89 | 0.11 | 0.00 |
+| [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 600,113 | 596,007 | 4,106 | 0 | 99.32 | 0.68 | 0.00 |
+| [Call an immediate general election](641904.md) | 272,429 | 269,374 | 3,055 | 0 | 98.88 | 1.12 | 0.00 |
+| [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](648292.md) | 233,558 | 229,953 | 3,605 | 0 | 98.46 | 1.54 | 0.00 |
+| [Urge the Israel Government to allow fuel, electricity and food into Gaza](648383.md) | 194,474 | 191,860 | 2,614 | 0 | 98.66 | 1.34 | 0.00 |
+| [Remain neutral in Israel-Palestine conflict and withdraw support for Israel](648225.md) | 147,064 | 145,600 | 1,464 | 0 | 99.00 | 1.00 | 0.00 |
+| [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 102,183 | 101,861 | 322 | 0 | 99.68 | 0.32 | 0.00 |
+| [Change the legal driving age to 15](640011.md) | 94,868 | 92,775 | 2,093 | 0 | 97.79 | 2.21 | 0.00 |
+| [Stop the implementation of betting affordability/financial risk checks   ](649894.md) | 82,830 | 82,116 | 714 | 0 | 99.14 | 0.86 | 0.00 |
+| [Reform the Grocery Supply Code of Practice to better protect farmers](643216.md) | 78,748 | 78,468 | 280 | 0 | 99.64 | 0.36 | 0.00 |
+| [Require education staff to be trained on learning disabilities and autism](639050.md) | 68,712 | 68,331 | 381 | 0 | 99.45 | 0.55 | 0.00 |
+| [End the UK’s membership of the World Health Organization](648609.md) | 55,977 | 54,820 | 1,157 | 0 | 97.93 | 2.07 | 0.00 |
+| [Ban the sale of fireworks to the general public](639319.md) | 43,574 | 43,462 | 112 | 0 | 99.74 | 0.26 | 0.00 |
+| [Hold a referendum on ending devolution in Wales](643987.md) | 39,833 | 39,790 | 43 | 0 | 99.89 | 0.11 | 0.00 |
 | [Change the school week to a four day week](643506.md) | 39,726 | 37,840 | 1,886 | 0 | 95.25 | 4.75 | 0.00 |
-| [Make pet abduction a specific criminal offence](640101.md) | 37,671 | 37,310 | 361 | 0 | 99.04 | 0.96 | 0.00 |
-| [Seek to secure the release of hostages held by Hamas](648365.md) | 30,643 | 28,393 | 2,250 | 0 | 92.66 | 7.34 | 0.00 |
+| [Make pet abduction a specific criminal offence](640101.md) | 37,672 | 37,311 | 361 | 0 | 99.04 | 0.96 | 0.00 |
+| [Seek to secure the release of hostages held by Hamas](648365.md) | 30,646 | 28,396 | 2,250 | 0 | 92.66 | 7.34 | 0.00 |
 | [Create income replacement scheme for crew affected by writers and actors strikes](642539.md) | 30,327 | 30,114 | 213 | 0 | 99.30 | 0.70 | 0.00 |
 | [Ensure all NHS bank staff in England receive non-consolidated payments](637835.md) | 29,520 | 29,460 | 60 | 0 | 99.80 | 0.20 | 0.00 |
-| [Make abuse or violence towards retail workers a standalone criminal offence](647093.md) | 29,282 | 29,256 | 26 | 0 | 99.91 | 0.09 | 0.00 |
+| [Make abuse or violence towards retail workers a standalone criminal offence](647093.md) | 29,303 | 29,277 | 26 | 0 | 99.91 | 0.09 | 0.00 |
 | [Make XL Bully a banned dog breed in the Dangerous Dogs Act](642809.md) | 28,442 | 28,294 | 148 | 0 | 99.48 | 0.52 | 0.00 |
 | [Introduce mandatory neutering of pet cats](643251.md) | 26,117 | 25,985 | 132 | 0 | 99.49 | 0.51 | 0.00 |
-| [Ban the use of dogs for testing and research purposes in the UK](645885.md) | 25,753 | 25,440 | 313 | 0 | 98.78 | 1.22 | 0.00 |
-| [Create a new regulatory body to hold NHS managers accountable](642631.md) | 25,417 | 25,229 | 188 | 0 | 99.26 | 0.74 | 0.00 |
+| [Ban the use of dogs for testing and research purposes in the UK](645885.md) | 25,755 | 25,442 | 313 | 0 | 98.78 | 1.22 | 0.00 |
+| [Create a new regulatory body to hold NHS managers accountable](642631.md) | 25,418 | 25,230 | 188 | 0 | 99.26 | 0.74 | 0.00 |
 | [Provide Ukrainian refugees with settled status to enable a stable life in the UK](642280.md) | 22,573 | 22,229 | 344 | 0 | 98.48 | 1.52 | 0.00 |
-| [Sanction individuals responsible for Sino-British Joint Declaration breaches](640649.md) | 21,360 | 18,845 | 2,515 | 0 | 88.23 | 11.77 | 0.00 |
-| [Honour the triple lock in full in April 2024](646906.md) | 20,313 | 20,043 | 270 | 0 | 98.67 | 1.33 | 0.00 |
+| [Sanction individuals responsible for Sino-British Joint Declaration breaches](640649.md) | 21,363 | 18,847 | 2,516 | 0 | 88.22 | 11.78 | 0.00 |
+| [Honour the triple lock in full in April 2024](646906.md) | 20,331 | 20,061 | 270 | 0 | 98.67 | 1.33 | 0.00 |
 | [Do not increase visa fees and the Immigration Health Surcharge](641140.md) | 19,544 | 19,281 | 263 | 0 | 98.65 | 1.35 | 0.00 |
 | [Fund non-consolidated payments for organisations providing NHS funded services](638701.md) | 18,513 | 18,468 | 45 | 0 | 99.76 | 0.24 | 0.00 |
 | [Reverse the decision not to proceed with the Animal Welfare (Kept Animals) Bill](638720.md) | 18,204 | 17,968 | 236 | 0 | 98.70 | 1.30 | 0.00 |
-| [Introduce national restrictions on pavement parking.](642947.md) | 17,705 | 17,645 | 60 | 0 | 99.66 | 0.34 | 0.00 |
-| [Deport all foreign and dual nationals imprisoned for a year or more](642364.md) | 17,011 | 16,820 | 191 | 0 | 98.88 | 1.12 | 0.00 |
-| [Make the State Pension equal to Minimum Wage (40hr/wk 23+) to all from age 60](640356.md) | 16,447 | 16,089 | 358 | 0 | 97.82 | 2.18 | 0.00 |
+| [Introduce national restrictions on pavement parking.](642947.md) | 17,762 | 17,701 | 61 | 0 | 99.66 | 0.34 | 0.00 |
+| [Deport all foreign and dual nationals imprisoned for a year or more](642364.md) | 17,014 | 16,823 | 191 | 0 | 98.88 | 1.12 | 0.00 |
+| [Make the State Pension equal to Minimum Wage (40hr/wk 23+) to all from age 60](640356.md) | 16,449 | 16,091 | 358 | 0 | 97.82 | 2.18 | 0.00 |
 | [Extend date for existing students to switch to Skilled Worker visa](641313.md) | 15,357 | 15,040 | 317 | 0 | 97.94 | 2.06 | 0.00 |
 | [Stop all new oil and gas developments](640606.md) | 15,134 | 14,883 | 251 | 0 | 98.34 | 1.66 | 0.00 |
 | [Add hedgehogs to Schedule 5 Wildlife and Countryside Act 1981](643081.md) | 14,817 | 14,733 | 84 | 0 | 99.43 | 0.57 | 0.00 |
-| [Ban imports of hunting trophies of endangered animals](650300.md) | 14,406 | 14,182 | 224 | 0 | 98.45 | 1.55 | 0.00 |
+| [Ban imports of hunting trophies of endangered animals](650300.md) | 14,426 | 14,201 | 225 | 0 | 98.44 | 1.56 | 0.00 |
 | [Launch a Public Inquiry into excess mortality in England and Wales](639085.md) | 14,022 | 13,647 | 375 | 0 | 97.33 | 2.67 | 0.00 |
 | [Fund the reopening of the three state-of-the-art Rutherford Cancer Centres](644753.md) | 13,976 | 13,867 | 109 | 0 | 99.22 | 0.78 | 0.00 |
-| [Increase Carer's Allowance to 35 hours a week at the minimum wage](640062.md) | 13,530 | 13,507 | 23 | 0 | 99.83 | 0.17 | 0.00 |
-| [Make MPs who are absent from their constituency and Parliament subject to recall](641224.md) | 13,295 | 12,957 | 338 | 0 | 97.46 | 2.54 | 0.00 |
-| [Pause the Energy Bill and hold a public referendum before proceeding](643533.md) | 13,108 | 13,001 | 107 | 0 | 99.18 | 0.82 | 0.00 |
+| [Increase Carer's Allowance to 35 hours a week at the minimum wage](640062.md) | 13,532 | 13,509 | 23 | 0 | 99.83 | 0.17 | 0.00 |
+| [Make MPs who are absent from their constituency and Parliament subject to recall](641224.md) | 13,296 | 12,958 | 338 | 0 | 97.46 | 2.54 | 0.00 |
+| [Pause the Energy Bill and hold a public referendum before proceeding](643533.md) | 13,109 | 13,002 | 107 | 0 | 99.18 | 0.82 | 0.00 |
 | [Provide dairy-free alternatives as part of the national milk scheme for under 5s](639254.md) | 12,902 | 12,858 | 44 | 0 | 99.66 | 0.34 | 0.00 |
-| [Find time to take the Clean Air (Human Rights) Bill through the House of Commons](639320.md) | 12,094 | 11,967 | 127 | 0 | 98.95 | 1.05 | 0.00 |
-| [Do not allow people to have acquired gender listed as sex on Government ID](637290.md) | 11,880 | 11,625 | 255 | 0 | 97.85 | 2.15 | 0.00 |
-| [Allow Palestinian Children to Enter the UK During Ongoing Conflict](649371.md) | 11,843 | 11,801 | 42 | 0 | 99.65 | 0.35 | 0.00 |
-| [Fund routine breast cancer screening from the age of 25](643712.md) | 11,623 | 11,594 | 29 | 0 | 99.75 | 0.25 | 0.00 |
+| [Find time to take the Clean Air (Human Rights) Bill through the House of Commons](639320.md) | 12,096 | 11,968 | 128 | 0 | 98.94 | 1.06 | 0.00 |
+| [Do not allow people to have acquired gender listed as sex on Government ID](637290.md) | 11,886 | 11,631 | 255 | 0 | 97.85 | 2.15 | 0.00 |
+| [Allow Palestinian Children to Enter the UK During Ongoing Conflict](649371.md) | 11,850 | 11,808 | 42 | 0 | 99.65 | 0.35 | 0.00 |
+| [Fund routine breast cancer screening from the age of 25](643712.md) | 11,624 | 11,595 | 29 | 0 | 99.75 | 0.25 | 0.00 |
 | [Set up a Public Inquiry into age discrimination and ageism in the UK](639611.md) | 11,302 | 11,249 | 53 | 0 | 99.53 | 0.47 | 0.00 |
-| [Allow BN(O) holders to use e-gates at passport control](640994.md) | 11,236 | 10,871 | 365 | 0 | 96.75 | 3.25 | 0.00 |
-| [Fund free dental care for all](641073.md) | 10,939 | 10,925 | 14 | 0 | 99.87 | 0.13 | 0.00 |
-| [Record and publish numbers of companion animals euthanised in England](639459.md) | 10,777 | 10,646 | 131 | 0 | 98.78 | 1.22 | 0.00 |
+| [Allow BN(O) holders to use e-gates at passport control](640994.md) | 11,237 | 10,871 | 366 | 0 | 96.74 | 3.26 | 0.00 |
+| [Fund free dental care for all](641073.md) | 10,940 | 10,926 | 14 | 0 | 99.87 | 0.13 | 0.00 |
+| [Record and publish numbers of companion animals euthanised in England](639459.md) | 10,780 | 10,649 | 131 | 0 | 98.78 | 1.22 | 0.00 |
