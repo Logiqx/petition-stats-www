@@ -4,42 +4,42 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2023-11-23 03:30:03
+Last refreshed 2023-11-23 04:30:03
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 604,041 | 599,892 | 4,149 | 0 | 99.31 | 0.69 | 0.00 |
-| [Call an immediate general election](641904.md) | 274,736 | 271,654 | 3,082 | 0 | 98.88 | 1.12 | 0.00 |
-| [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](648292.md) | 245,870 | 242,002 | 3,868 | 0 | 98.43 | 1.57 | 0.00 |
+| [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 604,044 | 599,895 | 4,149 | 0 | 99.31 | 0.69 | 0.00 |
+| [Call an immediate general election](641904.md) | 274,738 | 271,656 | 3,082 | 0 | 98.88 | 1.12 | 0.00 |
+| [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](648292.md) | 245,872 | 242,004 | 3,868 | 0 | 98.43 | 1.57 | 0.00 |
 | [Urge the Israel Government to allow fuel, electricity and food into Gaza](648383.md) | 195,793 | 193,151 | 2,642 | 0 | 98.65 | 1.35 | 0.00 |
 | [Remain neutral in Israel-Palestine conflict and withdraw support for Israel](648225.md) | 148,768 | 147,262 | 1,506 | 0 | 98.99 | 1.01 | 0.00 |
 | [Require employers to offer career breaks for parents with a seriously ill child](638449.md) | 102,273 | 101,951 | 322 | 0 | 99.69 | 0.31 | 0.00 |
-| [Reform the Grocery Supply Code of Practice to better protect farmers](643216.md) | 99,252 | 98,911 | 341 | 0 | 99.66 | 0.34 | 0.00 |
+| [Reform the Grocery Supply Code of Practice to better protect farmers](643216.md) | 99,255 | 98,914 | 341 | 0 | 99.66 | 0.34 | 0.00 |
 | [Change the legal driving age to 15](640011.md) | 95,075 | 92,974 | 2,101 | 0 | 97.79 | 2.21 | 0.00 |
-| [Stop the implementation of betting affordability/financial risk checks   ](649894.md) | 91,836 | 91,000 | 836 | 0 | 99.09 | 0.91 | 0.00 |
-| [Require education staff to be trained on learning disabilities and autism](639050.md) | 70,854 | 70,459 | 395 | 0 | 99.44 | 0.56 | 0.00 |
-| [End the UK’s membership of the World Health Organization](648609.md) | 62,685 | 61,382 | 1,303 | 0 | 97.92 | 2.08 | 0.00 |
-| [Ban the sale of fireworks to the general public](639319.md) | 49,107 | 48,985 | 122 | 0 | 99.75 | 0.25 | 0.00 |
-| [Fund continued access to modulators drugs for Cystic Fibrosis patients](650674.md) | 43,428 | 43,127 | 301 | 0 | 99.31 | 0.69 | 0.00 |
-| [Hold a referendum on ending devolution in Wales](643987.md) | 40,755 | 40,711 | 44 | 0 | 99.89 | 0.11 | 0.00 |
+| [Stop the implementation of betting affordability/financial risk checks   ](649894.md) | 91,839 | 91,003 | 836 | 0 | 99.09 | 0.91 | 0.00 |
+| [Require education staff to be trained on learning disabilities and autism](639050.md) | 70,856 | 70,461 | 395 | 0 | 99.44 | 0.56 | 0.00 |
+| [End the UK’s membership of the World Health Organization](648609.md) | 62,688 | 61,384 | 1,304 | 0 | 97.92 | 2.08 | 0.00 |
+| [Ban the sale of fireworks to the general public](639319.md) | 49,109 | 48,987 | 122 | 0 | 99.75 | 0.25 | 0.00 |
+| [Fund continued access to modulators drugs for Cystic Fibrosis patients](650674.md) | 43,441 | 43,140 | 301 | 0 | 99.31 | 0.69 | 0.00 |
+| [Hold a referendum on ending devolution in Wales](643987.md) | 40,757 | 40,713 | 44 | 0 | 99.89 | 0.11 | 0.00 |
 | [Change the school week to a four day week](643506.md) | 40,196 | 38,305 | 1,891 | 0 | 95.30 | 4.70 | 0.00 |
 | [Make pet abduction a specific criminal offence](640101.md) | 37,832 | 37,468 | 364 | 0 | 99.04 | 0.96 | 0.00 |
-| [Make abuse or violence towards retail workers a standalone criminal offence](647093.md) | 34,605 | 34,576 | 29 | 0 | 99.92 | 0.08 | 0.00 |
+| [Make abuse or violence towards retail workers a standalone criminal offence](647093.md) | 34,606 | 34,577 | 29 | 0 | 99.92 | 0.08 | 0.00 |
 | [Seek to secure the release of hostages held by Hamas](648365.md) | 30,893 | 28,633 | 2,260 | 0 | 92.68 | 7.32 | 0.00 |
 | [Create income replacement scheme for crew affected by writers and actors strikes](642539.md) | 30,334 | 30,121 | 213 | 0 | 99.30 | 0.70 | 0.00 |
-| [Make XL Bully a banned dog breed in the Dangerous Dogs Act](642809.md) | 28,523 | 28,374 | 149 | 0 | 99.48 | 0.52 | 0.00 |
-| [Ban the use of dogs for testing and research purposes in the UK](645885.md) | 27,163 | 26,819 | 344 | 0 | 98.73 | 1.27 | 0.00 |
+| [Make XL Bully a banned dog breed in the Dangerous Dogs Act](642809.md) | 28,524 | 28,375 | 149 | 0 | 99.48 | 0.52 | 0.00 |
+| [Ban the use of dogs for testing and research purposes in the UK](645885.md) | 27,164 | 26,820 | 344 | 0 | 98.73 | 1.27 | 0.00 |
 | [Introduce mandatory neutering of pet cats](643251.md) | 26,221 | 26,089 | 132 | 0 | 99.50 | 0.50 | 0.00 |
 | [Create a new regulatory body to hold NHS managers accountable](642631.md) | 25,469 | 25,280 | 189 | 0 | 99.26 | 0.74 | 0.00 |
 | [Provide Ukrainian refugees with settled status to enable a stable life in the UK](642280.md) | 22,696 | 22,351 | 345 | 0 | 98.48 | 1.52 | 0.00 |
 | [Honour the triple lock in full in April 2024](646906.md) | 21,586 | 21,278 | 308 | 0 | 98.57 | 1.43 | 0.00 |
 | [Sanction individuals responsible for Sino-British Joint Declaration breaches](640649.md) | 21,577 | 19,053 | 2,524 | 0 | 88.30 | 11.70 | 0.00 |
-| [Introduce national restrictions on pavement parking.](642947.md) | 21,005 | 20,941 | 64 | 0 | 99.70 | 0.30 | 0.00 |
+| [Introduce national restrictions on pavement parking.](642947.md) | 21,006 | 20,942 | 64 | 0 | 99.70 | 0.30 | 0.00 |
 | [Do not increase visa fees and the Immigration Health Surcharge](641140.md) | 19,909 | 19,643 | 266 | 0 | 98.66 | 1.34 | 0.00 |
 | [Fund non-consolidated payments for organisations providing NHS funded services](638701.md) | 18,554 | 18,509 | 45 | 0 | 99.76 | 0.24 | 0.00 |
 | [Reverse the decision not to proceed with the Animal Welfare (Kept Animals) Bill](638720.md) | 18,240 | 18,004 | 236 | 0 | 98.71 | 1.29 | 0.00 |
 | [Deport all foreign and dual nationals imprisoned for a year or more](642364.md) | 17,509 | 17,313 | 196 | 0 | 98.88 | 1.12 | 0.00 |
-| [Ban imports of hunting trophies of endangered animals](650300.md) | 17,306 | 17,016 | 290 | 0 | 98.32 | 1.68 | 0.00 |
+| [Ban imports of hunting trophies of endangered animals](650300.md) | 17,307 | 17,017 | 290 | 0 | 98.32 | 1.68 | 0.00 |
 | [Make the State Pension equal to Minimum Wage (40hr/wk 23+) to all from age 60](640356.md) | 16,683 | 16,318 | 365 | 0 | 97.81 | 2.19 | 0.00 |
 | [Add hedgehogs to Schedule 5 Wildlife and Countryside Act 1981](643081.md) | 15,696 | 15,607 | 89 | 0 | 99.43 | 0.57 | 0.00 |
 | [Extend date for existing students to switch to Skilled Worker visa](641313.md) | 15,366 | 15,049 | 317 | 0 | 97.94 | 2.06 | 0.00 |
@@ -52,7 +52,7 @@ Last refreshed 2023-11-23 03:30:03
 | [Pause the Energy Bill and hold a public referendum before proceeding](643533.md) | 13,172 | 13,065 | 107 | 0 | 99.19 | 0.81 | 0.00 |
 | [Fund routine breast cancer screening from the age of 25](643712.md) | 13,088 | 13,055 | 33 | 0 | 99.75 | 0.25 | 0.00 |
 | [Provide dairy-free alternatives as part of the national milk scheme for under 5s](639254.md) | 12,938 | 12,894 | 44 | 0 | 99.66 | 0.34 | 0.00 |
-| [Create a Palestinian Family Visa Scheme for Palestinian people affected by war](648577.md) | 12,657 | 12,562 | 95 | 0 | 99.25 | 0.75 | 0.00 |
+| [Create a Palestinian Family Visa Scheme for Palestinian people affected by war](648577.md) | 12,658 | 12,563 | 95 | 0 | 99.25 | 0.75 | 0.00 |
 | [Find time to take the Clean Air (Human Rights) Bill through the House of Commons](639320.md) | 12,630 | 12,493 | 137 | 0 | 98.92 | 1.08 | 0.00 |
 | [Do not allow people to have acquired gender listed as sex on Government ID](637290.md) | 12,197 | 11,934 | 263 | 0 | 97.84 | 2.16 | 0.00 |
 | [Set up a Public Inquiry into age discrimination and ageism in the UK](639611.md) | 11,323 | 11,270 | 53 | 0 | 99.53 | 0.47 | 0.00 |
