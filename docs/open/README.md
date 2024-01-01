@@ -4,20 +4,20 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2024-01-01 03:30:05
+Last refreshed 2024-01-01 04:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 612,981 | 608,601 | 4,380 | 0 | 99.29 | 0.71 | 0.00 |
-| [Call an immediate general election](641904.md) | 278,328 | 275,189 | 3,139 | 0 | 98.87 | 1.13 | 0.00 |
+| [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 612,991 | 608,611 | 4,380 | 0 | 99.29 | 0.71 | 0.00 |
+| [Call an immediate general election](641904.md) | 278,329 | 275,190 | 3,139 | 0 | 98.87 | 1.13 | 0.00 |
 | [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](648292.md) | 258,618 | 254,545 | 4,073 | 0 | 98.43 | 1.57 | 0.00 |
-| [Urge the Israel Government to allow fuel, electricity and food into Gaza](648383.md) | 197,489 | 194,812 | 2,677 | 0 | 98.64 | 1.36 | 0.00 |
+| [Urge the Israel Government to allow fuel, electricity and food into Gaza](648383.md) | 197,490 | 194,813 | 2,677 | 0 | 98.64 | 1.36 | 0.00 |
 | [Remain neutral in Israel-Palestine conflict and withdraw support for Israel](648225.md) | 149,774 | 148,252 | 1,522 | 0 | 98.98 | 1.02 | 0.00 |
 | [Reform the Grocery Supply Code of Practice to better protect farmers](643216.md) | 112,284 | 111,884 | 400 | 0 | 99.64 | 0.36 | 0.00 |
 | [Stop the implementation of betting affordability/financial risk checks   ](649894.md) | 103,043 | 102,088 | 955 | 0 | 99.07 | 0.93 | 0.00 |
-| [End the UK’s membership of the World Health Organization](648609.md) | 70,576 | 69,070 | 1,506 | 0 | 97.87 | 2.13 | 0.00 |
+| [End the UK’s membership of the World Health Organization](648609.md) | 70,579 | 69,073 | 1,506 | 0 | 97.87 | 2.13 | 0.00 |
 | [Fund continued access to modulators drugs for Cystic Fibrosis patients](650674.md) | 66,029 | 65,580 | 449 | 0 | 99.32 | 0.68 | 0.00 |
-| [Delay the ban on rehoming and owning XL Bully dogs for 18 months](650474.md) | 53,644 | 53,276 | 368 | 0 | 99.31 | 0.69 | 0.00 |
+| [Delay the ban on rehoming and owning XL Bully dogs for 18 months](650474.md) | 53,682 | 53,312 | 370 | 0 | 99.31 | 0.69 | 0.00 |
 | [Pause Ofsted inspections and reform how school performance is evaluated](652057.md) | 47,868 | 47,711 | 157 | 0 | 99.67 | 0.33 | 0.00 |
 | [Hold a referendum on ending devolution in Wales](643987.md) | 42,695 | 42,649 | 46 | 0 | 99.89 | 0.11 | 0.00 |
 | [Change the school week to a four day week](643506.md) | 40,645 | 38,746 | 1,899 | 0 | 95.33 | 4.67 | 0.00 |
@@ -26,7 +26,7 @@ Last refreshed 2024-01-01 03:30:05
 | [Seek to secure the release of hostages held by Hamas](648365.md) | 31,124 | 28,853 | 2,271 | 0 | 92.70 | 7.30 | 0.00 |
 | [Create income replacement scheme for crew affected by writers and actors strikes](642539.md) | 30,350 | 30,137 | 213 | 0 | 99.30 | 0.70 | 0.00 |
 | [Ban the use of dogs for testing and research purposes in the UK](645885.md) | 29,404 | 29,033 | 371 | 0 | 98.74 | 1.26 | 0.00 |
-| [Deport all foreign and dual nationals imprisoned for a year or more](642364.md) | 29,193 | 28,815 | 378 | 0 | 98.71 | 1.29 | 0.00 |
+| [Deport all foreign and dual nationals imprisoned for a year or more](642364.md) | 29,196 | 28,817 | 379 | 0 | 98.70 | 1.30 | 0.00 |
 | [Make XL Bully a banned dog breed in the Dangerous Dogs Act](642809.md) | 28,805 | 28,647 | 158 | 0 | 99.45 | 0.55 | 0.00 |
 | [Do not increase visa fees and the Immigration Health Surcharge](641140.md) | 28,184 | 27,782 | 402 | 0 | 98.57 | 1.43 | 0.00 |
 | [Introduce mandatory neutering of pet cats](643251.md) | 26,916 | 26,778 | 138 | 0 | 99.49 | 0.51 | 0.00 |
