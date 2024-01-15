@@ -4,37 +4,37 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2024-01-15 02:30:04
+Last refreshed 2024-01-15 03:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 618,619 | 613,814 | 4,805 | 0 | 99.22 | 0.78 | 0.00 |
-| [Call an immediate general election](641904.md) | 282,258 | 279,084 | 3,174 | 0 | 98.88 | 1.12 | 0.00 |
-| [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](648292.md) | 260,212 | 256,099 | 4,113 | 0 | 98.42 | 1.58 | 0.00 |
-| [Urge the Israel Government to allow fuel, electricity and food into Gaza](648383.md) | 197,841 | 195,157 | 2,684 | 0 | 98.64 | 1.36 | 0.00 |
+| [Call an immediate general election](641904.md) | 282,259 | 279,085 | 3,174 | 0 | 98.88 | 1.12 | 0.00 |
+| [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](648292.md) | 260,213 | 256,100 | 4,113 | 0 | 98.42 | 1.58 | 0.00 |
+| [Urge the Israel Government to allow fuel, electricity and food into Gaza](648383.md) | 197,842 | 195,158 | 2,684 | 0 | 98.64 | 1.36 | 0.00 |
 | [Remain neutral in Israel-Palestine conflict and withdraw support for Israel](648225.md) | 150,132 | 148,603 | 1,529 | 0 | 98.98 | 1.02 | 0.00 |
 | [Reform the Grocery Supply Code of Practice to better protect farmers](643216.md) | 112,585 | 112,184 | 401 | 0 | 99.64 | 0.36 | 0.00 |
 | [Stop the implementation of betting affordability/financial risk checks   ](649894.md) | 103,210 | 102,252 | 958 | 0 | 99.07 | 0.93 | 0.00 |
-| [End the UK’s membership of the World Health Organization](648609.md) | 73,334 | 71,770 | 1,564 | 0 | 97.87 | 2.13 | 0.00 |
-| [Fund continued access to modulators drugs for Cystic Fibrosis patients](650674.md) | 68,131 | 67,671 | 460 | 0 | 99.32 | 0.68 | 0.00 |
+| [End the UK’s membership of the World Health Organization](648609.md) | 73,335 | 71,771 | 1,564 | 0 | 97.87 | 2.13 | 0.00 |
+| [Fund continued access to modulators drugs for Cystic Fibrosis patients](650674.md) | 68,132 | 67,672 | 460 | 0 | 99.32 | 0.68 | 0.00 |
 | [Delay the ban on rehoming and owning XL Bully dogs for 18 months](650474.md) | 63,811 | 63,141 | 670 | 0 | 98.95 | 1.05 | 0.00 |
-| [Hold a parliamentary vote on assisted dying](653593.md) | 57,368 | 56,737 | 631 | 0 | 98.90 | 1.10 | 0.00 |
+| [Hold a parliamentary vote on assisted dying](653593.md) | 57,377 | 56,746 | 631 | 0 | 98.90 | 1.10 | 0.00 |
 | [Pause Ofsted inspections and reform how school performance is evaluated](652057.md) | 49,380 | 49,221 | 159 | 0 | 99.68 | 0.32 | 0.00 |
 | [Hold a referendum on ending devolution in Wales](643987.md) | 43,125 | 43,079 | 46 | 0 | 99.89 | 0.11 | 0.00 |
-| [Don’t increase the income requirement for family visas to £38,700](652602.md) | 41,285 | 40,204 | 1,081 | 0 | 97.38 | 2.62 | 0.00 |
+| [Don’t increase the income requirement for family visas to £38,700](652602.md) | 41,289 | 40,208 | 1,081 | 0 | 97.38 | 2.62 | 0.00 |
 | [Change the school week to a four day week](643506.md) | 41,122 | 39,220 | 1,902 | 0 | 95.37 | 4.63 | 0.00 |
-| [Make abuse or violence towards retail workers a standalone criminal offence](647093.md) | 39,172 | 39,138 | 34 | 0 | 99.91 | 0.09 | 0.00 |
-| [Deport all foreign and dual nationals imprisoned for a year or more](642364.md) | 32,599 | 32,166 | 433 | 0 | 98.67 | 1.33 | 0.00 |
+| [Make abuse or violence towards retail workers a standalone criminal offence](647093.md) | 39,173 | 39,139 | 34 | 0 | 99.91 | 0.09 | 0.00 |
+| [Deport all foreign and dual nationals imprisoned for a year or more](642364.md) | 32,601 | 32,168 | 433 | 0 | 98.67 | 1.33 | 0.00 |
 | [Seek to secure the release of hostages held by Hamas](648365.md) | 31,214 | 28,942 | 2,272 | 0 | 92.72 | 7.28 | 0.00 |
-| [Provide Ukrainian refugees with settled status to enable a stable life in the UK](642280.md) | 31,090 | 30,636 | 454 | 0 | 98.54 | 1.46 | 0.00 |
+| [Provide Ukrainian refugees with settled status to enable a stable life in the UK](642280.md) | 31,094 | 30,640 | 454 | 0 | 98.54 | 1.46 | 0.00 |
 | [Ban the use of dogs for testing and research purposes in the UK](645885.md) | 30,604 | 30,226 | 378 | 0 | 98.76 | 1.24 | 0.00 |
 | [Create income replacement scheme for crew affected by writers and actors strikes](642539.md) | 30,364 | 30,150 | 214 | 0 | 99.30 | 0.70 | 0.00 |
 | [Make XL Bully a banned dog breed in the Dangerous Dogs Act](642809.md) | 28,961 | 28,800 | 161 | 0 | 99.44 | 0.56 | 0.00 |
-| [Do not increase visa fees and the Immigration Health Surcharge](641140.md) | 28,522 | 28,114 | 408 | 0 | 98.57 | 1.43 | 0.00 |
-| [Create a Palestinian Family Visa Scheme for Palestinian people affected by war](648577.md) | 28,408 | 28,181 | 227 | 0 | 99.20 | 0.80 | 0.00 |
-| [Introduce mandatory neutering of pet cats](643251.md) | 27,216 | 27,077 | 139 | 0 | 99.49 | 0.51 | 0.00 |
+| [Do not increase visa fees and the Immigration Health Surcharge](641140.md) | 28,523 | 28,115 | 408 | 0 | 98.57 | 1.43 | 0.00 |
+| [Create a Palestinian Family Visa Scheme for Palestinian people affected by war](648577.md) | 28,409 | 28,182 | 227 | 0 | 99.20 | 0.80 | 0.00 |
+| [Introduce mandatory neutering of pet cats](643251.md) | 27,217 | 27,078 | 139 | 0 | 99.49 | 0.51 | 0.00 |
 | [Create a new regulatory body to hold NHS managers accountable](642631.md) | 25,795 | 25,605 | 190 | 0 | 99.26 | 0.74 | 0.00 |
-| [Make State Pensions tax free   ](650324.md) | 24,870 | 24,690 | 180 | 0 | 99.28 | 0.72 | 0.00 |
+| [Make State Pensions tax free   ](650324.md) | 24,871 | 24,691 | 180 | 0 | 99.28 | 0.72 | 0.00 |
 | [Introduce national restrictions on pavement parking.](642947.md) | 23,358 | 23,276 | 82 | 0 | 99.65 | 0.35 | 0.00 |
 | [Ban imports of hunting trophies of endangered animals](650300.md) | 22,468 | 22,119 | 349 | 0 | 98.45 | 1.55 | 0.00 |
 | [Honour the triple lock in full in April 2024](646906.md) | 22,103 | 21,790 | 313 | 0 | 98.58 | 1.42 | 0.00 |
