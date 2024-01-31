@@ -4,29 +4,29 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2024-01-31 04:30:04
+Last refreshed 2024-01-31 05:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 619,557 | 614,720 | 4,837 | 0 | 99.22 | 0.78 | 0.00 |
-| [Call an immediate general election](641904.md) | 287,596 | 284,384 | 3,212 | 0 | 98.88 | 1.12 | 0.00 |
-| [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](648292.md) | 261,620 | 257,465 | 4,155 | 0 | 98.41 | 1.59 | 0.00 |
-| [Urge the Israel Government to allow fuel, electricity and food into Gaza](648383.md) | 198,112 | 195,421 | 2,691 | 0 | 98.64 | 1.36 | 0.00 |
+| [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 619,558 | 614,721 | 4,837 | 0 | 99.22 | 0.78 | 0.00 |
+| [Call an immediate general election](641904.md) | 287,600 | 284,388 | 3,212 | 0 | 98.88 | 1.12 | 0.00 |
+| [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](648292.md) | 261,621 | 257,466 | 4,155 | 0 | 98.41 | 1.59 | 0.00 |
+| [Urge the Israel Government to allow fuel, electricity and food into Gaza](648383.md) | 198,113 | 195,422 | 2,691 | 0 | 98.64 | 1.36 | 0.00 |
 | [Remain neutral in Israel-Palestine conflict and withdraw support for Israel](648225.md) | 150,414 | 148,883 | 1,531 | 0 | 98.98 | 1.02 | 0.00 |
 | [Reform the Grocery Supply Code of Practice to better protect farmers](643216.md) | 113,011 | 112,607 | 404 | 0 | 99.64 | 0.36 | 0.00 |
 | [Stop the implementation of betting affordability/financial risk checks   ](649894.md) | 103,281 | 102,322 | 959 | 0 | 99.07 | 0.93 | 0.00 |
-| [End the UK’s membership of the World Health Organization](648609.md) | 88,136 | 86,151 | 1,985 | 0 | 97.75 | 2.25 | 0.00 |
-| [Hold a parliamentary vote on assisted dying](653593.md) | 85,874 | 84,801 | 1,073 | 0 | 98.75 | 1.25 | 0.00 |
+| [End the UK’s membership of the World Health Organization](648609.md) | 88,141 | 86,155 | 1,986 | 0 | 97.75 | 2.25 | 0.00 |
+| [Hold a parliamentary vote on assisted dying](653593.md) | 85,927 | 84,854 | 1,073 | 0 | 98.75 | 1.25 | 0.00 |
 | [Fund continued access to modulators drugs for Cystic Fibrosis patients](650674.md) | 68,761 | 68,294 | 467 | 0 | 99.32 | 0.68 | 0.00 |
 | [Delay the ban on rehoming and owning XL Bully dogs for 18 months](650474.md) | 64,474 | 63,775 | 699 | 0 | 98.92 | 1.08 | 0.00 |
 | [Pause Ofsted inspections and reform how school performance is evaluated](652057.md) | 50,491 | 50,324 | 167 | 0 | 99.67 | 0.33 | 0.00 |
-| [Don’t increase the income requirement for family visas to £38,700](652602.md) | 46,687 | 45,413 | 1,274 | 0 | 97.27 | 2.73 | 0.00 |
+| [Don’t increase the income requirement for family visas to £38,700](652602.md) | 46,695 | 45,418 | 1,277 | 0 | 97.27 | 2.73 | 0.00 |
 | [Hold a referendum on ending devolution in Wales](643987.md) | 43,526 | 43,480 | 46 | 0 | 99.89 | 0.11 | 0.00 |
 | [Change the school week to a four day week](643506.md) | 41,482 | 39,577 | 1,905 | 0 | 95.41 | 4.59 | 0.00 |
 | [Make abuse or violence towards retail workers a standalone criminal offence](647093.md) | 40,543 | 40,507 | 36 | 0 | 99.91 | 0.09 | 0.00 |
-| [Offer the State Pension to all at 60, increase to equal 48hrs at the Living Wage](654389.md) | 39,195 | 38,738 | 457 | 0 | 98.83 | 1.17 | 0.00 |
+| [Offer the State Pension to all at 60, increase to equal 48hrs at the Living Wage](654389.md) | 39,199 | 38,742 | 457 | 0 | 98.83 | 1.17 | 0.00 |
 | [Provide Ukrainian refugees with settled status to enable a stable life in the UK](642280.md) | 35,150 | 34,634 | 516 | 0 | 98.53 | 1.47 | 0.00 |
-| [Deport all foreign and dual nationals imprisoned for a year or more](642364.md) | 33,786 | 33,339 | 447 | 0 | 98.68 | 1.32 | 0.00 |
+| [Deport all foreign and dual nationals imprisoned for a year or more](642364.md) | 33,787 | 33,340 | 447 | 0 | 98.68 | 1.32 | 0.00 |
 | [Make State Pensions tax free   ](650324.md) | 32,178 | 31,932 | 246 | 0 | 99.24 | 0.76 | 0.00 |
 | [Seek to secure the release of hostages held by Hamas](648365.md) | 31,292 | 29,020 | 2,272 | 0 | 92.74 | 7.26 | 0.00 |
 | [Ban the use of dogs for testing and research purposes in the UK](645885.md) | 31,025 | 30,643 | 382 | 0 | 98.77 | 1.23 | 0.00 |
@@ -49,12 +49,12 @@ Last refreshed 2024-01-31 04:30:04
 | [Fund the reopening of the three state-of-the-art Rutherford Cancer Centres](644753.md) | 14,168 | 14,057 | 111 | 0 | 99.22 | 0.78 | 0.00 |
 | [Create a statutory offence of manslaughter by coercive or controlling behaviour](648948.md) | 13,560 | 13,495 | 65 | 0 | 99.52 | 0.48 | 0.00 |
 | [Pause the Energy Bill and hold a public referendum before proceeding](643533.md) | 13,380 | 13,272 | 108 | 0 | 99.19 | 0.81 | 0.00 |
-| [Withdraw support for Israel and support Palestine in Israel-Palestine conflict](648456.md) | 13,227 | 12,695 | 532 | 0 | 95.98 | 4.02 | 0.00 |
+| [Withdraw support for Israel and support Palestine in Israel-Palestine conflict](648456.md) | 13,228 | 12,696 | 532 | 0 | 95.98 | 4.02 | 0.00 |
 | [Increase Student Loans in England to catch up with inflation](650075.md) | 12,708 | 12,694 | 14 | 0 | 99.89 | 0.11 | 0.00 |
 | [Hold a referendum on re-joining the European Union](648807.md) | 12,372 | 11,448 | 924 | 0 | 92.53 | 7.47 | 0.00 |
 | [Require CCTV cameras on school transport for kids with special educational needs](650437.md) | 12,370 | 12,328 | 42 | 0 | 99.66 | 0.34 | 0.00 |
 | [Fund free dental care for all](641073.md) | 11,908 | 11,890 | 18 | 0 | 99.85 | 0.15 | 0.00 |
-| [Do not allow original wills to be destroyed after 25 years](654081.md) | 11,192 | 10,729 | 463 | 0 | 95.86 | 4.14 | 0.00 |
-| [Give one-person households 50% council tax discount rather than 25%](643595.md) | 11,081 | 11,067 | 14 | 0 | 99.87 | 0.13 | 0.00 |
+| [Do not allow original wills to be destroyed after 25 years](654081.md) | 11,194 | 10,731 | 463 | 0 | 95.86 | 4.14 | 0.00 |
+| [Give one-person households 50% council tax discount rather than 25%](643595.md) | 11,082 | 11,068 | 14 | 0 | 99.87 | 0.13 | 0.00 |
 | [Scrap VAT on life-saving motorcycle air vests](644555.md) | 11,064 | 11,023 | 41 | 0 | 99.63 | 0.37 | 0.00 |
 | [Give more funding for thyroid research and patients after price hike](642233.md) | 11,030 | 10,949 | 81 | 0 | 99.27 | 0.73 | 0.00 |
