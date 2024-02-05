@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2024-02-04 23:30:14
+Last refreshed 2024-02-05 00:30:17
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -27,6 +27,7 @@ Last refreshed 2024-02-04 23:30:14
 | [Remove Clause 9 from the Nationality and Borders Bill](601583.md) | 327,104 | 323,611 | 3,493 | 0 | 98.93 | 1.07 | 0.00 |
 | [Make dog theft a specific criminal offence](560216.md) | 316,545 | 314,868 | 1,677 | 0 | 99.47 | 0.53 | 0.00 |
 | [Limit the Sale and Use of Fireworks to Organisers of Licensed Displays Only](319891.md) | 301,611 | 300,328 | 1,283 | 0 | 99.57 | 0.43 | 0.00 |
+| [Call an immediate general election](641904.md) | 288,041 | 284,828 | 3,213 | 0 | 98.88 | 1.12 | 0.00 |
 | [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 286,797 | 280,363 | 6,434 | 0 | 97.76 | 2.24 | 0.00 |
 | [Require universities to partially refund tuition fees for 20/21 due to Covid-19](324762.md) | 270,659 | 269,491 | 1,168 | 0 | 99.57 | 0.43 | 0.00 |
 | [Teach Britain's colonial past as part of the UK's compulsory curriculum](324092.md) | 268,772 | 265,909 | 2,863 | 0 | 98.93 | 1.07 | 0.00 |
@@ -57,4 +58,3 @@ Last refreshed 2024-02-04 23:30:14
 | [Include abortion rights in the Bill of Rights](619334.md) | 167,690 | 167,168 | 522 | 0 | 99.69 | 0.31 | 0.00 |
 | [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 167,461 | 166,507 | 954 | 0 | 99.43 | 0.57 | 0.00 |
 | [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 160,688 | 159,723 | 965 | 0 | 99.40 | 0.60 | 0.00 |
-| [Cancel GCSE and A-levels in 2021 replace with Course Work and Teacher Assessment](564696.md) | 157,810 | 156,798 | 1,012 | 0 | 99.36 | 0.64 | 0.00 |
