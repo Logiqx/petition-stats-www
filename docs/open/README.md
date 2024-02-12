@@ -4,27 +4,27 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2024-02-12 03:30:04
+Last refreshed 2024-02-12 04:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 620,081 | 615,235 | 4,846 | 0 | 99.22 | 0.78 | 0.00 |
-| [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](648292.md) | 262,650 | 258,474 | 4,176 | 0 | 98.41 | 1.59 | 0.00 |
+| [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](648292.md) | 262,651 | 258,475 | 4,176 | 0 | 98.41 | 1.59 | 0.00 |
 | [Urge the Israel Government to allow fuel, electricity and food into Gaza](648383.md) | 198,286 | 195,591 | 2,695 | 0 | 98.64 | 1.36 | 0.00 |
 | [Remain neutral in Israel-Palestine conflict and withdraw support for Israel](648225.md) | 150,588 | 149,053 | 1,535 | 0 | 98.98 | 1.02 | 0.00 |
-| [Hold a parliamentary vote on assisted dying](653593.md) | 118,435 | 117,023 | 1,412 | 0 | 98.81 | 1.19 | 0.00 |
-| [Reform the Grocery Supply Code of Practice to better protect farmers](643216.md) | 113,177 | 112,769 | 408 | 0 | 99.64 | 0.36 | 0.00 |
+| [Hold a parliamentary vote on assisted dying](653593.md) | 118,436 | 117,024 | 1,412 | 0 | 98.81 | 1.19 | 0.00 |
+| [Reform the Grocery Supply Code of Practice to better protect farmers](643216.md) | 113,178 | 112,769 | 409 | 0 | 99.64 | 0.36 | 0.00 |
 | [Stop the implementation of betting affordability/financial risk checks   ](649894.md) | 103,325 | 102,365 | 960 | 0 | 99.07 | 0.93 | 0.00 |
-| [End the UK’s membership of the World Health Organization](648609.md) | 101,245 | 98,938 | 2,307 | 0 | 97.72 | 2.28 | 0.00 |
+| [End the UK’s membership of the World Health Organization](648609.md) | 101,252 | 98,944 | 2,308 | 0 | 97.72 | 2.28 | 0.00 |
 | [Fund continued access to modulators drugs for Cystic Fibrosis patients](650674.md) | 69,254 | 68,784 | 470 | 0 | 99.32 | 0.68 | 0.00 |
 | [Delay the ban on rehoming and owning XL Bully dogs for 18 months](650474.md) | 64,674 | 63,971 | 703 | 0 | 98.91 | 1.09 | 0.00 |
-| [Don’t increase the income requirement for family visas to £38,700](652602.md) | 54,634 | 53,054 | 1,580 | 0 | 97.11 | 2.89 | 0.00 |
+| [Don’t increase the income requirement for family visas to £38,700](652602.md) | 54,637 | 53,055 | 1,582 | 0 | 97.10 | 2.90 | 0.00 |
 | [Pause Ofsted inspections and reform how school performance is evaluated](652057.md) | 50,590 | 50,423 | 167 | 0 | 99.67 | 0.33 | 0.00 |
 | [Make abuse or violence towards retail workers a standalone criminal offence](647093.md) | 44,793 | 44,750 | 43 | 0 | 99.90 | 0.10 | 0.00 |
 | [Hold a referendum on ending devolution in Wales](643987.md) | 43,809 | 43,763 | 46 | 0 | 99.89 | 0.11 | 0.00 |
 | [Change the school week to a four day week](643506.md) | 41,647 | 39,741 | 1,906 | 0 | 95.42 | 4.58 | 0.00 |
 | [Offer the State Pension to all at 60, increase to equal 48hrs at the Living Wage](654389.md) | 40,433 | 39,951 | 482 | 0 | 98.81 | 1.19 | 0.00 |
-| [Provide Ukrainian refugees with settled status to enable a stable life in the UK](642280.md) | 35,932 | 35,405 | 527 | 0 | 98.53 | 1.47 | 0.00 |
+| [Provide Ukrainian refugees with settled status to enable a stable life in the UK](642280.md) | 35,933 | 35,406 | 527 | 0 | 98.53 | 1.47 | 0.00 |
 | [Deport all foreign and dual nationals imprisoned for a year or more](642364.md) | 34,909 | 34,450 | 459 | 0 | 98.69 | 1.31 | 0.00 |
 | [Make State Pensions tax free   ](650324.md) | 32,982 | 32,728 | 254 | 0 | 99.23 | 0.77 | 0.00 |
 | [Seek to secure the release of hostages held by Hamas](648365.md) | 31,329 | 29,057 | 2,272 | 0 | 92.75 | 7.25 | 0.00 |
@@ -38,7 +38,7 @@ Last refreshed 2024-02-12 03:30:04
 | [Add hedgehogs to Schedule 5 Wildlife and Countryside Act 1981](643081.md) | 22,993 | 22,816 | 177 | 0 | 99.23 | 0.77 | 0.00 |
 | [Ban imports of hunting trophies of endangered animals](650300.md) | 22,915 | 22,553 | 362 | 0 | 98.42 | 1.58 | 0.00 |
 | [Honour the triple lock in full in April 2024](646906.md) | 22,361 | 22,048 | 313 | 0 | 98.60 | 1.40 | 0.00 |
-| [Do not introduce regular bank account checks for benefit claimants](650940.md) | 19,796 | 19,709 | 87 | 0 | 99.56 | 0.44 | 0.00 |
+| [Do not introduce regular bank account checks for benefit claimants](650940.md) | 19,797 | 19,710 | 87 | 0 | 99.56 | 0.44 | 0.00 |
 | [Enhance consumer protection for holiday caravan owners](650884.md) | 19,105 | 19,065 | 40 | 0 | 99.79 | 0.21 | 0.00 |
 | [Fund routine breast cancer screening from the age of 25](643712.md) | 18,171 | 18,120 | 51 | 0 | 99.72 | 0.28 | 0.00 |
 | [Establish a Commission to investigate extortionate Car Insurance price rises](644067.md) | 17,701 | 17,685 | 16 | 0 | 99.91 | 0.09 | 0.00 |
