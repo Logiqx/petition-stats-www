@@ -4,17 +4,17 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2024-03-11 03:30:05
+Last refreshed 2024-03-11 04:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 620,997 | 616,134 | 4,863 | 0 | 99.22 | 0.78 | 0.00 |
 | [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](648292.md) | 266,115 | 261,907 | 4,208 | 0 | 98.42 | 1.58 | 0.00 |
 | [Urge the Israel Government to allow fuel, electricity and food into Gaza](648383.md) | 198,782 | 196,080 | 2,702 | 0 | 98.64 | 1.36 | 0.00 |
-| [Hold a parliamentary vote on assisted dying](653593.md) | 152,924 | 151,367 | 1,557 | 0 | 98.98 | 1.02 | 0.00 |
+| [Hold a parliamentary vote on assisted dying](653593.md) | 152,925 | 151,368 | 1,557 | 0 | 98.98 | 1.02 | 0.00 |
 | [Remain neutral in Israel-Palestine conflict and withdraw support for Israel](648225.md) | 151,007 | 149,470 | 1,537 | 0 | 98.98 | 1.02 | 0.00 |
 | [Reform the Grocery Supply Code of Practice to better protect farmers](643216.md) | 113,491 | 113,081 | 410 | 0 | 99.64 | 0.36 | 0.00 |
-| [End the UK’s membership of the World Health Organization](648609.md) | 104,109 | 101,758 | 2,351 | 0 | 97.74 | 2.26 | 0.00 |
+| [End the UK’s membership of the World Health Organization](648609.md) | 104,110 | 101,759 | 2,351 | 0 | 97.74 | 2.26 | 0.00 |
 | [Stop the implementation of betting affordability/financial risk checks   ](649894.md) | 103,434 | 102,474 | 960 | 0 | 99.07 | 0.93 | 0.00 |
 | [Fund continued access to modulators drugs for Cystic Fibrosis patients](650674.md) | 70,299 | 69,826 | 473 | 0 | 99.33 | 0.67 | 0.00 |
 | [Delay the ban on rehoming and owning XL Bully dogs for 18 months](650474.md) | 64,936 | 64,229 | 707 | 0 | 98.91 | 1.09 | 0.00 |
@@ -25,7 +25,7 @@ Last refreshed 2024-03-11 03:30:05
 | [Hold a referendum on ending devolution in Wales](643987.md) | 44,809 | 44,760 | 49 | 0 | 99.89 | 0.11 | 0.00 |
 | [Don’t ban flavoured e-liquids for e-cigarettes](656683.md) | 44,294 | 44,136 | 158 | 0 | 99.64 | 0.36 | 0.00 |
 | [Change the school week to a four day week](643506.md) | 42,057 | 40,147 | 1,910 | 0 | 95.46 | 4.54 | 0.00 |
-| [Make State Pensions tax free   ](650324.md) | 39,020 | 38,699 | 321 | 0 | 99.18 | 0.82 | 0.00 |
+| [Make State Pensions tax free   ](650324.md) | 39,022 | 38,701 | 321 | 0 | 99.18 | 0.82 | 0.00 |
 | [Close the borders! Suspend ALL immigration for 5 years.](652866.md) | 37,632 | 37,274 | 358 | 0 | 99.05 | 0.95 | 0.00 |
 | [Deport all foreign and dual nationals imprisoned for a year or more](642364.md) | 36,894 | 36,415 | 479 | 0 | 98.70 | 1.30 | 0.00 |
 | [Create a Palestinian Family Visa Scheme for Palestinian people affected by war](648577.md) | 35,885 | 35,564 | 321 | 0 | 99.11 | 0.89 | 0.00 |
@@ -43,7 +43,7 @@ Last refreshed 2024-03-11 03:30:05
 | [Allow Palestinian Children to Enter the UK During Ongoing Conflict](649371.md) | 18,132 | 17,980 | 152 | 0 | 99.16 | 0.84 | 0.00 |
 | [Extend cost of living payments to low income households beyond February 2024](653207.md) | 17,767 | 17,758 | 9 | 0 | 99.95 | 0.05 | 0.00 |
 | [Ban smartphones and camera phones for under 16s](655473.md) | 15,317 | 15,243 | 74 | 0 | 99.52 | 0.48 | 0.00 |
-| [Abolish the TV licence and make the BBC a subscription channel](649092.md) | 15,282 | 15,243 | 39 | 0 | 99.74 | 0.26 | 0.00 |
+| [Abolish the TV licence and make the BBC a subscription channel](649092.md) | 15,283 | 15,244 | 39 | 0 | 99.74 | 0.26 | 0.00 |
 | [Do not allow original wills to be destroyed after 25 years](654081.md) | 14,870 | 14,274 | 596 | 0 | 95.99 | 4.01 | 0.00 |
 | [Require CCTV cameras on school transport for kids with special educational needs](650437.md) | 14,729 | 14,684 | 45 | 0 | 99.69 | 0.31 | 0.00 |
 | [Urge the UN to send a peacekeeping mission to Balochistan Pakistan](652893.md) | 14,680 | 6,394 | 8,286 | 0 | 43.56 | 56.44 | 0.00 |
