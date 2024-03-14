@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2024-03-13 23:30:16
+Last refreshed 2024-03-14 00:30:17
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -14,6 +14,7 @@ Last refreshed 2024-03-13 23:30:16
 | [Make verified ID a requirement for opening a social media account.](575833.md) | 696,955 | 691,014 | 5,941 | 0 | 99.15 | 0.85 | 0.00 |
 | [Close Schools/Colleges down for an appropriate amount of time amidst COVID19.](300403.md) | 685,394 | 682,888 | 2,506 | 0 | 99.63 | 0.37 | 0.00 |
 | [Prevent gyms closing due to a spike in Covid 19 cases](333869.md) | 621,440 | 620,828 | 612 | 0 | 99.90 | 0.10 | 0.00 |
+| [Bad owners are to blame not the breed - don't ban the XL bully](643611.md) | 621,045 | 616,182 | 4,863 | 0 | 99.22 | 0.78 | 0.00 |
 | [Reduce University student tuition fees from £9250 to £3000](550344.md) | 581,287 | 578,816 | 2,471 | 0 | 99.57 | 0.43 | 0.00 |
 | [Prioritise teachers, school and childcare staff for Covid-19 vaccination](554316.md) | 508,830 | 507,539 | 1,291 | 0 | 99.75 | 0.25 | 0.00 |
 | [Reclose schools and colleges due to increase in COVID-19 cases](550846.md) | 428,789 | 428,108 | 681 | 0 | 99.84 | 0.16 | 0.00 |
@@ -57,4 +58,3 @@ Last refreshed 2024-03-13 23:30:16
 | [Scrap removal of free transport for under-18s from TfL bailout](331453.md) | 171,010 | 170,426 | 584 | 0 | 99.66 | 0.34 | 0.00 |
 | [Include abortion rights in the Bill of Rights](619334.md) | 167,690 | 167,168 | 522 | 0 | 99.69 | 0.31 | 0.00 |
 | [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 167,461 | 166,507 | 954 | 0 | 99.43 | 0.57 | 0.00 |
-| [Make suicide prevention a compulsory part of the school curriculum.](623390.md) | 160,688 | 159,723 | 965 | 0 | 99.40 | 0.60 | 0.00 |
