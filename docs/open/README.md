@@ -4,27 +4,27 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2024-03-15 03:30:04
+Last refreshed 2024-03-15 04:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](648292.md) | 266,331 | 262,120 | 4,211 | 0 | 98.42 | 1.58 | 0.00 |
 | [Urge the Israel Government to allow fuel, electricity and food into Gaza](648383.md) | 198,845 | 196,142 | 2,703 | 0 | 98.64 | 1.36 | 0.00 |
-| [Hold a parliamentary vote on assisted dying](653593.md) | 160,983 | 159,406 | 1,577 | 0 | 99.02 | 0.98 | 0.00 |
+| [Hold a parliamentary vote on assisted dying](653593.md) | 160,990 | 159,413 | 1,577 | 0 | 99.02 | 0.98 | 0.00 |
 | [Remain neutral in Israel-Palestine conflict and withdraw support for Israel](648225.md) | 151,058 | 149,520 | 1,538 | 0 | 98.98 | 1.02 | 0.00 |
 | [End the UK’s membership of the World Health Organization](648609.md) | 104,307 | 101,954 | 2,353 | 0 | 97.74 | 2.26 | 0.00 |
 | [Stop the implementation of betting affordability/financial risk checks   ](649894.md) | 103,454 | 102,494 | 960 | 0 | 99.07 | 0.93 | 0.00 |
-| [Fund continued access to modulators drugs for Cystic Fibrosis patients](650674.md) | 70,695 | 70,214 | 481 | 0 | 99.32 | 0.68 | 0.00 |
-| [Don’t increase the income requirement for family visas to £38,700](652602.md) | 66,422 | 64,430 | 1,992 | 0 | 97.00 | 3.00 | 0.00 |
+| [Fund continued access to modulators drugs for Cystic Fibrosis patients](650674.md) | 70,696 | 70,214 | 482 | 0 | 99.32 | 0.68 | 0.00 |
+| [Don’t increase the income requirement for family visas to £38,700](652602.md) | 66,427 | 64,434 | 1,993 | 0 | 97.00 | 3.00 | 0.00 |
 | [Delay the ban on rehoming and owning XL Bully dogs for 18 months](650474.md) | 64,953 | 64,245 | 708 | 0 | 98.91 | 1.09 | 0.00 |
 | [Pause Ofsted inspections and reform how school performance is evaluated](652057.md) | 50,708 | 50,539 | 169 | 0 | 99.67 | 0.33 | 0.00 |
 | [Make abuse or violence towards retail workers a standalone criminal offence](647093.md) | 46,766 | 46,719 | 47 | 0 | 99.90 | 0.10 | 0.00 |
-| [Don’t ban flavoured e-liquids for e-cigarettes](656683.md) | 45,809 | 45,649 | 160 | 0 | 99.65 | 0.35 | 0.00 |
+| [Don’t ban flavoured e-liquids for e-cigarettes](656683.md) | 45,810 | 45,650 | 160 | 0 | 99.65 | 0.35 | 0.00 |
 | [Offer the State Pension to all at 60, increase to equal 48hrs at the Living Wage](654389.md) | 45,279 | 44,726 | 553 | 0 | 98.78 | 1.22 | 0.00 |
 | [Hold a referendum on ending devolution in Wales](643987.md) | 44,984 | 44,935 | 49 | 0 | 99.89 | 0.11 | 0.00 |
 | [Change the school week to a four day week](643506.md) | 42,098 | 40,188 | 1,910 | 0 | 95.46 | 4.54 | 0.00 |
 | [Make State Pensions tax free   ](650324.md) | 39,319 | 38,998 | 321 | 0 | 99.18 | 0.82 | 0.00 |
-| [Close the borders! Suspend ALL immigration for 5 years.](652866.md) | 37,840 | 37,480 | 360 | 0 | 99.05 | 0.95 | 0.00 |
+| [Close the borders! Suspend ALL immigration for 5 years.](652866.md) | 37,841 | 37,481 | 360 | 0 | 99.05 | 0.95 | 0.00 |
 | [Create a Palestinian Family Visa Scheme for Palestinian people affected by war](648577.md) | 36,262 | 35,939 | 323 | 0 | 99.11 | 0.89 | 0.00 |
 | [Ban the use of dogs for testing and research purposes in the UK](645885.md) | 31,970 | 31,571 | 399 | 0 | 98.75 | 1.25 | 0.00 |
 | [Seek to secure the release of hostages held by Hamas](648365.md) | 31,446 | 29,172 | 2,274 | 0 | 92.77 | 7.23 | 0.00 |
