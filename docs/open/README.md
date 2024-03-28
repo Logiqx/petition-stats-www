@@ -4,13 +4,13 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2024-03-28 02:30:04
+Last refreshed 2024-03-28 03:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](648292.md) | 267,364 | 263,141 | 4,223 | 0 | 98.42 | 1.58 | 0.00 |
+| [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](648292.md) | 267,365 | 263,142 | 4,223 | 0 | 98.42 | 1.58 | 0.00 |
 | [Urge the Israel Government to allow fuel, electricity and food into Gaza](648383.md) | 198,983 | 196,276 | 2,707 | 0 | 98.64 | 1.36 | 0.00 |
-| [Hold a parliamentary vote on assisted dying](653593.md) | 180,017 | 178,371 | 1,646 | 0 | 99.09 | 0.91 | 0.00 |
+| [Hold a parliamentary vote on assisted dying](653593.md) | 180,022 | 178,376 | 1,646 | 0 | 99.09 | 0.91 | 0.00 |
 | [Remain neutral in Israel-Palestine conflict and withdraw support for Israel](648225.md) | 151,150 | 149,612 | 1,538 | 0 | 98.98 | 1.02 | 0.00 |
 | [End the UK’s membership of the World Health Organization](648609.md) | 104,556 | 102,196 | 2,360 | 0 | 97.74 | 2.26 | 0.00 |
 | [Stop the implementation of betting affordability/financial risk checks   ](649894.md) | 103,474 | 102,514 | 960 | 0 | 99.07 | 0.93 | 0.00 |
@@ -20,11 +20,11 @@ Last refreshed 2024-03-28 02:30:04
 | [Offer the State Pension to all at 60, increase to equal 48hrs at the Living Wage](654389.md) | 52,035 | 51,316 | 719 | 0 | 98.62 | 1.38 | 0.00 |
 | [Pause Ofsted inspections and reform how school performance is evaluated](652057.md) | 50,753 | 50,584 | 169 | 0 | 99.67 | 0.33 | 0.00 |
 | [Don’t ban flavoured e-liquids for e-cigarettes](656683.md) | 49,361 | 49,188 | 173 | 0 | 99.65 | 0.35 | 0.00 |
-| [Create a Palestinian Family Visa Scheme for Palestinian people affected by war](648577.md) | 47,921 | 47,453 | 468 | 0 | 99.02 | 0.98 | 0.00 |
+| [Create a Palestinian Family Visa Scheme for Palestinian people affected by war](648577.md) | 47,925 | 47,457 | 468 | 0 | 99.02 | 0.98 | 0.00 |
 | [Make abuse or violence towards retail workers a standalone criminal offence](647093.md) | 47,027 | 46,980 | 47 | 0 | 99.90 | 0.10 | 0.00 |
-| [Make State Pensions tax free   ](650324.md) | 45,104 | 44,728 | 376 | 0 | 99.17 | 0.83 | 0.00 |
+| [Make State Pensions tax free   ](650324.md) | 45,105 | 44,729 | 376 | 0 | 99.17 | 0.83 | 0.00 |
 | [Close the borders! Suspend ALL immigration for 5 years.](652866.md) | 38,550 | 38,188 | 362 | 0 | 99.06 | 0.94 | 0.00 |
-| [Immediately revoke all licences for arms exports to Israel](652949.md) | 36,668 | 36,149 | 519 | 0 | 98.58 | 1.42 | 0.00 |
+| [Immediately revoke all licences for arms exports to Israel](652949.md) | 36,671 | 36,152 | 519 | 0 | 98.58 | 1.42 | 0.00 |
 | [Ban the use of dogs for testing and research purposes in the UK](645885.md) | 32,155 | 31,756 | 399 | 0 | 98.76 | 1.24 | 0.00 |
 | [Seek to secure the release of hostages held by Hamas](648365.md) | 31,487 | 29,211 | 2,276 | 0 | 92.77 | 7.23 | 0.00 |
 | [Do not introduce regular bank account checks for benefit claimants](650940.md) | 23,731 | 23,635 | 96 | 0 | 99.60 | 0.40 | 0.00 |
@@ -32,11 +32,11 @@ Last refreshed 2024-03-28 02:30:04
 | [Ban imports of hunting trophies of endangered animals](650300.md) | 23,262 | 22,891 | 371 | 0 | 98.41 | 1.59 | 0.00 |
 | [Honour the triple lock in full in April 2024](646906.md) | 22,563 | 22,247 | 316 | 0 | 98.60 | 1.40 | 0.00 |
 | [Review the MOD's New Accommodation Offer for armed forces personnel](648516.md) | 20,567 | 20,183 | 384 | 0 | 98.13 | 1.87 | 0.00 |
-| [Introduce a progressive licensing system for young drivers under the age of 25](655298.md) | 19,127 | 19,043 | 84 | 0 | 99.56 | 0.44 | 0.00 |
+| [Introduce a progressive licensing system for young drivers under the age of 25](655298.md) | 19,128 | 19,044 | 84 | 0 | 99.56 | 0.44 | 0.00 |
 | [Allow Palestinian Children to Enter the UK During Ongoing Conflict](649371.md) | 18,369 | 18,216 | 153 | 0 | 99.17 | 0.83 | 0.00 |
 | [Extend cost of living payments to low income households beyond February 2024](653207.md) | 18,047 | 18,037 | 10 | 0 | 99.94 | 0.06 | 0.00 |
 | [Ban smartphones and camera phones for under 16s](655473.md) | 17,385 | 17,299 | 86 | 0 | 99.51 | 0.49 | 0.00 |
-| [Abolish the TV licence and make the BBC a subscription channel](649092.md) | 17,356 | 17,312 | 44 | 0 | 99.75 | 0.25 | 0.00 |
+| [Abolish the TV licence and make the BBC a subscription channel](649092.md) | 17,357 | 17,313 | 44 | 0 | 99.75 | 0.25 | 0.00 |
 | [Require CCTV cameras on school transport for kids with special educational needs](650437.md) | 15,332 | 15,284 | 48 | 0 | 99.69 | 0.31 | 0.00 |
 | [Do not allow original wills to be destroyed after 25 years](654081.md) | 15,082 | 14,481 | 601 | 0 | 96.02 | 3.98 | 0.00 |
 | [Create a statutory offence of manslaughter by coercive or controlling behaviour](648948.md) | 14,707 | 14,631 | 76 | 0 | 99.48 | 0.52 | 0.00 |
@@ -46,9 +46,9 @@ Last refreshed 2024-03-28 02:30:04
 | [Do not let the Government access information on pensioners' bank accounts.](654080.md) | 14,451 | 14,309 | 142 | 0 | 99.02 | 0.98 | 0.00 |
 | [Fund the reopening of the three state-of-the-art Rutherford Cancer Centres](644753.md) | 14,265 | 14,153 | 112 | 0 | 99.21 | 0.79 | 0.00 |
 | [Increase Student Loans in England to catch up with inflation](650075.md) | 13,869 | 13,849 | 20 | 0 | 99.86 | 0.14 | 0.00 |
-| [Hold a referendum on re-joining the European Union](648807.md) | 13,624 | 12,651 | 973 | 0 | 92.86 | 7.14 | 0.00 |
+| [Hold a referendum on re-joining the European Union](648807.md) | 13,625 | 12,652 | 973 | 0 | 92.86 | 7.14 | 0.00 |
 | [Require broadcasters to call proscribed terrorist organisations terrorists](649611.md) | 12,657 | 12,363 | 294 | 0 | 97.68 | 2.32 | 0.00 |
-| [Allow people to stay in the UK if their employer’s sponsor license is withdrawn](658722.md) | 12,632 | 12,528 | 104 | 0 | 99.18 | 0.82 | 0.00 |
+| [Allow people to stay in the UK if their employer’s sponsor license is withdrawn](658722.md) | 12,636 | 12,532 | 104 | 0 | 99.18 | 0.82 | 0.00 |
 | [Make financial education compulsory in all schools from primary age](648514.md) | 12,374 | 12,317 | 57 | 0 | 99.54 | 0.46 | 0.00 |
 | [Review how to turn MHRA into a fully transparent, patient first regulator](652008.md) | 11,940 | 11,735 | 205 | 0 | 98.28 | 1.72 | 0.00 |
 | [For the United Kingdom to recognise the state of Palestine immediately](653509.md) | 11,887 | 11,718 | 169 | 0 | 98.58 | 1.42 | 0.00 |
