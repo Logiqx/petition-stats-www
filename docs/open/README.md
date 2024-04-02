@@ -4,57 +4,57 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2024-04-02 16:30:04
+Last refreshed 2024-04-02 17:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](648292.md) | 267,648 | 263,421 | 4,227 | 0 | 98.42 | 1.58 | 0.00 |
-| [Urge the Israel Government to allow fuel, electricity and food into Gaza](648383.md) | 199,058 | 196,350 | 2,708 | 0 | 98.64 | 1.36 | 0.00 |
-| [Hold a parliamentary vote on assisted dying](653593.md) | 186,015 | 184,348 | 1,667 | 0 | 99.10 | 0.90 | 0.00 |
-| [Remain neutral in Israel-Palestine conflict and withdraw support for Israel](648225.md) | 151,235 | 149,695 | 1,540 | 0 | 98.98 | 1.02 | 0.00 |
-| [End the UK’s membership of the World Health Organization](648609.md) | 104,650 | 102,287 | 2,363 | 0 | 97.74 | 2.26 | 0.00 |
+| [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](648292.md) | 267,657 | 263,430 | 4,227 | 0 | 98.42 | 1.58 | 0.00 |
+| [Urge the Israel Government to allow fuel, electricity and food into Gaza](648383.md) | 199,061 | 196,353 | 2,708 | 0 | 98.64 | 1.36 | 0.00 |
+| [Hold a parliamentary vote on assisted dying](653593.md) | 186,078 | 184,411 | 1,667 | 0 | 99.10 | 0.90 | 0.00 |
+| [Remain neutral in Israel-Palestine conflict and withdraw support for Israel](648225.md) | 151,236 | 149,696 | 1,540 | 0 | 98.98 | 1.02 | 0.00 |
+| [End the UK’s membership of the World Health Organization](648609.md) | 104,651 | 102,288 | 2,363 | 0 | 97.74 | 2.26 | 0.00 |
 | [Stop the implementation of betting affordability/financial risk checks   ](649894.md) | 103,482 | 102,522 | 960 | 0 | 99.07 | 0.93 | 0.00 |
-| [Fund continued access to modulators drugs for Cystic Fibrosis patients](650674.md) | 71,232 | 70,748 | 484 | 0 | 99.32 | 0.68 | 0.00 |
-| [Don’t increase the income requirement for family visas to £38,700](652602.md) | 70,397 | 68,285 | 2,112 | 0 | 97.00 | 3.00 | 0.00 |
+| [Fund continued access to modulators drugs for Cystic Fibrosis patients](650674.md) | 71,234 | 70,750 | 484 | 0 | 99.32 | 0.68 | 0.00 |
+| [Don’t increase the income requirement for family visas to £38,700](652602.md) | 70,403 | 68,291 | 2,112 | 0 | 97.00 | 3.00 | 0.00 |
 | [Delay the ban on rehoming and owning XL Bully dogs for 18 months](650474.md) | 65,061 | 64,352 | 709 | 0 | 98.91 | 1.09 | 0.00 |
-| [Create a Palestinian Family Visa Scheme for Palestinian people affected by war](648577.md) | 56,788 | 56,223 | 565 | 0 | 99.01 | 0.99 | 0.00 |
-| [Offer the State Pension to all at 60, increase to equal 48hrs at the Living Wage](654389.md) | 54,544 | 53,779 | 765 | 0 | 98.60 | 1.40 | 0.00 |
-| [Pause Ofsted inspections and reform how school performance is evaluated](652057.md) | 50,765 | 50,596 | 169 | 0 | 99.67 | 0.33 | 0.00 |
-| [Don’t ban flavoured e-liquids for e-cigarettes](656683.md) | 49,987 | 49,811 | 176 | 0 | 99.65 | 0.35 | 0.00 |
-| [Make State Pensions tax free   ](650324.md) | 49,246 | 48,834 | 412 | 0 | 99.16 | 0.84 | 0.00 |
-| [Make abuse or violence towards retail workers a standalone criminal offence](647093.md) | 47,059 | 47,012 | 47 | 0 | 99.90 | 0.10 | 0.00 |
-| [Close the borders! Suspend ALL immigration for 5 years.](652866.md) | 38,882 | 38,517 | 365 | 0 | 99.06 | 0.94 | 0.00 |
-| [Immediately revoke all licences for arms exports to Israel](652949.md) | 37,498 | 36,964 | 534 | 0 | 98.58 | 1.42 | 0.00 |
+| [Create a Palestinian Family Visa Scheme for Palestinian people affected by war](648577.md) | 56,973 | 56,405 | 568 | 0 | 99.00 | 1.00 | 0.00 |
+| [Offer the State Pension to all at 60, increase to equal 48hrs at the Living Wage](654389.md) | 54,569 | 53,804 | 765 | 0 | 98.60 | 1.40 | 0.00 |
+| [Pause Ofsted inspections and reform how school performance is evaluated](652057.md) | 50,766 | 50,597 | 169 | 0 | 99.67 | 0.33 | 0.00 |
+| [Don’t ban flavoured e-liquids for e-cigarettes](656683.md) | 49,994 | 49,818 | 176 | 0 | 99.65 | 0.35 | 0.00 |
+| [Make State Pensions tax free   ](650324.md) | 49,380 | 48,966 | 414 | 0 | 99.16 | 0.84 | 0.00 |
+| [Make abuse or violence towards retail workers a standalone criminal offence](647093.md) | 47,061 | 47,014 | 47 | 0 | 99.90 | 0.10 | 0.00 |
+| [Close the borders! Suspend ALL immigration for 5 years.](652866.md) | 38,898 | 38,533 | 365 | 0 | 99.06 | 0.94 | 0.00 |
+| [Immediately revoke all licences for arms exports to Israel](652949.md) | 37,517 | 36,983 | 534 | 0 | 98.58 | 1.42 | 0.00 |
 | [Ban the use of dogs for testing and research purposes in the UK](645885.md) | 32,207 | 31,807 | 400 | 0 | 98.76 | 1.24 | 0.00 |
-| [Seek to secure the release of hostages held by Hamas](648365.md) | 31,510 | 29,234 | 2,276 | 0 | 92.78 | 7.22 | 0.00 |
+| [Seek to secure the release of hostages held by Hamas](648365.md) | 31,511 | 29,235 | 2,276 | 0 | 92.78 | 7.22 | 0.00 |
 | [Enhance consumer protection for holiday caravan owners](650884.md) | 24,111 | 24,064 | 47 | 0 | 99.81 | 0.19 | 0.00 |
 | [Do not introduce regular bank account checks for benefit claimants](650940.md) | 23,818 | 23,720 | 98 | 0 | 99.59 | 0.41 | 0.00 |
-| [Ban imports of hunting trophies of endangered animals](650300.md) | 23,298 | 22,926 | 372 | 0 | 98.40 | 1.60 | 0.00 |
+| [Ban imports of hunting trophies of endangered animals](650300.md) | 23,300 | 22,928 | 372 | 0 | 98.40 | 1.60 | 0.00 |
 | [Honour the triple lock in full in April 2024](646906.md) | 22,579 | 22,263 | 316 | 0 | 98.60 | 1.40 | 0.00 |
 | [Review the MOD's New Accommodation Offer for armed forces personnel](648516.md) | 20,575 | 20,191 | 384 | 0 | 98.13 | 1.87 | 0.00 |
-| [Introduce a progressive licensing system for young drivers under the age of 25](655298.md) | 19,319 | 19,234 | 85 | 0 | 99.56 | 0.44 | 0.00 |
-| [Allow Palestinian Children to Enter the UK During Ongoing Conflict](649371.md) | 18,437 | 18,283 | 154 | 0 | 99.16 | 0.84 | 0.00 |
-| [Extend cost of living payments to low income households beyond February 2024](653207.md) | 18,114 | 18,103 | 11 | 0 | 99.94 | 0.06 | 0.00 |
-| [Ban smartphones and camera phones for under 16s](655473.md) | 17,743 | 17,653 | 90 | 0 | 99.49 | 0.51 | 0.00 |
+| [Introduce a progressive licensing system for young drivers under the age of 25](655298.md) | 19,322 | 19,237 | 85 | 0 | 99.56 | 0.44 | 0.00 |
+| [Allow Palestinian Children to Enter the UK During Ongoing Conflict](649371.md) | 18,438 | 18,284 | 154 | 0 | 99.16 | 0.84 | 0.00 |
+| [Extend cost of living payments to low income households beyond February 2024](653207.md) | 18,115 | 18,104 | 11 | 0 | 99.94 | 0.06 | 0.00 |
+| [Ban smartphones and camera phones for under 16s](655473.md) | 17,746 | 17,656 | 90 | 0 | 99.49 | 0.51 | 0.00 |
 | [Abolish the TV licence and make the BBC a subscription channel](649092.md) | 17,688 | 17,644 | 44 | 0 | 99.75 | 0.25 | 0.00 |
 | [Require CCTV cameras on school transport for kids with special educational needs](650437.md) | 15,353 | 15,305 | 48 | 0 | 99.69 | 0.31 | 0.00 |
 | [Do not allow original wills to be destroyed after 25 years](654081.md) | 15,141 | 14,538 | 603 | 0 | 96.02 | 3.98 | 0.00 |
-| [Create a statutory offence of manslaughter by coercive or controlling behaviour](648948.md) | 14,842 | 14,765 | 77 | 0 | 99.48 | 0.52 | 0.00 |
-| [Allow people to stay in the UK if their employer’s sponsor license is withdrawn](658722.md) | 14,754 | 14,626 | 128 | 0 | 99.13 | 0.87 | 0.00 |
+| [Create a statutory offence of manslaughter by coercive or controlling behaviour](648948.md) | 14,846 | 14,769 | 77 | 0 | 99.48 | 0.52 | 0.00 |
+| [Allow people to stay in the UK if their employer’s sponsor license is withdrawn](658722.md) | 14,766 | 14,638 | 128 | 0 | 99.13 | 0.87 | 0.00 |
 | [Urge the UN to send a peacekeeping mission to Balochistan Pakistan](652893.md) | 14,691 | 6,402 | 8,289 | 0 | 43.58 | 56.42 | 0.00 |
 | [Home fee status for BN(O) students after 3 years continuous stay in the UK](653888.md) | 14,570 | 14,357 | 213 | 0 | 98.54 | 1.46 | 0.00 |
-| [Withdraw support for Israel and support Palestine in Israel-Palestine conflict](648456.md) | 14,513 | 13,874 | 639 | 0 | 95.60 | 4.40 | 0.00 |
+| [Withdraw support for Israel and support Palestine in Israel-Palestine conflict](648456.md) | 14,515 | 13,876 | 639 | 0 | 95.60 | 4.40 | 0.00 |
 | [Do not let the Government access information on pensioners' bank accounts.](654080.md) | 14,505 | 14,362 | 143 | 0 | 99.01 | 0.99 | 0.00 |
 | [Fund the reopening of the three state-of-the-art Rutherford Cancer Centres](644753.md) | 14,270 | 14,158 | 112 | 0 | 99.22 | 0.78 | 0.00 |
-| [Increase Student Loans in England to catch up with inflation](650075.md) | 13,959 | 13,937 | 22 | 0 | 99.84 | 0.16 | 0.00 |
-| [Hold a referendum on re-joining the European Union](648807.md) | 13,847 | 12,869 | 978 | 0 | 92.94 | 7.06 | 0.00 |
+| [Increase Student Loans in England to catch up with inflation](650075.md) | 13,988 | 13,966 | 22 | 0 | 99.84 | 0.16 | 0.00 |
+| [Hold a referendum on re-joining the European Union](648807.md) | 13,849 | 12,871 | 978 | 0 | 92.94 | 7.06 | 0.00 |
 | [Require broadcasters to call proscribed terrorist organisations terrorists](649611.md) | 12,856 | 12,549 | 307 | 0 | 97.61 | 2.39 | 0.00 |
-| [Make financial education compulsory in all schools from primary age](648514.md) | 12,408 | 12,350 | 58 | 0 | 99.53 | 0.47 | 0.00 |
-| [Review how to turn MHRA into a fully transparent, patient first regulator](652008.md) | 12,206 | 11,991 | 215 | 0 | 98.24 | 1.76 | 0.00 |
-| [Add a mobility element to Attendance Allowance](655624.md) | 12,150 | 12,085 | 65 | 0 | 99.47 | 0.53 | 0.00 |
-| [Provide all pensioners born before April 1951 with the new State Pension](656038.md) | 12,065 | 11,723 | 342 | 0 | 97.17 | 2.83 | 0.00 |
-| [For the United Kingdom to recognise the state of Palestine immediately](653509.md) | 11,924 | 11,753 | 171 | 0 | 98.57 | 1.43 | 0.00 |
-| [Increase investment in Speech and Language Therapy.](657935.md) | 11,794 | 11,731 | 63 | 0 | 99.47 | 0.53 | 0.00 |
-| [Call on Hamas to unconditionally surrender and return all the hostages](657764.md) | 11,757 | 10,760 | 997 | 0 | 91.52 | 8.48 | 0.00 |
+| [Make financial education compulsory in all schools from primary age](648514.md) | 12,409 | 12,351 | 58 | 0 | 99.53 | 0.47 | 0.00 |
+| [Review how to turn MHRA into a fully transparent, patient first regulator](652008.md) | 12,207 | 11,992 | 215 | 0 | 98.24 | 1.76 | 0.00 |
+| [Add a mobility element to Attendance Allowance](655624.md) | 12,152 | 12,087 | 65 | 0 | 99.47 | 0.53 | 0.00 |
+| [Provide all pensioners born before April 1951 with the new State Pension](656038.md) | 12,073 | 11,731 | 342 | 0 | 97.17 | 2.83 | 0.00 |
+| [For the United Kingdom to recognise the state of Palestine immediately](653509.md) | 11,925 | 11,754 | 171 | 0 | 98.57 | 1.43 | 0.00 |
+| [Increase investment in Speech and Language Therapy.](657935.md) | 11,798 | 11,735 | 63 | 0 | 99.47 | 0.53 | 0.00 |
+| [Call on Hamas to unconditionally surrender and return all the hostages](657764.md) | 11,767 | 10,769 | 998 | 0 | 91.52 | 8.48 | 0.00 |
 | [Allow those already in the UK switching to care visa to bring dependants](657474.md) | 11,405 | 11,317 | 88 | 0 | 99.23 | 0.77 | 0.00 |
 | [Review Timetable For Phasing Out Copper Wire Landlines](653201.md) | 11,083 | 11,062 | 21 | 0 | 99.81 | 0.19 | 0.00 |
