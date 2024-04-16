@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2024-04-16 22:30:14
+Last refreshed 2024-04-16 23:30:15
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -47,6 +47,7 @@ Last refreshed 2024-04-16 22:30:14
 | [Broker a ceasefire for all sides in Yemen to carry out humanitarian aid](326932.md) | 211,848 | 209,517 | 2,331 | 0 | 98.90 | 1.10 | 0.00 |
 | [Create a Minister for Hospitality in the UK Government](552201.md) | 209,983 | 208,584 | 1,399 | 0 | 99.33 | 0.67 | 0.00 |
 | [Allow football fans to attend matches at all levels](552036.md) | 200,571 | 199,011 | 1,560 | 0 | 99.22 | 0.78 | 0.00 |
+| [Urge the Israel Government to allow fuel, electricity and food into Gaza](648383.md) | 199,622 | 196,897 | 2,725 | 0 | 98.63 | 1.37 | 0.00 |
 | [Close schools in Tier 4 areas](564209.md) | 194,882 | 194,677 | 205 | 0 | 99.89 | 0.11 | 0.00 |
 | [Waive visa requirement for Ukrainian refugees.](609530.md) | 188,650 | 184,878 | 3,772 | 0 | 98.00 | 2.00 | 0.00 |
 | [Improve Maternal Mortality Rates and Health Care for Black Women in the U.K.](301079.md) | 187,520 | 185,953 | 1,567 | 0 | 99.16 | 0.84 | 0.00 |
@@ -57,4 +58,3 @@ Last refreshed 2024-04-16 22:30:14
 | [Lower university tuition fees for students until online teaching ends](552911.md) | 171,137 | 170,463 | 674 | 0 | 99.61 | 0.39 | 0.00 |
 | [Scrap removal of free transport for under-18s from TfL bailout](331453.md) | 171,010 | 170,426 | 584 | 0 | 99.66 | 0.34 | 0.00 |
 | [Include abortion rights in the Bill of Rights](619334.md) | 167,690 | 167,168 | 522 | 0 | 99.69 | 0.31 | 0.00 |
-| [Ryan's Law: Widen definition of 'death by dangerous driving'](575620.md) | 167,461 | 166,507 | 954 | 0 | 99.43 | 0.57 | 0.00 |
