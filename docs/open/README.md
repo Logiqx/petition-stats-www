@@ -4,35 +4,35 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2024-04-22 00:30:04
+Last refreshed 2024-04-22 01:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Hold a parliamentary vote on assisted dying](653593.md) | 202,060 | 200,321 | 1,739 | 0 | 99.14 | 0.86 | 0.00 |
+| [Hold a parliamentary vote on assisted dying](653593.md) | 202,065 | 200,325 | 1,740 | 0 | 99.14 | 0.86 | 0.00 |
 | [Stop the implementation of betting affordability/financial risk checks   ](649894.md) | 103,513 | 102,551 | 962 | 0 | 99.07 | 0.93 | 0.00 |
-| [Don’t increase the income requirement for family visas to £38,700](652602.md) | 74,850 | 72,498 | 2,352 | 0 | 96.86 | 3.14 | 0.00 |
+| [Don’t increase the income requirement for family visas to £38,700](652602.md) | 74,852 | 72,500 | 2,352 | 0 | 96.86 | 3.14 | 0.00 |
 | [Fund continued access to modulators drugs for Cystic Fibrosis patients](650674.md) | 71,552 | 71,062 | 490 | 0 | 99.32 | 0.68 | 0.00 |
 | [Delay the ban on rehoming and owning XL Bully dogs for 18 months](650474.md) | 65,172 | 64,463 | 709 | 0 | 98.91 | 1.09 | 0.00 |
-| [Offer the State Pension to all at 60, increase to equal 48hrs at the Living Wage](654389.md) | 56,793 | 55,998 | 795 | 0 | 98.60 | 1.40 | 0.00 |
+| [Offer the State Pension to all at 60, increase to equal 48hrs at the Living Wage](654389.md) | 56,794 | 55,999 | 795 | 0 | 98.60 | 1.40 | 0.00 |
 | [Make State Pensions tax free   ](650324.md) | 53,144 | 52,711 | 433 | 0 | 99.19 | 0.81 | 0.00 |
 | [Don’t ban flavoured e-liquids for e-cigarettes](656683.md) | 52,199 | 52,015 | 184 | 0 | 99.65 | 0.35 | 0.00 |
 | [Pause Ofsted inspections and reform how school performance is evaluated](652057.md) | 50,843 | 50,674 | 169 | 0 | 99.67 | 0.33 | 0.00 |
-| [Immediately revoke all licences for arms exports to Israel](652949.md) | 45,698 | 45,052 | 646 | 0 | 98.59 | 1.41 | 0.00 |
+| [Immediately revoke all licences for arms exports to Israel](652949.md) | 45,699 | 45,053 | 646 | 0 | 98.59 | 1.41 | 0.00 |
 | [Close the borders! Suspend ALL immigration for 5 years.](652866.md) | 40,451 | 40,078 | 373 | 0 | 99.08 | 0.92 | 0.00 |
 | [Seek to secure the release of hostages held by Hamas](648365.md) | 31,590 | 29,311 | 2,279 | 0 | 92.79 | 7.21 | 0.00 |
-| [Ban the sale of used power tools at car boot sales and markets](659019.md) | 27,938 | 27,869 | 69 | 0 | 99.75 | 0.25 | 0.00 |
+| [Ban the sale of used power tools at car boot sales and markets](659019.md) | 27,940 | 27,871 | 69 | 0 | 99.75 | 0.25 | 0.00 |
 | [Enhance consumer protection for holiday caravan owners](650884.md) | 26,071 | 26,022 | 49 | 0 | 99.81 | 0.19 | 0.00 |
-| [Do not introduce regular bank account checks for benefit claimants](650940.md) | 24,157 | 24,058 | 99 | 0 | 99.59 | 0.41 | 0.00 |
+| [Do not introduce regular bank account checks for benefit claimants](650940.md) | 24,158 | 24,059 | 99 | 0 | 99.59 | 0.41 | 0.00 |
 | [Ban imports of hunting trophies of endangered animals](650300.md) | 23,470 | 23,094 | 376 | 0 | 98.40 | 1.60 | 0.00 |
 | [Introduce a progressive licensing system for young drivers under the age of 25](655298.md) | 22,429 | 22,326 | 103 | 0 | 99.54 | 0.46 | 0.00 |
-| [Ban smartphones and camera phones for under 16s](655473.md) | 22,032 | 21,925 | 107 | 0 | 99.51 | 0.49 | 0.00 |
+| [Ban smartphones and camera phones for under 16s](655473.md) | 22,033 | 21,926 | 107 | 0 | 99.51 | 0.49 | 0.00 |
 | [Review the MOD's New Accommodation Offer for armed forces personnel](648516.md) | 20,612 | 20,227 | 385 | 0 | 98.13 | 1.87 | 0.00 |
 | [Exempt all state pensions and benefits from income tax](651642.md) | 20,050 | 19,870 | 180 | 0 | 99.10 | 0.90 | 0.00 |
-| [Introduce new legal requirements for vets prior to euthanasia of dogs & cats](658109.md) | 18,899 | 18,691 | 208 | 0 | 98.90 | 1.10 | 0.00 |
+| [Introduce new legal requirements for vets prior to euthanasia of dogs & cats](658109.md) | 18,900 | 18,692 | 208 | 0 | 98.90 | 1.10 | 0.00 |
 | [Allow Palestinian Children to Enter the UK During Ongoing Conflict](649371.md) | 18,659 | 18,499 | 160 | 0 | 99.14 | 0.86 | 0.00 |
 | [Extend cost of living payments to low income households beyond February 2024](653207.md) | 18,615 | 18,602 | 13 | 0 | 99.93 | 0.07 | 0.00 |
-| [Abolish the TV licence and make the BBC a subscription channel](649092.md) | 18,426 | 18,377 | 49 | 0 | 99.73 | 0.27 | 0.00 |
-| [Provide funding for STI screening at the beginning of a pregnancy](655201.md) | 16,717 | 16,660 | 57 | 0 | 99.66 | 0.34 | 0.00 |
+| [Abolish the TV licence and make the BBC a subscription channel](649092.md) | 18,427 | 18,378 | 49 | 0 | 99.73 | 0.27 | 0.00 |
+| [Provide funding for STI screening at the beginning of a pregnancy](655201.md) | 16,720 | 16,663 | 57 | 0 | 99.66 | 0.34 | 0.00 |
 | [Raise the personal tax allowance to £15,000](655342.md) | 16,393 | 16,288 | 105 | 0 | 99.36 | 0.64 | 0.00 |
 | [Allow people to stay in the UK if their employer’s sponsor license is withdrawn](658722.md) | 16,363 | 16,221 | 142 | 0 | 99.13 | 0.87 | 0.00 |
 | [Require CCTV cameras on school transport for kids with special educational needs](650437.md) | 16,217 | 16,168 | 49 | 0 | 99.70 | 0.30 | 0.00 |
@@ -47,7 +47,7 @@ Last refreshed 2024-04-22 00:30:04
 | [Add a mobility element to Attendance Allowance](655624.md) | 13,665 | 13,597 | 68 | 0 | 99.50 | 0.50 | 0.00 |
 | [Review the brightness of car headlights for safety](653793.md) | 13,563 | 13,532 | 31 | 0 | 99.77 | 0.23 | 0.00 |
 | [Require broadcasters to call proscribed terrorist organisations terrorists](649611.md) | 13,055 | 12,737 | 318 | 0 | 97.56 | 2.44 | 0.00 |
-| [Create a new body to regulate service charges for residential property](659647.md) | 12,975 | 12,906 | 69 | 0 | 99.47 | 0.53 | 0.00 |
+| [Create a new body to regulate service charges for residential property](659647.md) | 12,977 | 12,908 | 69 | 0 | 99.47 | 0.53 | 0.00 |
 | [Reduce Vehicle Tax for cars aged between 20 and 40 years old](654884.md) | 12,829 | 12,794 | 35 | 0 | 99.73 | 0.27 | 0.00 |
 | [Provide all pensioners born before April 1951 with the new State Pension](656038.md) | 12,756 | 12,401 | 355 | 0 | 97.22 | 2.78 | 0.00 |
 | [Increase Carer’s Allowance to equal 35 hours at 50% of the living wage.](653520.md) | 12,530 | 12,510 | 20 | 0 | 99.84 | 0.16 | 0.00 |
