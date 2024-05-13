@@ -4,30 +4,30 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2024-05-13 02:30:04
+Last refreshed 2024-05-13 03:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Allow students to be taken out of school for two weeks a year without penalty](658365.md) | 247,969 | 247,784 | 185 | 0 | 99.93 | 0.07 | 0.00 |
 | [Hold a parliamentary vote on assisted dying](653593.md) | 210,894 | 209,110 | 1,784 | 0 | 99.15 | 0.85 | 0.00 |
-| [Don’t increase the income requirement for family visas to £38,700](652602.md) | 86,323 | 83,111 | 3,212 | 0 | 96.28 | 3.72 | 0.00 |
+| [Don’t increase the income requirement for family visas to £38,700](652602.md) | 86,324 | 83,112 | 3,212 | 0 | 96.28 | 3.72 | 0.00 |
 | [Fund continued access to modulators drugs for Cystic Fibrosis patients](650674.md) | 72,041 | 71,547 | 494 | 0 | 99.31 | 0.69 | 0.00 |
-| [Offer the State Pension to all at 60, increase to equal 48hrs at the Living Wage](654389.md) | 57,850 | 57,050 | 800 | 0 | 98.62 | 1.38 | 0.00 |
+| [Offer the State Pension to all at 60, increase to equal 48hrs at the Living Wage](654389.md) | 57,851 | 57,051 | 800 | 0 | 98.62 | 1.38 | 0.00 |
 | [Don’t ban flavoured e-liquids for e-cigarettes](656683.md) | 53,885 | 53,692 | 193 | 0 | 99.64 | 0.36 | 0.00 |
 | [Pause Ofsted inspections and reform how school performance is evaluated](652057.md) | 50,959 | 50,789 | 170 | 0 | 99.67 | 0.33 | 0.00 |
 | [Immediately revoke all licences for arms exports to Israel](652949.md) | 47,222 | 46,551 | 671 | 0 | 98.58 | 1.42 | 0.00 |
 | [Close the borders! Suspend ALL immigration for 5 years.](652866.md) | 41,753 | 41,369 | 384 | 0 | 99.08 | 0.92 | 0.00 |
-| [Ban the sale of used power tools at car boot sales and markets](659019.md) | 41,569 | 41,473 | 96 | 0 | 99.77 | 0.23 | 0.00 |
-| [Raise Motorway Speed Limits to 100mph and Dual Carriageways to 80mph](651666.md) | 34,928 | 34,890 | 38 | 0 | 99.89 | 0.11 | 0.00 |
+| [Ban the sale of used power tools at car boot sales and markets](659019.md) | 41,570 | 41,474 | 96 | 0 | 99.77 | 0.23 | 0.00 |
+| [Raise Motorway Speed Limits to 100mph and Dual Carriageways to 80mph](651666.md) | 34,935 | 34,897 | 38 | 0 | 99.89 | 0.11 | 0.00 |
 | [Provide funding for STI screening at the beginning of a pregnancy](655201.md) | 32,158 | 31,969 | 189 | 0 | 99.41 | 0.59 | 0.00 |
 | [Enhance consumer protection for holiday caravan owners](650884.md) | 27,226 | 27,173 | 53 | 0 | 99.81 | 0.19 | 0.00 |
 | [Do not introduce regular bank account checks for benefit claimants](650940.md) | 25,317 | 25,215 | 102 | 0 | 99.60 | 0.40 | 0.00 |
-| [Ban smartphones and camera phones for under 16s](655473.md) | 23,800 | 23,688 | 112 | 0 | 99.53 | 0.47 | 0.00 |
+| [Ban smartphones and camera phones for under 16s](655473.md) | 23,801 | 23,689 | 112 | 0 | 99.53 | 0.47 | 0.00 |
 | [Introduce a progressive licensing system for young drivers under the age of 25](655298.md) | 23,416 | 23,306 | 110 | 0 | 99.53 | 0.47 | 0.00 |
 | [Exempt all state pensions and benefits from income tax](651642.md) | 22,306 | 22,108 | 198 | 0 | 99.11 | 0.89 | 0.00 |
-| [Introduce new legal requirements for vets prior to euthanasia of dogs & cats](658109.md) | 22,151 | 21,907 | 244 | 0 | 98.90 | 1.10 | 0.00 |
+| [Introduce new legal requirements for vets prior to euthanasia of dogs & cats](658109.md) | 22,153 | 21,909 | 244 | 0 | 98.90 | 1.10 | 0.00 |
 | [Raise the personal tax allowance to £15,000](655342.md) | 22,016 | 21,881 | 135 | 0 | 99.39 | 0.61 | 0.00 |
-| [Require videogame publishers to keep games they have sold in a working state](659071.md) | 21,034 | 20,506 | 528 | 0 | 97.49 | 2.51 | 0.00 |
+| [Require videogame publishers to keep games they have sold in a working state](659071.md) | 21,037 | 20,509 | 528 | 0 | 97.49 | 2.51 | 0.00 |
 | [Extend cost of living payments to low income households beyond February 2024](653207.md) | 20,856 | 20,843 | 13 | 0 | 99.94 | 0.06 | 0.00 |
 | [Review the MOD's New Accommodation Offer for armed forces personnel](648516.md) | 20,640 | 20,255 | 385 | 0 | 98.13 | 1.87 | 0.00 |
 | [Create a new body to regulate service charges for residential property](659647.md) | 16,921 | 16,836 | 85 | 0 | 99.50 | 0.50 | 0.00 |
@@ -44,7 +44,7 @@ Last refreshed 2024-05-13 02:30:04
 | [Increase Carer’s Allowance to equal 35 hours at 50% of the living wage.](653520.md) | 13,888 | 13,863 | 25 | 0 | 99.82 | 0.18 | 0.00 |
 | [Provide all pensioners born before April 1951 with the new State Pension](656038.md) | 13,222 | 12,859 | 363 | 0 | 97.25 | 2.75 | 0.00 |
 | [Reduce Vehicle Tax for cars aged between 20 and 40 years old](654884.md) | 13,090 | 13,055 | 35 | 0 | 99.73 | 0.27 | 0.00 |
-| [Review how to turn MHRA into a fully transparent, patient first regulator](652008.md) | 12,949 | 12,718 | 231 | 0 | 98.22 | 1.78 | 0.00 |
+| [Review how to turn MHRA into a fully transparent, patient first regulator](652008.md) | 12,950 | 12,719 | 231 | 0 | 98.22 | 1.78 | 0.00 |
 | [For the United Kingdom to recognise the state of Palestine immediately](653509.md) | 12,708 | 12,520 | 188 | 0 | 98.52 | 1.48 | 0.00 |
 | [Increase investment in Speech and Language Therapy.](657935.md) | 12,697 | 12,631 | 66 | 0 | 99.48 | 0.52 | 0.00 |
 | [Call on Hamas to unconditionally surrender and return all the hostages](657764.md) | 12,336 | 11,312 | 1,024 | 0 | 91.70 | 8.30 | 0.00 |
