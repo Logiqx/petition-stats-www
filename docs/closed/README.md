@@ -4,7 +4,7 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2024-05-30 10:30:04
+Last refreshed 2024-05-30 11:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
@@ -30,14 +30,14 @@ Last refreshed 2024-05-30 10:30:04
 | [Limit the Sale and Use of Fireworks to Organisers of Licensed Displays Only](319891.md) | 301,611 | 300,328 | 1,283 | 0 | 99.57 | 0.43 | 0.00 |
 | [Call an immediate general election](641904.md) | 288,042 | 284,829 | 3,213 | 0 | 98.88 | 1.12 | 0.00 |
 | [Seek Europe-wide Visa-free work permit for Touring professionals and Artists](563294.md) | 286,797 | 280,363 | 6,434 | 0 | 97.76 | 2.24 | 0.00 |
-| [For the United Kingdom to recognise the state of Palestine immediately](653509.md) | 283,212 | 281,325 | 1,887 | 0 | 99.33 | 0.67 | 0.00 |
+| [For the United Kingdom to recognise the state of Palestine immediately](653509.md) | 283,288 | 281,401 | 1,887 | 0 | 99.33 | 0.67 | 0.00 |
 | [Require universities to partially refund tuition fees for 20/21 due to Covid-19](324762.md) | 270,659 | 269,491 | 1,168 | 0 | 99.57 | 0.43 | 0.00 |
 | [Seek a ceasefire and to end Israeli occupation of the West Bank and Gaza Strip](648292.md) | 268,882 | 264,634 | 4,248 | 0 | 98.42 | 1.58 | 0.00 |
 | [Teach Britain's colonial past as part of the UK's compulsory curriculum](324092.md) | 268,772 | 265,909 | 2,863 | 0 | 98.93 | 1.07 | 0.00 |
 | [Exempt golf courses from the list of venues required to close due to Covid-19](309851.md) | 257,267 | 256,932 | 335 | 0 | 99.87 | 0.13 | 0.00 |
 | [Do not restrict our rights to peaceful protest.](579012.md) | 256,618 | 253,820 | 2,798 | 0 | 98.91 | 1.09 | 0.00 |
 | [Make LGBT conversion therapy illegal in the UK](300976.md) | 256,392 | 253,566 | 2,826 | 0 | 98.90 | 1.10 | 0.00 |
-| [Allow students to be taken out of school for two weeks a year without penalty](658365.md) | 254,528 | 254,333 | 195 | 0 | 99.92 | 0.08 | 0.00 |
+| [Allow students to be taken out of school for two weeks a year without penalty](658365.md) | 254,529 | 254,334 | 195 | 0 | 99.92 | 0.08 | 0.00 |
 | [Remove LGBT content from the Relationships Education curriculum](630932.md) | 249,594 | 248,491 | 1,103 | 0 | 99.56 | 0.44 | 0.00 |
 | [Extend maternity leave by 3 months with pay in light of COVID-19](306691.md) | 238,884 | 238,439 | 445 | 0 | 99.81 | 0.19 | 0.00 |
 | [Ban Animal Testing - Fund, accept & promote alternatives to animal testing](581641.md) | 235,886 | 221,943 | 13,943 | 0 | 94.09 | 5.91 | 0.00 |
@@ -46,7 +46,7 @@ Last refreshed 2024-05-30 10:30:04
 | [Open gyms first as we come out of lockdown & fund a Work Out to Help Out scheme](567492.md) | 230,017 | 229,846 | 171 | 0 | 99.93 | 0.07 | 0.00 |
 | [Implement sanctions against the Nigerian Government and officials](554150.md) | 221,258 | 200,166 | 21,092 | 0 | 90.47 | 9.53 | 0.00 |
 | [We call upon the Government to hold a Public Inquiry into the impact of Brexit](628226.md) | 216,807 | 209,634 | 7,173 | 0 | 96.69 | 3.31 | 0.00 |
-| [Hold a parliamentary vote on assisted dying](653593.md) | 212,106 | 210,315 | 1,791 | 0 | 99.16 | 0.84 | 0.00 |
+| [Hold a parliamentary vote on assisted dying](653593.md) | 212,107 | 210,316 | 1,791 | 0 | 99.16 | 0.84 | 0.00 |
 | [Cancel GCSEs and A Levels in 2021](326066.md) | 211,974 | 210,752 | 1,222 | 0 | 99.42 | 0.58 | 0.00 |
 | [Broker a ceasefire for all sides in Yemen to carry out humanitarian aid](326932.md) | 211,848 | 209,517 | 2,331 | 0 | 98.90 | 1.10 | 0.00 |
 | [Create a Minister for Hospitality in the UK Government](552201.md) | 209,983 | 208,584 | 1,399 | 0 | 99.33 | 0.67 | 0.00 |
