@@ -4,10 +4,10 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2024-10-31 22:30:06
+Last refreshed 2024-10-31 23:30:07
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Apply for the UK to join the European Union as a full member as soon as possible](700005.md) | 664 | 618 | 46 | 0 | 93.07 | 6.93 | 0.00 |
-| [Fund reconstruction surgery and psychosexual therapy for FGM survivors](700001.md) | 19 | 18 | 1 | 0 | 94.74 | 5.26 | 0.00 |
-| [Support families by bringing nannies into the 15/30 hours free childcare scheme](700017.md) | 12 | 12 | 0 | 0 | 100.00 | 0.00 | 0.00 |
+| [Apply for the UK to join the European Union as a full member as soon as possible](700005.md) | 727 | 676 | 51 | 0 | 92.98 | 7.02 | 0.00 |
+| [Fund reconstruction surgery and psychosexual therapy for FGM survivors](700001.md) | 20 | 19 | 1 | 0 | 95.00 | 5.00 | 0.00 |
+| [Support families by bringing nannies into the 15/30 hours free childcare scheme](700017.md) | 13 | 13 | 0 | 0 | 100.00 | 0.00 | 0.00 |
