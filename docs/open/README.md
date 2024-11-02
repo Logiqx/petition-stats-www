@@ -4,13 +4,13 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2024-11-02 21:30:06
+Last refreshed 2024-11-02 22:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Apply for the UK to join the European Union as a full member as soon as possible](700005.md) | 4,044 | 3,770 | 274 | 0 | 93.22 | 6.78 | 0.00 |
-| [Embed food, farming, and sustainability education into the national curriculum](700029.md) | 424 | 421 | 3 | 0 | 99.29 | 0.71 | 0.00 |
-| [Support families by bringing nannies into the 15/30 hours free childcare scheme](700017.md) | 171 | 171 | 0 | 0 | 100.00 | 0.00 | 0.00 |
-| [Launch a railcard for those over the age of 30 covering all of the UK.](700058.md) | 74 | 73 | 1 | 0 | 98.65 | 1.35 | 0.00 |
-| [Maintain the £3 bus fare cap permanently](700027.md) | 54 | 54 | 0 | 0 | 100.00 | 0.00 | 0.00 |
-| [Fund reconstruction surgery and psychosexual therapy for FGM survivors](700001.md) | 48 | 46 | 2 | 0 | 95.83 | 4.17 | 0.00 |
+| [Apply for the UK to join the European Union as a full member as soon as possible](700005.md) | 4,098 | 3,821 | 277 | 0 | 93.24 | 6.76 | 0.00 |
+| [Embed food, farming, and sustainability education into the national curriculum](700029.md) | 445 | 442 | 3 | 0 | 99.33 | 0.67 | 0.00 |
+| [Support families by bringing nannies into the 15/30 hours free childcare scheme](700017.md) | 176 | 176 | 0 | 0 | 100.00 | 0.00 | 0.00 |
+| [Launch a railcard for those over the age of 30 covering all of the UK.](700058.md) | 75 | 74 | 1 | 0 | 98.67 | 1.33 | 0.00 |
+| [Maintain the £3 bus fare cap permanently](700027.md) | 55 | 55 | 0 | 0 | 100.00 | 0.00 | 0.00 |
+| [Fund reconstruction surgery and psychosexual therapy for FGM survivors](700001.md) | 49 | 47 | 2 | 0 | 95.92 | 4.08 | 0.00 |
