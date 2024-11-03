@@ -4,5 +4,5 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2024-11-03 06:30:07
+Last refreshed 2024-11-03 07:30:07
 
