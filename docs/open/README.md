@@ -4,28 +4,28 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2024-11-08 03:30:06
+Last refreshed 2024-11-08 04:30:20
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Limit the sale and use of Fireworks to licence holders only](700013.md) | 17,143 | 17,103 | 40 | 0 | 99.77 | 0.23 | 0.00 |
-| [Apply for the UK to join the European Union as a full member as soon as possible](700005.md) | 12,780 | 12,110 | 670 | 0 | 94.76 | 5.24 | 0.00 |
-| [Exempt all social care providers from the employer NIC increase](700080.md) | 8,583 | 8,570 | 13 | 0 | 99.85 | 0.15 | 0.00 |
-| [Reverse changes to Winter Fuel Payment ](700074.md) | 6,220 | 6,204 | 16 | 0 | 99.74 | 0.26 | 0.00 |
-| [Decriminalise Abortion](700014.md) | 1,498 | 1,478 | 20 | 0 | 98.66 | 1.34 | 0.00 |
+| [Limit the sale and use of Fireworks to licence holders only](700013.md) | 17,152 | 17,112 | 40 | 0 | 99.77 | 0.23 | 0.00 |
+| [Apply for the UK to join the European Union as a full member as soon as possible](700005.md) | 12,784 | 12,114 | 670 | 0 | 94.76 | 5.24 | 0.00 |
+| [Exempt all social care providers from the employer NIC increase](700080.md) | 8,589 | 8,576 | 13 | 0 | 99.85 | 0.15 | 0.00 |
+| [Reverse changes to Winter Fuel Payment ](700074.md) | 6,226 | 6,210 | 16 | 0 | 99.74 | 0.26 | 0.00 |
+| [Decriminalise Abortion](700014.md) | 1,500 | 1,480 | 20 | 0 | 98.67 | 1.33 | 0.00 |
 | [Embed food, farming, and sustainability education into the national curriculum](700029.md) | 1,124 | 1,118 | 6 | 0 | 99.47 | 0.53 | 0.00 |
 | [Reduce the maximum decibel limit on fireworks from 120 to 90](700049.md) | 417 | 415 | 2 | 0 | 99.52 | 0.48 | 0.00 |
-| [Adapt EYFS and KS1 Literacy Curriculums to be inclusive for Non-Verbal children](700021.md) | 384 | 383 | 1 | 0 | 99.74 | 0.26 | 0.00 |
-| [Referendum on changing the Electoral System To Proportional Representation (PR)](700109.md) | 368 | 362 | 6 | 0 | 98.37 | 1.63 | 0.00 |
+| [Adapt EYFS and KS1 Literacy Curriculums to be inclusive for Non-Verbal children](700021.md) | 385 | 384 | 1 | 0 | 99.74 | 0.26 | 0.00 |
+| [Referendum on changing the Electoral System To Proportional Representation (PR)](700109.md) | 370 | 364 | 6 | 0 | 98.38 | 1.62 | 0.00 |
 | [Support families by bringing nannies into the 15/30 hours free childcare scheme](700017.md) | 346 | 345 | 1 | 0 | 99.71 | 0.29 | 0.00 |
 | [Fund reconstruction surgery and psychosexual therapy for FGM survivors](700001.md) | 217 | 211 | 6 | 0 | 97.24 | 2.76 | 0.00 |
 | [Launch a railcard for those over the age of 30 covering all of the UK.](700058.md) | 179 | 177 | 2 | 0 | 98.88 | 1.12 | 0.00 |
 | [Change the legal driving age to 15](700172.md) | 174 | 174 | 0 | 0 | 100.00 | 0.00 | 0.00 |
-| [Maintain the £3 bus fare cap permanently](700027.md) | 158 | 157 | 1 | 0 | 99.37 | 0.63 | 0.00 |
+| [Maintain the £3 bus fare cap permanently](700027.md) | 159 | 158 | 1 | 0 | 99.37 | 0.63 | 0.00 |
 | [Introduce a Long-Term Visit Visa for Parents of British Citizens and ILR Holders](700067.md) | 157 | 155 | 2 | 0 | 98.73 | 1.27 | 0.00 |
-| [Introduce 16 as the minimum age for children to have social media](700086.md) | 141 | 140 | 1 | 0 | 99.29 | 0.71 | 0.00 |
+| [Introduce 16 as the minimum age for children to have social media](700086.md) | 142 | 141 | 1 | 0 | 99.30 | 0.70 | 0.00 |
 | [Provide funding to the NHS to offer full STI screening at beginning of pregnancy](700015.md) | 141 | 141 | 0 | 0 | 100.00 | 0.00 | 0.00 |
-| [Negotiate a youth mobility scheme with the EU](700055.md) | 135 | 133 | 2 | 0 | 98.52 | 1.48 | 0.00 |
+| [Negotiate a youth mobility scheme with the EU](700055.md) | 137 | 135 | 2 | 0 | 98.54 | 1.46 | 0.00 |
 | [Require dating apps to ensure ID and DBS checks on users & ban violent offenders](700007.md) | 128 | 128 | 0 | 0 | 100.00 | 0.00 | 0.00 |
 | [Increase Carer's Allowance to equal minimum wage](700028.md) | 121 | 119 | 2 | 0 | 98.35 | 1.65 | 0.00 |
 | [Don't put an extra duty on vape products](700018.md) | 117 | 116 | 1 | 0 | 99.15 | 0.85 | 0.00 |
