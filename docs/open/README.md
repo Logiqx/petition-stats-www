@@ -4,29 +4,29 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2024-11-09 04:30:19
+Last refreshed 2024-11-09 05:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Apply for the UK to join the European Union as a full member as soon as possible](700005.md) | 22,981 | 21,653 | 1,328 | 0 | 94.22 | 5.78 | 0.00 |
-| [Limit the sale and use of Fireworks to licence holders only](700013.md) | 19,535 | 19,486 | 49 | 0 | 99.75 | 0.25 | 0.00 |
-| [Exempt all social care providers from the employer NIC increase](700080.md) | 11,763 | 11,743 | 20 | 0 | 99.83 | 0.17 | 0.00 |
-| [Reverse changes to Winter Fuel Payment ](700074.md) | 7,298 | 7,277 | 21 | 0 | 99.71 | 0.29 | 0.00 |
-| [Decriminalise Abortion](700014.md) | 1,613 | 1,592 | 21 | 0 | 98.70 | 1.30 | 0.00 |
+| [Apply for the UK to join the European Union as a full member as soon as possible](700005.md) | 23,014 | 21,681 | 1,333 | 0 | 94.21 | 5.79 | 0.00 |
+| [Limit the sale and use of Fireworks to licence holders only](700013.md) | 19,546 | 19,497 | 49 | 0 | 99.75 | 0.25 | 0.00 |
+| [Exempt all social care providers from the employer NIC increase](700080.md) | 11,771 | 11,751 | 20 | 0 | 99.83 | 0.17 | 0.00 |
+| [Reverse changes to Winter Fuel Payment ](700074.md) | 7,303 | 7,282 | 21 | 0 | 99.71 | 0.29 | 0.00 |
+| [Decriminalise Abortion](700014.md) | 1,614 | 1,593 | 21 | 0 | 98.70 | 1.30 | 0.00 |
 | [Embed food, farming, and sustainability education into the national curriculum](700029.md) | 1,167 | 1,161 | 6 | 0 | 99.49 | 0.51 | 0.00 |
-| [Run a public information campaign on the climate crisis ](700189.md) | 842 | 839 | 3 | 0 | 99.64 | 0.36 | 0.00 |
-| [Referendum on changing the Electoral System To Proportional Representation (PR)](700109.md) | 599 | 588 | 11 | 0 | 98.16 | 1.84 | 0.00 |
+| [Run a public information campaign on the climate crisis ](700189.md) | 852 | 849 | 3 | 0 | 99.65 | 0.35 | 0.00 |
+| [Referendum on changing the Electoral System To Proportional Representation (PR)](700109.md) | 602 | 591 | 11 | 0 | 98.17 | 1.83 | 0.00 |
 | [Reduce the maximum decibel limit on fireworks from 120 to 90](700049.md) | 521 | 519 | 2 | 0 | 99.62 | 0.38 | 0.00 |
 | [Adapt EYFS and KS1 Literacy Curriculums to be inclusive for Non-Verbal children](700021.md) | 436 | 435 | 1 | 0 | 99.77 | 0.23 | 0.00 |
 | [Negotiate a youth mobility scheme with the EU](700055.md) | 393 | 385 | 8 | 0 | 97.96 | 2.04 | 0.00 |
 | [Support families by bringing nannies into the 15/30 hours free childcare scheme](700017.md) | 374 | 373 | 1 | 0 | 99.73 | 0.27 | 0.00 |
 | [Introduce 16 as the minimum age for children to have social media](700086.md) | 322 | 320 | 2 | 0 | 99.38 | 0.62 | 0.00 |
 | [Change the legal driving age to 15](700172.md) | 304 | 304 | 0 | 0 | 100.00 | 0.00 | 0.00 |
-| [Hold a Public Inquiry into the state pension age change for 1950s women](700076.md) | 297 | 297 | 0 | 0 | 100.00 | 0.00 | 0.00 |
+| [Hold a Public Inquiry into the state pension age change for 1950s women](700076.md) | 300 | 300 | 0 | 0 | 100.00 | 0.00 | 0.00 |
 | [Introduce a Long-Term Visit Visa for Parents of British Citizens and ILR Holders](700067.md) | 258 | 255 | 3 | 0 | 98.84 | 1.16 | 0.00 |
-| [Commission a public inquiry into the impact of the UK exiting the European Union](700184.md) | 236 | 231 | 5 | 0 | 97.88 | 2.12 | 0.00 |
+| [Commission a public inquiry into the impact of the UK exiting the European Union](700184.md) | 239 | 234 | 5 | 0 | 97.91 | 2.09 | 0.00 |
 | [Fund reconstruction surgery and psychosexual therapy for FGM survivors](700001.md) | 229 | 223 | 6 | 0 | 97.38 | 2.62 | 0.00 |
-| [Require dating apps to ensure ID and DBS checks on users & ban violent offenders](700007.md) | 226 | 226 | 0 | 0 | 100.00 | 0.00 | 0.00 |
+| [Require dating apps to ensure ID and DBS checks on users & ban violent offenders](700007.md) | 227 | 227 | 0 | 0 | 100.00 | 0.00 | 0.00 |
 | [Launch a railcard for those over the age of 30 covering all of the UK.](700058.md) | 192 | 190 | 2 | 0 | 98.96 | 1.04 | 0.00 |
 | [Don't put an extra duty on vape products](700018.md) | 189 | 188 | 1 | 0 | 99.47 | 0.53 | 0.00 |
 | [Require MPs proven to mislead public to resign and create 'fact check' committee](700161.md) | 184 | 183 | 1 | 0 | 99.46 | 0.54 | 0.00 |
