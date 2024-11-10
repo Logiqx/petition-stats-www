@@ -4,41 +4,41 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2024-11-09 23:30:06
+Last refreshed 2024-11-10 00:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Apply for the UK to join the European Union as a full member as soon as possible](700005.md) | 27,295 | 25,736 | 1,559 | 0 | 94.29 | 5.71 | 0.00 |
-| [Limit the sale and use of Fireworks to licence holders only](700013.md) | 23,238 | 23,178 | 60 | 0 | 99.74 | 0.26 | 0.00 |
-| [Exempt all social care providers from the employer NIC increase](700080.md) | 12,926 | 12,903 | 23 | 0 | 99.82 | 0.18 | 0.00 |
-| [Reverse changes to Winter Fuel Payment ](700074.md) | 8,672 | 8,638 | 34 | 0 | 99.61 | 0.39 | 0.00 |
-| [Run a public information campaign on the climate crisis ](700189.md) | 3,672 | 3,642 | 30 | 0 | 99.18 | 0.82 | 0.00 |
-| [Introduce 16 as the minimum age for children to have social media](700086.md) | 2,739 | 2,722 | 17 | 0 | 99.38 | 0.62 | 0.00 |
-| [Decriminalise Abortion](700014.md) | 1,758 | 1,735 | 23 | 0 | 98.69 | 1.31 | 0.00 |
-| [Embed food, farming, and sustainability education into the national curriculum](700029.md) | 1,185 | 1,179 | 6 | 0 | 99.49 | 0.51 | 0.00 |
-| [Referendum on changing the Electoral System To Proportional Representation (PR)](700109.md) | 833 | 819 | 14 | 0 | 98.32 | 1.68 | 0.00 |
-| [Reduce the maximum decibel limit on fireworks from 120 to 90](700049.md) | 732 | 730 | 2 | 0 | 99.73 | 0.27 | 0.00 |
+| [Apply for the UK to join the European Union as a full member as soon as possible](700005.md) | 27,377 | 25,817 | 1,560 | 0 | 94.30 | 5.70 | 0.00 |
+| [Limit the sale and use of Fireworks to licence holders only](700013.md) | 23,367 | 23,306 | 61 | 0 | 99.74 | 0.26 | 0.00 |
+| [Exempt all social care providers from the employer NIC increase](700080.md) | 12,951 | 12,926 | 25 | 0 | 99.81 | 0.19 | 0.00 |
+| [Reverse changes to Winter Fuel Payment ](700074.md) | 8,721 | 8,687 | 34 | 0 | 99.61 | 0.39 | 0.00 |
+| [Run a public information campaign on the climate crisis ](700189.md) | 3,717 | 3,685 | 32 | 0 | 99.14 | 0.86 | 0.00 |
+| [Introduce 16 as the minimum age for children to have social media](700086.md) | 2,845 | 2,827 | 18 | 0 | 99.37 | 0.63 | 0.00 |
+| [Decriminalise Abortion](700014.md) | 1,762 | 1,739 | 23 | 0 | 98.69 | 1.31 | 0.00 |
+| [Embed food, farming, and sustainability education into the national curriculum](700029.md) | 1,186 | 1,180 | 6 | 0 | 99.49 | 0.51 | 0.00 |
+| [Referendum on changing the Electoral System To Proportional Representation (PR)](700109.md) | 846 | 832 | 14 | 0 | 98.35 | 1.65 | 0.00 |
+| [Reduce the maximum decibel limit on fireworks from 120 to 90](700049.md) | 739 | 737 | 2 | 0 | 99.73 | 0.27 | 0.00 |
 | [Change the legal driving age to 15](700172.md) | 519 | 519 | 0 | 0 | 100.00 | 0.00 | 0.00 |
-| [Negotiate a youth mobility scheme with the EU](700055.md) | 471 | 462 | 9 | 0 | 98.09 | 1.91 | 0.00 |
-| [Adapt EYFS and KS1 Literacy Curriculums to be inclusive for Non-Verbal children](700021.md) | 465 | 464 | 1 | 0 | 99.78 | 0.22 | 0.00 |
-| [Hold a Public Inquiry into the state pension age change for 1950s women](700076.md) | 401 | 399 | 2 | 0 | 99.50 | 0.50 | 0.00 |
-| [Support families by bringing nannies into the 15/30 hours free childcare scheme](700017.md) | 380 | 379 | 1 | 0 | 99.74 | 0.26 | 0.00 |
-| [Commission a public inquiry into the impact of the UK exiting the European Union](700184.md) | 355 | 348 | 7 | 0 | 98.03 | 1.97 | 0.00 |
-| [Do not reduce the Right to Buy discount](700226.md) | 326 | 326 | 0 | 0 | 100.00 | 0.00 | 0.00 |
-| [Introduce a Long-Term Visit Visa for Parents of British Citizens and ILR Holders](700067.md) | 300 | 297 | 3 | 0 | 99.00 | 1.00 | 0.00 |
-| [Require dating apps to ensure ID and DBS checks on users & ban violent offenders](700007.md) | 263 | 262 | 1 | 0 | 99.62 | 0.38 | 0.00 |
+| [Negotiate a youth mobility scheme with the EU](700055.md) | 473 | 464 | 9 | 0 | 98.10 | 1.90 | 0.00 |
+| [Adapt EYFS and KS1 Literacy Curriculums to be inclusive for Non-Verbal children](700021.md) | 466 | 465 | 1 | 0 | 99.79 | 0.21 | 0.00 |
+| [Hold a Public Inquiry into the state pension age change for 1950s women](700076.md) | 402 | 400 | 2 | 0 | 99.50 | 0.50 | 0.00 |
+| [Support families by bringing nannies into the 15/30 hours free childcare scheme](700017.md) | 381 | 380 | 1 | 0 | 99.74 | 0.26 | 0.00 |
+| [Commission a public inquiry into the impact of the UK exiting the European Union](700184.md) | 357 | 350 | 7 | 0 | 98.04 | 1.96 | 0.00 |
+| [Do not reduce the Right to Buy discount](700226.md) | 331 | 331 | 0 | 0 | 100.00 | 0.00 | 0.00 |
+| [Introduce a Long-Term Visit Visa for Parents of British Citizens and ILR Holders](700067.md) | 301 | 298 | 3 | 0 | 99.00 | 1.00 | 0.00 |
+| [Require dating apps to ensure ID and DBS checks on users & ban violent offenders](700007.md) | 264 | 263 | 1 | 0 | 99.62 | 0.38 | 0.00 |
 | [Fund reconstruction surgery and psychosexual therapy for FGM survivors](700001.md) | 240 | 234 | 6 | 0 | 97.50 | 2.50 | 0.00 |
-| [Require MPs proven to mislead public to resign and create 'fact check' committee](700161.md) | 225 | 222 | 3 | 0 | 98.67 | 1.33 | 0.00 |
+| [Require MPs proven to mislead public to resign and create 'fact check' committee](700161.md) | 231 | 228 | 3 | 0 | 98.70 | 1.30 | 0.00 |
 | [Don't put an extra duty on vape products](700018.md) | 209 | 207 | 2 | 0 | 99.04 | 0.96 | 0.00 |
 | [Launch a railcard for those over the age of 30 covering all of the UK.](700058.md) | 204 | 202 | 2 | 0 | 99.02 | 0.98 | 0.00 |
-| [Increase Carer's Allowance to equal minimum wage](700028.md) | 182 | 180 | 2 | 0 | 98.90 | 1.10 | 0.00 |
+| [Increase Carer's Allowance to equal minimum wage](700028.md) | 183 | 181 | 2 | 0 | 98.91 | 1.09 | 0.00 |
 | [Remove the 28 day time limit from the unduly lenient sentence scheme for murder](700168.md) | 175 | 173 | 2 | 0 | 98.86 | 1.14 | 0.00 |
 | [Maintain the £3 bus fare cap permanently](700027.md) | 167 | 166 | 1 | 0 | 99.40 | 0.60 | 0.00 |
 | [Hold a referendum on re-joining the European Union](700041.md) | 163 | 150 | 13 | 0 | 92.02 | 7.98 | 0.00 |
 | [Provide funding to the NHS to offer full STI screening at beginning of pregnancy](700015.md) | 156 | 156 | 0 | 0 | 100.00 | 0.00 | 0.00 |
-| [Set rules about when a service/venue can describe itself as accessible](700085.md) | 150 | 150 | 0 | 0 | 100.00 | 0.00 | 0.00 |
+| [Set rules about when a service/venue can describe itself as accessible](700085.md) | 152 | 152 | 0 | 0 | 100.00 | 0.00 | 0.00 |
 | [Donate migrant boats to Ukraine](700011.md) | 100 | 100 | 0 | 0 | 100.00 | 0.00 | 0.00 |
-| [Make breaking a manifesto against the law and trigger a General Election](700035.md) | 96 | 95 | 1 | 0 | 98.96 | 1.04 | 0.00 |
+| [Make breaking a manifesto against the law and trigger a General Election](700035.md) | 98 | 97 | 1 | 0 | 98.98 | 1.02 | 0.00 |
 | [Rights Beyond Borders: Improve employment policies for international students](700037.md) | 71 | 71 | 0 | 0 | 100.00 | 0.00 | 0.00 |
 | [Legalise adult adoption](700114.md) | 68 | 67 | 1 | 0 | 98.53 | 1.47 | 0.00 |
 | [Fund menopause support being added to the NHS Health Checks for women over 40](700178.md) | 43 | 43 | 0 | 0 | 100.00 | 0.00 | 0.00 |
