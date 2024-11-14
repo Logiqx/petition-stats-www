@@ -4,26 +4,26 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2024-11-14 02:30:05
+Last refreshed 2024-11-14 03:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Introduce 16 as the minimum age for children to have social media](700086.md) | 73,007 | 72,624 | 383 | 0 | 99.48 | 0.52 | 0.00 |
-| [Limit the sale and use of Fireworks to licence holders only](700013.md) | 42,728 | 42,606 | 122 | 0 | 99.71 | 0.29 | 0.00 |
-| [Apply for the UK to join the European Union as a full member as soon as possible](700005.md) | 32,663 | 30,821 | 1,842 | 0 | 94.36 | 5.64 | 0.00 |
-| [Exempt all social care providers from the employer NIC increase](700080.md) | 18,574 | 18,542 | 32 | 0 | 99.83 | 0.17 | 0.00 |
-| [Reverse changes to Winter Fuel Payment ](700074.md) | 17,938 | 17,875 | 63 | 0 | 99.65 | 0.35 | 0.00 |
-| [Run a public information campaign on the climate crisis ](700189.md) | 7,691 | 7,604 | 87 | 0 | 98.87 | 1.13 | 0.00 |
+| [Introduce 16 as the minimum age for children to have social media](700086.md) | 73,026 | 72,642 | 384 | 0 | 99.47 | 0.53 | 0.00 |
+| [Limit the sale and use of Fireworks to licence holders only](700013.md) | 42,742 | 42,620 | 122 | 0 | 99.71 | 0.29 | 0.00 |
+| [Apply for the UK to join the European Union as a full member as soon as possible](700005.md) | 32,665 | 30,822 | 1,843 | 0 | 94.36 | 5.64 | 0.00 |
+| [Exempt all social care providers from the employer NIC increase](700080.md) | 18,579 | 18,547 | 32 | 0 | 99.83 | 0.17 | 0.00 |
+| [Reverse changes to Winter Fuel Payment ](700074.md) | 17,943 | 17,880 | 63 | 0 | 99.65 | 0.35 | 0.00 |
+| [Run a public information campaign on the climate crisis ](700189.md) | 7,692 | 7,605 | 87 | 0 | 98.87 | 1.13 | 0.00 |
 | [Hold a Public Inquiry into the state pension age change for 1950s women](700076.md) | 2,646 | 2,584 | 62 | 0 | 97.66 | 2.34 | 0.00 |
-| [Decriminalise Abortion](700014.md) | 2,331 | 2,296 | 35 | 0 | 98.50 | 1.50 | 0.00 |
+| [Decriminalise Abortion](700014.md) | 2,333 | 2,297 | 36 | 0 | 98.46 | 1.54 | 0.00 |
 | [Referendum on changing the Electoral System To Proportional Representation (PR)](700109.md) | 1,609 | 1,585 | 24 | 0 | 98.51 | 1.49 | 0.00 |
 | [Embed food, farming, and sustainability education into the national curriculum](700029.md) | 1,417 | 1,409 | 8 | 0 | 99.44 | 0.56 | 0.00 |
-| [Create a public consultation on freedom of speech and disinformation](700186.md) | 1,214 | 1,185 | 29 | 0 | 97.61 | 2.39 | 0.00 |
+| [Create a public consultation on freedom of speech and disinformation](700186.md) | 1,215 | 1,186 | 29 | 0 | 97.61 | 2.39 | 0.00 |
 | [Reduce the maximum decibel limit on fireworks from 120 to 90](700049.md) | 1,199 | 1,194 | 5 | 0 | 99.58 | 0.42 | 0.00 |
 | [Introduce new air quality and PPE rules for health and social care settings](700304.md) | 1,064 | 1,039 | 25 | 0 | 97.65 | 2.35 | 0.00 |
-| [Stop Means Testing Pensioners and increase the State Pension](700120.md) | 957 | 939 | 18 | 0 | 98.12 | 1.88 | 0.00 |
+| [Stop Means Testing Pensioners and increase the State Pension](700120.md) | 961 | 943 | 18 | 0 | 98.13 | 1.87 | 0.00 |
 | [Change the legal driving age to 15](700172.md) | 900 | 899 | 1 | 0 | 99.89 | 0.11 | 0.00 |
-| [Do not reduce the Right to Buy discount](700226.md) | 856 | 854 | 2 | 0 | 99.77 | 0.23 | 0.00 |
+| [Do not reduce the Right to Buy discount](700226.md) | 858 | 856 | 2 | 0 | 99.77 | 0.23 | 0.00 |
 | [Fund Breast Cancer Screening from Age 40 & Alternative Screening Options](700062.md) | 831 | 829 | 2 | 0 | 99.76 | 0.24 | 0.00 |
 | [Increase Carer's Allowance to equal minimum wage](700028.md) | 799 | 796 | 3 | 0 | 99.62 | 0.38 | 0.00 |
 | [Commission a public inquiry into the impact of the UK exiting the European Union](700184.md) | 611 | 598 | 13 | 0 | 97.87 | 2.13 | 0.00 |
