@@ -4,29 +4,29 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2024-11-14 04:30:17
+Last refreshed 2024-11-14 05:30:06
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Introduce 16 as the minimum age for children to have social media](700086.md) | 73,057 | 72,673 | 384 | 0 | 99.47 | 0.53 | 0.00 |
-| [Limit the sale and use of Fireworks to licence holders only](700013.md) | 42,760 | 42,638 | 122 | 0 | 99.71 | 0.29 | 0.00 |
-| [Apply for the UK to join the European Union as a full member as soon as possible](700005.md) | 32,665 | 30,822 | 1,843 | 0 | 94.36 | 5.64 | 0.00 |
-| [Exempt all social care providers from the employer NIC increase](700080.md) | 18,581 | 18,549 | 32 | 0 | 99.83 | 0.17 | 0.00 |
-| [Reverse changes to Winter Fuel Payment ](700074.md) | 17,950 | 17,887 | 63 | 0 | 99.65 | 0.35 | 0.00 |
+| [Introduce 16 as the minimum age for children to have social media](700086.md) | 73,106 | 72,722 | 384 | 0 | 99.47 | 0.53 | 0.00 |
+| [Limit the sale and use of Fireworks to licence holders only](700013.md) | 42,776 | 42,654 | 122 | 0 | 99.71 | 0.29 | 0.00 |
+| [Apply for the UK to join the European Union as a full member as soon as possible](700005.md) | 32,668 | 30,823 | 1,845 | 0 | 94.35 | 5.65 | 0.00 |
+| [Exempt all social care providers from the employer NIC increase](700080.md) | 18,587 | 18,555 | 32 | 0 | 99.83 | 0.17 | 0.00 |
+| [Reverse changes to Winter Fuel Payment ](700074.md) | 17,957 | 17,894 | 63 | 0 | 99.65 | 0.35 | 0.00 |
 | [Run a public information campaign on the climate crisis ](700189.md) | 7,693 | 7,606 | 87 | 0 | 98.87 | 1.13 | 0.00 |
-| [Hold a Public Inquiry into the state pension age change for 1950s women](700076.md) | 2,646 | 2,584 | 62 | 0 | 97.66 | 2.34 | 0.00 |
+| [Hold a Public Inquiry into the state pension age change for 1950s women](700076.md) | 2,647 | 2,585 | 62 | 0 | 97.66 | 2.34 | 0.00 |
 | [Decriminalise Abortion](700014.md) | 2,333 | 2,297 | 36 | 0 | 98.46 | 1.54 | 0.00 |
 | [Referendum on changing the Electoral System To Proportional Representation (PR)](700109.md) | 1,609 | 1,585 | 24 | 0 | 98.51 | 1.49 | 0.00 |
 | [Embed food, farming, and sustainability education into the national curriculum](700029.md) | 1,417 | 1,409 | 8 | 0 | 99.44 | 0.56 | 0.00 |
-| [Create a public consultation on freedom of speech and disinformation](700186.md) | 1,217 | 1,188 | 29 | 0 | 97.62 | 2.38 | 0.00 |
-| [Reduce the maximum decibel limit on fireworks from 120 to 90](700049.md) | 1,199 | 1,194 | 5 | 0 | 99.58 | 0.42 | 0.00 |
-| [Introduce new air quality and PPE rules for health and social care settings](700304.md) | 1,064 | 1,039 | 25 | 0 | 97.65 | 2.35 | 0.00 |
-| [Stop Means Testing Pensioners and increase the State Pension](700120.md) | 964 | 946 | 18 | 0 | 98.13 | 1.87 | 0.00 |
+| [Create a public consultation on freedom of speech and disinformation](700186.md) | 1,224 | 1,195 | 29 | 0 | 97.63 | 2.37 | 0.00 |
+| [Reduce the maximum decibel limit on fireworks from 120 to 90](700049.md) | 1,202 | 1,197 | 5 | 0 | 99.58 | 0.42 | 0.00 |
+| [Introduce new air quality and PPE rules for health and social care settings](700304.md) | 1,065 | 1,040 | 25 | 0 | 97.65 | 2.35 | 0.00 |
+| [Stop Means Testing Pensioners and increase the State Pension](700120.md) | 965 | 947 | 18 | 0 | 98.13 | 1.87 | 0.00 |
 | [Change the legal driving age to 15](700172.md) | 900 | 899 | 1 | 0 | 99.89 | 0.11 | 0.00 |
-| [Do not reduce the Right to Buy discount](700226.md) | 862 | 860 | 2 | 0 | 99.77 | 0.23 | 0.00 |
-| [Fund Breast Cancer Screening from Age 40 & Alternative Screening Options](700062.md) | 831 | 829 | 2 | 0 | 99.76 | 0.24 | 0.00 |
+| [Do not reduce the Right to Buy discount](700226.md) | 863 | 861 | 2 | 0 | 99.77 | 0.23 | 0.00 |
+| [Fund Breast Cancer Screening from Age 40 & Alternative Screening Options](700062.md) | 833 | 831 | 2 | 0 | 99.76 | 0.24 | 0.00 |
 | [Increase Carer's Allowance to equal minimum wage](700028.md) | 803 | 800 | 3 | 0 | 99.63 | 0.37 | 0.00 |
-| [Commission a public inquiry into the impact of the UK exiting the European Union](700184.md) | 614 | 600 | 14 | 0 | 97.72 | 2.28 | 0.00 |
+| [Commission a public inquiry into the impact of the UK exiting the European Union](700184.md) | 616 | 602 | 14 | 0 | 97.73 | 2.27 | 0.00 |
 | [Negotiate a youth mobility scheme with the EU](700055.md) | 588 | 576 | 12 | 0 | 97.96 | 2.04 | 0.00 |
 | [Adapt EYFS and KS1 Literacy Curriculums to be inclusive for Non-Verbal children](700021.md) | 539 | 538 | 1 | 0 | 99.81 | 0.19 | 0.00 |
 | [Support families by bringing nannies into the 15/30 hours free childcare scheme](700017.md) | 497 | 495 | 2 | 0 | 99.60 | 0.40 | 0.00 |
@@ -34,7 +34,7 @@ Last refreshed 2024-11-14 04:30:17
 | [Require dating apps to ensure ID and DBS checks on users & ban violent offenders](700007.md) | 396 | 394 | 2 | 0 | 99.49 | 0.51 | 0.00 |
 | [Introduce a Long-Term Visit Visa for Parents of British Citizens and ILR Holders](700067.md) | 356 | 349 | 7 | 0 | 98.03 | 1.97 | 0.00 |
 | [Remove the 28 day time limit from the unduly lenient sentence scheme for murder](700168.md) | 298 | 296 | 2 | 0 | 99.33 | 0.67 | 0.00 |
-| [Fund reconstruction surgery and psychosexual therapy for FGM survivors](700001.md) | 295 | 288 | 7 | 0 | 97.63 | 2.37 | 0.00 |
+| [Fund reconstruction surgery and psychosexual therapy for FGM survivors](700001.md) | 296 | 289 | 7 | 0 | 97.64 | 2.36 | 0.00 |
 | [Don't put an extra duty on vape products](700018.md) | 261 | 259 | 2 | 0 | 99.23 | 0.77 | 0.00 |
 | [Launch a railcard for those over the age of 30 covering all of the UK.](700058.md) | 254 | 252 | 2 | 0 | 99.21 | 0.79 | 0.00 |
 | [Hold a referendum on re-joining the European Union](700041.md) | 251 | 235 | 16 | 0 | 93.63 | 6.37 | 0.00 |
