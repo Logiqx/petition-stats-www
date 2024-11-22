@@ -4,49 +4,49 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2024-11-22 01:30:05
+Last refreshed 2024-11-22 02:30:04
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
 | [Introduce 16 as the minimum age for children to have social media](700086.md) | 106,177 | 105,673 | 504 | 0 | 99.53 | 0.47 | 0.00 |
-| [Limit the sale and use of Fireworks to licence holders only](700013.md) | 62,258 | 62,074 | 184 | 0 | 99.70 | 0.30 | 0.00 |
-| [Apply for the UK to join the European Union as a full member as soon as possible](700005.md) | 46,232 | 43,735 | 2,497 | 0 | 94.60 | 5.40 | 0.00 |
+| [Limit the sale and use of Fireworks to licence holders only](700013.md) | 62,261 | 62,077 | 184 | 0 | 99.70 | 0.30 | 0.00 |
+| [Apply for the UK to join the European Union as a full member as soon as possible](700005.md) | 46,235 | 43,738 | 2,497 | 0 | 94.60 | 5.40 | 0.00 |
 | [Exempt all social care providers from the employer NIC increase](700080.md) | 25,795 | 25,753 | 42 | 0 | 99.84 | 0.16 | 0.00 |
-| [Don't change inheritance tax relief for working farms](700138.md) | 25,765 | 25,650 | 115 | 0 | 99.55 | 0.45 | 0.00 |
-| [Reverse changes to Winter Fuel Payment ](700074.md) | 24,040 | 23,953 | 87 | 0 | 99.64 | 0.36 | 0.00 |
+| [Don't change inheritance tax relief for working farms](700138.md) | 25,780 | 25,665 | 115 | 0 | 99.55 | 0.45 | 0.00 |
+| [Reverse changes to Winter Fuel Payment ](700074.md) | 24,041 | 23,954 | 87 | 0 | 99.64 | 0.36 | 0.00 |
 | [Create a public consultation on freedom of speech and disinformation](700186.md) | 15,961 | 15,692 | 269 | 0 | 98.31 | 1.69 | 0.00 |
-| [Run a public information campaign on the climate crisis ](700189.md) | 15,598 | 15,370 | 228 | 0 | 98.54 | 1.46 | 0.00 |
+| [Run a public information campaign on the climate crisis ](700189.md) | 15,599 | 15,371 | 228 | 0 | 98.54 | 1.46 | 0.00 |
 | [Decriminalise Abortion](700014.md) | 7,623 | 7,529 | 94 | 0 | 98.77 | 1.23 | 0.00 |
-| [Introduce a compensation scheme for WASPI women](700765.md) | 4,129 | 4,023 | 106 | 0 | 97.43 | 2.57 | 0.00 |
-| [Hold a Public Inquiry into the state pension age change for 1950s women](700076.md) | 3,424 | 3,341 | 83 | 0 | 97.58 | 2.42 | 0.00 |
+| [Introduce a compensation scheme for WASPI women](700765.md) | 4,205 | 4,096 | 109 | 0 | 97.41 | 2.59 | 0.00 |
+| [Hold a Public Inquiry into the state pension age change for 1950s women](700076.md) | 3,425 | 3,342 | 83 | 0 | 97.58 | 2.42 | 0.00 |
 | [Reduce the maximum decibel limit on fireworks from 120 to 90](700049.md) | 2,484 | 2,476 | 8 | 0 | 99.68 | 0.32 | 0.00 |
 | [Referendum on changing the Electoral System To Proportional Representation (PR)](700109.md) | 2,403 | 2,366 | 37 | 0 | 98.46 | 1.54 | 0.00 |
-| [Do not reduce the Right to Buy discount](700226.md) | 1,985 | 1,982 | 3 | 0 | 99.85 | 0.15 | 0.00 |
-| [Ban animal testing for human products and medicines](700262.md) | 1,957 | 1,937 | 20 | 0 | 98.98 | 1.02 | 0.00 |
-| [Embed food, farming, and sustainability education into the national curriculum](700029.md) | 1,764 | 1,753 | 11 | 0 | 99.38 | 0.62 | 0.00 |
-| [Introduce new air quality and PPE rules for health and social care settings](700304.md) | 1,580 | 1,549 | 31 | 0 | 98.04 | 1.96 | 0.00 |
+| [Do not reduce the Right to Buy discount](700226.md) | 1,986 | 1,983 | 3 | 0 | 99.85 | 0.15 | 0.00 |
+| [Ban animal testing for human products and medicines](700262.md) | 1,962 | 1,942 | 20 | 0 | 98.98 | 1.02 | 0.00 |
+| [Embed food, farming, and sustainability education into the national curriculum](700029.md) | 1,766 | 1,755 | 11 | 0 | 99.38 | 0.62 | 0.00 |
+| [Introduce new air quality and PPE rules for health and social care settings](700304.md) | 1,581 | 1,550 | 31 | 0 | 98.04 | 1.96 | 0.00 |
 | [Stop Means Testing Pensioners and increase the State Pension](700120.md) | 1,516 | 1,481 | 35 | 0 | 97.69 | 2.31 | 0.00 |
 | [Fund Breast Cancer Screening from Age 40 & Alternative Screening Options](700062.md) | 1,392 | 1,382 | 10 | 0 | 99.28 | 0.72 | 0.00 |
 | [Adapt EYFS and KS1 Literacy Curriculums to be inclusive for Non-Verbal children](700021.md) | 1,219 | 1,212 | 7 | 0 | 99.43 | 0.57 | 0.00 |
 | [Support families by bringing nannies into the 15/30 hours free childcare scheme](700017.md) | 1,208 | 1,204 | 4 | 0 | 99.67 | 0.33 | 0.00 |
-| [Lower the English language test exemption age for BNO visa holders from 65 to 60](700528.md) | 1,084 | 1,073 | 11 | 0 | 98.99 | 1.01 | 0.00 |
+| [Lower the English language test exemption age for BNO visa holders from 65 to 60](700528.md) | 1,088 | 1,077 | 11 | 0 | 98.99 | 1.01 | 0.00 |
 | [Increase Carer's Allowance to equal minimum wage](700028.md) | 1,048 | 1,044 | 4 | 0 | 99.62 | 0.38 | 0.00 |
 | [Commission a public inquiry into the impact of the UK exiting the European Union](700184.md) | 927 | 897 | 30 | 0 | 96.76 | 3.24 | 0.00 |
 | [Negotiate a youth mobility scheme with the EU](700055.md) | 860 | 836 | 24 | 0 | 97.21 | 2.79 | 0.00 |
-| [Require MPs proven to mislead public to resign and create 'fact check' committee](700161.md) | 764 | 758 | 6 | 0 | 99.21 | 0.79 | 0.00 |
-| [Introduce a Long-Term Visit Visa for Parents of British Citizens and ILR Holders](700067.md) | 694 | 686 | 8 | 0 | 98.85 | 1.15 | 0.00 |
+| [Require MPs proven to mislead public to resign and create 'fact check' committee](700161.md) | 765 | 759 | 6 | 0 | 99.22 | 0.78 | 0.00 |
+| [Introduce a Long-Term Visit Visa for Parents of British Citizens and ILR Holders](700067.md) | 696 | 688 | 8 | 0 | 98.85 | 1.15 | 0.00 |
 | [Change the law so those on life sentence for murder are not eligible for release](700435.md) | 669 | 667 | 2 | 0 | 99.70 | 0.30 | 0.00 |
 | [Require dating apps to ensure ID and DBS checks on users & ban violent offenders](700007.md) | 509 | 506 | 3 | 0 | 99.41 | 0.59 | 0.00 |
+| [Call a General Election](700143.md) | 485 | 484 | 1 | 0 | 99.79 | 0.21 | 0.00 |
 | [Recognise Palestine as a State and seek immediate ceasefire in Gaza ](700119.md) | 479 | 474 | 5 | 0 | 98.96 | 1.04 | 0.00 |
-| [Call a General Election](700143.md) | 475 | 474 | 1 | 0 | 99.79 | 0.21 | 0.00 |
 | [Require landfills that cause smells and toxins near residential areas to close](700273.md) | 466 | 464 | 2 | 0 | 99.57 | 0.43 | 0.00 |
 | [Don't put an extra duty on vape products](700018.md) | 444 | 437 | 7 | 0 | 98.42 | 1.58 | 0.00 |
 | [Compensate people who have been harmed by sodium valproate](700057.md) | 443 | 438 | 5 | 0 | 98.87 | 1.13 | 0.00 |
 | [Seek to expel the USA from the UN using Article 6 of the UN Charter](700331.md) | 406 | 402 | 4 | 0 | 99.01 | 0.99 | 0.00 |
-| [Make breaking a manifesto against the law and trigger a General Election](700035.md) | 403 | 399 | 4 | 0 | 99.01 | 0.99 | 0.00 |
+| [Make breaking a manifesto against the law and trigger a General Election](700035.md) | 404 | 400 | 4 | 0 | 99.01 | 0.99 | 0.00 |
 | [Hold a referendum on re-joining the European Union](700041.md) | 372 | 353 | 19 | 0 | 94.89 | 5.11 | 0.00 |
 | [Fund reconstruction surgery and psychosexual therapy for FGM survivors](700001.md) | 366 | 357 | 9 | 0 | 97.54 | 2.46 | 0.00 |
-| [Introduce 'Grow Your Own' Laws for Legal Medical Cannabis Patients (CBPM)](700860.md) | 362 | 359 | 3 | 0 | 99.17 | 0.83 | 0.00 |
+| [Introduce 'Grow Your Own' Laws for Legal Medical Cannabis Patients (CBPM)](700860.md) | 363 | 360 | 3 | 0 | 99.17 | 0.83 | 0.00 |
 | [Remove the 28 day time limit from the unduly lenient sentence scheme for murder](700168.md) | 349 | 346 | 3 | 0 | 99.14 | 0.86 | 0.00 |
 | [Launch a railcard for those over the age of 30 covering all of the UK.](700058.md) | 307 | 304 | 3 | 0 | 99.02 | 0.98 | 0.00 |
 | [Set rules about when a service/venue can describe itself as accessible](700085.md) | 298 | 296 | 2 | 0 | 99.33 | 0.67 | 0.00 |
