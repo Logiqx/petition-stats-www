@@ -4,57 +4,57 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2024-11-30 00:30:05
+Last refreshed 2024-11-30 01:30:05
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Call a General Election](700143.md) | 2,907,802 | 2,886,033 | 21,769 | 0 | 99.25 | 0.75 | 0.00 |
-| [Don't change inheritance tax relief for working farms](700138.md) | 131,003 | 129,859 | 1,144 | 0 | 99.13 | 0.87 | 0.00 |
-| [Introduce 16 as the minimum age for children to have social media](700086.md) | 117,836 | 117,254 | 582 | 0 | 99.51 | 0.49 | 0.00 |
-| [Introduce a compensation scheme for WASPI women](700765.md) | 97,466 | 95,594 | 1,872 | 0 | 98.08 | 1.92 | 0.00 |
-| [Limit the sale and use of Fireworks to licence holders only](700013.md) | 73,738 | 73,511 | 227 | 0 | 99.69 | 0.31 | 0.00 |
-| [Apply for the UK to join the European Union as a full member as soon as possible](700005.md) | 55,114 | 52,296 | 2,818 | 0 | 94.89 | 5.11 | 0.00 |
-| [Reverse changes to Winter Fuel Payment ](700074.md) | 46,287 | 46,004 | 283 | 0 | 99.39 | 0.61 | 0.00 |
-| [Make breaking a manifesto against the law and trigger a General Election](700035.md) | 36,476 | 36,280 | 196 | 0 | 99.46 | 0.54 | 0.00 |
-| [Exempt all social care providers from the employer NIC increase](700080.md) | 29,878 | 29,827 | 51 | 0 | 99.83 | 0.17 | 0.00 |
-| [Create a public consultation on freedom of speech and disinformation](700186.md) | 19,387 | 19,065 | 322 | 0 | 98.34 | 1.66 | 0.00 |
+| [Call a General Election](700143.md) | 2,908,019 | 2,886,247 | 21,772 | 0 | 99.25 | 0.75 | 0.00 |
+| [Don't change inheritance tax relief for working farms](700138.md) | 131,013 | 129,869 | 1,144 | 0 | 99.13 | 0.87 | 0.00 |
+| [Introduce 16 as the minimum age for children to have social media](700086.md) | 117,844 | 117,262 | 582 | 0 | 99.51 | 0.49 | 0.00 |
+| [Introduce a compensation scheme for WASPI women](700765.md) | 97,512 | 95,640 | 1,872 | 0 | 98.08 | 1.92 | 0.00 |
+| [Limit the sale and use of Fireworks to licence holders only](700013.md) | 73,756 | 73,529 | 227 | 0 | 99.69 | 0.31 | 0.00 |
+| [Apply for the UK to join the European Union as a full member as soon as possible](700005.md) | 55,122 | 52,304 | 2,818 | 0 | 94.89 | 5.11 | 0.00 |
+| [Reverse changes to Winter Fuel Payment ](700074.md) | 46,298 | 46,015 | 283 | 0 | 99.39 | 0.61 | 0.00 |
+| [Make breaking a manifesto against the law and trigger a General Election](700035.md) | 36,494 | 36,297 | 197 | 0 | 99.46 | 0.54 | 0.00 |
+| [Exempt all social care providers from the employer NIC increase](700080.md) | 29,883 | 29,832 | 51 | 0 | 99.83 | 0.17 | 0.00 |
+| [Create a public consultation on freedom of speech and disinformation](700186.md) | 19,389 | 19,067 | 322 | 0 | 98.34 | 1.66 | 0.00 |
 | [Ban driven grouse shooting](700036.md) | 19,215 | 19,075 | 140 | 0 | 99.27 | 0.73 | 0.00 |
-| [Referendum on changing the Electoral System To Proportional Representation (PR)](700109.md) | 18,110 | 17,927 | 183 | 0 | 98.99 | 1.01 | 0.00 |
-| [Run a public information campaign on the climate crisis ](700189.md) | 17,262 | 17,014 | 248 | 0 | 98.56 | 1.44 | 0.00 |
-| [Ban fossil fuel advertising and sponsorship](700024.md) | 12,768 | 12,608 | 160 | 0 | 98.75 | 1.25 | 0.00 |
-| [End the Badger cull and adopt other approaches to bovine TB control](700317.md) | 12,255 | 12,064 | 191 | 0 | 98.44 | 1.56 | 0.00 |
-| [Decriminalise Abortion](700014.md) | 9,596 | 9,475 | 121 | 0 | 98.74 | 1.26 | 0.00 |
-| [Allow BN(O)s ETA-free entry](700387.md) | 7,353 | 7,116 | 237 | 0 | 96.78 | 3.22 | 0.00 |
-| [Require MPs proven to mislead public to resign and create 'fact check' committee](700161.md) | 6,627 | 6,592 | 35 | 0 | 99.47 | 0.53 | 0.00 |
-| [Ban animal testing for human products and medicines](700262.md) | 4,804 | 4,741 | 63 | 0 | 98.69 | 1.31 | 0.00 |
-| [Hold a Public Inquiry into the state pension age change for 1950s women](700076.md) | 4,297 | 4,205 | 92 | 0 | 97.86 | 2.14 | 0.00 |
-| [Introduce a Long-Term Visit Visa for Parents of British Citizens and ILR Holders](700067.md) | 3,958 | 3,933 | 25 | 0 | 99.37 | 0.63 | 0.00 |
-| [Fund more CAR T Cell Therapy for eligible patients](700292.md) | 3,651 | 3,641 | 10 | 0 | 99.73 | 0.27 | 0.00 |
-| [Reduce the maximum decibel limit on fireworks from 120 to 90](700049.md) | 3,284 | 3,275 | 9 | 0 | 99.73 | 0.27 | 0.00 |
-| [Stop Means Testing Pensioners and increase the State Pension](700120.md) | 3,143 | 3,092 | 51 | 0 | 98.38 | 1.62 | 0.00 |
-| [Do not reduce the Right to Buy discount](700226.md) | 2,860 | 2,856 | 4 | 0 | 99.86 | 0.14 | 0.00 |
+| [Referendum on changing the Electoral System To Proportional Representation (PR)](700109.md) | 18,120 | 17,937 | 183 | 0 | 98.99 | 1.01 | 0.00 |
+| [Run a public information campaign on the climate crisis ](700189.md) | 17,271 | 17,023 | 248 | 0 | 98.56 | 1.44 | 0.00 |
+| [Ban fossil fuel advertising and sponsorship](700024.md) | 12,771 | 12,611 | 160 | 0 | 98.75 | 1.25 | 0.00 |
+| [End the Badger cull and adopt other approaches to bovine TB control](700317.md) | 12,296 | 12,103 | 193 | 0 | 98.43 | 1.57 | 0.00 |
+| [Decriminalise Abortion](700014.md) | 9,611 | 9,490 | 121 | 0 | 98.74 | 1.26 | 0.00 |
+| [Allow BN(O)s ETA-free entry](700387.md) | 7,371 | 7,134 | 237 | 0 | 96.78 | 3.22 | 0.00 |
+| [Require MPs proven to mislead public to resign and create 'fact check' committee](700161.md) | 6,629 | 6,594 | 35 | 0 | 99.47 | 0.53 | 0.00 |
+| [Ban animal testing for human products and medicines](700262.md) | 4,807 | 4,744 | 63 | 0 | 98.69 | 1.31 | 0.00 |
+| [Hold a Public Inquiry into the state pension age change for 1950s women](700076.md) | 4,298 | 4,206 | 92 | 0 | 97.86 | 2.14 | 0.00 |
+| [Introduce a Long-Term Visit Visa for Parents of British Citizens and ILR Holders](700067.md) | 3,959 | 3,934 | 25 | 0 | 99.37 | 0.63 | 0.00 |
+| [Fund more CAR T Cell Therapy for eligible patients](700292.md) | 3,667 | 3,657 | 10 | 0 | 99.73 | 0.27 | 0.00 |
+| [Reduce the maximum decibel limit on fireworks from 120 to 90](700049.md) | 3,285 | 3,276 | 9 | 0 | 99.73 | 0.27 | 0.00 |
+| [Stop Means Testing Pensioners and increase the State Pension](700120.md) | 3,148 | 3,097 | 51 | 0 | 98.38 | 1.62 | 0.00 |
+| [Do not reduce the Right to Buy discount](700226.md) | 2,862 | 2,858 | 4 | 0 | 99.86 | 0.14 | 0.00 |
 | [Embed food, farming, and sustainability education into the national curriculum](700029.md) | 2,593 | 2,571 | 22 | 0 | 99.15 | 0.85 | 0.00 |
-| [Make GCSE exams free for home educated children under 18](700413.md) | 2,467 | 2,457 | 10 | 0 | 99.59 | 0.41 | 0.00 |
+| [Make GCSE exams free for home educated children under 18](700413.md) | 2,473 | 2,463 | 10 | 0 | 99.60 | 0.40 | 0.00 |
 | [Commission a public inquiry into the impact of the UK exiting the European Union](700184.md) | 2,434 | 2,334 | 100 | 0 | 95.89 | 4.11 | 0.00 |
-| [Ban non-stun slaughter in the UK](700557.md) | 2,343 | 2,322 | 21 | 0 | 99.10 | 0.90 | 0.00 |
-| [Allow parents to take their children out of school for up to 10 days fine free.](700047.md) | 2,310 | 2,306 | 4 | 0 | 99.83 | 0.17 | 0.00 |
+| [Ban non-stun slaughter in the UK](700557.md) | 2,348 | 2,327 | 21 | 0 | 99.11 | 0.89 | 0.00 |
+| [Allow parents to take their children out of school for up to 10 days fine free.](700047.md) | 2,332 | 2,328 | 4 | 0 | 99.83 | 0.17 | 0.00 |
 | [Increase Carer's Allowance to equal minimum wage](700028.md) | 2,233 | 2,229 | 4 | 0 | 99.82 | 0.18 | 0.00 |
-| [Change the law so those on life sentence for murder are not eligible for release](700435.md) | 2,057 | 2,044 | 13 | 0 | 99.37 | 0.63 | 0.00 |
-| [Introduce new air quality and PPE rules for health and social care settings](700304.md) | 2,042 | 1,998 | 44 | 0 | 97.85 | 2.15 | 0.00 |
+| [Change the law so those on life sentence for murder are not eligible for release](700435.md) | 2,060 | 2,047 | 13 | 0 | 99.37 | 0.63 | 0.00 |
+| [Introduce new air quality and PPE rules for health and social care settings](700304.md) | 2,044 | 2,000 | 44 | 0 | 97.85 | 2.15 | 0.00 |
 | [Fund Breast Cancer Screening from Age 40 & Alternative Screening Options](700062.md) | 2,036 | 2,024 | 12 | 0 | 99.41 | 0.59 | 0.00 |
-| [Update the dangerous dogs act to specifically protect horses](700623.md) | 2,005 | 1,991 | 14 | 0 | 99.30 | 0.70 | 0.00 |
-| [Require all businesses and public services to accept cash payments ](700404.md) | 1,877 | 1,861 | 16 | 0 | 99.15 | 0.85 | 0.00 |
+| [Update the dangerous dogs act to specifically protect horses](700623.md) | 2,008 | 1,993 | 15 | 0 | 99.25 | 0.75 | 0.00 |
+| [Require all businesses and public services to accept cash payments ](700404.md) | 1,883 | 1,867 | 16 | 0 | 99.15 | 0.85 | 0.00 |
 | [Remove the 28 day time limit from the unduly lenient sentence scheme for murder](700168.md) | 1,819 | 1,808 | 11 | 0 | 99.40 | 0.60 | 0.00 |
 | [Lower the English language test exemption age for BNO visa holders from 65 to 60](700528.md) | 1,682 | 1,660 | 22 | 0 | 98.69 | 1.31 | 0.00 |
-| [Introduce 'Grow Your Own' Laws for Legal Medical Cannabis Patients (CBPM)](700860.md) | 1,668 | 1,654 | 14 | 0 | 99.16 | 0.84 | 0.00 |
-| [Recognise Palestine as a State and seek immediate ceasefire in Gaza ](700119.md) | 1,603 | 1,571 | 32 | 0 | 98.00 | 2.00 | 0.00 |
+| [Introduce 'Grow Your Own' Laws for Legal Medical Cannabis Patients (CBPM)](700860.md) | 1,671 | 1,657 | 14 | 0 | 99.16 | 0.84 | 0.00 |
+| [Recognise Palestine as a State and seek immediate ceasefire in Gaza ](700119.md) | 1,605 | 1,573 | 32 | 0 | 98.01 | 1.99 | 0.00 |
 | [Adapt EYFS and KS1 Literacy Curriculums to be inclusive for Non-Verbal children](700021.md) | 1,484 | 1,477 | 7 | 0 | 99.53 | 0.47 | 0.00 |
-| [Stop the Early Release of all Domestic Abusers Under the SDS40 Scheme](700016.md) | 1,441 | 1,432 | 9 | 0 | 99.38 | 0.62 | 0.00 |
+| [Stop the Early Release of all Domestic Abusers Under the SDS40 Scheme](700016.md) | 1,442 | 1,433 | 9 | 0 | 99.38 | 0.62 | 0.00 |
 | [Support families by bringing nannies into the 15/30 hours free childcare scheme](700017.md) | 1,347 | 1,343 | 4 | 0 | 99.70 | 0.30 | 0.00 |
-| [Require a, "no confidence," vote on the ballot for all elections/referendums.](700131.md) | 1,123 | 1,119 | 4 | 0 | 99.64 | 0.36 | 0.00 |
-| [Negotiate a youth mobility scheme with the EU](700055.md) | 1,051 | 1,022 | 29 | 0 | 97.24 | 2.76 | 0.00 |
-| [Reassess the classification of Cannabis and decriminalize it.](700385.md) | 1,021 | 1,013 | 8 | 0 | 99.22 | 0.78 | 0.00 |
-| [Hold a referendum on re-joining the European Union](700041.md) | 966 | 930 | 36 | 0 | 96.27 | 3.73 | 0.00 |
-| [Require dating apps to ensure ID and DBS checks on users & ban violent offenders](700007.md) | 854 | 848 | 6 | 0 | 99.30 | 0.70 | 0.00 |
-| [Don't put an extra duty on vape products](700018.md) | 803 | 796 | 7 | 0 | 99.13 | 0.87 | 0.00 |
-| [Hold a referendum on achieving net zero goals.](701342.md) | 790 | 786 | 4 | 0 | 99.49 | 0.51 | 0.00 |
+| [Require a, "no confidence," vote on the ballot for all elections/referendums.](700131.md) | 1,124 | 1,120 | 4 | 0 | 99.64 | 0.36 | 0.00 |
+| [Negotiate a youth mobility scheme with the EU](700055.md) | 1,052 | 1,023 | 29 | 0 | 97.24 | 2.76 | 0.00 |
+| [Reassess the classification of Cannabis and decriminalize it.](700385.md) | 1,024 | 1,016 | 8 | 0 | 99.22 | 0.78 | 0.00 |
+| [Hold a referendum on re-joining the European Union](700041.md) | 967 | 931 | 36 | 0 | 96.28 | 3.72 | 0.00 |
+| [Require dating apps to ensure ID and DBS checks on users & ban violent offenders](700007.md) | 855 | 849 | 6 | 0 | 99.30 | 0.70 | 0.00 |
+| [Abolish the tv licence](701068.md) | 818 | 817 | 1 | 0 | 99.88 | 0.12 | 0.00 |
+| [Don't put an extra duty on vape products](700018.md) | 804 | 797 | 7 | 0 | 99.13 | 0.87 | 0.00 |
