@@ -4,57 +4,57 @@ Data taken from [UK Government and Parliament](https://petition.parliament.uk/pe
 
 Reports created using a simple [IPython Notebook](https://github.com/Logiqx/petition-stats)
 
-Last refreshed 2025-01-01 15:30:06
+Last refreshed 2025-01-01 16:30:07
 
 | Petition Name | Total Signatures | UK Signatures | Overseas Signatures | Unknown Signatures | UK Signatures % | Overseas Signatures % | Unknown Signatures % |
 | - | -: | -: | -: | -: | -: | -: | -: |
-| [Call a General Election](700143.md) | 3,012,034 | 2,988,928 | 23,106 | 0 | 99.23 | 0.77 | 0.00 |
-| [Close the borders! Suspend ALL immigration for 5 years!](700824.md) | 193,185 | 191,695 | 1,490 | 0 | 99.23 | 0.77 | 0.00 |
-| [Introduce a compensation scheme for WASPI women](700765.md) | 147,456 | 144,795 | 2,661 | 0 | 98.20 | 1.80 | 0.00 |
-| [Don't change inheritance tax relief for working farms](700138.md) | 143,424 | 142,134 | 1,290 | 0 | 99.10 | 0.90 | 0.00 |
-| [Introduce 16 as the minimum age for children to have social media](700086.md) | 122,102 | 121,500 | 602 | 0 | 99.51 | 0.49 | 0.00 |
-| [Don't apply VAT to independent school fees, or remove business rates relief.](701268.md) | 112,255 | 111,760 | 495 | 0 | 99.56 | 0.44 | 0.00 |
-| [Limit the sale and use of Fireworks to licence holders only](700013.md) | 81,939 | 81,679 | 260 | 0 | 99.68 | 0.32 | 0.00 |
-| [Apply for the UK to join the European Union as a full member as soon as possible](700005.md) | 61,488 | 58,405 | 3,083 | 0 | 94.99 | 5.01 | 0.00 |
-| [Reverse changes to Winter Fuel Payment ](700074.md) | 54,784 | 54,432 | 352 | 0 | 99.36 | 0.64 | 0.00 |
-| [Make breaking a manifesto against the law and trigger a General Election](700035.md) | 43,303 | 43,035 | 268 | 0 | 99.38 | 0.62 | 0.00 |
-| [Decriminalise Abortion](700014.md) | 42,156 | 41,957 | 199 | 0 | 99.53 | 0.47 | 0.00 |
-| [Referendum on changing the Electoral System To Proportional Representation (PR)](700109.md) | 36,544 | 36,229 | 315 | 0 | 99.14 | 0.86 | 0.00 |
-| [End the Badger cull and adopt other approaches to bovine TB control](700317.md) | 35,096 | 34,499 | 597 | 0 | 98.30 | 1.70 | 0.00 |
+| [Call a General Election](700143.md) | 3,012,090 | 2,988,984 | 23,106 | 0 | 99.23 | 0.77 | 0.00 |
+| [Close the borders! Suspend ALL immigration for 5 years!](700824.md) | 193,366 | 191,876 | 1,490 | 0 | 99.23 | 0.77 | 0.00 |
+| [Introduce a compensation scheme for WASPI women](700765.md) | 147,470 | 144,809 | 2,661 | 0 | 98.20 | 1.80 | 0.00 |
+| [Don't change inheritance tax relief for working farms](700138.md) | 143,438 | 142,148 | 1,290 | 0 | 99.10 | 0.90 | 0.00 |
+| [Introduce 16 as the minimum age for children to have social media](700086.md) | 122,103 | 121,501 | 602 | 0 | 99.51 | 0.49 | 0.00 |
+| [Don't apply VAT to independent school fees, or remove business rates relief.](701268.md) | 112,260 | 111,765 | 495 | 0 | 99.56 | 0.44 | 0.00 |
+| [Limit the sale and use of Fireworks to licence holders only](700013.md) | 81,972 | 81,711 | 261 | 0 | 99.68 | 0.32 | 0.00 |
+| [Apply for the UK to join the European Union as a full member as soon as possible](700005.md) | 61,490 | 58,407 | 3,083 | 0 | 94.99 | 5.01 | 0.00 |
+| [Reverse changes to Winter Fuel Payment ](700074.md) | 54,791 | 54,439 | 352 | 0 | 99.36 | 0.64 | 0.00 |
+| [Make breaking a manifesto against the law and trigger a General Election](700035.md) | 43,308 | 43,040 | 268 | 0 | 99.38 | 0.62 | 0.00 |
+| [Decriminalise Abortion](700014.md) | 42,167 | 41,968 | 199 | 0 | 99.53 | 0.47 | 0.00 |
+| [Referendum on changing the Electoral System To Proportional Representation (PR)](700109.md) | 36,546 | 36,231 | 315 | 0 | 99.14 | 0.86 | 0.00 |
+| [End the Badger cull and adopt other approaches to bovine TB control](700317.md) | 35,109 | 34,512 | 597 | 0 | 98.30 | 1.70 | 0.00 |
 | [Exempt all social care providers from the employer NIC increase](700080.md) | 34,830 | 34,766 | 64 | 0 | 99.82 | 0.18 | 0.00 |
-| [Ban driven grouse shooting](700036.md) | 33,470 | 33,235 | 235 | 0 | 99.30 | 0.70 | 0.00 |
-| [Fund free TV licences for all pensioners](700117.md) | 28,150 | 28,119 | 31 | 0 | 99.89 | 0.11 | 0.00 |
-| [Abolish the tv licence](701068.md) | 27,526 | 27,462 | 64 | 0 | 99.77 | 0.23 | 0.00 |
-| [Run a public information campaign on the climate crisis ](700189.md) | 21,570 | 21,274 | 296 | 0 | 98.63 | 1.37 | 0.00 |
+| [Ban driven grouse shooting](700036.md) | 33,475 | 33,240 | 235 | 0 | 99.30 | 0.70 | 0.00 |
+| [Fund free TV licences for all pensioners](700117.md) | 28,275 | 28,243 | 32 | 0 | 99.89 | 0.11 | 0.00 |
+| [Abolish the tv licence](701068.md) | 27,529 | 27,465 | 64 | 0 | 99.77 | 0.23 | 0.00 |
+| [Run a public information campaign on the climate crisis ](700189.md) | 21,571 | 21,275 | 296 | 0 | 98.63 | 1.37 | 0.00 |
 | [Create a public consultation on freedom of speech and disinformation](700186.md) | 20,406 | 20,060 | 346 | 0 | 98.30 | 1.70 | 0.00 |
-| [Ban fossil fuel advertising and sponsorship](700024.md) | 18,507 | 18,266 | 241 | 0 | 98.70 | 1.30 | 0.00 |
-| [Ban non-stun slaughter in the UK](700557.md) | 18,010 | 17,798 | 212 | 0 | 98.82 | 1.18 | 0.00 |
-| [Reverse Cadet Forces Funding Cuts by Min of Defence and the Dept of Education.](701884.md) | 14,896 | 14,781 | 115 | 0 | 99.23 | 0.77 | 0.00 |
-| [Allow parents to take their children out of school for up to 10 days fine free.](700047.md) | 14,699 | 14,680 | 19 | 0 | 99.87 | 0.13 | 0.00 |
-| [Require all businesses and public services to accept cash payments ](700404.md) | 11,842 | 11,687 | 155 | 0 | 98.69 | 1.31 | 0.00 |
-| [Allow BN(O)s ETA-free entry](700387.md) | 11,208 | 10,706 | 502 | 0 | 95.52 | 4.48 | 0.00 |
-| [An independent evaluation of the Cass review on child gender services](700217.md) | 11,043 | 10,780 | 263 | 0 | 97.62 | 2.38 | 0.00 |
+| [Ban fossil fuel advertising and sponsorship](700024.md) | 18,508 | 18,267 | 241 | 0 | 98.70 | 1.30 | 0.00 |
+| [Ban non-stun slaughter in the UK](700557.md) | 18,015 | 17,803 | 212 | 0 | 98.82 | 1.18 | 0.00 |
+| [Reverse Cadet Forces Funding Cuts by Min of Defence and the Dept of Education.](701884.md) | 14,900 | 14,785 | 115 | 0 | 99.23 | 0.77 | 0.00 |
+| [Allow parents to take their children out of school for up to 10 days fine free.](700047.md) | 14,706 | 14,687 | 19 | 0 | 99.87 | 0.13 | 0.00 |
+| [Require all businesses and public services to accept cash payments ](700404.md) | 11,849 | 11,694 | 155 | 0 | 98.69 | 1.31 | 0.00 |
+| [Allow BN(O)s ETA-free entry](700387.md) | 11,209 | 10,707 | 502 | 0 | 95.52 | 4.48 | 0.00 |
+| [An independent evaluation of the Cass review on child gender services](700217.md) | 11,044 | 10,781 | 263 | 0 | 97.62 | 2.38 | 0.00 |
 | [Allow carers already in UK on sponsored visa to work for any CQC care provider](701137.md) | 10,670 | 10,615 | 55 | 0 | 99.48 | 0.52 | 0.00 |
-| [Raise the standard tax-free Personal Allowance to £45,000](700391.md) | 9,448 | 9,414 | 34 | 0 | 99.64 | 0.36 | 0.00 |
-| [Hold a referendum to decide if the UK should leave the ECHR.](700614.md) | 9,423 | 9,340 | 83 | 0 | 99.12 | 0.88 | 0.00 |
-| [Give State Pension to all at 60 and increase it to equal 48hrs at Living Wage](700113.md) | 9,233 | 8,962 | 271 | 0 | 97.06 | 2.94 | 0.00 |
-| [Ban animal testing for human products and medicines](700262.md) | 8,511 | 8,395 | 116 | 0 | 98.64 | 1.36 | 0.00 |
-| [Repeal the Climate Change Act 2008 and Net Zero targets](701600.md) | 8,071 | 7,987 | 84 | 0 | 98.96 | 1.04 | 0.00 |
-| [Require MPs proven to mislead public to resign and create 'fact check' committee](700161.md) | 7,943 | 7,895 | 48 | 0 | 99.40 | 0.60 | 0.00 |
-| [Change the law so those on life sentence for murder are not eligible for release](700435.md) | 7,443 | 7,406 | 37 | 0 | 99.50 | 0.50 | 0.00 |
+| [Raise the standard tax-free Personal Allowance to £45,000](700391.md) | 9,450 | 9,416 | 34 | 0 | 99.64 | 0.36 | 0.00 |
+| [Hold a referendum to decide if the UK should leave the ECHR.](700614.md) | 9,441 | 9,357 | 84 | 0 | 99.11 | 0.89 | 0.00 |
+| [Give State Pension to all at 60 and increase it to equal 48hrs at Living Wage](700113.md) | 9,305 | 9,031 | 274 | 0 | 97.06 | 2.94 | 0.00 |
+| [Ban animal testing for human products and medicines](700262.md) | 8,512 | 8,396 | 116 | 0 | 98.64 | 1.36 | 0.00 |
+| [Repeal the Climate Change Act 2008 and Net Zero targets](701600.md) | 8,074 | 7,990 | 84 | 0 | 98.96 | 1.04 | 0.00 |
+| [Require MPs proven to mislead public to resign and create 'fact check' committee](700161.md) | 7,944 | 7,896 | 48 | 0 | 99.40 | 0.60 | 0.00 |
+| [Change the law so those on life sentence for murder are not eligible for release](700435.md) | 7,444 | 7,407 | 37 | 0 | 99.50 | 0.50 | 0.00 |
 | [Fund more CAR T Cell Therapy for eligible patients](700292.md) | 6,732 | 6,706 | 26 | 0 | 99.61 | 0.39 | 0.00 |
 | [Hold a Public Inquiry into the state pension age change for 1950s women](700076.md) | 6,243 | 6,122 | 121 | 0 | 98.06 | 1.94 | 0.00 |
 | [Stop Means Testing Pensioners and increase the State Pension](700120.md) | 5,497 | 5,406 | 91 | 0 | 98.34 | 1.66 | 0.00 |
-| [Fund Awareness and Training Regarding Functional Neurological Disorders (FND)](701517.md) | 4,708 | 4,673 | 35 | 0 | 99.26 | 0.74 | 0.00 |
+| [Fund Awareness and Training Regarding Functional Neurological Disorders (FND)](701517.md) | 4,710 | 4,675 | 35 | 0 | 99.26 | 0.74 | 0.00 |
 | [Make GCSE exams free for home educated children under 18](700413.md) | 4,687 | 4,667 | 20 | 0 | 99.57 | 0.43 | 0.00 |
 | [Hold a referendum on achieving net zero goals.](701342.md) | 4,495 | 4,448 | 47 | 0 | 98.95 | 1.05 | 0.00 |
 | [Introduce a Long-Term Visit Visa for Parents of British Citizens and ILR Holders](700067.md) | 4,288 | 4,257 | 31 | 0 | 99.28 | 0.72 | 0.00 |
-| [Embed food, farming, and sustainability education into the national curriculum](700029.md) | 4,018 | 3,990 | 28 | 0 | 99.30 | 0.70 | 0.00 |
-| [Offer healthcare workers on tier2 visa ILR after 2 years instead of 5 years](700991.md) | 3,910 | 3,883 | 27 | 0 | 99.31 | 0.69 | 0.00 |
-| [Reduce the maximum decibel limit on fireworks from 120 to 90](700049.md) | 3,749 | 3,740 | 9 | 0 | 99.76 | 0.24 | 0.00 |
-| [Introduce 'Grow Your Own' Laws for Legal Medical Cannabis Patients (CBPM)](700860.md) | 3,564 | 3,534 | 30 | 0 | 99.16 | 0.84 | 0.00 |
+| [Embed food, farming, and sustainability education into the national curriculum](700029.md) | 4,019 | 3,991 | 28 | 0 | 99.30 | 0.70 | 0.00 |
+| [Offer healthcare workers on tier2 visa ILR after 2 years instead of 5 years](700991.md) | 3,912 | 3,885 | 27 | 0 | 99.31 | 0.69 | 0.00 |
+| [Reduce the maximum decibel limit on fireworks from 120 to 90](700049.md) | 3,752 | 3,743 | 9 | 0 | 99.76 | 0.24 | 0.00 |
+| [Introduce 'Grow Your Own' Laws for Legal Medical Cannabis Patients (CBPM)](700860.md) | 3,567 | 3,537 | 30 | 0 | 99.16 | 0.84 | 0.00 |
 | [Legally recognise Non-Binary as a gender](700312.md) | 3,533 | 3,489 | 44 | 0 | 98.75 | 1.25 | 0.00 |
 | [Update the dangerous dogs act to specifically protect horses](700623.md) | 3,440 | 3,405 | 35 | 0 | 98.98 | 1.02 | 0.00 |
 | [Do not reduce the Right to Buy discount](700226.md) | 3,395 | 3,391 | 4 | 0 | 99.88 | 0.12 | 0.00 |
-| [Introduce new air quality and PPE rules for health and social care settings](700304.md) | 3,318 | 3,247 | 71 | 0 | 97.86 | 2.14 | 0.00 |
+| [Introduce new air quality and PPE rules for health and social care settings](700304.md) | 3,319 | 3,248 | 71 | 0 | 97.86 | 2.14 | 0.00 |
 | [Increase Carer's Allowance to equal minimum wage](700028.md) | 3,211 | 3,203 | 8 | 0 | 99.75 | 0.25 | 0.00 |
